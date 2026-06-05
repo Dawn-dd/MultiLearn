@@ -1,0 +1,8062 @@
+[
+  {
+    "id": "en-a1-001",
+    "language": "en",
+    "level": "A1",
+    "word": "hello",
+    "pronunciation": "/həˈloʊ/",
+    "meaning": "你好",
+    "example": "I learned \"hello\" today.",
+    "exampleMeaning": "今天学习“你好”。",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "en-a1-002",
+    "language": "en",
+    "level": "A1",
+    "word": "goodbye",
+    "pronunciation": "/ˌɡʊdˈbaɪ/",
+    "meaning": "再见",
+    "example": "I learned \"goodbye\" today.",
+    "exampleMeaning": "今天学习“再见”。",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "en-a1-003",
+    "language": "en",
+    "level": "A1",
+    "word": "please",
+    "pronunciation": "/pliːz/",
+    "meaning": "请",
+    "example": "I learned \"please\" today.",
+    "exampleMeaning": "今天学习“请”。",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "en-a1-004",
+    "language": "en",
+    "level": "A1",
+    "word": "thanks",
+    "pronunciation": "/θæŋks/",
+    "meaning": "谢谢",
+    "example": "I learned \"thanks\" today.",
+    "exampleMeaning": "今天学习“谢谢”。",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "en-a1-005",
+    "language": "en",
+    "level": "A1",
+    "word": "sorry",
+    "pronunciation": "/ˈsɑːri/",
+    "meaning": "对不起",
+    "example": "I learned \"sorry\" today.",
+    "exampleMeaning": "今天学习“对不起”。",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "en-a1-006",
+    "language": "en",
+    "level": "A1",
+    "word": "yes",
+    "pronunciation": "/jes/",
+    "meaning": "是",
+    "example": "I learned \"yes\" today.",
+    "exampleMeaning": "今天学习“是”。",
+    "tags": [
+      "common"
+    ]
+  },
+  {
+    "id": "en-a1-007",
+    "language": "en",
+    "level": "A1",
+    "word": "no",
+    "pronunciation": "/noʊ/",
+    "meaning": "不是",
+    "example": "I learned \"no\" today.",
+    "exampleMeaning": "今天学习“不是”。",
+    "tags": [
+      "common"
+    ]
+  },
+  {
+    "id": "en-a1-008",
+    "language": "en",
+    "level": "A1",
+    "word": "I",
+    "pronunciation": "/aɪ/",
+    "meaning": "我",
+    "example": "I learned \"I\" today.",
+    "exampleMeaning": "今天学习“我”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "en-a1-009",
+    "language": "en",
+    "level": "A1",
+    "word": "you",
+    "pronunciation": "/juː/",
+    "meaning": "你",
+    "example": "I learned \"you\" today.",
+    "exampleMeaning": "今天学习“你”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "en-a1-010",
+    "language": "en",
+    "level": "A1",
+    "word": "he",
+    "pronunciation": "/hiː/",
+    "meaning": "他",
+    "example": "I learned \"he\" today.",
+    "exampleMeaning": "今天学习“他”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "en-a1-011",
+    "language": "en",
+    "level": "A1",
+    "word": "she",
+    "pronunciation": "/ʃiː/",
+    "meaning": "她",
+    "example": "I learned \"she\" today.",
+    "exampleMeaning": "今天学习“她”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "en-a1-012",
+    "language": "en",
+    "level": "A1",
+    "word": "we",
+    "pronunciation": "/wiː/",
+    "meaning": "我们",
+    "example": "I learned \"we\" today.",
+    "exampleMeaning": "今天学习“我们”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "en-a1-013",
+    "language": "en",
+    "level": "A1",
+    "word": "they",
+    "pronunciation": "/ðeɪ/",
+    "meaning": "他们",
+    "example": "I learned \"they\" today.",
+    "exampleMeaning": "今天学习“他们”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "en-a1-014",
+    "language": "en",
+    "level": "A1",
+    "word": "this",
+    "pronunciation": "/ðɪs/",
+    "meaning": "这个",
+    "example": "I learned \"this\" today.",
+    "exampleMeaning": "今天学习“这个”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "en-a1-015",
+    "language": "en",
+    "level": "A1",
+    "word": "that",
+    "pronunciation": "/ðæt/",
+    "meaning": "那个",
+    "example": "I learned \"that\" today.",
+    "exampleMeaning": "今天学习“那个”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "en-a1-016",
+    "language": "en",
+    "level": "A1",
+    "word": "who",
+    "pronunciation": "/huː/",
+    "meaning": "谁",
+    "example": "I learned \"who\" today.",
+    "exampleMeaning": "今天学习“谁”。",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "en-a1-017",
+    "language": "en",
+    "level": "A1",
+    "word": "what",
+    "pronunciation": "/wʌt/",
+    "meaning": "什么",
+    "example": "I learned \"what\" today.",
+    "exampleMeaning": "今天学习“什么”。",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "en-a1-018",
+    "language": "en",
+    "level": "A1",
+    "word": "where",
+    "pronunciation": "/wer/",
+    "meaning": "哪里",
+    "example": "I learned \"where\" today.",
+    "exampleMeaning": "今天学习“哪里”。",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "en-a1-019",
+    "language": "en",
+    "level": "A1",
+    "word": "when",
+    "pronunciation": "/wen/",
+    "meaning": "什么时候",
+    "example": "I learned \"when\" today.",
+    "exampleMeaning": "今天学习“什么时候”。",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "en-a1-020",
+    "language": "en",
+    "level": "A1",
+    "word": "why",
+    "pronunciation": "/waɪ/",
+    "meaning": "为什么",
+    "example": "I learned \"why\" today.",
+    "exampleMeaning": "今天学习“为什么”。",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "en-a1-021",
+    "language": "en",
+    "level": "A1",
+    "word": "how",
+    "pronunciation": "/haʊ/",
+    "meaning": "怎样",
+    "example": "I learned \"how\" today.",
+    "exampleMeaning": "今天学习“怎样”。",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "en-a1-022",
+    "language": "en",
+    "level": "A1",
+    "word": "person",
+    "pronunciation": "/ˈpɜːrsn/",
+    "meaning": "人",
+    "example": "I learned \"person\" today.",
+    "exampleMeaning": "今天学习“人”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "en-a1-023",
+    "language": "en",
+    "level": "A1",
+    "word": "man",
+    "pronunciation": "/mæn/",
+    "meaning": "男人",
+    "example": "I learned \"man\" today.",
+    "exampleMeaning": "今天学习“男人”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "en-a1-024",
+    "language": "en",
+    "level": "A1",
+    "word": "woman",
+    "pronunciation": "/ˈwʊmən/",
+    "meaning": "女人",
+    "example": "I learned \"woman\" today.",
+    "exampleMeaning": "今天学习“女人”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "en-a1-025",
+    "language": "en",
+    "level": "A1",
+    "word": "child",
+    "pronunciation": "/tʃaɪld/",
+    "meaning": "孩子",
+    "example": "I learned \"child\" today.",
+    "exampleMeaning": "今天学习“孩子”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "en-a1-026",
+    "language": "en",
+    "level": "A1",
+    "word": "boy",
+    "pronunciation": "/bɔɪ/",
+    "meaning": "男孩",
+    "example": "I learned \"boy\" today.",
+    "exampleMeaning": "今天学习“男孩”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "en-a1-027",
+    "language": "en",
+    "level": "A1",
+    "word": "girl",
+    "pronunciation": "/ɡɜːrl/",
+    "meaning": "女孩",
+    "example": "I learned \"girl\" today.",
+    "exampleMeaning": "今天学习“女孩”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "en-a1-028",
+    "language": "en",
+    "level": "A1",
+    "word": "friend",
+    "pronunciation": "/frend/",
+    "meaning": "朋友",
+    "example": "I learned \"friend\" today.",
+    "exampleMeaning": "今天学习“朋友”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "en-a1-029",
+    "language": "en",
+    "level": "A1",
+    "word": "family",
+    "pronunciation": "/ˈfæməli/",
+    "meaning": "家人",
+    "example": "I learned \"family\" today.",
+    "exampleMeaning": "今天学习“家人”。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "en-a1-030",
+    "language": "en",
+    "level": "A1",
+    "word": "father",
+    "pronunciation": "/ˈfɑːðər/",
+    "meaning": "父亲",
+    "example": "I learned \"father\" today.",
+    "exampleMeaning": "今天学习“父亲”。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "en-a1-031",
+    "language": "en",
+    "level": "A1",
+    "word": "mother",
+    "pronunciation": "/ˈmʌðər/",
+    "meaning": "母亲",
+    "example": "I learned \"mother\" today.",
+    "exampleMeaning": "今天学习“母亲”。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "en-a1-032",
+    "language": "en",
+    "level": "A1",
+    "word": "brother",
+    "pronunciation": "/ˈbrʌðər/",
+    "meaning": "兄弟",
+    "example": "I learned \"brother\" today.",
+    "exampleMeaning": "今天学习“兄弟”。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "en-a1-033",
+    "language": "en",
+    "level": "A1",
+    "word": "sister",
+    "pronunciation": "/ˈsɪstər/",
+    "meaning": "姐妹",
+    "example": "I learned \"sister\" today.",
+    "exampleMeaning": "今天学习“姐妹”。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "en-a1-034",
+    "language": "en",
+    "level": "A1",
+    "word": "teacher",
+    "pronunciation": "/ˈtiːtʃər/",
+    "meaning": "老师",
+    "example": "I learned \"teacher\" today.",
+    "exampleMeaning": "今天学习“老师”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "en-a1-035",
+    "language": "en",
+    "level": "A1",
+    "word": "student",
+    "pronunciation": "/ˈstuːdnt/",
+    "meaning": "学生",
+    "example": "I learned \"student\" today.",
+    "exampleMeaning": "今天学习“学生”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "en-a1-036",
+    "language": "en",
+    "level": "A1",
+    "word": "doctor",
+    "pronunciation": "/ˈdɑːktər/",
+    "meaning": "医生",
+    "example": "I learned \"doctor\" today.",
+    "exampleMeaning": "今天学习“医生”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "en-a1-037",
+    "language": "en",
+    "level": "A1",
+    "word": "worker",
+    "pronunciation": "/ˈwɜːrkər/",
+    "meaning": "职员",
+    "example": "I learned \"worker\" today.",
+    "exampleMeaning": "今天学习“职员”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "en-a1-038",
+    "language": "en",
+    "level": "A1",
+    "word": "name",
+    "pronunciation": "/neɪm/",
+    "meaning": "名字",
+    "example": "I learned \"name\" today.",
+    "exampleMeaning": "今天学习“名字”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "en-a1-039",
+    "language": "en",
+    "level": "A1",
+    "word": "age",
+    "pronunciation": "/eɪdʒ/",
+    "meaning": "年龄",
+    "example": "I learned \"age\" today.",
+    "exampleMeaning": "今天学习“年龄”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "en-a1-040",
+    "language": "en",
+    "level": "A1",
+    "word": "home",
+    "pronunciation": "/hoʊm/",
+    "meaning": "家",
+    "example": "I learned \"home\" today.",
+    "exampleMeaning": "今天学习“家”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "en-a1-041",
+    "language": "en",
+    "level": "A1",
+    "word": "house",
+    "pronunciation": "/haʊs/",
+    "meaning": "房子",
+    "example": "I learned \"house\" today.",
+    "exampleMeaning": "今天学习“房子”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "en-a1-042",
+    "language": "en",
+    "level": "A1",
+    "word": "room",
+    "pronunciation": "/ruːm/",
+    "meaning": "房间",
+    "example": "I learned \"room\" today.",
+    "exampleMeaning": "今天学习“房间”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "en-a1-043",
+    "language": "en",
+    "level": "A1",
+    "word": "school",
+    "pronunciation": "/skuːl/",
+    "meaning": "学校",
+    "example": "I learned \"school\" today.",
+    "exampleMeaning": "今天学习“学校”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "en-a1-044",
+    "language": "en",
+    "level": "A1",
+    "word": "classroom",
+    "pronunciation": "/ˈklæsruːm/",
+    "meaning": "教室",
+    "example": "I learned \"classroom\" today.",
+    "exampleMeaning": "今天学习“教室”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "en-a1-045",
+    "language": "en",
+    "level": "A1",
+    "word": "office",
+    "pronunciation": "/ˈɑːfɪs/",
+    "meaning": "办公室",
+    "example": "I learned \"office\" today.",
+    "exampleMeaning": "今天学习“办公室”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "en-a1-046",
+    "language": "en",
+    "level": "A1",
+    "word": "shop",
+    "pronunciation": "/ʃɑːp/",
+    "meaning": "商店",
+    "example": "I learned \"shop\" today.",
+    "exampleMeaning": "今天学习“商店”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "en-a1-047",
+    "language": "en",
+    "level": "A1",
+    "word": "market",
+    "pronunciation": "/ˈmɑːrkɪt/",
+    "meaning": "市场",
+    "example": "I learned \"market\" today.",
+    "exampleMeaning": "今天学习“市场”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "en-a1-048",
+    "language": "en",
+    "level": "A1",
+    "word": "bank",
+    "pronunciation": "/bæŋk/",
+    "meaning": "银行",
+    "example": "I learned \"bank\" today.",
+    "exampleMeaning": "今天学习“银行”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "en-a1-049",
+    "language": "en",
+    "level": "A1",
+    "word": "hospital",
+    "pronunciation": "/ˈhɑːspɪtl/",
+    "meaning": "医院",
+    "example": "I learned \"hospital\" today.",
+    "exampleMeaning": "今天学习“医院”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "en-a1-050",
+    "language": "en",
+    "level": "A1",
+    "word": "hotel",
+    "pronunciation": "/hoʊˈtel/",
+    "meaning": "酒店",
+    "example": "I learned \"hotel\" today.",
+    "exampleMeaning": "今天学习“酒店”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "en-a1-051",
+    "language": "en",
+    "level": "A1",
+    "word": "restaurant",
+    "pronunciation": "/ˈrestərɑːnt/",
+    "meaning": "餐馆",
+    "example": "I learned \"restaurant\" today.",
+    "exampleMeaning": "今天学习“餐馆”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "en-a1-052",
+    "language": "en",
+    "level": "A1",
+    "word": "park",
+    "pronunciation": "/pɑːrk/",
+    "meaning": "公园",
+    "example": "I learned \"park\" today.",
+    "exampleMeaning": "今天学习“公园”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "en-a1-053",
+    "language": "en",
+    "level": "A1",
+    "word": "station",
+    "pronunciation": "/ˈsteɪʃn/",
+    "meaning": "车站",
+    "example": "I learned \"station\" today.",
+    "exampleMeaning": "今天学习“车站”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "en-a1-054",
+    "language": "en",
+    "level": "A1",
+    "word": "airport",
+    "pronunciation": "/ˈerpɔːrt/",
+    "meaning": "机场",
+    "example": "I learned \"airport\" today.",
+    "exampleMeaning": "今天学习“机场”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "en-a1-055",
+    "language": "en",
+    "level": "A1",
+    "word": "street",
+    "pronunciation": "/striːt/",
+    "meaning": "街道",
+    "example": "I learned \"street\" today.",
+    "exampleMeaning": "今天学习“街道”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "en-a1-056",
+    "language": "en",
+    "level": "A1",
+    "word": "city",
+    "pronunciation": "/ˈsɪti/",
+    "meaning": "城市",
+    "example": "I learned \"city\" today.",
+    "exampleMeaning": "今天学习“城市”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "en-a1-057",
+    "language": "en",
+    "level": "A1",
+    "word": "country",
+    "pronunciation": "/ˈkʌntri/",
+    "meaning": "国家",
+    "example": "I learned \"country\" today.",
+    "exampleMeaning": "今天学习“国家”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "en-a1-058",
+    "language": "en",
+    "level": "A1",
+    "word": "book",
+    "pronunciation": "/bʊk/",
+    "meaning": "书",
+    "example": "I learned \"book\" today.",
+    "exampleMeaning": "今天学习“书”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "en-a1-059",
+    "language": "en",
+    "level": "A1",
+    "word": "pen",
+    "pronunciation": "/pen/",
+    "meaning": "钢笔",
+    "example": "I learned \"pen\" today.",
+    "exampleMeaning": "今天学习“钢笔”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "en-a1-060",
+    "language": "en",
+    "level": "A1",
+    "word": "pencil",
+    "pronunciation": "/ˈpensl/",
+    "meaning": "铅笔",
+    "example": "I learned \"pencil\" today.",
+    "exampleMeaning": "今天学习“铅笔”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "en-a1-061",
+    "language": "en",
+    "level": "A1",
+    "word": "paper",
+    "pronunciation": "/ˈpeɪpər/",
+    "meaning": "纸",
+    "example": "I learned \"paper\" today.",
+    "exampleMeaning": "今天学习“纸”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "en-a1-062",
+    "language": "en",
+    "level": "A1",
+    "word": "bag",
+    "pronunciation": "/bæɡ/",
+    "meaning": "包",
+    "example": "I learned \"bag\" today.",
+    "exampleMeaning": "今天学习“包”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "en-a1-063",
+    "language": "en",
+    "level": "A1",
+    "word": "box",
+    "pronunciation": "/bɑːks/",
+    "meaning": "盒子",
+    "example": "I learned \"box\" today.",
+    "exampleMeaning": "今天学习“盒子”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "en-a1-064",
+    "language": "en",
+    "level": "A1",
+    "word": "key",
+    "pronunciation": "/kiː/",
+    "meaning": "钥匙",
+    "example": "I learned \"key\" today.",
+    "exampleMeaning": "今天学习“钥匙”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "en-a1-065",
+    "language": "en",
+    "level": "A1",
+    "word": "phone",
+    "pronunciation": "/foʊn/",
+    "meaning": "电话",
+    "example": "I learned \"phone\" today.",
+    "exampleMeaning": "今天学习“电话”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "en-a1-066",
+    "language": "en",
+    "level": "A1",
+    "word": "computer",
+    "pronunciation": "/kəmˈpjuːtər/",
+    "meaning": "电脑",
+    "example": "I learned \"computer\" today.",
+    "exampleMeaning": "今天学习“电脑”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "en-a1-067",
+    "language": "en",
+    "level": "A1",
+    "word": "table",
+    "pronunciation": "/ˈteɪbl/",
+    "meaning": "桌子",
+    "example": "I learned \"table\" today.",
+    "exampleMeaning": "今天学习“桌子”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "en-a1-068",
+    "language": "en",
+    "level": "A1",
+    "word": "chair",
+    "pronunciation": "/tʃer/",
+    "meaning": "椅子",
+    "example": "I learned \"chair\" today.",
+    "exampleMeaning": "今天学习“椅子”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "en-a1-069",
+    "language": "en",
+    "level": "A1",
+    "word": "door",
+    "pronunciation": "/dɔːr/",
+    "meaning": "门",
+    "example": "I learned \"door\" today.",
+    "exampleMeaning": "今天学习“门”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "en-a1-070",
+    "language": "en",
+    "level": "A1",
+    "word": "window",
+    "pronunciation": "/ˈwɪndoʊ/",
+    "meaning": "窗户",
+    "example": "I learned \"window\" today.",
+    "exampleMeaning": "今天学习“窗户”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "en-a1-071",
+    "language": "en",
+    "level": "A1",
+    "word": "bed",
+    "pronunciation": "/bed/",
+    "meaning": "床",
+    "example": "I learned \"bed\" today.",
+    "exampleMeaning": "今天学习“床”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "en-a1-072",
+    "language": "en",
+    "level": "A1",
+    "word": "cup",
+    "pronunciation": "/kʌp/",
+    "meaning": "杯子",
+    "example": "I learned \"cup\" today.",
+    "exampleMeaning": "今天学习“杯子”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "en-a1-073",
+    "language": "en",
+    "level": "A1",
+    "word": "plate",
+    "pronunciation": "/pleɪt/",
+    "meaning": "盘子",
+    "example": "I learned \"plate\" today.",
+    "exampleMeaning": "今天学习“盘子”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "en-a1-074",
+    "language": "en",
+    "level": "A1",
+    "word": "clock",
+    "pronunciation": "/klɑːk/",
+    "meaning": "钟表",
+    "example": "I learned \"clock\" today.",
+    "exampleMeaning": "今天学习“钟表”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "en-a1-075",
+    "language": "en",
+    "level": "A1",
+    "word": "photo",
+    "pronunciation": "/ˈfoʊtoʊ/",
+    "meaning": "照片",
+    "example": "I learned \"photo\" today.",
+    "exampleMeaning": "今天学习“照片”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "en-a1-076",
+    "language": "en",
+    "level": "A1",
+    "word": "map",
+    "pronunciation": "/mæp/",
+    "meaning": "地图",
+    "example": "I learned \"map\" today.",
+    "exampleMeaning": "今天学习“地图”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "en-a1-077",
+    "language": "en",
+    "level": "A1",
+    "word": "money",
+    "pronunciation": "/ˈmʌni/",
+    "meaning": "钱",
+    "example": "I learned \"money\" today.",
+    "exampleMeaning": "今天学习“钱”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "en-a1-078",
+    "language": "en",
+    "level": "A1",
+    "word": "ticket",
+    "pronunciation": "/ˈtɪkɪt/",
+    "meaning": "票",
+    "example": "I learned \"ticket\" today.",
+    "exampleMeaning": "今天学习“票”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "en-a1-079",
+    "language": "en",
+    "level": "A1",
+    "word": "water",
+    "pronunciation": "/ˈwɔːtər/",
+    "meaning": "水",
+    "example": "I learned \"water\" today.",
+    "exampleMeaning": "今天学习“水”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "en-a1-080",
+    "language": "en",
+    "level": "A1",
+    "word": "tea",
+    "pronunciation": "/tiː/",
+    "meaning": "茶",
+    "example": "I learned \"tea\" today.",
+    "exampleMeaning": "今天学习“茶”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "en-a1-081",
+    "language": "en",
+    "level": "A1",
+    "word": "coffee",
+    "pronunciation": "/ˈkɔːfi/",
+    "meaning": "咖啡",
+    "example": "I learned \"coffee\" today.",
+    "exampleMeaning": "今天学习“咖啡”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "en-a1-082",
+    "language": "en",
+    "level": "A1",
+    "word": "milk",
+    "pronunciation": "/mɪlk/",
+    "meaning": "牛奶",
+    "example": "I learned \"milk\" today.",
+    "exampleMeaning": "今天学习“牛奶”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "en-a1-083",
+    "language": "en",
+    "level": "A1",
+    "word": "juice",
+    "pronunciation": "/dʒuːs/",
+    "meaning": "果汁",
+    "example": "I learned \"juice\" today.",
+    "exampleMeaning": "今天学习“果汁”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "en-a1-084",
+    "language": "en",
+    "level": "A1",
+    "word": "bread",
+    "pronunciation": "/bred/",
+    "meaning": "面包",
+    "example": "I learned \"bread\" today.",
+    "exampleMeaning": "今天学习“面包”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "en-a1-085",
+    "language": "en",
+    "level": "A1",
+    "word": "rice",
+    "pronunciation": "/raɪs/",
+    "meaning": "米饭",
+    "example": "I learned \"rice\" today.",
+    "exampleMeaning": "今天学习“米饭”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "en-a1-086",
+    "language": "en",
+    "level": "A1",
+    "word": "egg",
+    "pronunciation": "/eɡ/",
+    "meaning": "鸡蛋",
+    "example": "I learned \"egg\" today.",
+    "exampleMeaning": "今天学习“鸡蛋”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "en-a1-087",
+    "language": "en",
+    "level": "A1",
+    "word": "meat",
+    "pronunciation": "/miːt/",
+    "meaning": "肉",
+    "example": "I learned \"meat\" today.",
+    "exampleMeaning": "今天学习“肉”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "en-a1-088",
+    "language": "en",
+    "level": "A1",
+    "word": "fish",
+    "pronunciation": "/fɪʃ/",
+    "meaning": "鱼",
+    "example": "I learned \"fish\" today.",
+    "exampleMeaning": "今天学习“鱼”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "en-a1-089",
+    "language": "en",
+    "level": "A1",
+    "word": "vegetable",
+    "pronunciation": "/ˈvedʒtəbl/",
+    "meaning": "蔬菜",
+    "example": "I learned \"vegetable\" today.",
+    "exampleMeaning": "今天学习“蔬菜”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "en-a1-090",
+    "language": "en",
+    "level": "A1",
+    "word": "fruit",
+    "pronunciation": "/fruːt/",
+    "meaning": "水果",
+    "example": "I learned \"fruit\" today.",
+    "exampleMeaning": "今天学习“水果”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "en-a1-091",
+    "language": "en",
+    "level": "A1",
+    "word": "apple",
+    "pronunciation": "/ˈæpl/",
+    "meaning": "苹果",
+    "example": "I learned \"apple\" today.",
+    "exampleMeaning": "今天学习“苹果”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "en-a1-092",
+    "language": "en",
+    "level": "A1",
+    "word": "banana",
+    "pronunciation": "/bəˈnænə/",
+    "meaning": "香蕉",
+    "example": "I learned \"banana\" today.",
+    "exampleMeaning": "今天学习“香蕉”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "en-a1-093",
+    "language": "en",
+    "level": "A1",
+    "word": "orange",
+    "pronunciation": "/ˈɔːrɪndʒ/",
+    "meaning": "橙子",
+    "example": "I learned \"orange\" today.",
+    "exampleMeaning": "今天学习“橙子”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "en-a1-094",
+    "language": "en",
+    "level": "A1",
+    "word": "cake",
+    "pronunciation": "/keɪk/",
+    "meaning": "蛋糕",
+    "example": "I learned \"cake\" today.",
+    "exampleMeaning": "今天学习“蛋糕”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "en-a1-095",
+    "language": "en",
+    "level": "A1",
+    "word": "soup",
+    "pronunciation": "/suːp/",
+    "meaning": "汤",
+    "example": "I learned \"soup\" today.",
+    "exampleMeaning": "今天学习“汤”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "en-a1-096",
+    "language": "en",
+    "level": "A1",
+    "word": "breakfast",
+    "pronunciation": "/ˈbrekfəst/",
+    "meaning": "早饭",
+    "example": "I learned \"breakfast\" today.",
+    "exampleMeaning": "今天学习“早饭”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "en-a1-097",
+    "language": "en",
+    "level": "A1",
+    "word": "lunch",
+    "pronunciation": "/lʌntʃ/",
+    "meaning": "午饭",
+    "example": "I learned \"lunch\" today.",
+    "exampleMeaning": "今天学习“午饭”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "en-a1-098",
+    "language": "en",
+    "level": "A1",
+    "word": "dinner",
+    "pronunciation": "/ˈdɪnər/",
+    "meaning": "晚饭",
+    "example": "I learned \"dinner\" today.",
+    "exampleMeaning": "今天学习“晚饭”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "en-a1-099",
+    "language": "en",
+    "level": "A1",
+    "word": "today",
+    "pronunciation": "/təˈdeɪ/",
+    "meaning": "今天",
+    "example": "I learned \"today\" today.",
+    "exampleMeaning": "今天学习“今天”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-100",
+    "language": "en",
+    "level": "A1",
+    "word": "tomorrow",
+    "pronunciation": "/təˈmɑːroʊ/",
+    "meaning": "明天",
+    "example": "I learned \"tomorrow\" today.",
+    "exampleMeaning": "今天学习“明天”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-101",
+    "language": "en",
+    "level": "A1",
+    "word": "yesterday",
+    "pronunciation": "/ˈjestərdeɪ/",
+    "meaning": "昨天",
+    "example": "I learned \"yesterday\" today.",
+    "exampleMeaning": "今天学习“昨天”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-102",
+    "language": "en",
+    "level": "A1",
+    "word": "morning",
+    "pronunciation": "/ˈmɔːrnɪŋ/",
+    "meaning": "早晨",
+    "example": "I learned \"morning\" today.",
+    "exampleMeaning": "今天学习“早晨”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-103",
+    "language": "en",
+    "level": "A1",
+    "word": "afternoon",
+    "pronunciation": "/ˌæftərˈnuːn/",
+    "meaning": "下午",
+    "example": "I learned \"afternoon\" today.",
+    "exampleMeaning": "今天学习“下午”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-104",
+    "language": "en",
+    "level": "A1",
+    "word": "evening",
+    "pronunciation": "/ˈiːvnɪŋ/",
+    "meaning": "傍晚",
+    "example": "I learned \"evening\" today.",
+    "exampleMeaning": "今天学习“傍晚”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-105",
+    "language": "en",
+    "level": "A1",
+    "word": "night",
+    "pronunciation": "/naɪt/",
+    "meaning": "夜晚",
+    "example": "I learned \"night\" today.",
+    "exampleMeaning": "今天学习“夜晚”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-106",
+    "language": "en",
+    "level": "A1",
+    "word": "week",
+    "pronunciation": "/wiːk/",
+    "meaning": "星期",
+    "example": "I learned \"week\" today.",
+    "exampleMeaning": "今天学习“星期”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-107",
+    "language": "en",
+    "level": "A1",
+    "word": "month",
+    "pronunciation": "/mʌnθ/",
+    "meaning": "月份",
+    "example": "I learned \"month\" today.",
+    "exampleMeaning": "今天学习“月份”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-108",
+    "language": "en",
+    "level": "A1",
+    "word": "year",
+    "pronunciation": "/jɪr/",
+    "meaning": "年",
+    "example": "I learned \"year\" today.",
+    "exampleMeaning": "今天学习“年”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-109",
+    "language": "en",
+    "level": "A1",
+    "word": "time",
+    "pronunciation": "/taɪm/",
+    "meaning": "时间",
+    "example": "I learned \"time\" today.",
+    "exampleMeaning": "今天学习“时间”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-110",
+    "language": "en",
+    "level": "A1",
+    "word": "hour",
+    "pronunciation": "/ˈaʊər/",
+    "meaning": "小时",
+    "example": "I learned \"hour\" today.",
+    "exampleMeaning": "今天学习“小时”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-111",
+    "language": "en",
+    "level": "A1",
+    "word": "minute",
+    "pronunciation": "/ˈmɪnɪt/",
+    "meaning": "分钟",
+    "example": "I learned \"minute\" today.",
+    "exampleMeaning": "今天学习“分钟”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-112",
+    "language": "en",
+    "level": "A1",
+    "word": "go",
+    "pronunciation": "/ɡoʊ/",
+    "meaning": "去",
+    "example": "I learned \"go\" today.",
+    "exampleMeaning": "今天学习“去”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-113",
+    "language": "en",
+    "level": "A1",
+    "word": "come",
+    "pronunciation": "/kʌm/",
+    "meaning": "来",
+    "example": "I learned \"come\" today.",
+    "exampleMeaning": "今天学习“来”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-114",
+    "language": "en",
+    "level": "A1",
+    "word": "eat",
+    "pronunciation": "/iːt/",
+    "meaning": "吃",
+    "example": "I learned \"eat\" today.",
+    "exampleMeaning": "今天学习“吃”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-115",
+    "language": "en",
+    "level": "A1",
+    "word": "drink",
+    "pronunciation": "/drɪŋk/",
+    "meaning": "喝",
+    "example": "I learned \"drink\" today.",
+    "exampleMeaning": "今天学习“喝”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-116",
+    "language": "en",
+    "level": "A1",
+    "word": "read",
+    "pronunciation": "/riːd/",
+    "meaning": "读",
+    "example": "I learned \"read\" today.",
+    "exampleMeaning": "今天学习“读”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-117",
+    "language": "en",
+    "level": "A1",
+    "word": "write",
+    "pronunciation": "/raɪt/",
+    "meaning": "写",
+    "example": "I learned \"write\" today.",
+    "exampleMeaning": "今天学习“写”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-118",
+    "language": "en",
+    "level": "A1",
+    "word": "listen",
+    "pronunciation": "/ˈlɪsn/",
+    "meaning": "听",
+    "example": "I learned \"listen\" today.",
+    "exampleMeaning": "今天学习“听”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-119",
+    "language": "en",
+    "level": "A1",
+    "word": "speak",
+    "pronunciation": "/spiːk/",
+    "meaning": "说",
+    "example": "I learned \"speak\" today.",
+    "exampleMeaning": "今天学习“说”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-120",
+    "language": "en",
+    "level": "A1",
+    "word": "see",
+    "pronunciation": "/siː/",
+    "meaning": "看见",
+    "example": "I learned \"see\" today.",
+    "exampleMeaning": "今天学习“看见”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-121",
+    "language": "en",
+    "level": "A1",
+    "word": "meet",
+    "pronunciation": "/miːt/",
+    "meaning": "见面",
+    "example": "I learned \"meet\" today.",
+    "exampleMeaning": "今天学习“见面”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-122",
+    "language": "en",
+    "level": "A1",
+    "word": "buy",
+    "pronunciation": "/baɪ/",
+    "meaning": "买",
+    "example": "I learned \"buy\" today.",
+    "exampleMeaning": "今天学习“买”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-123",
+    "language": "en",
+    "level": "A1",
+    "word": "sell",
+    "pronunciation": "/sel/",
+    "meaning": "卖",
+    "example": "I learned \"sell\" today.",
+    "exampleMeaning": "今天学习“卖”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-124",
+    "language": "en",
+    "level": "A1",
+    "word": "use",
+    "pronunciation": "/juːz/",
+    "meaning": "使用",
+    "example": "I learned \"use\" today.",
+    "exampleMeaning": "今天学习“使用”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-125",
+    "language": "en",
+    "level": "A1",
+    "word": "make",
+    "pronunciation": "/meɪk/",
+    "meaning": "制作",
+    "example": "I learned \"make\" today.",
+    "exampleMeaning": "今天学习“制作”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-126",
+    "language": "en",
+    "level": "A1",
+    "word": "do",
+    "pronunciation": "/duː/",
+    "meaning": "做",
+    "example": "I learned \"do\" today.",
+    "exampleMeaning": "今天学习“做”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-127",
+    "language": "en",
+    "level": "A1",
+    "word": "have",
+    "pronunciation": "/hæv/",
+    "meaning": "有",
+    "example": "I learned \"have\" today.",
+    "exampleMeaning": "今天学习“有”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-128",
+    "language": "en",
+    "level": "A1",
+    "word": "want",
+    "pronunciation": "/wɑːnt/",
+    "meaning": "想要",
+    "example": "I learned \"want\" today.",
+    "exampleMeaning": "今天学习“想要”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-129",
+    "language": "en",
+    "level": "A1",
+    "word": "like",
+    "pronunciation": "/laɪk/",
+    "meaning": "喜欢",
+    "example": "I learned \"like\" today.",
+    "exampleMeaning": "今天学习“喜欢”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-130",
+    "language": "en",
+    "level": "A1",
+    "word": "know",
+    "pronunciation": "/noʊ/",
+    "meaning": "知道",
+    "example": "I learned \"know\" today.",
+    "exampleMeaning": "今天学习“知道”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-131",
+    "language": "en",
+    "level": "A1",
+    "word": "think",
+    "pronunciation": "/θɪŋk/",
+    "meaning": "想",
+    "example": "I learned \"think\" today.",
+    "exampleMeaning": "今天学习“想”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-132",
+    "language": "en",
+    "level": "A1",
+    "word": "wait",
+    "pronunciation": "/weɪt/",
+    "meaning": "等待",
+    "example": "I learned \"wait\" today.",
+    "exampleMeaning": "今天学习“等待”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-133",
+    "language": "en",
+    "level": "A1",
+    "word": "rest",
+    "pronunciation": "/rest/",
+    "meaning": "休息",
+    "example": "I learned \"rest\" today.",
+    "exampleMeaning": "今天学习“休息”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-134",
+    "language": "en",
+    "level": "A1",
+    "word": "sleep",
+    "pronunciation": "/sliːp/",
+    "meaning": "睡觉",
+    "example": "I learned \"sleep\" today.",
+    "exampleMeaning": "今天学习“睡觉”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-135",
+    "language": "en",
+    "level": "A1",
+    "word": "walk",
+    "pronunciation": "/wɔːk/",
+    "meaning": "走路",
+    "example": "I learned \"walk\" today.",
+    "exampleMeaning": "今天学习“走路”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-136",
+    "language": "en",
+    "level": "A1",
+    "word": "run",
+    "pronunciation": "/rʌn/",
+    "meaning": "跑",
+    "example": "I learned \"run\" today.",
+    "exampleMeaning": "今天学习“跑”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-137",
+    "language": "en",
+    "level": "A1",
+    "word": "sit",
+    "pronunciation": "/sɪt/",
+    "meaning": "坐",
+    "example": "I learned \"sit\" today.",
+    "exampleMeaning": "今天学习“坐”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-138",
+    "language": "en",
+    "level": "A1",
+    "word": "stand",
+    "pronunciation": "/stænd/",
+    "meaning": "站",
+    "example": "I learned \"stand\" today.",
+    "exampleMeaning": "今天学习“站”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-139",
+    "language": "en",
+    "level": "A1",
+    "word": "open",
+    "pronunciation": "/ˈoʊpən/",
+    "meaning": "打开",
+    "example": "I learned \"open\" today.",
+    "exampleMeaning": "今天学习“打开”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-140",
+    "language": "en",
+    "level": "A1",
+    "word": "close",
+    "pronunciation": "/kloʊz/",
+    "meaning": "关闭",
+    "example": "I learned \"close\" today.",
+    "exampleMeaning": "今天学习“关闭”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-141",
+    "language": "en",
+    "level": "A1",
+    "word": "study",
+    "pronunciation": "/ˈstʌdi/",
+    "meaning": "学习",
+    "example": "I learned \"study\" today.",
+    "exampleMeaning": "今天学习“学习”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-142",
+    "language": "en",
+    "level": "A1",
+    "word": "work",
+    "pronunciation": "/wɜːrk/",
+    "meaning": "工作",
+    "example": "I learned \"work\" today.",
+    "exampleMeaning": "今天学习“工作”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-143",
+    "language": "en",
+    "level": "A1",
+    "word": "play",
+    "pronunciation": "/pleɪ/",
+    "meaning": "玩",
+    "example": "I learned \"play\" today.",
+    "exampleMeaning": "今天学习“玩”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-144",
+    "language": "en",
+    "level": "A1",
+    "word": "wash",
+    "pronunciation": "/wɑːʃ/",
+    "meaning": "洗",
+    "example": "I learned \"wash\" today.",
+    "exampleMeaning": "今天学习“洗”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-145",
+    "language": "en",
+    "level": "A1",
+    "word": "clean",
+    "pronunciation": "/kliːn/",
+    "meaning": "打扫",
+    "example": "I learned \"clean\" today.",
+    "exampleMeaning": "今天学习“打扫”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-146",
+    "language": "en",
+    "level": "A1",
+    "word": "cook",
+    "pronunciation": "/kʊk/",
+    "meaning": "做饭",
+    "example": "I learned \"cook\" today.",
+    "exampleMeaning": "今天学习“做饭”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "en-a1-147",
+    "language": "en",
+    "level": "A1",
+    "word": "big",
+    "pronunciation": "/bɪɡ/",
+    "meaning": "大的",
+    "example": "I learned \"big\" today.",
+    "exampleMeaning": "今天学习“大的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "en-a1-148",
+    "language": "en",
+    "level": "A1",
+    "word": "small",
+    "pronunciation": "/smɔːl/",
+    "meaning": "小的",
+    "example": "I learned \"small\" today.",
+    "exampleMeaning": "今天学习“小的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "en-a1-149",
+    "language": "en",
+    "level": "A1",
+    "word": "good",
+    "pronunciation": "/ɡʊd/",
+    "meaning": "好的",
+    "example": "I learned \"good\" today.",
+    "exampleMeaning": "今天学习“好的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "en-a1-150",
+    "language": "en",
+    "level": "A1",
+    "word": "bad",
+    "pronunciation": "/bæd/",
+    "meaning": "坏的",
+    "example": "I learned \"bad\" today.",
+    "exampleMeaning": "今天学习“坏的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "en-a1-151",
+    "language": "en",
+    "level": "A1",
+    "word": "new",
+    "pronunciation": "/nuː/",
+    "meaning": "新的",
+    "example": "I learned \"new\" today.",
+    "exampleMeaning": "今天学习“新的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "en-a1-152",
+    "language": "en",
+    "level": "A1",
+    "word": "old",
+    "pronunciation": "/oʊld/",
+    "meaning": "旧的",
+    "example": "I learned \"old\" today.",
+    "exampleMeaning": "今天学习“旧的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "en-a1-153",
+    "language": "en",
+    "level": "A1",
+    "word": "hot",
+    "pronunciation": "/hɑːt/",
+    "meaning": "热的",
+    "example": "I learned \"hot\" today.",
+    "exampleMeaning": "今天学习“热的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "en-a1-154",
+    "language": "en",
+    "level": "A1",
+    "word": "cold",
+    "pronunciation": "/koʊld/",
+    "meaning": "冷的",
+    "example": "I learned \"cold\" today.",
+    "exampleMeaning": "今天学习“冷的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "en-a1-155",
+    "language": "en",
+    "level": "A1",
+    "word": "happy",
+    "pronunciation": "/ˈhæpi/",
+    "meaning": "高兴的",
+    "example": "I learned \"happy\" today.",
+    "exampleMeaning": "今天学习“高兴的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "en-a1-156",
+    "language": "en",
+    "level": "A1",
+    "word": "sad",
+    "pronunciation": "/sæd/",
+    "meaning": "难过的",
+    "example": "I learned \"sad\" today.",
+    "exampleMeaning": "今天学习“难过的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "en-a1-157",
+    "language": "en",
+    "level": "A1",
+    "word": "easy",
+    "pronunciation": "/ˈiːzi/",
+    "meaning": "简单的",
+    "example": "I learned \"easy\" today.",
+    "exampleMeaning": "今天学习“简单的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "en-a1-158",
+    "language": "en",
+    "level": "A1",
+    "word": "difficult",
+    "pronunciation": "/ˈdɪfɪkəlt/",
+    "meaning": "困难的",
+    "example": "I learned \"difficult\" today.",
+    "exampleMeaning": "今天学习“困难的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "en-a1-159",
+    "language": "en",
+    "level": "A1",
+    "word": "fast",
+    "pronunciation": "/fæst/",
+    "meaning": "快的",
+    "example": "I learned \"fast\" today.",
+    "exampleMeaning": "今天学习“快的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "en-a1-160",
+    "language": "en",
+    "level": "A1",
+    "word": "slow",
+    "pronunciation": "/sloʊ/",
+    "meaning": "慢的",
+    "example": "I learned \"slow\" today.",
+    "exampleMeaning": "今天学习“慢的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "en-a1-161",
+    "language": "en",
+    "level": "A1",
+    "word": "long",
+    "pronunciation": "/lɔːŋ/",
+    "meaning": "长的",
+    "example": "I learned \"long\" today.",
+    "exampleMeaning": "今天学习“长的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "en-a1-162",
+    "language": "en",
+    "level": "A1",
+    "word": "short",
+    "pronunciation": "/ʃɔːrt/",
+    "meaning": "短的",
+    "example": "I learned \"short\" today.",
+    "exampleMeaning": "今天学习“短的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "en-a1-163",
+    "language": "en",
+    "level": "A1",
+    "word": "red",
+    "pronunciation": "/red/",
+    "meaning": "红色",
+    "example": "I learned \"red\" today.",
+    "exampleMeaning": "今天学习“红色”。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "en-a1-164",
+    "language": "en",
+    "level": "A1",
+    "word": "blue",
+    "pronunciation": "/bluː/",
+    "meaning": "蓝色",
+    "example": "I learned \"blue\" today.",
+    "exampleMeaning": "今天学习“蓝色”。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "en-a1-165",
+    "language": "en",
+    "level": "A1",
+    "word": "green",
+    "pronunciation": "/ɡriːn/",
+    "meaning": "绿色",
+    "example": "I learned \"green\" today.",
+    "exampleMeaning": "今天学习“绿色”。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "en-a1-166",
+    "language": "en",
+    "level": "A1",
+    "word": "yellow",
+    "pronunciation": "/ˈjeloʊ/",
+    "meaning": "黄色",
+    "example": "I learned \"yellow\" today.",
+    "exampleMeaning": "今天学习“黄色”。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "en-a1-167",
+    "language": "en",
+    "level": "A1",
+    "word": "black",
+    "pronunciation": "/blæk/",
+    "meaning": "黑色",
+    "example": "I learned \"black\" today.",
+    "exampleMeaning": "今天学习“黑色”。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "en-a1-168",
+    "language": "en",
+    "level": "A1",
+    "word": "white",
+    "pronunciation": "/waɪt/",
+    "meaning": "白色",
+    "example": "I learned \"white\" today.",
+    "exampleMeaning": "今天学习“白色”。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "en-a1-169",
+    "language": "en",
+    "level": "A1",
+    "word": "head",
+    "pronunciation": "/hed/",
+    "meaning": "头",
+    "example": "I learned \"head\" today.",
+    "exampleMeaning": "今天学习“头”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "en-a1-170",
+    "language": "en",
+    "level": "A1",
+    "word": "face",
+    "pronunciation": "/feɪs/",
+    "meaning": "脸",
+    "example": "I learned \"face\" today.",
+    "exampleMeaning": "今天学习“脸”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "en-a1-171",
+    "language": "en",
+    "level": "A1",
+    "word": "eye",
+    "pronunciation": "/aɪ/",
+    "meaning": "眼睛",
+    "example": "I learned \"eye\" today.",
+    "exampleMeaning": "今天学习“眼睛”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "en-a1-172",
+    "language": "en",
+    "level": "A1",
+    "word": "ear",
+    "pronunciation": "/ɪr/",
+    "meaning": "耳朵",
+    "example": "I learned \"ear\" today.",
+    "exampleMeaning": "今天学习“耳朵”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "en-a1-173",
+    "language": "en",
+    "level": "A1",
+    "word": "nose",
+    "pronunciation": "/noʊz/",
+    "meaning": "鼻子",
+    "example": "I learned \"nose\" today.",
+    "exampleMeaning": "今天学习“鼻子”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "en-a1-174",
+    "language": "en",
+    "level": "A1",
+    "word": "mouth",
+    "pronunciation": "/maʊθ/",
+    "meaning": "嘴",
+    "example": "I learned \"mouth\" today.",
+    "exampleMeaning": "今天学习“嘴”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "en-a1-175",
+    "language": "en",
+    "level": "A1",
+    "word": "hand",
+    "pronunciation": "/hænd/",
+    "meaning": "手",
+    "example": "I learned \"hand\" today.",
+    "exampleMeaning": "今天学习“手”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "en-a1-176",
+    "language": "en",
+    "level": "A1",
+    "word": "foot",
+    "pronunciation": "/fʊt/",
+    "meaning": "脚",
+    "example": "I learned \"foot\" today.",
+    "exampleMeaning": "今天学习“脚”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "en-a1-177",
+    "language": "en",
+    "level": "A1",
+    "word": "weather",
+    "pronunciation": "/ˈweðər/",
+    "meaning": "天气",
+    "example": "I learned \"weather\" today.",
+    "exampleMeaning": "今天学习“天气”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "en-a1-178",
+    "language": "en",
+    "level": "A1",
+    "word": "rain",
+    "pronunciation": "/reɪn/",
+    "meaning": "雨",
+    "example": "I learned \"rain\" today.",
+    "exampleMeaning": "今天学习“雨”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "en-a1-179",
+    "language": "en",
+    "level": "A1",
+    "word": "snow",
+    "pronunciation": "/snoʊ/",
+    "meaning": "雪",
+    "example": "I learned \"snow\" today.",
+    "exampleMeaning": "今天学习“雪”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "en-a1-180",
+    "language": "en",
+    "level": "A1",
+    "word": "wind",
+    "pronunciation": "/wɪnd/",
+    "meaning": "风",
+    "example": "I learned \"wind\" today.",
+    "exampleMeaning": "今天学习“风”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "en-a1-181",
+    "language": "en",
+    "level": "A1",
+    "word": "sky",
+    "pronunciation": "/skaɪ/",
+    "meaning": "天空",
+    "example": "I learned \"sky\" today.",
+    "exampleMeaning": "今天学习“天空”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "en-a1-182",
+    "language": "en",
+    "level": "A1",
+    "word": "mountain",
+    "pronunciation": "/ˈmaʊntn/",
+    "meaning": "山",
+    "example": "I learned \"mountain\" today.",
+    "exampleMeaning": "今天学习“山”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "en-a1-183",
+    "language": "en",
+    "level": "A1",
+    "word": "river",
+    "pronunciation": "/ˈrɪvər/",
+    "meaning": "河",
+    "example": "I learned \"river\" today.",
+    "exampleMeaning": "今天学习“河”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "en-a1-184",
+    "language": "en",
+    "level": "A1",
+    "word": "sea",
+    "pronunciation": "/siː/",
+    "meaning": "海",
+    "example": "I learned \"sea\" today.",
+    "exampleMeaning": "今天学习“海”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "en-a1-185",
+    "language": "en",
+    "level": "A1",
+    "word": "tree",
+    "pronunciation": "/triː/",
+    "meaning": "树",
+    "example": "I learned \"tree\" today.",
+    "exampleMeaning": "今天学习“树”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "en-a1-186",
+    "language": "en",
+    "level": "A1",
+    "word": "flower",
+    "pronunciation": "/ˈflaʊər/",
+    "meaning": "花",
+    "example": "I learned \"flower\" today.",
+    "exampleMeaning": "今天学习“花”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "en-a1-187",
+    "language": "en",
+    "level": "A1",
+    "word": "dog",
+    "pronunciation": "/dɔːɡ/",
+    "meaning": "狗",
+    "example": "I learned \"dog\" today.",
+    "exampleMeaning": "今天学习“狗”。",
+    "tags": [
+      "animal"
+    ]
+  },
+  {
+    "id": "en-a1-188",
+    "language": "en",
+    "level": "A1",
+    "word": "cat",
+    "pronunciation": "/kæt/",
+    "meaning": "猫",
+    "example": "I learned \"cat\" today.",
+    "exampleMeaning": "今天学习“猫”。",
+    "tags": [
+      "animal"
+    ]
+  },
+  {
+    "id": "en-a1-189",
+    "language": "en",
+    "level": "A1",
+    "word": "bird",
+    "pronunciation": "/bɜːrd/",
+    "meaning": "鸟",
+    "example": "I learned \"bird\" today.",
+    "exampleMeaning": "今天学习“鸟”。",
+    "tags": [
+      "animal"
+    ]
+  },
+  {
+    "id": "en-a1-190",
+    "language": "en",
+    "level": "A1",
+    "word": "car",
+    "pronunciation": "/kɑːr/",
+    "meaning": "汽车",
+    "example": "I learned \"car\" today.",
+    "exampleMeaning": "今天学习“汽车”。",
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "id": "en-a1-191",
+    "language": "en",
+    "level": "A1",
+    "word": "bus",
+    "pronunciation": "/bʌs/",
+    "meaning": "公交车",
+    "example": "I learned \"bus\" today.",
+    "exampleMeaning": "今天学习“公交车”。",
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "id": "en-a1-192",
+    "language": "en",
+    "level": "A1",
+    "word": "train",
+    "pronunciation": "/treɪn/",
+    "meaning": "火车",
+    "example": "I learned \"train\" today.",
+    "exampleMeaning": "今天学习“火车”。",
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "id": "en-a1-193",
+    "language": "en",
+    "level": "A1",
+    "word": "bicycle",
+    "pronunciation": "/ˈbaɪsɪkl/",
+    "meaning": "自行车",
+    "example": "I learned \"bicycle\" today.",
+    "exampleMeaning": "今天学习“自行车”。",
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "id": "en-a1-194",
+    "language": "en",
+    "level": "A1",
+    "word": "plane",
+    "pronunciation": "/pleɪn/",
+    "meaning": "飞机",
+    "example": "I learned \"plane\" today.",
+    "exampleMeaning": "今天学习“飞机”。",
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "id": "en-a1-195",
+    "language": "en",
+    "level": "A1",
+    "word": "zero",
+    "pronunciation": "zero",
+    "meaning": "零",
+    "example": "I learned \"zero\" today.",
+    "exampleMeaning": "今天学习“零”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-196",
+    "language": "en",
+    "level": "A1",
+    "word": "one",
+    "pronunciation": "one",
+    "meaning": "一",
+    "example": "I learned \"one\" today.",
+    "exampleMeaning": "今天学习“一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-197",
+    "language": "en",
+    "level": "A1",
+    "word": "two",
+    "pronunciation": "two",
+    "meaning": "二",
+    "example": "I learned \"two\" today.",
+    "exampleMeaning": "今天学习“二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-198",
+    "language": "en",
+    "level": "A1",
+    "word": "three",
+    "pronunciation": "three",
+    "meaning": "三",
+    "example": "I learned \"three\" today.",
+    "exampleMeaning": "今天学习“三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-199",
+    "language": "en",
+    "level": "A1",
+    "word": "four",
+    "pronunciation": "four",
+    "meaning": "四",
+    "example": "I learned \"four\" today.",
+    "exampleMeaning": "今天学习“四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-200",
+    "language": "en",
+    "level": "A1",
+    "word": "five",
+    "pronunciation": "five",
+    "meaning": "五",
+    "example": "I learned \"five\" today.",
+    "exampleMeaning": "今天学习“五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-201",
+    "language": "en",
+    "level": "A1",
+    "word": "six",
+    "pronunciation": "six",
+    "meaning": "六",
+    "example": "I learned \"six\" today.",
+    "exampleMeaning": "今天学习“六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-202",
+    "language": "en",
+    "level": "A1",
+    "word": "seven",
+    "pronunciation": "seven",
+    "meaning": "七",
+    "example": "I learned \"seven\" today.",
+    "exampleMeaning": "今天学习“七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-203",
+    "language": "en",
+    "level": "A1",
+    "word": "eight",
+    "pronunciation": "eight",
+    "meaning": "八",
+    "example": "I learned \"eight\" today.",
+    "exampleMeaning": "今天学习“八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-204",
+    "language": "en",
+    "level": "A1",
+    "word": "nine",
+    "pronunciation": "nine",
+    "meaning": "九",
+    "example": "I learned \"nine\" today.",
+    "exampleMeaning": "今天学习“九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-205",
+    "language": "en",
+    "level": "A1",
+    "word": "ten",
+    "pronunciation": "ten",
+    "meaning": "十",
+    "example": "I learned \"ten\" today.",
+    "exampleMeaning": "今天学习“十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-206",
+    "language": "en",
+    "level": "A1",
+    "word": "eleven",
+    "pronunciation": "eleven",
+    "meaning": "十一",
+    "example": "I learned \"eleven\" today.",
+    "exampleMeaning": "今天学习“十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-207",
+    "language": "en",
+    "level": "A1",
+    "word": "twelve",
+    "pronunciation": "twelve",
+    "meaning": "十二",
+    "example": "I learned \"twelve\" today.",
+    "exampleMeaning": "今天学习“十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-208",
+    "language": "en",
+    "level": "A1",
+    "word": "thirteen",
+    "pronunciation": "thirteen",
+    "meaning": "十三",
+    "example": "I learned \"thirteen\" today.",
+    "exampleMeaning": "今天学习“十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-209",
+    "language": "en",
+    "level": "A1",
+    "word": "fourteen",
+    "pronunciation": "fourteen",
+    "meaning": "十四",
+    "example": "I learned \"fourteen\" today.",
+    "exampleMeaning": "今天学习“十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-210",
+    "language": "en",
+    "level": "A1",
+    "word": "fifteen",
+    "pronunciation": "fifteen",
+    "meaning": "十五",
+    "example": "I learned \"fifteen\" today.",
+    "exampleMeaning": "今天学习“十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-211",
+    "language": "en",
+    "level": "A1",
+    "word": "sixteen",
+    "pronunciation": "sixteen",
+    "meaning": "十六",
+    "example": "I learned \"sixteen\" today.",
+    "exampleMeaning": "今天学习“十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-212",
+    "language": "en",
+    "level": "A1",
+    "word": "seventeen",
+    "pronunciation": "seventeen",
+    "meaning": "十七",
+    "example": "I learned \"seventeen\" today.",
+    "exampleMeaning": "今天学习“十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-213",
+    "language": "en",
+    "level": "A1",
+    "word": "eighteen",
+    "pronunciation": "eighteen",
+    "meaning": "十八",
+    "example": "I learned \"eighteen\" today.",
+    "exampleMeaning": "今天学习“十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-214",
+    "language": "en",
+    "level": "A1",
+    "word": "nineteen",
+    "pronunciation": "nineteen",
+    "meaning": "十九",
+    "example": "I learned \"nineteen\" today.",
+    "exampleMeaning": "今天学习“十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-215",
+    "language": "en",
+    "level": "A1",
+    "word": "twenty",
+    "pronunciation": "twenty",
+    "meaning": "二十",
+    "example": "I learned \"twenty\" today.",
+    "exampleMeaning": "今天学习“二十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-216",
+    "language": "en",
+    "level": "A1",
+    "word": "twenty-one",
+    "pronunciation": "twenty-one",
+    "meaning": "二十一",
+    "example": "I learned \"twenty-one\" today.",
+    "exampleMeaning": "今天学习“二十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-217",
+    "language": "en",
+    "level": "A1",
+    "word": "twenty-two",
+    "pronunciation": "twenty-two",
+    "meaning": "二十二",
+    "example": "I learned \"twenty-two\" today.",
+    "exampleMeaning": "今天学习“二十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-218",
+    "language": "en",
+    "level": "A1",
+    "word": "twenty-three",
+    "pronunciation": "twenty-three",
+    "meaning": "二十三",
+    "example": "I learned \"twenty-three\" today.",
+    "exampleMeaning": "今天学习“二十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-219",
+    "language": "en",
+    "level": "A1",
+    "word": "twenty-four",
+    "pronunciation": "twenty-four",
+    "meaning": "二十四",
+    "example": "I learned \"twenty-four\" today.",
+    "exampleMeaning": "今天学习“二十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-220",
+    "language": "en",
+    "level": "A1",
+    "word": "twenty-five",
+    "pronunciation": "twenty-five",
+    "meaning": "二十五",
+    "example": "I learned \"twenty-five\" today.",
+    "exampleMeaning": "今天学习“二十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-221",
+    "language": "en",
+    "level": "A1",
+    "word": "twenty-six",
+    "pronunciation": "twenty-six",
+    "meaning": "二十六",
+    "example": "I learned \"twenty-six\" today.",
+    "exampleMeaning": "今天学习“二十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-222",
+    "language": "en",
+    "level": "A1",
+    "word": "twenty-seven",
+    "pronunciation": "twenty-seven",
+    "meaning": "二十七",
+    "example": "I learned \"twenty-seven\" today.",
+    "exampleMeaning": "今天学习“二十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-223",
+    "language": "en",
+    "level": "A1",
+    "word": "twenty-eight",
+    "pronunciation": "twenty-eight",
+    "meaning": "二十八",
+    "example": "I learned \"twenty-eight\" today.",
+    "exampleMeaning": "今天学习“二十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-224",
+    "language": "en",
+    "level": "A1",
+    "word": "twenty-nine",
+    "pronunciation": "twenty-nine",
+    "meaning": "二十九",
+    "example": "I learned \"twenty-nine\" today.",
+    "exampleMeaning": "今天学习“二十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-225",
+    "language": "en",
+    "level": "A1",
+    "word": "thirty",
+    "pronunciation": "thirty",
+    "meaning": "三十",
+    "example": "I learned \"thirty\" today.",
+    "exampleMeaning": "今天学习“三十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-226",
+    "language": "en",
+    "level": "A1",
+    "word": "thirty-one",
+    "pronunciation": "thirty-one",
+    "meaning": "三十一",
+    "example": "I learned \"thirty-one\" today.",
+    "exampleMeaning": "今天学习“三十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-227",
+    "language": "en",
+    "level": "A1",
+    "word": "thirty-two",
+    "pronunciation": "thirty-two",
+    "meaning": "三十二",
+    "example": "I learned \"thirty-two\" today.",
+    "exampleMeaning": "今天学习“三十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-228",
+    "language": "en",
+    "level": "A1",
+    "word": "thirty-three",
+    "pronunciation": "thirty-three",
+    "meaning": "三十三",
+    "example": "I learned \"thirty-three\" today.",
+    "exampleMeaning": "今天学习“三十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-229",
+    "language": "en",
+    "level": "A1",
+    "word": "thirty-four",
+    "pronunciation": "thirty-four",
+    "meaning": "三十四",
+    "example": "I learned \"thirty-four\" today.",
+    "exampleMeaning": "今天学习“三十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-230",
+    "language": "en",
+    "level": "A1",
+    "word": "thirty-five",
+    "pronunciation": "thirty-five",
+    "meaning": "三十五",
+    "example": "I learned \"thirty-five\" today.",
+    "exampleMeaning": "今天学习“三十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-231",
+    "language": "en",
+    "level": "A1",
+    "word": "thirty-six",
+    "pronunciation": "thirty-six",
+    "meaning": "三十六",
+    "example": "I learned \"thirty-six\" today.",
+    "exampleMeaning": "今天学习“三十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-232",
+    "language": "en",
+    "level": "A1",
+    "word": "thirty-seven",
+    "pronunciation": "thirty-seven",
+    "meaning": "三十七",
+    "example": "I learned \"thirty-seven\" today.",
+    "exampleMeaning": "今天学习“三十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-233",
+    "language": "en",
+    "level": "A1",
+    "word": "thirty-eight",
+    "pronunciation": "thirty-eight",
+    "meaning": "三十八",
+    "example": "I learned \"thirty-eight\" today.",
+    "exampleMeaning": "今天学习“三十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-234",
+    "language": "en",
+    "level": "A1",
+    "word": "thirty-nine",
+    "pronunciation": "thirty-nine",
+    "meaning": "三十九",
+    "example": "I learned \"thirty-nine\" today.",
+    "exampleMeaning": "今天学习“三十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-235",
+    "language": "en",
+    "level": "A1",
+    "word": "forty",
+    "pronunciation": "forty",
+    "meaning": "四十",
+    "example": "I learned \"forty\" today.",
+    "exampleMeaning": "今天学习“四十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-236",
+    "language": "en",
+    "level": "A1",
+    "word": "forty-one",
+    "pronunciation": "forty-one",
+    "meaning": "四十一",
+    "example": "I learned \"forty-one\" today.",
+    "exampleMeaning": "今天学习“四十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-237",
+    "language": "en",
+    "level": "A1",
+    "word": "forty-two",
+    "pronunciation": "forty-two",
+    "meaning": "四十二",
+    "example": "I learned \"forty-two\" today.",
+    "exampleMeaning": "今天学习“四十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-238",
+    "language": "en",
+    "level": "A1",
+    "word": "forty-three",
+    "pronunciation": "forty-three",
+    "meaning": "四十三",
+    "example": "I learned \"forty-three\" today.",
+    "exampleMeaning": "今天学习“四十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-239",
+    "language": "en",
+    "level": "A1",
+    "word": "forty-four",
+    "pronunciation": "forty-four",
+    "meaning": "四十四",
+    "example": "I learned \"forty-four\" today.",
+    "exampleMeaning": "今天学习“四十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-240",
+    "language": "en",
+    "level": "A1",
+    "word": "forty-five",
+    "pronunciation": "forty-five",
+    "meaning": "四十五",
+    "example": "I learned \"forty-five\" today.",
+    "exampleMeaning": "今天学习“四十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-241",
+    "language": "en",
+    "level": "A1",
+    "word": "forty-six",
+    "pronunciation": "forty-six",
+    "meaning": "四十六",
+    "example": "I learned \"forty-six\" today.",
+    "exampleMeaning": "今天学习“四十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-242",
+    "language": "en",
+    "level": "A1",
+    "word": "forty-seven",
+    "pronunciation": "forty-seven",
+    "meaning": "四十七",
+    "example": "I learned \"forty-seven\" today.",
+    "exampleMeaning": "今天学习“四十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-243",
+    "language": "en",
+    "level": "A1",
+    "word": "forty-eight",
+    "pronunciation": "forty-eight",
+    "meaning": "四十八",
+    "example": "I learned \"forty-eight\" today.",
+    "exampleMeaning": "今天学习“四十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-244",
+    "language": "en",
+    "level": "A1",
+    "word": "forty-nine",
+    "pronunciation": "forty-nine",
+    "meaning": "四十九",
+    "example": "I learned \"forty-nine\" today.",
+    "exampleMeaning": "今天学习“四十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-245",
+    "language": "en",
+    "level": "A1",
+    "word": "fifty",
+    "pronunciation": "fifty",
+    "meaning": "五十",
+    "example": "I learned \"fifty\" today.",
+    "exampleMeaning": "今天学习“五十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-246",
+    "language": "en",
+    "level": "A1",
+    "word": "fifty-one",
+    "pronunciation": "fifty-one",
+    "meaning": "五十一",
+    "example": "I learned \"fifty-one\" today.",
+    "exampleMeaning": "今天学习“五十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-247",
+    "language": "en",
+    "level": "A1",
+    "word": "fifty-two",
+    "pronunciation": "fifty-two",
+    "meaning": "五十二",
+    "example": "I learned \"fifty-two\" today.",
+    "exampleMeaning": "今天学习“五十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-248",
+    "language": "en",
+    "level": "A1",
+    "word": "fifty-three",
+    "pronunciation": "fifty-three",
+    "meaning": "五十三",
+    "example": "I learned \"fifty-three\" today.",
+    "exampleMeaning": "今天学习“五十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-249",
+    "language": "en",
+    "level": "A1",
+    "word": "fifty-four",
+    "pronunciation": "fifty-four",
+    "meaning": "五十四",
+    "example": "I learned \"fifty-four\" today.",
+    "exampleMeaning": "今天学习“五十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-250",
+    "language": "en",
+    "level": "A1",
+    "word": "fifty-five",
+    "pronunciation": "fifty-five",
+    "meaning": "五十五",
+    "example": "I learned \"fifty-five\" today.",
+    "exampleMeaning": "今天学习“五十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-251",
+    "language": "en",
+    "level": "A1",
+    "word": "fifty-six",
+    "pronunciation": "fifty-six",
+    "meaning": "五十六",
+    "example": "I learned \"fifty-six\" today.",
+    "exampleMeaning": "今天学习“五十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-252",
+    "language": "en",
+    "level": "A1",
+    "word": "fifty-seven",
+    "pronunciation": "fifty-seven",
+    "meaning": "五十七",
+    "example": "I learned \"fifty-seven\" today.",
+    "exampleMeaning": "今天学习“五十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-253",
+    "language": "en",
+    "level": "A1",
+    "word": "fifty-eight",
+    "pronunciation": "fifty-eight",
+    "meaning": "五十八",
+    "example": "I learned \"fifty-eight\" today.",
+    "exampleMeaning": "今天学习“五十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-254",
+    "language": "en",
+    "level": "A1",
+    "word": "fifty-nine",
+    "pronunciation": "fifty-nine",
+    "meaning": "五十九",
+    "example": "I learned \"fifty-nine\" today.",
+    "exampleMeaning": "今天学习“五十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-255",
+    "language": "en",
+    "level": "A1",
+    "word": "sixty",
+    "pronunciation": "sixty",
+    "meaning": "六十",
+    "example": "I learned \"sixty\" today.",
+    "exampleMeaning": "今天学习“六十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-256",
+    "language": "en",
+    "level": "A1",
+    "word": "sixty-one",
+    "pronunciation": "sixty-one",
+    "meaning": "六十一",
+    "example": "I learned \"sixty-one\" today.",
+    "exampleMeaning": "今天学习“六十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-257",
+    "language": "en",
+    "level": "A1",
+    "word": "sixty-two",
+    "pronunciation": "sixty-two",
+    "meaning": "六十二",
+    "example": "I learned \"sixty-two\" today.",
+    "exampleMeaning": "今天学习“六十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-258",
+    "language": "en",
+    "level": "A1",
+    "word": "sixty-three",
+    "pronunciation": "sixty-three",
+    "meaning": "六十三",
+    "example": "I learned \"sixty-three\" today.",
+    "exampleMeaning": "今天学习“六十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-259",
+    "language": "en",
+    "level": "A1",
+    "word": "sixty-four",
+    "pronunciation": "sixty-four",
+    "meaning": "六十四",
+    "example": "I learned \"sixty-four\" today.",
+    "exampleMeaning": "今天学习“六十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-260",
+    "language": "en",
+    "level": "A1",
+    "word": "sixty-five",
+    "pronunciation": "sixty-five",
+    "meaning": "六十五",
+    "example": "I learned \"sixty-five\" today.",
+    "exampleMeaning": "今天学习“六十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-261",
+    "language": "en",
+    "level": "A1",
+    "word": "sixty-six",
+    "pronunciation": "sixty-six",
+    "meaning": "六十六",
+    "example": "I learned \"sixty-six\" today.",
+    "exampleMeaning": "今天学习“六十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-262",
+    "language": "en",
+    "level": "A1",
+    "word": "sixty-seven",
+    "pronunciation": "sixty-seven",
+    "meaning": "六十七",
+    "example": "I learned \"sixty-seven\" today.",
+    "exampleMeaning": "今天学习“六十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-263",
+    "language": "en",
+    "level": "A1",
+    "word": "sixty-eight",
+    "pronunciation": "sixty-eight",
+    "meaning": "六十八",
+    "example": "I learned \"sixty-eight\" today.",
+    "exampleMeaning": "今天学习“六十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-264",
+    "language": "en",
+    "level": "A1",
+    "word": "sixty-nine",
+    "pronunciation": "sixty-nine",
+    "meaning": "六十九",
+    "example": "I learned \"sixty-nine\" today.",
+    "exampleMeaning": "今天学习“六十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-265",
+    "language": "en",
+    "level": "A1",
+    "word": "seventy",
+    "pronunciation": "seventy",
+    "meaning": "七十",
+    "example": "I learned \"seventy\" today.",
+    "exampleMeaning": "今天学习“七十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-266",
+    "language": "en",
+    "level": "A1",
+    "word": "seventy-one",
+    "pronunciation": "seventy-one",
+    "meaning": "七十一",
+    "example": "I learned \"seventy-one\" today.",
+    "exampleMeaning": "今天学习“七十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-267",
+    "language": "en",
+    "level": "A1",
+    "word": "seventy-two",
+    "pronunciation": "seventy-two",
+    "meaning": "七十二",
+    "example": "I learned \"seventy-two\" today.",
+    "exampleMeaning": "今天学习“七十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-268",
+    "language": "en",
+    "level": "A1",
+    "word": "seventy-three",
+    "pronunciation": "seventy-three",
+    "meaning": "七十三",
+    "example": "I learned \"seventy-three\" today.",
+    "exampleMeaning": "今天学习“七十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-269",
+    "language": "en",
+    "level": "A1",
+    "word": "seventy-four",
+    "pronunciation": "seventy-four",
+    "meaning": "七十四",
+    "example": "I learned \"seventy-four\" today.",
+    "exampleMeaning": "今天学习“七十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-270",
+    "language": "en",
+    "level": "A1",
+    "word": "seventy-five",
+    "pronunciation": "seventy-five",
+    "meaning": "七十五",
+    "example": "I learned \"seventy-five\" today.",
+    "exampleMeaning": "今天学习“七十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-271",
+    "language": "en",
+    "level": "A1",
+    "word": "seventy-six",
+    "pronunciation": "seventy-six",
+    "meaning": "七十六",
+    "example": "I learned \"seventy-six\" today.",
+    "exampleMeaning": "今天学习“七十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-272",
+    "language": "en",
+    "level": "A1",
+    "word": "seventy-seven",
+    "pronunciation": "seventy-seven",
+    "meaning": "七十七",
+    "example": "I learned \"seventy-seven\" today.",
+    "exampleMeaning": "今天学习“七十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-273",
+    "language": "en",
+    "level": "A1",
+    "word": "seventy-eight",
+    "pronunciation": "seventy-eight",
+    "meaning": "七十八",
+    "example": "I learned \"seventy-eight\" today.",
+    "exampleMeaning": "今天学习“七十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-274",
+    "language": "en",
+    "level": "A1",
+    "word": "seventy-nine",
+    "pronunciation": "seventy-nine",
+    "meaning": "七十九",
+    "example": "I learned \"seventy-nine\" today.",
+    "exampleMeaning": "今天学习“七十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-275",
+    "language": "en",
+    "level": "A1",
+    "word": "eighty",
+    "pronunciation": "eighty",
+    "meaning": "八十",
+    "example": "I learned \"eighty\" today.",
+    "exampleMeaning": "今天学习“八十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-276",
+    "language": "en",
+    "level": "A1",
+    "word": "eighty-one",
+    "pronunciation": "eighty-one",
+    "meaning": "八十一",
+    "example": "I learned \"eighty-one\" today.",
+    "exampleMeaning": "今天学习“八十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-277",
+    "language": "en",
+    "level": "A1",
+    "word": "eighty-two",
+    "pronunciation": "eighty-two",
+    "meaning": "八十二",
+    "example": "I learned \"eighty-two\" today.",
+    "exampleMeaning": "今天学习“八十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-278",
+    "language": "en",
+    "level": "A1",
+    "word": "eighty-three",
+    "pronunciation": "eighty-three",
+    "meaning": "八十三",
+    "example": "I learned \"eighty-three\" today.",
+    "exampleMeaning": "今天学习“八十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-279",
+    "language": "en",
+    "level": "A1",
+    "word": "eighty-four",
+    "pronunciation": "eighty-four",
+    "meaning": "八十四",
+    "example": "I learned \"eighty-four\" today.",
+    "exampleMeaning": "今天学习“八十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-280",
+    "language": "en",
+    "level": "A1",
+    "word": "eighty-five",
+    "pronunciation": "eighty-five",
+    "meaning": "八十五",
+    "example": "I learned \"eighty-five\" today.",
+    "exampleMeaning": "今天学习“八十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-281",
+    "language": "en",
+    "level": "A1",
+    "word": "eighty-six",
+    "pronunciation": "eighty-six",
+    "meaning": "八十六",
+    "example": "I learned \"eighty-six\" today.",
+    "exampleMeaning": "今天学习“八十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-282",
+    "language": "en",
+    "level": "A1",
+    "word": "eighty-seven",
+    "pronunciation": "eighty-seven",
+    "meaning": "八十七",
+    "example": "I learned \"eighty-seven\" today.",
+    "exampleMeaning": "今天学习“八十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-283",
+    "language": "en",
+    "level": "A1",
+    "word": "eighty-eight",
+    "pronunciation": "eighty-eight",
+    "meaning": "八十八",
+    "example": "I learned \"eighty-eight\" today.",
+    "exampleMeaning": "今天学习“八十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-284",
+    "language": "en",
+    "level": "A1",
+    "word": "eighty-nine",
+    "pronunciation": "eighty-nine",
+    "meaning": "八十九",
+    "example": "I learned \"eighty-nine\" today.",
+    "exampleMeaning": "今天学习“八十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-285",
+    "language": "en",
+    "level": "A1",
+    "word": "ninety",
+    "pronunciation": "ninety",
+    "meaning": "九十",
+    "example": "I learned \"ninety\" today.",
+    "exampleMeaning": "今天学习“九十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-286",
+    "language": "en",
+    "level": "A1",
+    "word": "ninety-one",
+    "pronunciation": "ninety-one",
+    "meaning": "九十一",
+    "example": "I learned \"ninety-one\" today.",
+    "exampleMeaning": "今天学习“九十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-287",
+    "language": "en",
+    "level": "A1",
+    "word": "ninety-two",
+    "pronunciation": "ninety-two",
+    "meaning": "九十二",
+    "example": "I learned \"ninety-two\" today.",
+    "exampleMeaning": "今天学习“九十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-288",
+    "language": "en",
+    "level": "A1",
+    "word": "ninety-three",
+    "pronunciation": "ninety-three",
+    "meaning": "九十三",
+    "example": "I learned \"ninety-three\" today.",
+    "exampleMeaning": "今天学习“九十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-289",
+    "language": "en",
+    "level": "A1",
+    "word": "ninety-four",
+    "pronunciation": "ninety-four",
+    "meaning": "九十四",
+    "example": "I learned \"ninety-four\" today.",
+    "exampleMeaning": "今天学习“九十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-290",
+    "language": "en",
+    "level": "A1",
+    "word": "ninety-five",
+    "pronunciation": "ninety-five",
+    "meaning": "九十五",
+    "example": "I learned \"ninety-five\" today.",
+    "exampleMeaning": "今天学习“九十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-291",
+    "language": "en",
+    "level": "A1",
+    "word": "ninety-six",
+    "pronunciation": "ninety-six",
+    "meaning": "九十六",
+    "example": "I learned \"ninety-six\" today.",
+    "exampleMeaning": "今天学习“九十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-292",
+    "language": "en",
+    "level": "A1",
+    "word": "ninety-seven",
+    "pronunciation": "ninety-seven",
+    "meaning": "九十七",
+    "example": "I learned \"ninety-seven\" today.",
+    "exampleMeaning": "今天学习“九十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-293",
+    "language": "en",
+    "level": "A1",
+    "word": "ninety-eight",
+    "pronunciation": "ninety-eight",
+    "meaning": "九十八",
+    "example": "I learned \"ninety-eight\" today.",
+    "exampleMeaning": "今天学习“九十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-294",
+    "language": "en",
+    "level": "A1",
+    "word": "ninety-nine",
+    "pronunciation": "ninety-nine",
+    "meaning": "九十九",
+    "example": "I learned \"ninety-nine\" today.",
+    "exampleMeaning": "今天学习“九十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-295",
+    "language": "en",
+    "level": "A1",
+    "word": "one hundred",
+    "pronunciation": "one hundred",
+    "meaning": "一百",
+    "example": "I learned \"one hundred\" today.",
+    "exampleMeaning": "今天学习“一百”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "en-a1-296",
+    "language": "en",
+    "level": "A1",
+    "word": "January",
+    "pronunciation": "January",
+    "meaning": "一月",
+    "example": "I learned \"January\" today.",
+    "exampleMeaning": "今天学习“一月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-297",
+    "language": "en",
+    "level": "A1",
+    "word": "February",
+    "pronunciation": "February",
+    "meaning": "二月",
+    "example": "I learned \"February\" today.",
+    "exampleMeaning": "今天学习“二月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-298",
+    "language": "en",
+    "level": "A1",
+    "word": "March",
+    "pronunciation": "March",
+    "meaning": "三月",
+    "example": "I learned \"March\" today.",
+    "exampleMeaning": "今天学习“三月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-299",
+    "language": "en",
+    "level": "A1",
+    "word": "April",
+    "pronunciation": "April",
+    "meaning": "四月",
+    "example": "I learned \"April\" today.",
+    "exampleMeaning": "今天学习“四月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-300",
+    "language": "en",
+    "level": "A1",
+    "word": "May",
+    "pronunciation": "May",
+    "meaning": "五月",
+    "example": "I learned \"May\" today.",
+    "exampleMeaning": "今天学习“五月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-301",
+    "language": "en",
+    "level": "A1",
+    "word": "June",
+    "pronunciation": "June",
+    "meaning": "六月",
+    "example": "I learned \"June\" today.",
+    "exampleMeaning": "今天学习“六月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-302",
+    "language": "en",
+    "level": "A1",
+    "word": "July",
+    "pronunciation": "July",
+    "meaning": "七月",
+    "example": "I learned \"July\" today.",
+    "exampleMeaning": "今天学习“七月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-303",
+    "language": "en",
+    "level": "A1",
+    "word": "August",
+    "pronunciation": "August",
+    "meaning": "八月",
+    "example": "I learned \"August\" today.",
+    "exampleMeaning": "今天学习“八月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-304",
+    "language": "en",
+    "level": "A1",
+    "word": "September",
+    "pronunciation": "September",
+    "meaning": "九月",
+    "example": "I learned \"September\" today.",
+    "exampleMeaning": "今天学习“九月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-305",
+    "language": "en",
+    "level": "A1",
+    "word": "October",
+    "pronunciation": "October",
+    "meaning": "十月",
+    "example": "I learned \"October\" today.",
+    "exampleMeaning": "今天学习“十月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-306",
+    "language": "en",
+    "level": "A1",
+    "word": "November",
+    "pronunciation": "November",
+    "meaning": "十一月",
+    "example": "I learned \"November\" today.",
+    "exampleMeaning": "今天学习“十一月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-307",
+    "language": "en",
+    "level": "A1",
+    "word": "December",
+    "pronunciation": "December",
+    "meaning": "十二月",
+    "example": "I learned \"December\" today.",
+    "exampleMeaning": "今天学习“十二月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-308",
+    "language": "en",
+    "level": "A1",
+    "word": "Monday",
+    "pronunciation": "Monday",
+    "meaning": "星期一",
+    "example": "I learned \"Monday\" today.",
+    "exampleMeaning": "今天学习“星期一”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-309",
+    "language": "en",
+    "level": "A1",
+    "word": "Tuesday",
+    "pronunciation": "Tuesday",
+    "meaning": "星期二",
+    "example": "I learned \"Tuesday\" today.",
+    "exampleMeaning": "今天学习“星期二”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-310",
+    "language": "en",
+    "level": "A1",
+    "word": "Wednesday",
+    "pronunciation": "Wednesday",
+    "meaning": "星期三",
+    "example": "I learned \"Wednesday\" today.",
+    "exampleMeaning": "今天学习“星期三”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-311",
+    "language": "en",
+    "level": "A1",
+    "word": "Thursday",
+    "pronunciation": "Thursday",
+    "meaning": "星期四",
+    "example": "I learned \"Thursday\" today.",
+    "exampleMeaning": "今天学习“星期四”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-312",
+    "language": "en",
+    "level": "A1",
+    "word": "Friday",
+    "pronunciation": "Friday",
+    "meaning": "星期五",
+    "example": "I learned \"Friday\" today.",
+    "exampleMeaning": "今天学习“星期五”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-313",
+    "language": "en",
+    "level": "A1",
+    "word": "Saturday",
+    "pronunciation": "Saturday",
+    "meaning": "星期六",
+    "example": "I learned \"Saturday\" today.",
+    "exampleMeaning": "今天学习“星期六”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-314",
+    "language": "en",
+    "level": "A1",
+    "word": "Sunday",
+    "pronunciation": "Sunday",
+    "meaning": "星期日",
+    "example": "I learned \"Sunday\" today.",
+    "exampleMeaning": "今天学习“星期日”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "en-a1-315",
+    "language": "en",
+    "level": "A1",
+    "word": "new person",
+    "pronunciation": "new /ˈpɜːrsn/",
+    "meaning": "新的人",
+    "example": "I learned \"new person\" today.",
+    "exampleMeaning": "今天学习“新的人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-316",
+    "language": "en",
+    "level": "A1",
+    "word": "new man",
+    "pronunciation": "new /mæn/",
+    "meaning": "新的男人",
+    "example": "I learned \"new man\" today.",
+    "exampleMeaning": "今天学习“新的男人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-317",
+    "language": "en",
+    "level": "A1",
+    "word": "new woman",
+    "pronunciation": "new /ˈwʊmən/",
+    "meaning": "新的女人",
+    "example": "I learned \"new woman\" today.",
+    "exampleMeaning": "今天学习“新的女人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-318",
+    "language": "en",
+    "level": "A1",
+    "word": "new child",
+    "pronunciation": "new /tʃaɪld/",
+    "meaning": "新的孩子",
+    "example": "I learned \"new child\" today.",
+    "exampleMeaning": "今天学习“新的孩子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-319",
+    "language": "en",
+    "level": "A1",
+    "word": "new boy",
+    "pronunciation": "new /bɔɪ/",
+    "meaning": "新的男孩",
+    "example": "I learned \"new boy\" today.",
+    "exampleMeaning": "今天学习“新的男孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-320",
+    "language": "en",
+    "level": "A1",
+    "word": "new girl",
+    "pronunciation": "new /ɡɜːrl/",
+    "meaning": "新的女孩",
+    "example": "I learned \"new girl\" today.",
+    "exampleMeaning": "今天学习“新的女孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-321",
+    "language": "en",
+    "level": "A1",
+    "word": "new friend",
+    "pronunciation": "new /frend/",
+    "meaning": "新的朋友",
+    "example": "I learned \"new friend\" today.",
+    "exampleMeaning": "今天学习“新的朋友”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-322",
+    "language": "en",
+    "level": "A1",
+    "word": "new teacher",
+    "pronunciation": "new /ˈtiːtʃər/",
+    "meaning": "新的老师",
+    "example": "I learned \"new teacher\" today.",
+    "exampleMeaning": "今天学习“新的老师”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-323",
+    "language": "en",
+    "level": "A1",
+    "word": "new student",
+    "pronunciation": "new /ˈstuːdnt/",
+    "meaning": "新的学生",
+    "example": "I learned \"new student\" today.",
+    "exampleMeaning": "今天学习“新的学生”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-324",
+    "language": "en",
+    "level": "A1",
+    "word": "new doctor",
+    "pronunciation": "new /ˈdɑːktər/",
+    "meaning": "新的医生",
+    "example": "I learned \"new doctor\" today.",
+    "exampleMeaning": "今天学习“新的医生”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-325",
+    "language": "en",
+    "level": "A1",
+    "word": "new worker",
+    "pronunciation": "new /ˈwɜːrkər/",
+    "meaning": "新的职员",
+    "example": "I learned \"new worker\" today.",
+    "exampleMeaning": "今天学习“新的职员”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-326",
+    "language": "en",
+    "level": "A1",
+    "word": "new name",
+    "pronunciation": "new /neɪm/",
+    "meaning": "新的名字",
+    "example": "I learned \"new name\" today.",
+    "exampleMeaning": "今天学习“新的名字”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-327",
+    "language": "en",
+    "level": "A1",
+    "word": "new age",
+    "pronunciation": "new /eɪdʒ/",
+    "meaning": "新的年龄",
+    "example": "I learned \"new age\" today.",
+    "exampleMeaning": "今天学习“新的年龄”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-328",
+    "language": "en",
+    "level": "A1",
+    "word": "new home",
+    "pronunciation": "new /hoʊm/",
+    "meaning": "新的家",
+    "example": "I learned \"new home\" today.",
+    "exampleMeaning": "今天学习“新的家”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-329",
+    "language": "en",
+    "level": "A1",
+    "word": "new house",
+    "pronunciation": "new /haʊs/",
+    "meaning": "新的房子",
+    "example": "I learned \"new house\" today.",
+    "exampleMeaning": "今天学习“新的房子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-330",
+    "language": "en",
+    "level": "A1",
+    "word": "new room",
+    "pronunciation": "new /ruːm/",
+    "meaning": "新的房间",
+    "example": "I learned \"new room\" today.",
+    "exampleMeaning": "今天学习“新的房间”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-331",
+    "language": "en",
+    "level": "A1",
+    "word": "new school",
+    "pronunciation": "new /skuːl/",
+    "meaning": "新的学校",
+    "example": "I learned \"new school\" today.",
+    "exampleMeaning": "今天学习“新的学校”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-332",
+    "language": "en",
+    "level": "A1",
+    "word": "new classroom",
+    "pronunciation": "new /ˈklæsruːm/",
+    "meaning": "新的教室",
+    "example": "I learned \"new classroom\" today.",
+    "exampleMeaning": "今天学习“新的教室”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-333",
+    "language": "en",
+    "level": "A1",
+    "word": "new office",
+    "pronunciation": "new /ˈɑːfɪs/",
+    "meaning": "新的办公室",
+    "example": "I learned \"new office\" today.",
+    "exampleMeaning": "今天学习“新的办公室”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-334",
+    "language": "en",
+    "level": "A1",
+    "word": "new shop",
+    "pronunciation": "new /ʃɑːp/",
+    "meaning": "新的商店",
+    "example": "I learned \"new shop\" today.",
+    "exampleMeaning": "今天学习“新的商店”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-335",
+    "language": "en",
+    "level": "A1",
+    "word": "new market",
+    "pronunciation": "new /ˈmɑːrkɪt/",
+    "meaning": "新的市场",
+    "example": "I learned \"new market\" today.",
+    "exampleMeaning": "今天学习“新的市场”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-336",
+    "language": "en",
+    "level": "A1",
+    "word": "new bank",
+    "pronunciation": "new /bæŋk/",
+    "meaning": "新的银行",
+    "example": "I learned \"new bank\" today.",
+    "exampleMeaning": "今天学习“新的银行”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-337",
+    "language": "en",
+    "level": "A1",
+    "word": "new hospital",
+    "pronunciation": "new /ˈhɑːspɪtl/",
+    "meaning": "新的医院",
+    "example": "I learned \"new hospital\" today.",
+    "exampleMeaning": "今天学习“新的医院”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-338",
+    "language": "en",
+    "level": "A1",
+    "word": "new hotel",
+    "pronunciation": "new /hoʊˈtel/",
+    "meaning": "新的酒店",
+    "example": "I learned \"new hotel\" today.",
+    "exampleMeaning": "今天学习“新的酒店”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-339",
+    "language": "en",
+    "level": "A1",
+    "word": "new restaurant",
+    "pronunciation": "new /ˈrestərɑːnt/",
+    "meaning": "新的餐馆",
+    "example": "I learned \"new restaurant\" today.",
+    "exampleMeaning": "今天学习“新的餐馆”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-340",
+    "language": "en",
+    "level": "A1",
+    "word": "new park",
+    "pronunciation": "new /pɑːrk/",
+    "meaning": "新的公园",
+    "example": "I learned \"new park\" today.",
+    "exampleMeaning": "今天学习“新的公园”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-341",
+    "language": "en",
+    "level": "A1",
+    "word": "new station",
+    "pronunciation": "new /ˈsteɪʃn/",
+    "meaning": "新的车站",
+    "example": "I learned \"new station\" today.",
+    "exampleMeaning": "今天学习“新的车站”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-342",
+    "language": "en",
+    "level": "A1",
+    "word": "new airport",
+    "pronunciation": "new /ˈerpɔːrt/",
+    "meaning": "新的机场",
+    "example": "I learned \"new airport\" today.",
+    "exampleMeaning": "今天学习“新的机场”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-343",
+    "language": "en",
+    "level": "A1",
+    "word": "new street",
+    "pronunciation": "new /striːt/",
+    "meaning": "新的街道",
+    "example": "I learned \"new street\" today.",
+    "exampleMeaning": "今天学习“新的街道”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-344",
+    "language": "en",
+    "level": "A1",
+    "word": "new city",
+    "pronunciation": "new /ˈsɪti/",
+    "meaning": "新的城市",
+    "example": "I learned \"new city\" today.",
+    "exampleMeaning": "今天学习“新的城市”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-345",
+    "language": "en",
+    "level": "A1",
+    "word": "new country",
+    "pronunciation": "new /ˈkʌntri/",
+    "meaning": "新的国家",
+    "example": "I learned \"new country\" today.",
+    "exampleMeaning": "今天学习“新的国家”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-346",
+    "language": "en",
+    "level": "A1",
+    "word": "new book",
+    "pronunciation": "new /bʊk/",
+    "meaning": "新的书",
+    "example": "I learned \"new book\" today.",
+    "exampleMeaning": "今天学习“新的书”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-347",
+    "language": "en",
+    "level": "A1",
+    "word": "new pen",
+    "pronunciation": "new /pen/",
+    "meaning": "新的钢笔",
+    "example": "I learned \"new pen\" today.",
+    "exampleMeaning": "今天学习“新的钢笔”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-348",
+    "language": "en",
+    "level": "A1",
+    "word": "new pencil",
+    "pronunciation": "new /ˈpensl/",
+    "meaning": "新的铅笔",
+    "example": "I learned \"new pencil\" today.",
+    "exampleMeaning": "今天学习“新的铅笔”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-349",
+    "language": "en",
+    "level": "A1",
+    "word": "new paper",
+    "pronunciation": "new /ˈpeɪpər/",
+    "meaning": "新的纸",
+    "example": "I learned \"new paper\" today.",
+    "exampleMeaning": "今天学习“新的纸”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-350",
+    "language": "en",
+    "level": "A1",
+    "word": "new bag",
+    "pronunciation": "new /bæɡ/",
+    "meaning": "新的包",
+    "example": "I learned \"new bag\" today.",
+    "exampleMeaning": "今天学习“新的包”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-351",
+    "language": "en",
+    "level": "A1",
+    "word": "new box",
+    "pronunciation": "new /bɑːks/",
+    "meaning": "新的盒子",
+    "example": "I learned \"new box\" today.",
+    "exampleMeaning": "今天学习“新的盒子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-352",
+    "language": "en",
+    "level": "A1",
+    "word": "new key",
+    "pronunciation": "new /kiː/",
+    "meaning": "新的钥匙",
+    "example": "I learned \"new key\" today.",
+    "exampleMeaning": "今天学习“新的钥匙”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-353",
+    "language": "en",
+    "level": "A1",
+    "word": "new phone",
+    "pronunciation": "new /foʊn/",
+    "meaning": "新的电话",
+    "example": "I learned \"new phone\" today.",
+    "exampleMeaning": "今天学习“新的电话”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-354",
+    "language": "en",
+    "level": "A1",
+    "word": "new computer",
+    "pronunciation": "new /kəmˈpjuːtər/",
+    "meaning": "新的电脑",
+    "example": "I learned \"new computer\" today.",
+    "exampleMeaning": "今天学习“新的电脑”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-355",
+    "language": "en",
+    "level": "A1",
+    "word": "new table",
+    "pronunciation": "new /ˈteɪbl/",
+    "meaning": "新的桌子",
+    "example": "I learned \"new table\" today.",
+    "exampleMeaning": "今天学习“新的桌子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-356",
+    "language": "en",
+    "level": "A1",
+    "word": "new chair",
+    "pronunciation": "new /tʃer/",
+    "meaning": "新的椅子",
+    "example": "I learned \"new chair\" today.",
+    "exampleMeaning": "今天学习“新的椅子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-357",
+    "language": "en",
+    "level": "A1",
+    "word": "new door",
+    "pronunciation": "new /dɔːr/",
+    "meaning": "新的门",
+    "example": "I learned \"new door\" today.",
+    "exampleMeaning": "今天学习“新的门”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-358",
+    "language": "en",
+    "level": "A1",
+    "word": "new window",
+    "pronunciation": "new /ˈwɪndoʊ/",
+    "meaning": "新的窗户",
+    "example": "I learned \"new window\" today.",
+    "exampleMeaning": "今天学习“新的窗户”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-359",
+    "language": "en",
+    "level": "A1",
+    "word": "new bed",
+    "pronunciation": "new /bed/",
+    "meaning": "新的床",
+    "example": "I learned \"new bed\" today.",
+    "exampleMeaning": "今天学习“新的床”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-360",
+    "language": "en",
+    "level": "A1",
+    "word": "new cup",
+    "pronunciation": "new /kʌp/",
+    "meaning": "新的杯子",
+    "example": "I learned \"new cup\" today.",
+    "exampleMeaning": "今天学习“新的杯子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-361",
+    "language": "en",
+    "level": "A1",
+    "word": "new plate",
+    "pronunciation": "new /pleɪt/",
+    "meaning": "新的盘子",
+    "example": "I learned \"new plate\" today.",
+    "exampleMeaning": "今天学习“新的盘子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-362",
+    "language": "en",
+    "level": "A1",
+    "word": "new clock",
+    "pronunciation": "new /klɑːk/",
+    "meaning": "新的钟表",
+    "example": "I learned \"new clock\" today.",
+    "exampleMeaning": "今天学习“新的钟表”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-363",
+    "language": "en",
+    "level": "A1",
+    "word": "new photo",
+    "pronunciation": "new /ˈfoʊtoʊ/",
+    "meaning": "新的照片",
+    "example": "I learned \"new photo\" today.",
+    "exampleMeaning": "今天学习“新的照片”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-364",
+    "language": "en",
+    "level": "A1",
+    "word": "new map",
+    "pronunciation": "new /mæp/",
+    "meaning": "新的地图",
+    "example": "I learned \"new map\" today.",
+    "exampleMeaning": "今天学习“新的地图”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-365",
+    "language": "en",
+    "level": "A1",
+    "word": "new money",
+    "pronunciation": "new /ˈmʌni/",
+    "meaning": "新的钱",
+    "example": "I learned \"new money\" today.",
+    "exampleMeaning": "今天学习“新的钱”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-366",
+    "language": "en",
+    "level": "A1",
+    "word": "new ticket",
+    "pronunciation": "new /ˈtɪkɪt/",
+    "meaning": "新的票",
+    "example": "I learned \"new ticket\" today.",
+    "exampleMeaning": "今天学习“新的票”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-367",
+    "language": "en",
+    "level": "A1",
+    "word": "new water",
+    "pronunciation": "new /ˈwɔːtər/",
+    "meaning": "新的水",
+    "example": "I learned \"new water\" today.",
+    "exampleMeaning": "今天学习“新的水”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-368",
+    "language": "en",
+    "level": "A1",
+    "word": "new tea",
+    "pronunciation": "new /tiː/",
+    "meaning": "新的茶",
+    "example": "I learned \"new tea\" today.",
+    "exampleMeaning": "今天学习“新的茶”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-369",
+    "language": "en",
+    "level": "A1",
+    "word": "new coffee",
+    "pronunciation": "new /ˈkɔːfi/",
+    "meaning": "新的咖啡",
+    "example": "I learned \"new coffee\" today.",
+    "exampleMeaning": "今天学习“新的咖啡”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-370",
+    "language": "en",
+    "level": "A1",
+    "word": "new milk",
+    "pronunciation": "new /mɪlk/",
+    "meaning": "新的牛奶",
+    "example": "I learned \"new milk\" today.",
+    "exampleMeaning": "今天学习“新的牛奶”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-371",
+    "language": "en",
+    "level": "A1",
+    "word": "new juice",
+    "pronunciation": "new /dʒuːs/",
+    "meaning": "新的果汁",
+    "example": "I learned \"new juice\" today.",
+    "exampleMeaning": "今天学习“新的果汁”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-372",
+    "language": "en",
+    "level": "A1",
+    "word": "new bread",
+    "pronunciation": "new /bred/",
+    "meaning": "新的面包",
+    "example": "I learned \"new bread\" today.",
+    "exampleMeaning": "今天学习“新的面包”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-373",
+    "language": "en",
+    "level": "A1",
+    "word": "new rice",
+    "pronunciation": "new /raɪs/",
+    "meaning": "新的米饭",
+    "example": "I learned \"new rice\" today.",
+    "exampleMeaning": "今天学习“新的米饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-374",
+    "language": "en",
+    "level": "A1",
+    "word": "new egg",
+    "pronunciation": "new /eɡ/",
+    "meaning": "新的鸡蛋",
+    "example": "I learned \"new egg\" today.",
+    "exampleMeaning": "今天学习“新的鸡蛋”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-375",
+    "language": "en",
+    "level": "A1",
+    "word": "new meat",
+    "pronunciation": "new /miːt/",
+    "meaning": "新的肉",
+    "example": "I learned \"new meat\" today.",
+    "exampleMeaning": "今天学习“新的肉”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-376",
+    "language": "en",
+    "level": "A1",
+    "word": "new fish",
+    "pronunciation": "new /fɪʃ/",
+    "meaning": "新的鱼",
+    "example": "I learned \"new fish\" today.",
+    "exampleMeaning": "今天学习“新的鱼”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-377",
+    "language": "en",
+    "level": "A1",
+    "word": "new vegetable",
+    "pronunciation": "new /ˈvedʒtəbl/",
+    "meaning": "新的蔬菜",
+    "example": "I learned \"new vegetable\" today.",
+    "exampleMeaning": "今天学习“新的蔬菜”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-378",
+    "language": "en",
+    "level": "A1",
+    "word": "new fruit",
+    "pronunciation": "new /fruːt/",
+    "meaning": "新的水果",
+    "example": "I learned \"new fruit\" today.",
+    "exampleMeaning": "今天学习“新的水果”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-379",
+    "language": "en",
+    "level": "A1",
+    "word": "new apple",
+    "pronunciation": "new /ˈæpl/",
+    "meaning": "新的苹果",
+    "example": "I learned \"new apple\" today.",
+    "exampleMeaning": "今天学习“新的苹果”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-380",
+    "language": "en",
+    "level": "A1",
+    "word": "new banana",
+    "pronunciation": "new /bəˈnænə/",
+    "meaning": "新的香蕉",
+    "example": "I learned \"new banana\" today.",
+    "exampleMeaning": "今天学习“新的香蕉”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-381",
+    "language": "en",
+    "level": "A1",
+    "word": "new orange",
+    "pronunciation": "new /ˈɔːrɪndʒ/",
+    "meaning": "新的橙子",
+    "example": "I learned \"new orange\" today.",
+    "exampleMeaning": "今天学习“新的橙子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-382",
+    "language": "en",
+    "level": "A1",
+    "word": "new cake",
+    "pronunciation": "new /keɪk/",
+    "meaning": "新的蛋糕",
+    "example": "I learned \"new cake\" today.",
+    "exampleMeaning": "今天学习“新的蛋糕”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-383",
+    "language": "en",
+    "level": "A1",
+    "word": "new soup",
+    "pronunciation": "new /suːp/",
+    "meaning": "新的汤",
+    "example": "I learned \"new soup\" today.",
+    "exampleMeaning": "今天学习“新的汤”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-384",
+    "language": "en",
+    "level": "A1",
+    "word": "new breakfast",
+    "pronunciation": "new /ˈbrekfəst/",
+    "meaning": "新的早饭",
+    "example": "I learned \"new breakfast\" today.",
+    "exampleMeaning": "今天学习“新的早饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-385",
+    "language": "en",
+    "level": "A1",
+    "word": "new lunch",
+    "pronunciation": "new /lʌntʃ/",
+    "meaning": "新的午饭",
+    "example": "I learned \"new lunch\" today.",
+    "exampleMeaning": "今天学习“新的午饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-386",
+    "language": "en",
+    "level": "A1",
+    "word": "new dinner",
+    "pronunciation": "new /ˈdɪnər/",
+    "meaning": "新的晚饭",
+    "example": "I learned \"new dinner\" today.",
+    "exampleMeaning": "今天学习“新的晚饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-387",
+    "language": "en",
+    "level": "A1",
+    "word": "new today",
+    "pronunciation": "new /təˈdeɪ/",
+    "meaning": "新的今天",
+    "example": "I learned \"new today\" today.",
+    "exampleMeaning": "今天学习“新的今天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-388",
+    "language": "en",
+    "level": "A1",
+    "word": "new tomorrow",
+    "pronunciation": "new /təˈmɑːroʊ/",
+    "meaning": "新的明天",
+    "example": "I learned \"new tomorrow\" today.",
+    "exampleMeaning": "今天学习“新的明天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-389",
+    "language": "en",
+    "level": "A1",
+    "word": "new yesterday",
+    "pronunciation": "new /ˈjestərdeɪ/",
+    "meaning": "新的昨天",
+    "example": "I learned \"new yesterday\" today.",
+    "exampleMeaning": "今天学习“新的昨天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-390",
+    "language": "en",
+    "level": "A1",
+    "word": "new morning",
+    "pronunciation": "new /ˈmɔːrnɪŋ/",
+    "meaning": "新的早晨",
+    "example": "I learned \"new morning\" today.",
+    "exampleMeaning": "今天学习“新的早晨”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-391",
+    "language": "en",
+    "level": "A1",
+    "word": "new afternoon",
+    "pronunciation": "new /ˌæftərˈnuːn/",
+    "meaning": "新的下午",
+    "example": "I learned \"new afternoon\" today.",
+    "exampleMeaning": "今天学习“新的下午”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-392",
+    "language": "en",
+    "level": "A1",
+    "word": "new evening",
+    "pronunciation": "new /ˈiːvnɪŋ/",
+    "meaning": "新的傍晚",
+    "example": "I learned \"new evening\" today.",
+    "exampleMeaning": "今天学习“新的傍晚”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-393",
+    "language": "en",
+    "level": "A1",
+    "word": "new night",
+    "pronunciation": "new /naɪt/",
+    "meaning": "新的夜晚",
+    "example": "I learned \"new night\" today.",
+    "exampleMeaning": "今天学习“新的夜晚”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-394",
+    "language": "en",
+    "level": "A1",
+    "word": "new week",
+    "pronunciation": "new /wiːk/",
+    "meaning": "新的星期",
+    "example": "I learned \"new week\" today.",
+    "exampleMeaning": "今天学习“新的星期”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-395",
+    "language": "en",
+    "level": "A1",
+    "word": "new month",
+    "pronunciation": "new /mʌnθ/",
+    "meaning": "新的月份",
+    "example": "I learned \"new month\" today.",
+    "exampleMeaning": "今天学习“新的月份”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-396",
+    "language": "en",
+    "level": "A1",
+    "word": "new year",
+    "pronunciation": "new /jɪr/",
+    "meaning": "新的年",
+    "example": "I learned \"new year\" today.",
+    "exampleMeaning": "今天学习“新的年”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-397",
+    "language": "en",
+    "level": "A1",
+    "word": "new time",
+    "pronunciation": "new /taɪm/",
+    "meaning": "新的时间",
+    "example": "I learned \"new time\" today.",
+    "exampleMeaning": "今天学习“新的时间”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-398",
+    "language": "en",
+    "level": "A1",
+    "word": "new hour",
+    "pronunciation": "new /ˈaʊər/",
+    "meaning": "新的小时",
+    "example": "I learned \"new hour\" today.",
+    "exampleMeaning": "今天学习“新的小时”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-399",
+    "language": "en",
+    "level": "A1",
+    "word": "new minute",
+    "pronunciation": "new /ˈmɪnɪt/",
+    "meaning": "新的分钟",
+    "example": "I learned \"new minute\" today.",
+    "exampleMeaning": "今天学习“新的分钟”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-400",
+    "language": "en",
+    "level": "A1",
+    "word": "new weather",
+    "pronunciation": "new /ˈweðər/",
+    "meaning": "新的天气",
+    "example": "I learned \"new weather\" today.",
+    "exampleMeaning": "今天学习“新的天气”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-401",
+    "language": "en",
+    "level": "A1",
+    "word": "new rain",
+    "pronunciation": "new /reɪn/",
+    "meaning": "新的雨",
+    "example": "I learned \"new rain\" today.",
+    "exampleMeaning": "今天学习“新的雨”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-402",
+    "language": "en",
+    "level": "A1",
+    "word": "new snow",
+    "pronunciation": "new /snoʊ/",
+    "meaning": "新的雪",
+    "example": "I learned \"new snow\" today.",
+    "exampleMeaning": "今天学习“新的雪”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-403",
+    "language": "en",
+    "level": "A1",
+    "word": "new wind",
+    "pronunciation": "new /wɪnd/",
+    "meaning": "新的风",
+    "example": "I learned \"new wind\" today.",
+    "exampleMeaning": "今天学习“新的风”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-404",
+    "language": "en",
+    "level": "A1",
+    "word": "new sky",
+    "pronunciation": "new /skaɪ/",
+    "meaning": "新的天空",
+    "example": "I learned \"new sky\" today.",
+    "exampleMeaning": "今天学习“新的天空”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-405",
+    "language": "en",
+    "level": "A1",
+    "word": "new mountain",
+    "pronunciation": "new /ˈmaʊntn/",
+    "meaning": "新的山",
+    "example": "I learned \"new mountain\" today.",
+    "exampleMeaning": "今天学习“新的山”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-406",
+    "language": "en",
+    "level": "A1",
+    "word": "new river",
+    "pronunciation": "new /ˈrɪvər/",
+    "meaning": "新的河",
+    "example": "I learned \"new river\" today.",
+    "exampleMeaning": "今天学习“新的河”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-407",
+    "language": "en",
+    "level": "A1",
+    "word": "new sea",
+    "pronunciation": "new /siː/",
+    "meaning": "新的海",
+    "example": "I learned \"new sea\" today.",
+    "exampleMeaning": "今天学习“新的海”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-408",
+    "language": "en",
+    "level": "A1",
+    "word": "new tree",
+    "pronunciation": "new /triː/",
+    "meaning": "新的树",
+    "example": "I learned \"new tree\" today.",
+    "exampleMeaning": "今天学习“新的树”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-409",
+    "language": "en",
+    "level": "A1",
+    "word": "new flower",
+    "pronunciation": "new /ˈflaʊər/",
+    "meaning": "新的花",
+    "example": "I learned \"new flower\" today.",
+    "exampleMeaning": "今天学习“新的花”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-410",
+    "language": "en",
+    "level": "A1",
+    "word": "new car",
+    "pronunciation": "new /kɑːr/",
+    "meaning": "新的汽车",
+    "example": "I learned \"new car\" today.",
+    "exampleMeaning": "今天学习“新的汽车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-411",
+    "language": "en",
+    "level": "A1",
+    "word": "new bus",
+    "pronunciation": "new /bʌs/",
+    "meaning": "新的公交车",
+    "example": "I learned \"new bus\" today.",
+    "exampleMeaning": "今天学习“新的公交车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-412",
+    "language": "en",
+    "level": "A1",
+    "word": "new train",
+    "pronunciation": "new /treɪn/",
+    "meaning": "新的火车",
+    "example": "I learned \"new train\" today.",
+    "exampleMeaning": "今天学习“新的火车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-413",
+    "language": "en",
+    "level": "A1",
+    "word": "new bicycle",
+    "pronunciation": "new /ˈbaɪsɪkl/",
+    "meaning": "新的自行车",
+    "example": "I learned \"new bicycle\" today.",
+    "exampleMeaning": "今天学习“新的自行车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-414",
+    "language": "en",
+    "level": "A1",
+    "word": "new plane",
+    "pronunciation": "new /pleɪn/",
+    "meaning": "新的飞机",
+    "example": "I learned \"new plane\" today.",
+    "exampleMeaning": "今天学习“新的飞机”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-415",
+    "language": "en",
+    "level": "A1",
+    "word": "old person",
+    "pronunciation": "old /ˈpɜːrsn/",
+    "meaning": "旧的人",
+    "example": "I learned \"old person\" today.",
+    "exampleMeaning": "今天学习“旧的人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-416",
+    "language": "en",
+    "level": "A1",
+    "word": "old man",
+    "pronunciation": "old /mæn/",
+    "meaning": "旧的男人",
+    "example": "I learned \"old man\" today.",
+    "exampleMeaning": "今天学习“旧的男人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-417",
+    "language": "en",
+    "level": "A1",
+    "word": "old woman",
+    "pronunciation": "old /ˈwʊmən/",
+    "meaning": "旧的女人",
+    "example": "I learned \"old woman\" today.",
+    "exampleMeaning": "今天学习“旧的女人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-418",
+    "language": "en",
+    "level": "A1",
+    "word": "old child",
+    "pronunciation": "old /tʃaɪld/",
+    "meaning": "旧的孩子",
+    "example": "I learned \"old child\" today.",
+    "exampleMeaning": "今天学习“旧的孩子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-419",
+    "language": "en",
+    "level": "A1",
+    "word": "old boy",
+    "pronunciation": "old /bɔɪ/",
+    "meaning": "旧的男孩",
+    "example": "I learned \"old boy\" today.",
+    "exampleMeaning": "今天学习“旧的男孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-420",
+    "language": "en",
+    "level": "A1",
+    "word": "old girl",
+    "pronunciation": "old /ɡɜːrl/",
+    "meaning": "旧的女孩",
+    "example": "I learned \"old girl\" today.",
+    "exampleMeaning": "今天学习“旧的女孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-421",
+    "language": "en",
+    "level": "A1",
+    "word": "old friend",
+    "pronunciation": "old /frend/",
+    "meaning": "旧的朋友",
+    "example": "I learned \"old friend\" today.",
+    "exampleMeaning": "今天学习“旧的朋友”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-422",
+    "language": "en",
+    "level": "A1",
+    "word": "old teacher",
+    "pronunciation": "old /ˈtiːtʃər/",
+    "meaning": "旧的老师",
+    "example": "I learned \"old teacher\" today.",
+    "exampleMeaning": "今天学习“旧的老师”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-423",
+    "language": "en",
+    "level": "A1",
+    "word": "old student",
+    "pronunciation": "old /ˈstuːdnt/",
+    "meaning": "旧的学生",
+    "example": "I learned \"old student\" today.",
+    "exampleMeaning": "今天学习“旧的学生”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-424",
+    "language": "en",
+    "level": "A1",
+    "word": "old doctor",
+    "pronunciation": "old /ˈdɑːktər/",
+    "meaning": "旧的医生",
+    "example": "I learned \"old doctor\" today.",
+    "exampleMeaning": "今天学习“旧的医生”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-425",
+    "language": "en",
+    "level": "A1",
+    "word": "old worker",
+    "pronunciation": "old /ˈwɜːrkər/",
+    "meaning": "旧的职员",
+    "example": "I learned \"old worker\" today.",
+    "exampleMeaning": "今天学习“旧的职员”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-426",
+    "language": "en",
+    "level": "A1",
+    "word": "old name",
+    "pronunciation": "old /neɪm/",
+    "meaning": "旧的名字",
+    "example": "I learned \"old name\" today.",
+    "exampleMeaning": "今天学习“旧的名字”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-427",
+    "language": "en",
+    "level": "A1",
+    "word": "old age",
+    "pronunciation": "old /eɪdʒ/",
+    "meaning": "旧的年龄",
+    "example": "I learned \"old age\" today.",
+    "exampleMeaning": "今天学习“旧的年龄”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-428",
+    "language": "en",
+    "level": "A1",
+    "word": "old home",
+    "pronunciation": "old /hoʊm/",
+    "meaning": "旧的家",
+    "example": "I learned \"old home\" today.",
+    "exampleMeaning": "今天学习“旧的家”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-429",
+    "language": "en",
+    "level": "A1",
+    "word": "old house",
+    "pronunciation": "old /haʊs/",
+    "meaning": "旧的房子",
+    "example": "I learned \"old house\" today.",
+    "exampleMeaning": "今天学习“旧的房子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-430",
+    "language": "en",
+    "level": "A1",
+    "word": "old room",
+    "pronunciation": "old /ruːm/",
+    "meaning": "旧的房间",
+    "example": "I learned \"old room\" today.",
+    "exampleMeaning": "今天学习“旧的房间”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-431",
+    "language": "en",
+    "level": "A1",
+    "word": "old school",
+    "pronunciation": "old /skuːl/",
+    "meaning": "旧的学校",
+    "example": "I learned \"old school\" today.",
+    "exampleMeaning": "今天学习“旧的学校”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-432",
+    "language": "en",
+    "level": "A1",
+    "word": "old classroom",
+    "pronunciation": "old /ˈklæsruːm/",
+    "meaning": "旧的教室",
+    "example": "I learned \"old classroom\" today.",
+    "exampleMeaning": "今天学习“旧的教室”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-433",
+    "language": "en",
+    "level": "A1",
+    "word": "old office",
+    "pronunciation": "old /ˈɑːfɪs/",
+    "meaning": "旧的办公室",
+    "example": "I learned \"old office\" today.",
+    "exampleMeaning": "今天学习“旧的办公室”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-434",
+    "language": "en",
+    "level": "A1",
+    "word": "old shop",
+    "pronunciation": "old /ʃɑːp/",
+    "meaning": "旧的商店",
+    "example": "I learned \"old shop\" today.",
+    "exampleMeaning": "今天学习“旧的商店”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-435",
+    "language": "en",
+    "level": "A1",
+    "word": "old market",
+    "pronunciation": "old /ˈmɑːrkɪt/",
+    "meaning": "旧的市场",
+    "example": "I learned \"old market\" today.",
+    "exampleMeaning": "今天学习“旧的市场”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-436",
+    "language": "en",
+    "level": "A1",
+    "word": "old bank",
+    "pronunciation": "old /bæŋk/",
+    "meaning": "旧的银行",
+    "example": "I learned \"old bank\" today.",
+    "exampleMeaning": "今天学习“旧的银行”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-437",
+    "language": "en",
+    "level": "A1",
+    "word": "old hospital",
+    "pronunciation": "old /ˈhɑːspɪtl/",
+    "meaning": "旧的医院",
+    "example": "I learned \"old hospital\" today.",
+    "exampleMeaning": "今天学习“旧的医院”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-438",
+    "language": "en",
+    "level": "A1",
+    "word": "old hotel",
+    "pronunciation": "old /hoʊˈtel/",
+    "meaning": "旧的酒店",
+    "example": "I learned \"old hotel\" today.",
+    "exampleMeaning": "今天学习“旧的酒店”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-439",
+    "language": "en",
+    "level": "A1",
+    "word": "old restaurant",
+    "pronunciation": "old /ˈrestərɑːnt/",
+    "meaning": "旧的餐馆",
+    "example": "I learned \"old restaurant\" today.",
+    "exampleMeaning": "今天学习“旧的餐馆”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-440",
+    "language": "en",
+    "level": "A1",
+    "word": "old park",
+    "pronunciation": "old /pɑːrk/",
+    "meaning": "旧的公园",
+    "example": "I learned \"old park\" today.",
+    "exampleMeaning": "今天学习“旧的公园”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-441",
+    "language": "en",
+    "level": "A1",
+    "word": "old station",
+    "pronunciation": "old /ˈsteɪʃn/",
+    "meaning": "旧的车站",
+    "example": "I learned \"old station\" today.",
+    "exampleMeaning": "今天学习“旧的车站”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-442",
+    "language": "en",
+    "level": "A1",
+    "word": "old airport",
+    "pronunciation": "old /ˈerpɔːrt/",
+    "meaning": "旧的机场",
+    "example": "I learned \"old airport\" today.",
+    "exampleMeaning": "今天学习“旧的机场”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-443",
+    "language": "en",
+    "level": "A1",
+    "word": "old street",
+    "pronunciation": "old /striːt/",
+    "meaning": "旧的街道",
+    "example": "I learned \"old street\" today.",
+    "exampleMeaning": "今天学习“旧的街道”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-444",
+    "language": "en",
+    "level": "A1",
+    "word": "old city",
+    "pronunciation": "old /ˈsɪti/",
+    "meaning": "旧的城市",
+    "example": "I learned \"old city\" today.",
+    "exampleMeaning": "今天学习“旧的城市”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-445",
+    "language": "en",
+    "level": "A1",
+    "word": "old country",
+    "pronunciation": "old /ˈkʌntri/",
+    "meaning": "旧的国家",
+    "example": "I learned \"old country\" today.",
+    "exampleMeaning": "今天学习“旧的国家”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-446",
+    "language": "en",
+    "level": "A1",
+    "word": "old book",
+    "pronunciation": "old /bʊk/",
+    "meaning": "旧的书",
+    "example": "I learned \"old book\" today.",
+    "exampleMeaning": "今天学习“旧的书”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-447",
+    "language": "en",
+    "level": "A1",
+    "word": "old pen",
+    "pronunciation": "old /pen/",
+    "meaning": "旧的钢笔",
+    "example": "I learned \"old pen\" today.",
+    "exampleMeaning": "今天学习“旧的钢笔”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-448",
+    "language": "en",
+    "level": "A1",
+    "word": "old pencil",
+    "pronunciation": "old /ˈpensl/",
+    "meaning": "旧的铅笔",
+    "example": "I learned \"old pencil\" today.",
+    "exampleMeaning": "今天学习“旧的铅笔”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-449",
+    "language": "en",
+    "level": "A1",
+    "word": "old paper",
+    "pronunciation": "old /ˈpeɪpər/",
+    "meaning": "旧的纸",
+    "example": "I learned \"old paper\" today.",
+    "exampleMeaning": "今天学习“旧的纸”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-450",
+    "language": "en",
+    "level": "A1",
+    "word": "old bag",
+    "pronunciation": "old /bæɡ/",
+    "meaning": "旧的包",
+    "example": "I learned \"old bag\" today.",
+    "exampleMeaning": "今天学习“旧的包”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-451",
+    "language": "en",
+    "level": "A1",
+    "word": "old box",
+    "pronunciation": "old /bɑːks/",
+    "meaning": "旧的盒子",
+    "example": "I learned \"old box\" today.",
+    "exampleMeaning": "今天学习“旧的盒子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-452",
+    "language": "en",
+    "level": "A1",
+    "word": "old key",
+    "pronunciation": "old /kiː/",
+    "meaning": "旧的钥匙",
+    "example": "I learned \"old key\" today.",
+    "exampleMeaning": "今天学习“旧的钥匙”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-453",
+    "language": "en",
+    "level": "A1",
+    "word": "old phone",
+    "pronunciation": "old /foʊn/",
+    "meaning": "旧的电话",
+    "example": "I learned \"old phone\" today.",
+    "exampleMeaning": "今天学习“旧的电话”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-454",
+    "language": "en",
+    "level": "A1",
+    "word": "old computer",
+    "pronunciation": "old /kəmˈpjuːtər/",
+    "meaning": "旧的电脑",
+    "example": "I learned \"old computer\" today.",
+    "exampleMeaning": "今天学习“旧的电脑”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-455",
+    "language": "en",
+    "level": "A1",
+    "word": "old table",
+    "pronunciation": "old /ˈteɪbl/",
+    "meaning": "旧的桌子",
+    "example": "I learned \"old table\" today.",
+    "exampleMeaning": "今天学习“旧的桌子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-456",
+    "language": "en",
+    "level": "A1",
+    "word": "old chair",
+    "pronunciation": "old /tʃer/",
+    "meaning": "旧的椅子",
+    "example": "I learned \"old chair\" today.",
+    "exampleMeaning": "今天学习“旧的椅子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-457",
+    "language": "en",
+    "level": "A1",
+    "word": "old door",
+    "pronunciation": "old /dɔːr/",
+    "meaning": "旧的门",
+    "example": "I learned \"old door\" today.",
+    "exampleMeaning": "今天学习“旧的门”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-458",
+    "language": "en",
+    "level": "A1",
+    "word": "old window",
+    "pronunciation": "old /ˈwɪndoʊ/",
+    "meaning": "旧的窗户",
+    "example": "I learned \"old window\" today.",
+    "exampleMeaning": "今天学习“旧的窗户”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-459",
+    "language": "en",
+    "level": "A1",
+    "word": "old bed",
+    "pronunciation": "old /bed/",
+    "meaning": "旧的床",
+    "example": "I learned \"old bed\" today.",
+    "exampleMeaning": "今天学习“旧的床”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-460",
+    "language": "en",
+    "level": "A1",
+    "word": "old cup",
+    "pronunciation": "old /kʌp/",
+    "meaning": "旧的杯子",
+    "example": "I learned \"old cup\" today.",
+    "exampleMeaning": "今天学习“旧的杯子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-461",
+    "language": "en",
+    "level": "A1",
+    "word": "old plate",
+    "pronunciation": "old /pleɪt/",
+    "meaning": "旧的盘子",
+    "example": "I learned \"old plate\" today.",
+    "exampleMeaning": "今天学习“旧的盘子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-462",
+    "language": "en",
+    "level": "A1",
+    "word": "old clock",
+    "pronunciation": "old /klɑːk/",
+    "meaning": "旧的钟表",
+    "example": "I learned \"old clock\" today.",
+    "exampleMeaning": "今天学习“旧的钟表”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-463",
+    "language": "en",
+    "level": "A1",
+    "word": "old photo",
+    "pronunciation": "old /ˈfoʊtoʊ/",
+    "meaning": "旧的照片",
+    "example": "I learned \"old photo\" today.",
+    "exampleMeaning": "今天学习“旧的照片”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-464",
+    "language": "en",
+    "level": "A1",
+    "word": "old map",
+    "pronunciation": "old /mæp/",
+    "meaning": "旧的地图",
+    "example": "I learned \"old map\" today.",
+    "exampleMeaning": "今天学习“旧的地图”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-465",
+    "language": "en",
+    "level": "A1",
+    "word": "old money",
+    "pronunciation": "old /ˈmʌni/",
+    "meaning": "旧的钱",
+    "example": "I learned \"old money\" today.",
+    "exampleMeaning": "今天学习“旧的钱”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-466",
+    "language": "en",
+    "level": "A1",
+    "word": "old ticket",
+    "pronunciation": "old /ˈtɪkɪt/",
+    "meaning": "旧的票",
+    "example": "I learned \"old ticket\" today.",
+    "exampleMeaning": "今天学习“旧的票”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-467",
+    "language": "en",
+    "level": "A1",
+    "word": "old water",
+    "pronunciation": "old /ˈwɔːtər/",
+    "meaning": "旧的水",
+    "example": "I learned \"old water\" today.",
+    "exampleMeaning": "今天学习“旧的水”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-468",
+    "language": "en",
+    "level": "A1",
+    "word": "old tea",
+    "pronunciation": "old /tiː/",
+    "meaning": "旧的茶",
+    "example": "I learned \"old tea\" today.",
+    "exampleMeaning": "今天学习“旧的茶”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-469",
+    "language": "en",
+    "level": "A1",
+    "word": "old coffee",
+    "pronunciation": "old /ˈkɔːfi/",
+    "meaning": "旧的咖啡",
+    "example": "I learned \"old coffee\" today.",
+    "exampleMeaning": "今天学习“旧的咖啡”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-470",
+    "language": "en",
+    "level": "A1",
+    "word": "old milk",
+    "pronunciation": "old /mɪlk/",
+    "meaning": "旧的牛奶",
+    "example": "I learned \"old milk\" today.",
+    "exampleMeaning": "今天学习“旧的牛奶”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-471",
+    "language": "en",
+    "level": "A1",
+    "word": "old juice",
+    "pronunciation": "old /dʒuːs/",
+    "meaning": "旧的果汁",
+    "example": "I learned \"old juice\" today.",
+    "exampleMeaning": "今天学习“旧的果汁”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-472",
+    "language": "en",
+    "level": "A1",
+    "word": "old bread",
+    "pronunciation": "old /bred/",
+    "meaning": "旧的面包",
+    "example": "I learned \"old bread\" today.",
+    "exampleMeaning": "今天学习“旧的面包”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-473",
+    "language": "en",
+    "level": "A1",
+    "word": "old rice",
+    "pronunciation": "old /raɪs/",
+    "meaning": "旧的米饭",
+    "example": "I learned \"old rice\" today.",
+    "exampleMeaning": "今天学习“旧的米饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-474",
+    "language": "en",
+    "level": "A1",
+    "word": "old egg",
+    "pronunciation": "old /eɡ/",
+    "meaning": "旧的鸡蛋",
+    "example": "I learned \"old egg\" today.",
+    "exampleMeaning": "今天学习“旧的鸡蛋”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-475",
+    "language": "en",
+    "level": "A1",
+    "word": "old meat",
+    "pronunciation": "old /miːt/",
+    "meaning": "旧的肉",
+    "example": "I learned \"old meat\" today.",
+    "exampleMeaning": "今天学习“旧的肉”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-476",
+    "language": "en",
+    "level": "A1",
+    "word": "old fish",
+    "pronunciation": "old /fɪʃ/",
+    "meaning": "旧的鱼",
+    "example": "I learned \"old fish\" today.",
+    "exampleMeaning": "今天学习“旧的鱼”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-477",
+    "language": "en",
+    "level": "A1",
+    "word": "old vegetable",
+    "pronunciation": "old /ˈvedʒtəbl/",
+    "meaning": "旧的蔬菜",
+    "example": "I learned \"old vegetable\" today.",
+    "exampleMeaning": "今天学习“旧的蔬菜”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-478",
+    "language": "en",
+    "level": "A1",
+    "word": "old fruit",
+    "pronunciation": "old /fruːt/",
+    "meaning": "旧的水果",
+    "example": "I learned \"old fruit\" today.",
+    "exampleMeaning": "今天学习“旧的水果”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-479",
+    "language": "en",
+    "level": "A1",
+    "word": "old apple",
+    "pronunciation": "old /ˈæpl/",
+    "meaning": "旧的苹果",
+    "example": "I learned \"old apple\" today.",
+    "exampleMeaning": "今天学习“旧的苹果”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-480",
+    "language": "en",
+    "level": "A1",
+    "word": "old banana",
+    "pronunciation": "old /bəˈnænə/",
+    "meaning": "旧的香蕉",
+    "example": "I learned \"old banana\" today.",
+    "exampleMeaning": "今天学习“旧的香蕉”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-481",
+    "language": "en",
+    "level": "A1",
+    "word": "old orange",
+    "pronunciation": "old /ˈɔːrɪndʒ/",
+    "meaning": "旧的橙子",
+    "example": "I learned \"old orange\" today.",
+    "exampleMeaning": "今天学习“旧的橙子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-482",
+    "language": "en",
+    "level": "A1",
+    "word": "old cake",
+    "pronunciation": "old /keɪk/",
+    "meaning": "旧的蛋糕",
+    "example": "I learned \"old cake\" today.",
+    "exampleMeaning": "今天学习“旧的蛋糕”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-483",
+    "language": "en",
+    "level": "A1",
+    "word": "old soup",
+    "pronunciation": "old /suːp/",
+    "meaning": "旧的汤",
+    "example": "I learned \"old soup\" today.",
+    "exampleMeaning": "今天学习“旧的汤”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-484",
+    "language": "en",
+    "level": "A1",
+    "word": "old breakfast",
+    "pronunciation": "old /ˈbrekfəst/",
+    "meaning": "旧的早饭",
+    "example": "I learned \"old breakfast\" today.",
+    "exampleMeaning": "今天学习“旧的早饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-485",
+    "language": "en",
+    "level": "A1",
+    "word": "old lunch",
+    "pronunciation": "old /lʌntʃ/",
+    "meaning": "旧的午饭",
+    "example": "I learned \"old lunch\" today.",
+    "exampleMeaning": "今天学习“旧的午饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-486",
+    "language": "en",
+    "level": "A1",
+    "word": "old dinner",
+    "pronunciation": "old /ˈdɪnər/",
+    "meaning": "旧的晚饭",
+    "example": "I learned \"old dinner\" today.",
+    "exampleMeaning": "今天学习“旧的晚饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-487",
+    "language": "en",
+    "level": "A1",
+    "word": "old today",
+    "pronunciation": "old /təˈdeɪ/",
+    "meaning": "旧的今天",
+    "example": "I learned \"old today\" today.",
+    "exampleMeaning": "今天学习“旧的今天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-488",
+    "language": "en",
+    "level": "A1",
+    "word": "old tomorrow",
+    "pronunciation": "old /təˈmɑːroʊ/",
+    "meaning": "旧的明天",
+    "example": "I learned \"old tomorrow\" today.",
+    "exampleMeaning": "今天学习“旧的明天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-489",
+    "language": "en",
+    "level": "A1",
+    "word": "old yesterday",
+    "pronunciation": "old /ˈjestərdeɪ/",
+    "meaning": "旧的昨天",
+    "example": "I learned \"old yesterday\" today.",
+    "exampleMeaning": "今天学习“旧的昨天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-490",
+    "language": "en",
+    "level": "A1",
+    "word": "old morning",
+    "pronunciation": "old /ˈmɔːrnɪŋ/",
+    "meaning": "旧的早晨",
+    "example": "I learned \"old morning\" today.",
+    "exampleMeaning": "今天学习“旧的早晨”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-491",
+    "language": "en",
+    "level": "A1",
+    "word": "old afternoon",
+    "pronunciation": "old /ˌæftərˈnuːn/",
+    "meaning": "旧的下午",
+    "example": "I learned \"old afternoon\" today.",
+    "exampleMeaning": "今天学习“旧的下午”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-492",
+    "language": "en",
+    "level": "A1",
+    "word": "old evening",
+    "pronunciation": "old /ˈiːvnɪŋ/",
+    "meaning": "旧的傍晚",
+    "example": "I learned \"old evening\" today.",
+    "exampleMeaning": "今天学习“旧的傍晚”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-493",
+    "language": "en",
+    "level": "A1",
+    "word": "old night",
+    "pronunciation": "old /naɪt/",
+    "meaning": "旧的夜晚",
+    "example": "I learned \"old night\" today.",
+    "exampleMeaning": "今天学习“旧的夜晚”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-494",
+    "language": "en",
+    "level": "A1",
+    "word": "old week",
+    "pronunciation": "old /wiːk/",
+    "meaning": "旧的星期",
+    "example": "I learned \"old week\" today.",
+    "exampleMeaning": "今天学习“旧的星期”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-495",
+    "language": "en",
+    "level": "A1",
+    "word": "old month",
+    "pronunciation": "old /mʌnθ/",
+    "meaning": "旧的月份",
+    "example": "I learned \"old month\" today.",
+    "exampleMeaning": "今天学习“旧的月份”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-496",
+    "language": "en",
+    "level": "A1",
+    "word": "old year",
+    "pronunciation": "old /jɪr/",
+    "meaning": "旧的年",
+    "example": "I learned \"old year\" today.",
+    "exampleMeaning": "今天学习“旧的年”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-497",
+    "language": "en",
+    "level": "A1",
+    "word": "old time",
+    "pronunciation": "old /taɪm/",
+    "meaning": "旧的时间",
+    "example": "I learned \"old time\" today.",
+    "exampleMeaning": "今天学习“旧的时间”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-498",
+    "language": "en",
+    "level": "A1",
+    "word": "old hour",
+    "pronunciation": "old /ˈaʊər/",
+    "meaning": "旧的小时",
+    "example": "I learned \"old hour\" today.",
+    "exampleMeaning": "今天学习“旧的小时”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-499",
+    "language": "en",
+    "level": "A1",
+    "word": "old minute",
+    "pronunciation": "old /ˈmɪnɪt/",
+    "meaning": "旧的分钟",
+    "example": "I learned \"old minute\" today.",
+    "exampleMeaning": "今天学习“旧的分钟”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-500",
+    "language": "en",
+    "level": "A1",
+    "word": "old weather",
+    "pronunciation": "old /ˈweðər/",
+    "meaning": "旧的天气",
+    "example": "I learned \"old weather\" today.",
+    "exampleMeaning": "今天学习“旧的天气”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-501",
+    "language": "en",
+    "level": "A1",
+    "word": "old rain",
+    "pronunciation": "old /reɪn/",
+    "meaning": "旧的雨",
+    "example": "I learned \"old rain\" today.",
+    "exampleMeaning": "今天学习“旧的雨”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-502",
+    "language": "en",
+    "level": "A1",
+    "word": "old snow",
+    "pronunciation": "old /snoʊ/",
+    "meaning": "旧的雪",
+    "example": "I learned \"old snow\" today.",
+    "exampleMeaning": "今天学习“旧的雪”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-503",
+    "language": "en",
+    "level": "A1",
+    "word": "old wind",
+    "pronunciation": "old /wɪnd/",
+    "meaning": "旧的风",
+    "example": "I learned \"old wind\" today.",
+    "exampleMeaning": "今天学习“旧的风”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-504",
+    "language": "en",
+    "level": "A1",
+    "word": "old sky",
+    "pronunciation": "old /skaɪ/",
+    "meaning": "旧的天空",
+    "example": "I learned \"old sky\" today.",
+    "exampleMeaning": "今天学习“旧的天空”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-505",
+    "language": "en",
+    "level": "A1",
+    "word": "old mountain",
+    "pronunciation": "old /ˈmaʊntn/",
+    "meaning": "旧的山",
+    "example": "I learned \"old mountain\" today.",
+    "exampleMeaning": "今天学习“旧的山”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-506",
+    "language": "en",
+    "level": "A1",
+    "word": "old river",
+    "pronunciation": "old /ˈrɪvər/",
+    "meaning": "旧的河",
+    "example": "I learned \"old river\" today.",
+    "exampleMeaning": "今天学习“旧的河”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-507",
+    "language": "en",
+    "level": "A1",
+    "word": "old sea",
+    "pronunciation": "old /siː/",
+    "meaning": "旧的海",
+    "example": "I learned \"old sea\" today.",
+    "exampleMeaning": "今天学习“旧的海”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-508",
+    "language": "en",
+    "level": "A1",
+    "word": "old tree",
+    "pronunciation": "old /triː/",
+    "meaning": "旧的树",
+    "example": "I learned \"old tree\" today.",
+    "exampleMeaning": "今天学习“旧的树”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-509",
+    "language": "en",
+    "level": "A1",
+    "word": "old flower",
+    "pronunciation": "old /ˈflaʊər/",
+    "meaning": "旧的花",
+    "example": "I learned \"old flower\" today.",
+    "exampleMeaning": "今天学习“旧的花”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-510",
+    "language": "en",
+    "level": "A1",
+    "word": "old car",
+    "pronunciation": "old /kɑːr/",
+    "meaning": "旧的汽车",
+    "example": "I learned \"old car\" today.",
+    "exampleMeaning": "今天学习“旧的汽车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-511",
+    "language": "en",
+    "level": "A1",
+    "word": "old bus",
+    "pronunciation": "old /bʌs/",
+    "meaning": "旧的公交车",
+    "example": "I learned \"old bus\" today.",
+    "exampleMeaning": "今天学习“旧的公交车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-512",
+    "language": "en",
+    "level": "A1",
+    "word": "old train",
+    "pronunciation": "old /treɪn/",
+    "meaning": "旧的火车",
+    "example": "I learned \"old train\" today.",
+    "exampleMeaning": "今天学习“旧的火车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-513",
+    "language": "en",
+    "level": "A1",
+    "word": "old bicycle",
+    "pronunciation": "old /ˈbaɪsɪkl/",
+    "meaning": "旧的自行车",
+    "example": "I learned \"old bicycle\" today.",
+    "exampleMeaning": "今天学习“旧的自行车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-514",
+    "language": "en",
+    "level": "A1",
+    "word": "old plane",
+    "pronunciation": "old /pleɪn/",
+    "meaning": "旧的飞机",
+    "example": "I learned \"old plane\" today.",
+    "exampleMeaning": "今天学习“旧的飞机”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-515",
+    "language": "en",
+    "level": "A1",
+    "word": "big person",
+    "pronunciation": "big /ˈpɜːrsn/",
+    "meaning": "大的人",
+    "example": "I learned \"big person\" today.",
+    "exampleMeaning": "今天学习“大的人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-516",
+    "language": "en",
+    "level": "A1",
+    "word": "big man",
+    "pronunciation": "big /mæn/",
+    "meaning": "大的男人",
+    "example": "I learned \"big man\" today.",
+    "exampleMeaning": "今天学习“大的男人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-517",
+    "language": "en",
+    "level": "A1",
+    "word": "big woman",
+    "pronunciation": "big /ˈwʊmən/",
+    "meaning": "大的女人",
+    "example": "I learned \"big woman\" today.",
+    "exampleMeaning": "今天学习“大的女人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-518",
+    "language": "en",
+    "level": "A1",
+    "word": "big child",
+    "pronunciation": "big /tʃaɪld/",
+    "meaning": "大的孩子",
+    "example": "I learned \"big child\" today.",
+    "exampleMeaning": "今天学习“大的孩子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-519",
+    "language": "en",
+    "level": "A1",
+    "word": "big boy",
+    "pronunciation": "big /bɔɪ/",
+    "meaning": "大的男孩",
+    "example": "I learned \"big boy\" today.",
+    "exampleMeaning": "今天学习“大的男孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-520",
+    "language": "en",
+    "level": "A1",
+    "word": "big girl",
+    "pronunciation": "big /ɡɜːrl/",
+    "meaning": "大的女孩",
+    "example": "I learned \"big girl\" today.",
+    "exampleMeaning": "今天学习“大的女孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-521",
+    "language": "en",
+    "level": "A1",
+    "word": "big friend",
+    "pronunciation": "big /frend/",
+    "meaning": "大的朋友",
+    "example": "I learned \"big friend\" today.",
+    "exampleMeaning": "今天学习“大的朋友”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-522",
+    "language": "en",
+    "level": "A1",
+    "word": "big teacher",
+    "pronunciation": "big /ˈtiːtʃər/",
+    "meaning": "大的老师",
+    "example": "I learned \"big teacher\" today.",
+    "exampleMeaning": "今天学习“大的老师”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-523",
+    "language": "en",
+    "level": "A1",
+    "word": "big student",
+    "pronunciation": "big /ˈstuːdnt/",
+    "meaning": "大的学生",
+    "example": "I learned \"big student\" today.",
+    "exampleMeaning": "今天学习“大的学生”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-524",
+    "language": "en",
+    "level": "A1",
+    "word": "big doctor",
+    "pronunciation": "big /ˈdɑːktər/",
+    "meaning": "大的医生",
+    "example": "I learned \"big doctor\" today.",
+    "exampleMeaning": "今天学习“大的医生”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-525",
+    "language": "en",
+    "level": "A1",
+    "word": "big worker",
+    "pronunciation": "big /ˈwɜːrkər/",
+    "meaning": "大的职员",
+    "example": "I learned \"big worker\" today.",
+    "exampleMeaning": "今天学习“大的职员”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-526",
+    "language": "en",
+    "level": "A1",
+    "word": "big name",
+    "pronunciation": "big /neɪm/",
+    "meaning": "大的名字",
+    "example": "I learned \"big name\" today.",
+    "exampleMeaning": "今天学习“大的名字”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-527",
+    "language": "en",
+    "level": "A1",
+    "word": "big age",
+    "pronunciation": "big /eɪdʒ/",
+    "meaning": "大的年龄",
+    "example": "I learned \"big age\" today.",
+    "exampleMeaning": "今天学习“大的年龄”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-528",
+    "language": "en",
+    "level": "A1",
+    "word": "big home",
+    "pronunciation": "big /hoʊm/",
+    "meaning": "大的家",
+    "example": "I learned \"big home\" today.",
+    "exampleMeaning": "今天学习“大的家”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-529",
+    "language": "en",
+    "level": "A1",
+    "word": "big house",
+    "pronunciation": "big /haʊs/",
+    "meaning": "大的房子",
+    "example": "I learned \"big house\" today.",
+    "exampleMeaning": "今天学习“大的房子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-530",
+    "language": "en",
+    "level": "A1",
+    "word": "big room",
+    "pronunciation": "big /ruːm/",
+    "meaning": "大的房间",
+    "example": "I learned \"big room\" today.",
+    "exampleMeaning": "今天学习“大的房间”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-531",
+    "language": "en",
+    "level": "A1",
+    "word": "big school",
+    "pronunciation": "big /skuːl/",
+    "meaning": "大的学校",
+    "example": "I learned \"big school\" today.",
+    "exampleMeaning": "今天学习“大的学校”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-532",
+    "language": "en",
+    "level": "A1",
+    "word": "big classroom",
+    "pronunciation": "big /ˈklæsruːm/",
+    "meaning": "大的教室",
+    "example": "I learned \"big classroom\" today.",
+    "exampleMeaning": "今天学习“大的教室”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-533",
+    "language": "en",
+    "level": "A1",
+    "word": "big office",
+    "pronunciation": "big /ˈɑːfɪs/",
+    "meaning": "大的办公室",
+    "example": "I learned \"big office\" today.",
+    "exampleMeaning": "今天学习“大的办公室”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-534",
+    "language": "en",
+    "level": "A1",
+    "word": "big shop",
+    "pronunciation": "big /ʃɑːp/",
+    "meaning": "大的商店",
+    "example": "I learned \"big shop\" today.",
+    "exampleMeaning": "今天学习“大的商店”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-535",
+    "language": "en",
+    "level": "A1",
+    "word": "big market",
+    "pronunciation": "big /ˈmɑːrkɪt/",
+    "meaning": "大的市场",
+    "example": "I learned \"big market\" today.",
+    "exampleMeaning": "今天学习“大的市场”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-536",
+    "language": "en",
+    "level": "A1",
+    "word": "big bank",
+    "pronunciation": "big /bæŋk/",
+    "meaning": "大的银行",
+    "example": "I learned \"big bank\" today.",
+    "exampleMeaning": "今天学习“大的银行”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-537",
+    "language": "en",
+    "level": "A1",
+    "word": "big hospital",
+    "pronunciation": "big /ˈhɑːspɪtl/",
+    "meaning": "大的医院",
+    "example": "I learned \"big hospital\" today.",
+    "exampleMeaning": "今天学习“大的医院”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-538",
+    "language": "en",
+    "level": "A1",
+    "word": "big hotel",
+    "pronunciation": "big /hoʊˈtel/",
+    "meaning": "大的酒店",
+    "example": "I learned \"big hotel\" today.",
+    "exampleMeaning": "今天学习“大的酒店”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-539",
+    "language": "en",
+    "level": "A1",
+    "word": "big restaurant",
+    "pronunciation": "big /ˈrestərɑːnt/",
+    "meaning": "大的餐馆",
+    "example": "I learned \"big restaurant\" today.",
+    "exampleMeaning": "今天学习“大的餐馆”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-540",
+    "language": "en",
+    "level": "A1",
+    "word": "big park",
+    "pronunciation": "big /pɑːrk/",
+    "meaning": "大的公园",
+    "example": "I learned \"big park\" today.",
+    "exampleMeaning": "今天学习“大的公园”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-541",
+    "language": "en",
+    "level": "A1",
+    "word": "big station",
+    "pronunciation": "big /ˈsteɪʃn/",
+    "meaning": "大的车站",
+    "example": "I learned \"big station\" today.",
+    "exampleMeaning": "今天学习“大的车站”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-542",
+    "language": "en",
+    "level": "A1",
+    "word": "big airport",
+    "pronunciation": "big /ˈerpɔːrt/",
+    "meaning": "大的机场",
+    "example": "I learned \"big airport\" today.",
+    "exampleMeaning": "今天学习“大的机场”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-543",
+    "language": "en",
+    "level": "A1",
+    "word": "big street",
+    "pronunciation": "big /striːt/",
+    "meaning": "大的街道",
+    "example": "I learned \"big street\" today.",
+    "exampleMeaning": "今天学习“大的街道”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-544",
+    "language": "en",
+    "level": "A1",
+    "word": "big city",
+    "pronunciation": "big /ˈsɪti/",
+    "meaning": "大的城市",
+    "example": "I learned \"big city\" today.",
+    "exampleMeaning": "今天学习“大的城市”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-545",
+    "language": "en",
+    "level": "A1",
+    "word": "big country",
+    "pronunciation": "big /ˈkʌntri/",
+    "meaning": "大的国家",
+    "example": "I learned \"big country\" today.",
+    "exampleMeaning": "今天学习“大的国家”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-546",
+    "language": "en",
+    "level": "A1",
+    "word": "big book",
+    "pronunciation": "big /bʊk/",
+    "meaning": "大的书",
+    "example": "I learned \"big book\" today.",
+    "exampleMeaning": "今天学习“大的书”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-547",
+    "language": "en",
+    "level": "A1",
+    "word": "big pen",
+    "pronunciation": "big /pen/",
+    "meaning": "大的钢笔",
+    "example": "I learned \"big pen\" today.",
+    "exampleMeaning": "今天学习“大的钢笔”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-548",
+    "language": "en",
+    "level": "A1",
+    "word": "big pencil",
+    "pronunciation": "big /ˈpensl/",
+    "meaning": "大的铅笔",
+    "example": "I learned \"big pencil\" today.",
+    "exampleMeaning": "今天学习“大的铅笔”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-549",
+    "language": "en",
+    "level": "A1",
+    "word": "big paper",
+    "pronunciation": "big /ˈpeɪpər/",
+    "meaning": "大的纸",
+    "example": "I learned \"big paper\" today.",
+    "exampleMeaning": "今天学习“大的纸”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-550",
+    "language": "en",
+    "level": "A1",
+    "word": "big bag",
+    "pronunciation": "big /bæɡ/",
+    "meaning": "大的包",
+    "example": "I learned \"big bag\" today.",
+    "exampleMeaning": "今天学习“大的包”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-551",
+    "language": "en",
+    "level": "A1",
+    "word": "big box",
+    "pronunciation": "big /bɑːks/",
+    "meaning": "大的盒子",
+    "example": "I learned \"big box\" today.",
+    "exampleMeaning": "今天学习“大的盒子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-552",
+    "language": "en",
+    "level": "A1",
+    "word": "big key",
+    "pronunciation": "big /kiː/",
+    "meaning": "大的钥匙",
+    "example": "I learned \"big key\" today.",
+    "exampleMeaning": "今天学习“大的钥匙”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-553",
+    "language": "en",
+    "level": "A1",
+    "word": "big phone",
+    "pronunciation": "big /foʊn/",
+    "meaning": "大的电话",
+    "example": "I learned \"big phone\" today.",
+    "exampleMeaning": "今天学习“大的电话”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-554",
+    "language": "en",
+    "level": "A1",
+    "word": "big computer",
+    "pronunciation": "big /kəmˈpjuːtər/",
+    "meaning": "大的电脑",
+    "example": "I learned \"big computer\" today.",
+    "exampleMeaning": "今天学习“大的电脑”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-555",
+    "language": "en",
+    "level": "A1",
+    "word": "big table",
+    "pronunciation": "big /ˈteɪbl/",
+    "meaning": "大的桌子",
+    "example": "I learned \"big table\" today.",
+    "exampleMeaning": "今天学习“大的桌子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-556",
+    "language": "en",
+    "level": "A1",
+    "word": "big chair",
+    "pronunciation": "big /tʃer/",
+    "meaning": "大的椅子",
+    "example": "I learned \"big chair\" today.",
+    "exampleMeaning": "今天学习“大的椅子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-557",
+    "language": "en",
+    "level": "A1",
+    "word": "big door",
+    "pronunciation": "big /dɔːr/",
+    "meaning": "大的门",
+    "example": "I learned \"big door\" today.",
+    "exampleMeaning": "今天学习“大的门”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-558",
+    "language": "en",
+    "level": "A1",
+    "word": "big window",
+    "pronunciation": "big /ˈwɪndoʊ/",
+    "meaning": "大的窗户",
+    "example": "I learned \"big window\" today.",
+    "exampleMeaning": "今天学习“大的窗户”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-559",
+    "language": "en",
+    "level": "A1",
+    "word": "big bed",
+    "pronunciation": "big /bed/",
+    "meaning": "大的床",
+    "example": "I learned \"big bed\" today.",
+    "exampleMeaning": "今天学习“大的床”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-560",
+    "language": "en",
+    "level": "A1",
+    "word": "big cup",
+    "pronunciation": "big /kʌp/",
+    "meaning": "大的杯子",
+    "example": "I learned \"big cup\" today.",
+    "exampleMeaning": "今天学习“大的杯子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-561",
+    "language": "en",
+    "level": "A1",
+    "word": "big plate",
+    "pronunciation": "big /pleɪt/",
+    "meaning": "大的盘子",
+    "example": "I learned \"big plate\" today.",
+    "exampleMeaning": "今天学习“大的盘子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-562",
+    "language": "en",
+    "level": "A1",
+    "word": "big clock",
+    "pronunciation": "big /klɑːk/",
+    "meaning": "大的钟表",
+    "example": "I learned \"big clock\" today.",
+    "exampleMeaning": "今天学习“大的钟表”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-563",
+    "language": "en",
+    "level": "A1",
+    "word": "big photo",
+    "pronunciation": "big /ˈfoʊtoʊ/",
+    "meaning": "大的照片",
+    "example": "I learned \"big photo\" today.",
+    "exampleMeaning": "今天学习“大的照片”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-564",
+    "language": "en",
+    "level": "A1",
+    "word": "big map",
+    "pronunciation": "big /mæp/",
+    "meaning": "大的地图",
+    "example": "I learned \"big map\" today.",
+    "exampleMeaning": "今天学习“大的地图”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-565",
+    "language": "en",
+    "level": "A1",
+    "word": "big money",
+    "pronunciation": "big /ˈmʌni/",
+    "meaning": "大的钱",
+    "example": "I learned \"big money\" today.",
+    "exampleMeaning": "今天学习“大的钱”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-566",
+    "language": "en",
+    "level": "A1",
+    "word": "big ticket",
+    "pronunciation": "big /ˈtɪkɪt/",
+    "meaning": "大的票",
+    "example": "I learned \"big ticket\" today.",
+    "exampleMeaning": "今天学习“大的票”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-567",
+    "language": "en",
+    "level": "A1",
+    "word": "big water",
+    "pronunciation": "big /ˈwɔːtər/",
+    "meaning": "大的水",
+    "example": "I learned \"big water\" today.",
+    "exampleMeaning": "今天学习“大的水”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-568",
+    "language": "en",
+    "level": "A1",
+    "word": "big tea",
+    "pronunciation": "big /tiː/",
+    "meaning": "大的茶",
+    "example": "I learned \"big tea\" today.",
+    "exampleMeaning": "今天学习“大的茶”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-569",
+    "language": "en",
+    "level": "A1",
+    "word": "big coffee",
+    "pronunciation": "big /ˈkɔːfi/",
+    "meaning": "大的咖啡",
+    "example": "I learned \"big coffee\" today.",
+    "exampleMeaning": "今天学习“大的咖啡”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-570",
+    "language": "en",
+    "level": "A1",
+    "word": "big milk",
+    "pronunciation": "big /mɪlk/",
+    "meaning": "大的牛奶",
+    "example": "I learned \"big milk\" today.",
+    "exampleMeaning": "今天学习“大的牛奶”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-571",
+    "language": "en",
+    "level": "A1",
+    "word": "big juice",
+    "pronunciation": "big /dʒuːs/",
+    "meaning": "大的果汁",
+    "example": "I learned \"big juice\" today.",
+    "exampleMeaning": "今天学习“大的果汁”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-572",
+    "language": "en",
+    "level": "A1",
+    "word": "big bread",
+    "pronunciation": "big /bred/",
+    "meaning": "大的面包",
+    "example": "I learned \"big bread\" today.",
+    "exampleMeaning": "今天学习“大的面包”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-573",
+    "language": "en",
+    "level": "A1",
+    "word": "big rice",
+    "pronunciation": "big /raɪs/",
+    "meaning": "大的米饭",
+    "example": "I learned \"big rice\" today.",
+    "exampleMeaning": "今天学习“大的米饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-574",
+    "language": "en",
+    "level": "A1",
+    "word": "big egg",
+    "pronunciation": "big /eɡ/",
+    "meaning": "大的鸡蛋",
+    "example": "I learned \"big egg\" today.",
+    "exampleMeaning": "今天学习“大的鸡蛋”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-575",
+    "language": "en",
+    "level": "A1",
+    "word": "big meat",
+    "pronunciation": "big /miːt/",
+    "meaning": "大的肉",
+    "example": "I learned \"big meat\" today.",
+    "exampleMeaning": "今天学习“大的肉”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-576",
+    "language": "en",
+    "level": "A1",
+    "word": "big fish",
+    "pronunciation": "big /fɪʃ/",
+    "meaning": "大的鱼",
+    "example": "I learned \"big fish\" today.",
+    "exampleMeaning": "今天学习“大的鱼”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-577",
+    "language": "en",
+    "level": "A1",
+    "word": "big vegetable",
+    "pronunciation": "big /ˈvedʒtəbl/",
+    "meaning": "大的蔬菜",
+    "example": "I learned \"big vegetable\" today.",
+    "exampleMeaning": "今天学习“大的蔬菜”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-578",
+    "language": "en",
+    "level": "A1",
+    "word": "big fruit",
+    "pronunciation": "big /fruːt/",
+    "meaning": "大的水果",
+    "example": "I learned \"big fruit\" today.",
+    "exampleMeaning": "今天学习“大的水果”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-579",
+    "language": "en",
+    "level": "A1",
+    "word": "big apple",
+    "pronunciation": "big /ˈæpl/",
+    "meaning": "大的苹果",
+    "example": "I learned \"big apple\" today.",
+    "exampleMeaning": "今天学习“大的苹果”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-580",
+    "language": "en",
+    "level": "A1",
+    "word": "big banana",
+    "pronunciation": "big /bəˈnænə/",
+    "meaning": "大的香蕉",
+    "example": "I learned \"big banana\" today.",
+    "exampleMeaning": "今天学习“大的香蕉”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-581",
+    "language": "en",
+    "level": "A1",
+    "word": "big orange",
+    "pronunciation": "big /ˈɔːrɪndʒ/",
+    "meaning": "大的橙子",
+    "example": "I learned \"big orange\" today.",
+    "exampleMeaning": "今天学习“大的橙子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-582",
+    "language": "en",
+    "level": "A1",
+    "word": "big cake",
+    "pronunciation": "big /keɪk/",
+    "meaning": "大的蛋糕",
+    "example": "I learned \"big cake\" today.",
+    "exampleMeaning": "今天学习“大的蛋糕”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-583",
+    "language": "en",
+    "level": "A1",
+    "word": "big soup",
+    "pronunciation": "big /suːp/",
+    "meaning": "大的汤",
+    "example": "I learned \"big soup\" today.",
+    "exampleMeaning": "今天学习“大的汤”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-584",
+    "language": "en",
+    "level": "A1",
+    "word": "big breakfast",
+    "pronunciation": "big /ˈbrekfəst/",
+    "meaning": "大的早饭",
+    "example": "I learned \"big breakfast\" today.",
+    "exampleMeaning": "今天学习“大的早饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-585",
+    "language": "en",
+    "level": "A1",
+    "word": "big lunch",
+    "pronunciation": "big /lʌntʃ/",
+    "meaning": "大的午饭",
+    "example": "I learned \"big lunch\" today.",
+    "exampleMeaning": "今天学习“大的午饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-586",
+    "language": "en",
+    "level": "A1",
+    "word": "big dinner",
+    "pronunciation": "big /ˈdɪnər/",
+    "meaning": "大的晚饭",
+    "example": "I learned \"big dinner\" today.",
+    "exampleMeaning": "今天学习“大的晚饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-587",
+    "language": "en",
+    "level": "A1",
+    "word": "big today",
+    "pronunciation": "big /təˈdeɪ/",
+    "meaning": "大的今天",
+    "example": "I learned \"big today\" today.",
+    "exampleMeaning": "今天学习“大的今天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-588",
+    "language": "en",
+    "level": "A1",
+    "word": "big tomorrow",
+    "pronunciation": "big /təˈmɑːroʊ/",
+    "meaning": "大的明天",
+    "example": "I learned \"big tomorrow\" today.",
+    "exampleMeaning": "今天学习“大的明天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-589",
+    "language": "en",
+    "level": "A1",
+    "word": "big yesterday",
+    "pronunciation": "big /ˈjestərdeɪ/",
+    "meaning": "大的昨天",
+    "example": "I learned \"big yesterday\" today.",
+    "exampleMeaning": "今天学习“大的昨天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-590",
+    "language": "en",
+    "level": "A1",
+    "word": "big morning",
+    "pronunciation": "big /ˈmɔːrnɪŋ/",
+    "meaning": "大的早晨",
+    "example": "I learned \"big morning\" today.",
+    "exampleMeaning": "今天学习“大的早晨”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-591",
+    "language": "en",
+    "level": "A1",
+    "word": "big afternoon",
+    "pronunciation": "big /ˌæftərˈnuːn/",
+    "meaning": "大的下午",
+    "example": "I learned \"big afternoon\" today.",
+    "exampleMeaning": "今天学习“大的下午”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-592",
+    "language": "en",
+    "level": "A1",
+    "word": "big evening",
+    "pronunciation": "big /ˈiːvnɪŋ/",
+    "meaning": "大的傍晚",
+    "example": "I learned \"big evening\" today.",
+    "exampleMeaning": "今天学习“大的傍晚”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-593",
+    "language": "en",
+    "level": "A1",
+    "word": "big night",
+    "pronunciation": "big /naɪt/",
+    "meaning": "大的夜晚",
+    "example": "I learned \"big night\" today.",
+    "exampleMeaning": "今天学习“大的夜晚”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-594",
+    "language": "en",
+    "level": "A1",
+    "word": "big week",
+    "pronunciation": "big /wiːk/",
+    "meaning": "大的星期",
+    "example": "I learned \"big week\" today.",
+    "exampleMeaning": "今天学习“大的星期”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-595",
+    "language": "en",
+    "level": "A1",
+    "word": "big month",
+    "pronunciation": "big /mʌnθ/",
+    "meaning": "大的月份",
+    "example": "I learned \"big month\" today.",
+    "exampleMeaning": "今天学习“大的月份”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-596",
+    "language": "en",
+    "level": "A1",
+    "word": "big year",
+    "pronunciation": "big /jɪr/",
+    "meaning": "大的年",
+    "example": "I learned \"big year\" today.",
+    "exampleMeaning": "今天学习“大的年”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-597",
+    "language": "en",
+    "level": "A1",
+    "word": "big time",
+    "pronunciation": "big /taɪm/",
+    "meaning": "大的时间",
+    "example": "I learned \"big time\" today.",
+    "exampleMeaning": "今天学习“大的时间”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-598",
+    "language": "en",
+    "level": "A1",
+    "word": "big hour",
+    "pronunciation": "big /ˈaʊər/",
+    "meaning": "大的小时",
+    "example": "I learned \"big hour\" today.",
+    "exampleMeaning": "今天学习“大的小时”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-599",
+    "language": "en",
+    "level": "A1",
+    "word": "big minute",
+    "pronunciation": "big /ˈmɪnɪt/",
+    "meaning": "大的分钟",
+    "example": "I learned \"big minute\" today.",
+    "exampleMeaning": "今天学习“大的分钟”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-600",
+    "language": "en",
+    "level": "A1",
+    "word": "big weather",
+    "pronunciation": "big /ˈweðər/",
+    "meaning": "大的天气",
+    "example": "I learned \"big weather\" today.",
+    "exampleMeaning": "今天学习“大的天气”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-601",
+    "language": "en",
+    "level": "A1",
+    "word": "big rain",
+    "pronunciation": "big /reɪn/",
+    "meaning": "大的雨",
+    "example": "I learned \"big rain\" today.",
+    "exampleMeaning": "今天学习“大的雨”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-602",
+    "language": "en",
+    "level": "A1",
+    "word": "big snow",
+    "pronunciation": "big /snoʊ/",
+    "meaning": "大的雪",
+    "example": "I learned \"big snow\" today.",
+    "exampleMeaning": "今天学习“大的雪”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-603",
+    "language": "en",
+    "level": "A1",
+    "word": "big wind",
+    "pronunciation": "big /wɪnd/",
+    "meaning": "大的风",
+    "example": "I learned \"big wind\" today.",
+    "exampleMeaning": "今天学习“大的风”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-604",
+    "language": "en",
+    "level": "A1",
+    "word": "big sky",
+    "pronunciation": "big /skaɪ/",
+    "meaning": "大的天空",
+    "example": "I learned \"big sky\" today.",
+    "exampleMeaning": "今天学习“大的天空”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-605",
+    "language": "en",
+    "level": "A1",
+    "word": "big mountain",
+    "pronunciation": "big /ˈmaʊntn/",
+    "meaning": "大的山",
+    "example": "I learned \"big mountain\" today.",
+    "exampleMeaning": "今天学习“大的山”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-606",
+    "language": "en",
+    "level": "A1",
+    "word": "big river",
+    "pronunciation": "big /ˈrɪvər/",
+    "meaning": "大的河",
+    "example": "I learned \"big river\" today.",
+    "exampleMeaning": "今天学习“大的河”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-607",
+    "language": "en",
+    "level": "A1",
+    "word": "big sea",
+    "pronunciation": "big /siː/",
+    "meaning": "大的海",
+    "example": "I learned \"big sea\" today.",
+    "exampleMeaning": "今天学习“大的海”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-608",
+    "language": "en",
+    "level": "A1",
+    "word": "big tree",
+    "pronunciation": "big /triː/",
+    "meaning": "大的树",
+    "example": "I learned \"big tree\" today.",
+    "exampleMeaning": "今天学习“大的树”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-609",
+    "language": "en",
+    "level": "A1",
+    "word": "big flower",
+    "pronunciation": "big /ˈflaʊər/",
+    "meaning": "大的花",
+    "example": "I learned \"big flower\" today.",
+    "exampleMeaning": "今天学习“大的花”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-610",
+    "language": "en",
+    "level": "A1",
+    "word": "big car",
+    "pronunciation": "big /kɑːr/",
+    "meaning": "大的汽车",
+    "example": "I learned \"big car\" today.",
+    "exampleMeaning": "今天学习“大的汽车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-611",
+    "language": "en",
+    "level": "A1",
+    "word": "big bus",
+    "pronunciation": "big /bʌs/",
+    "meaning": "大的公交车",
+    "example": "I learned \"big bus\" today.",
+    "exampleMeaning": "今天学习“大的公交车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-612",
+    "language": "en",
+    "level": "A1",
+    "word": "big train",
+    "pronunciation": "big /treɪn/",
+    "meaning": "大的火车",
+    "example": "I learned \"big train\" today.",
+    "exampleMeaning": "今天学习“大的火车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-613",
+    "language": "en",
+    "level": "A1",
+    "word": "big bicycle",
+    "pronunciation": "big /ˈbaɪsɪkl/",
+    "meaning": "大的自行车",
+    "example": "I learned \"big bicycle\" today.",
+    "exampleMeaning": "今天学习“大的自行车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-614",
+    "language": "en",
+    "level": "A1",
+    "word": "big plane",
+    "pronunciation": "big /pleɪn/",
+    "meaning": "大的飞机",
+    "example": "I learned \"big plane\" today.",
+    "exampleMeaning": "今天学习“大的飞机”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-615",
+    "language": "en",
+    "level": "A1",
+    "word": "small person",
+    "pronunciation": "small /ˈpɜːrsn/",
+    "meaning": "小的人",
+    "example": "I learned \"small person\" today.",
+    "exampleMeaning": "今天学习“小的人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-616",
+    "language": "en",
+    "level": "A1",
+    "word": "small man",
+    "pronunciation": "small /mæn/",
+    "meaning": "小的男人",
+    "example": "I learned \"small man\" today.",
+    "exampleMeaning": "今天学习“小的男人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-617",
+    "language": "en",
+    "level": "A1",
+    "word": "small woman",
+    "pronunciation": "small /ˈwʊmən/",
+    "meaning": "小的女人",
+    "example": "I learned \"small woman\" today.",
+    "exampleMeaning": "今天学习“小的女人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-618",
+    "language": "en",
+    "level": "A1",
+    "word": "small child",
+    "pronunciation": "small /tʃaɪld/",
+    "meaning": "小的孩子",
+    "example": "I learned \"small child\" today.",
+    "exampleMeaning": "今天学习“小的孩子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-619",
+    "language": "en",
+    "level": "A1",
+    "word": "small boy",
+    "pronunciation": "small /bɔɪ/",
+    "meaning": "小的男孩",
+    "example": "I learned \"small boy\" today.",
+    "exampleMeaning": "今天学习“小的男孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "en-a1-620",
+    "language": "en",
+    "level": "A1",
+    "word": "small girl",
+    "pronunciation": "small /ɡɜːrl/",
+    "meaning": "小的女孩",
+    "example": "I learned \"small girl\" today.",
+    "exampleMeaning": "今天学习“小的女孩”。",
+    "tags": [
+      "phrase"
+    ]
+  }
+]

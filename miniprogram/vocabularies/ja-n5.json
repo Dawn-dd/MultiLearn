@@ -1,0 +1,8062 @@
+[
+  {
+    "id": "ja-n5-001",
+    "language": "ja",
+    "level": "N5",
+    "word": "こんにちは",
+    "pronunciation": "こんにちは",
+    "meaning": "你好",
+    "example": "今日は「こんにちは」を覚えます。",
+    "exampleMeaning": "今天学习“你好”。",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "ja-n5-002",
+    "language": "ja",
+    "level": "N5",
+    "word": "さようなら",
+    "pronunciation": "さようなら",
+    "meaning": "再见",
+    "example": "今日は「さようなら」を覚えます。",
+    "exampleMeaning": "今天学习“再见”。",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "ja-n5-003",
+    "language": "ja",
+    "level": "N5",
+    "word": "お願いします",
+    "pronunciation": "おねがいします",
+    "meaning": "请",
+    "example": "今日は「お願いします」を覚えます。",
+    "exampleMeaning": "今天学习“请”。",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "ja-n5-004",
+    "language": "ja",
+    "level": "N5",
+    "word": "ありがとう",
+    "pronunciation": "ありがとう",
+    "meaning": "谢谢",
+    "example": "今日は「ありがとう」を覚えます。",
+    "exampleMeaning": "今天学习“谢谢”。",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "ja-n5-005",
+    "language": "ja",
+    "level": "N5",
+    "word": "すみません",
+    "pronunciation": "すみません",
+    "meaning": "对不起",
+    "example": "今日は「すみません」を覚えます。",
+    "exampleMeaning": "今天学习“对不起”。",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "ja-n5-006",
+    "language": "ja",
+    "level": "N5",
+    "word": "はい",
+    "pronunciation": "はい",
+    "meaning": "是",
+    "example": "今日は「はい」を覚えます。",
+    "exampleMeaning": "今天学习“是”。",
+    "tags": [
+      "common"
+    ]
+  },
+  {
+    "id": "ja-n5-007",
+    "language": "ja",
+    "level": "N5",
+    "word": "いいえ",
+    "pronunciation": "いいえ",
+    "meaning": "不是",
+    "example": "今日は「いいえ」を覚えます。",
+    "exampleMeaning": "今天学习“不是”。",
+    "tags": [
+      "common"
+    ]
+  },
+  {
+    "id": "ja-n5-008",
+    "language": "ja",
+    "level": "N5",
+    "word": "私",
+    "pronunciation": "わたし",
+    "meaning": "我",
+    "example": "今日は「私」を覚えます。",
+    "exampleMeaning": "今天学习“我”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "ja-n5-009",
+    "language": "ja",
+    "level": "N5",
+    "word": "あなた",
+    "pronunciation": "あなた",
+    "meaning": "你",
+    "example": "今日は「あなた」を覚えます。",
+    "exampleMeaning": "今天学习“你”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "ja-n5-010",
+    "language": "ja",
+    "level": "N5",
+    "word": "彼",
+    "pronunciation": "かれ",
+    "meaning": "他",
+    "example": "今日は「彼」を覚えます。",
+    "exampleMeaning": "今天学习“他”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "ja-n5-011",
+    "language": "ja",
+    "level": "N5",
+    "word": "彼女",
+    "pronunciation": "かのじょ",
+    "meaning": "她",
+    "example": "今日は「彼女」を覚えます。",
+    "exampleMeaning": "今天学习“她”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "ja-n5-012",
+    "language": "ja",
+    "level": "N5",
+    "word": "私たち",
+    "pronunciation": "わたしたち",
+    "meaning": "我们",
+    "example": "今日は「私たち」を覚えます。",
+    "exampleMeaning": "今天学习“我们”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "ja-n5-013",
+    "language": "ja",
+    "level": "N5",
+    "word": "彼ら",
+    "pronunciation": "かれら",
+    "meaning": "他们",
+    "example": "今日は「彼ら」を覚えます。",
+    "exampleMeaning": "今天学习“他们”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "ja-n5-014",
+    "language": "ja",
+    "level": "N5",
+    "word": "これ",
+    "pronunciation": "これ",
+    "meaning": "这个",
+    "example": "今日は「これ」を覚えます。",
+    "exampleMeaning": "今天学习“这个”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "ja-n5-015",
+    "language": "ja",
+    "level": "N5",
+    "word": "それ",
+    "pronunciation": "それ",
+    "meaning": "那个",
+    "example": "今日は「それ」を覚えます。",
+    "exampleMeaning": "今天学习“那个”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "ja-n5-016",
+    "language": "ja",
+    "level": "N5",
+    "word": "誰",
+    "pronunciation": "だれ",
+    "meaning": "谁",
+    "example": "今日は「誰」を覚えます。",
+    "exampleMeaning": "今天学习“谁”。",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "ja-n5-017",
+    "language": "ja",
+    "level": "N5",
+    "word": "何",
+    "pronunciation": "なに",
+    "meaning": "什么",
+    "example": "今日は「何」を覚えます。",
+    "exampleMeaning": "今天学习“什么”。",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "ja-n5-018",
+    "language": "ja",
+    "level": "N5",
+    "word": "どこ",
+    "pronunciation": "どこ",
+    "meaning": "哪里",
+    "example": "今日は「どこ」を覚えます。",
+    "exampleMeaning": "今天学习“哪里”。",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "ja-n5-019",
+    "language": "ja",
+    "level": "N5",
+    "word": "いつ",
+    "pronunciation": "いつ",
+    "meaning": "什么时候",
+    "example": "今日は「いつ」を覚えます。",
+    "exampleMeaning": "今天学习“什么时候”。",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "ja-n5-020",
+    "language": "ja",
+    "level": "N5",
+    "word": "なぜ",
+    "pronunciation": "なぜ",
+    "meaning": "为什么",
+    "example": "今日は「なぜ」を覚えます。",
+    "exampleMeaning": "今天学习“为什么”。",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "ja-n5-021",
+    "language": "ja",
+    "level": "N5",
+    "word": "どう",
+    "pronunciation": "どう",
+    "meaning": "怎样",
+    "example": "今日は「どう」を覚えます。",
+    "exampleMeaning": "今天学习“怎样”。",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "ja-n5-022",
+    "language": "ja",
+    "level": "N5",
+    "word": "人",
+    "pronunciation": "ひと",
+    "meaning": "人",
+    "example": "今日は「人」を覚えます。",
+    "exampleMeaning": "今天学习“人”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ja-n5-023",
+    "language": "ja",
+    "level": "N5",
+    "word": "男",
+    "pronunciation": "おとこ",
+    "meaning": "男人",
+    "example": "今日は「男」を覚えます。",
+    "exampleMeaning": "今天学习“男人”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ja-n5-024",
+    "language": "ja",
+    "level": "N5",
+    "word": "女",
+    "pronunciation": "おんな",
+    "meaning": "女人",
+    "example": "今日は「女」を覚えます。",
+    "exampleMeaning": "今天学习“女人”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ja-n5-025",
+    "language": "ja",
+    "level": "N5",
+    "word": "子供",
+    "pronunciation": "こども",
+    "meaning": "孩子",
+    "example": "今日は「子供」を覚えます。",
+    "exampleMeaning": "今天学习“孩子”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ja-n5-026",
+    "language": "ja",
+    "level": "N5",
+    "word": "男の子",
+    "pronunciation": "おとこのこ",
+    "meaning": "男孩",
+    "example": "今日は「男の子」を覚えます。",
+    "exampleMeaning": "今天学习“男孩”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ja-n5-027",
+    "language": "ja",
+    "level": "N5",
+    "word": "女の子",
+    "pronunciation": "おんなのこ",
+    "meaning": "女孩",
+    "example": "今日は「女の子」を覚えます。",
+    "exampleMeaning": "今天学习“女孩”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ja-n5-028",
+    "language": "ja",
+    "level": "N5",
+    "word": "友達",
+    "pronunciation": "ともだち",
+    "meaning": "朋友",
+    "example": "今日は「友達」を覚えます。",
+    "exampleMeaning": "今天学习“朋友”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ja-n5-029",
+    "language": "ja",
+    "level": "N5",
+    "word": "家族",
+    "pronunciation": "かぞく",
+    "meaning": "家人",
+    "example": "今日は「家族」を覚えます。",
+    "exampleMeaning": "今天学习“家人”。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "ja-n5-030",
+    "language": "ja",
+    "level": "N5",
+    "word": "父",
+    "pronunciation": "ちち",
+    "meaning": "父亲",
+    "example": "今日は「父」を覚えます。",
+    "exampleMeaning": "今天学习“父亲”。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "ja-n5-031",
+    "language": "ja",
+    "level": "N5",
+    "word": "母",
+    "pronunciation": "はは",
+    "meaning": "母亲",
+    "example": "今日は「母」を覚えます。",
+    "exampleMeaning": "今天学习“母亲”。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "ja-n5-032",
+    "language": "ja",
+    "level": "N5",
+    "word": "兄弟",
+    "pronunciation": "きょうだい",
+    "meaning": "兄弟",
+    "example": "今日は「兄弟」を覚えます。",
+    "exampleMeaning": "今天学习“兄弟”。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "ja-n5-033",
+    "language": "ja",
+    "level": "N5",
+    "word": "姉妹",
+    "pronunciation": "しまい",
+    "meaning": "姐妹",
+    "example": "今日は「姉妹」を覚えます。",
+    "exampleMeaning": "今天学习“姐妹”。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "ja-n5-034",
+    "language": "ja",
+    "level": "N5",
+    "word": "先生",
+    "pronunciation": "せんせい",
+    "meaning": "老师",
+    "example": "今日は「先生」を覚えます。",
+    "exampleMeaning": "今天学习“老师”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ja-n5-035",
+    "language": "ja",
+    "level": "N5",
+    "word": "学生",
+    "pronunciation": "がくせい",
+    "meaning": "学生",
+    "example": "今日は「学生」を覚えます。",
+    "exampleMeaning": "今天学习“学生”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ja-n5-036",
+    "language": "ja",
+    "level": "N5",
+    "word": "医者",
+    "pronunciation": "いしゃ",
+    "meaning": "医生",
+    "example": "今日は「医者」を覚えます。",
+    "exampleMeaning": "今天学习“医生”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ja-n5-037",
+    "language": "ja",
+    "level": "N5",
+    "word": "会社員",
+    "pronunciation": "かいしゃいん",
+    "meaning": "职员",
+    "example": "今日は「会社員」を覚えます。",
+    "exampleMeaning": "今天学习“职员”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ja-n5-038",
+    "language": "ja",
+    "level": "N5",
+    "word": "名前",
+    "pronunciation": "なまえ",
+    "meaning": "名字",
+    "example": "今日は「名前」を覚えます。",
+    "exampleMeaning": "今天学习“名字”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ja-n5-039",
+    "language": "ja",
+    "level": "N5",
+    "word": "年",
+    "pronunciation": "とし",
+    "meaning": "年龄",
+    "example": "今日は「年」を覚えます。",
+    "exampleMeaning": "今天学习“年龄”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ja-n5-040",
+    "language": "ja",
+    "level": "N5",
+    "word": "家",
+    "pronunciation": "いえ",
+    "meaning": "家",
+    "example": "今日は「家」を覚えます。",
+    "exampleMeaning": "今天学习“家”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ja-n5-041",
+    "language": "ja",
+    "level": "N5",
+    "word": "家屋",
+    "pronunciation": "かおく",
+    "meaning": "房子",
+    "example": "今日は「家屋」を覚えます。",
+    "exampleMeaning": "今天学习“房子”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ja-n5-042",
+    "language": "ja",
+    "level": "N5",
+    "word": "部屋",
+    "pronunciation": "へや",
+    "meaning": "房间",
+    "example": "今日は「部屋」を覚えます。",
+    "exampleMeaning": "今天学习“房间”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ja-n5-043",
+    "language": "ja",
+    "level": "N5",
+    "word": "学校",
+    "pronunciation": "がっこう",
+    "meaning": "学校",
+    "example": "今日は「学校」を覚えます。",
+    "exampleMeaning": "今天学习“学校”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ja-n5-044",
+    "language": "ja",
+    "level": "N5",
+    "word": "教室",
+    "pronunciation": "きょうしつ",
+    "meaning": "教室",
+    "example": "今日は「教室」を覚えます。",
+    "exampleMeaning": "今天学习“教室”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ja-n5-045",
+    "language": "ja",
+    "level": "N5",
+    "word": "事務所",
+    "pronunciation": "じむしょ",
+    "meaning": "办公室",
+    "example": "今日は「事務所」を覚えます。",
+    "exampleMeaning": "今天学习“办公室”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ja-n5-046",
+    "language": "ja",
+    "level": "N5",
+    "word": "店",
+    "pronunciation": "みせ",
+    "meaning": "商店",
+    "example": "今日は「店」を覚えます。",
+    "exampleMeaning": "今天学习“商店”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ja-n5-047",
+    "language": "ja",
+    "level": "N5",
+    "word": "市場",
+    "pronunciation": "いちば",
+    "meaning": "市场",
+    "example": "今日は「市場」を覚えます。",
+    "exampleMeaning": "今天学习“市场”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ja-n5-048",
+    "language": "ja",
+    "level": "N5",
+    "word": "銀行",
+    "pronunciation": "ぎんこう",
+    "meaning": "银行",
+    "example": "今日は「銀行」を覚えます。",
+    "exampleMeaning": "今天学习“银行”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ja-n5-049",
+    "language": "ja",
+    "level": "N5",
+    "word": "病院",
+    "pronunciation": "びょういん",
+    "meaning": "医院",
+    "example": "今日は「病院」を覚えます。",
+    "exampleMeaning": "今天学习“医院”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ja-n5-050",
+    "language": "ja",
+    "level": "N5",
+    "word": "ホテル",
+    "pronunciation": "ほてる",
+    "meaning": "酒店",
+    "example": "今日は「ホテル」を覚えます。",
+    "exampleMeaning": "今天学习“酒店”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ja-n5-051",
+    "language": "ja",
+    "level": "N5",
+    "word": "レストラン",
+    "pronunciation": "れすとらん",
+    "meaning": "餐馆",
+    "example": "今日は「レストラン」を覚えます。",
+    "exampleMeaning": "今天学习“餐馆”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ja-n5-052",
+    "language": "ja",
+    "level": "N5",
+    "word": "公園",
+    "pronunciation": "こうえん",
+    "meaning": "公园",
+    "example": "今日は「公園」を覚えます。",
+    "exampleMeaning": "今天学习“公园”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ja-n5-053",
+    "language": "ja",
+    "level": "N5",
+    "word": "駅",
+    "pronunciation": "えき",
+    "meaning": "车站",
+    "example": "今日は「駅」を覚えます。",
+    "exampleMeaning": "今天学习“车站”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ja-n5-054",
+    "language": "ja",
+    "level": "N5",
+    "word": "空港",
+    "pronunciation": "くうこう",
+    "meaning": "机场",
+    "example": "今日は「空港」を覚えます。",
+    "exampleMeaning": "今天学习“机场”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ja-n5-055",
+    "language": "ja",
+    "level": "N5",
+    "word": "通り",
+    "pronunciation": "とおり",
+    "meaning": "街道",
+    "example": "今日は「通り」を覚えます。",
+    "exampleMeaning": "今天学习“街道”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ja-n5-056",
+    "language": "ja",
+    "level": "N5",
+    "word": "町",
+    "pronunciation": "まち",
+    "meaning": "城市",
+    "example": "今日は「町」を覚えます。",
+    "exampleMeaning": "今天学习“城市”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ja-n5-057",
+    "language": "ja",
+    "level": "N5",
+    "word": "国",
+    "pronunciation": "くに",
+    "meaning": "国家",
+    "example": "今日は「国」を覚えます。",
+    "exampleMeaning": "今天学习“国家”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ja-n5-058",
+    "language": "ja",
+    "level": "N5",
+    "word": "本",
+    "pronunciation": "ほん",
+    "meaning": "书",
+    "example": "今日は「本」を覚えます。",
+    "exampleMeaning": "今天学习“书”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ja-n5-059",
+    "language": "ja",
+    "level": "N5",
+    "word": "ペン",
+    "pronunciation": "ぺん",
+    "meaning": "钢笔",
+    "example": "今日は「ペン」を覚えます。",
+    "exampleMeaning": "今天学习“钢笔”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ja-n5-060",
+    "language": "ja",
+    "level": "N5",
+    "word": "鉛筆",
+    "pronunciation": "えんぴつ",
+    "meaning": "铅笔",
+    "example": "今日は「鉛筆」を覚えます。",
+    "exampleMeaning": "今天学习“铅笔”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ja-n5-061",
+    "language": "ja",
+    "level": "N5",
+    "word": "紙",
+    "pronunciation": "かみ",
+    "meaning": "纸",
+    "example": "今日は「紙」を覚えます。",
+    "exampleMeaning": "今天学习“纸”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ja-n5-062",
+    "language": "ja",
+    "level": "N5",
+    "word": "鞄",
+    "pronunciation": "かばん",
+    "meaning": "包",
+    "example": "今日は「鞄」を覚えます。",
+    "exampleMeaning": "今天学习“包”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ja-n5-063",
+    "language": "ja",
+    "level": "N5",
+    "word": "箱",
+    "pronunciation": "はこ",
+    "meaning": "盒子",
+    "example": "今日は「箱」を覚えます。",
+    "exampleMeaning": "今天学习“盒子”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ja-n5-064",
+    "language": "ja",
+    "level": "N5",
+    "word": "鍵",
+    "pronunciation": "かぎ",
+    "meaning": "钥匙",
+    "example": "今日は「鍵」を覚えます。",
+    "exampleMeaning": "今天学习“钥匙”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ja-n5-065",
+    "language": "ja",
+    "level": "N5",
+    "word": "電話",
+    "pronunciation": "でんわ",
+    "meaning": "电话",
+    "example": "今日は「電話」を覚えます。",
+    "exampleMeaning": "今天学习“电话”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ja-n5-066",
+    "language": "ja",
+    "level": "N5",
+    "word": "コンピューター",
+    "pronunciation": "こんぴゅーたー",
+    "meaning": "电脑",
+    "example": "今日は「コンピューター」を覚えます。",
+    "exampleMeaning": "今天学习“电脑”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ja-n5-067",
+    "language": "ja",
+    "level": "N5",
+    "word": "机",
+    "pronunciation": "つくえ",
+    "meaning": "桌子",
+    "example": "今日は「机」を覚えます。",
+    "exampleMeaning": "今天学习“桌子”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ja-n5-068",
+    "language": "ja",
+    "level": "N5",
+    "word": "椅子",
+    "pronunciation": "いす",
+    "meaning": "椅子",
+    "example": "今日は「椅子」を覚えます。",
+    "exampleMeaning": "今天学习“椅子”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ja-n5-069",
+    "language": "ja",
+    "level": "N5",
+    "word": "ドア",
+    "pronunciation": "どあ",
+    "meaning": "门",
+    "example": "今日は「ドア」を覚えます。",
+    "exampleMeaning": "今天学习“门”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ja-n5-070",
+    "language": "ja",
+    "level": "N5",
+    "word": "窓",
+    "pronunciation": "まど",
+    "meaning": "窗户",
+    "example": "今日は「窓」を覚えます。",
+    "exampleMeaning": "今天学习“窗户”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ja-n5-071",
+    "language": "ja",
+    "level": "N5",
+    "word": "ベッド",
+    "pronunciation": "べっど",
+    "meaning": "床",
+    "example": "今日は「ベッド」を覚えます。",
+    "exampleMeaning": "今天学习“床”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ja-n5-072",
+    "language": "ja",
+    "level": "N5",
+    "word": "コップ",
+    "pronunciation": "こっぷ",
+    "meaning": "杯子",
+    "example": "今日は「コップ」を覚えます。",
+    "exampleMeaning": "今天学习“杯子”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ja-n5-073",
+    "language": "ja",
+    "level": "N5",
+    "word": "皿",
+    "pronunciation": "さら",
+    "meaning": "盘子",
+    "example": "今日は「皿」を覚えます。",
+    "exampleMeaning": "今天学习“盘子”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ja-n5-074",
+    "language": "ja",
+    "level": "N5",
+    "word": "時計",
+    "pronunciation": "とけい",
+    "meaning": "钟表",
+    "example": "今日は「時計」を覚えます。",
+    "exampleMeaning": "今天学习“钟表”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ja-n5-075",
+    "language": "ja",
+    "level": "N5",
+    "word": "写真",
+    "pronunciation": "しゃしん",
+    "meaning": "照片",
+    "example": "今日は「写真」を覚えます。",
+    "exampleMeaning": "今天学习“照片”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ja-n5-076",
+    "language": "ja",
+    "level": "N5",
+    "word": "地図",
+    "pronunciation": "ちず",
+    "meaning": "地图",
+    "example": "今日は「地図」を覚えます。",
+    "exampleMeaning": "今天学习“地图”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ja-n5-077",
+    "language": "ja",
+    "level": "N5",
+    "word": "お金",
+    "pronunciation": "おかね",
+    "meaning": "钱",
+    "example": "今日は「お金」を覚えます。",
+    "exampleMeaning": "今天学习“钱”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ja-n5-078",
+    "language": "ja",
+    "level": "N5",
+    "word": "切符",
+    "pronunciation": "きっぷ",
+    "meaning": "票",
+    "example": "今日は「切符」を覚えます。",
+    "exampleMeaning": "今天学习“票”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ja-n5-079",
+    "language": "ja",
+    "level": "N5",
+    "word": "水",
+    "pronunciation": "みず",
+    "meaning": "水",
+    "example": "今日は「水」を覚えます。",
+    "exampleMeaning": "今天学习“水”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja-n5-080",
+    "language": "ja",
+    "level": "N5",
+    "word": "お茶",
+    "pronunciation": "おちゃ",
+    "meaning": "茶",
+    "example": "今日は「お茶」を覚えます。",
+    "exampleMeaning": "今天学习“茶”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja-n5-081",
+    "language": "ja",
+    "level": "N5",
+    "word": "コーヒー",
+    "pronunciation": "こーひー",
+    "meaning": "咖啡",
+    "example": "今日は「コーヒー」を覚えます。",
+    "exampleMeaning": "今天学习“咖啡”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja-n5-082",
+    "language": "ja",
+    "level": "N5",
+    "word": "牛乳",
+    "pronunciation": "ぎゅうにゅう",
+    "meaning": "牛奶",
+    "example": "今日は「牛乳」を覚えます。",
+    "exampleMeaning": "今天学习“牛奶”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja-n5-083",
+    "language": "ja",
+    "level": "N5",
+    "word": "ジュース",
+    "pronunciation": "じゅーす",
+    "meaning": "果汁",
+    "example": "今日は「ジュース」を覚えます。",
+    "exampleMeaning": "今天学习“果汁”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja-n5-084",
+    "language": "ja",
+    "level": "N5",
+    "word": "パン",
+    "pronunciation": "ぱん",
+    "meaning": "面包",
+    "example": "今日は「パン」を覚えます。",
+    "exampleMeaning": "今天学习“面包”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja-n5-085",
+    "language": "ja",
+    "level": "N5",
+    "word": "ご飯",
+    "pronunciation": "ごはん",
+    "meaning": "米饭",
+    "example": "今日は「ご飯」を覚えます。",
+    "exampleMeaning": "今天学习“米饭”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja-n5-086",
+    "language": "ja",
+    "level": "N5",
+    "word": "卵",
+    "pronunciation": "たまご",
+    "meaning": "鸡蛋",
+    "example": "今日は「卵」を覚えます。",
+    "exampleMeaning": "今天学习“鸡蛋”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja-n5-087",
+    "language": "ja",
+    "level": "N5",
+    "word": "肉",
+    "pronunciation": "にく",
+    "meaning": "肉",
+    "example": "今日は「肉」を覚えます。",
+    "exampleMeaning": "今天学习“肉”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja-n5-088",
+    "language": "ja",
+    "level": "N5",
+    "word": "魚",
+    "pronunciation": "さかな",
+    "meaning": "鱼",
+    "example": "今日は「魚」を覚えます。",
+    "exampleMeaning": "今天学习“鱼”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja-n5-089",
+    "language": "ja",
+    "level": "N5",
+    "word": "野菜",
+    "pronunciation": "やさい",
+    "meaning": "蔬菜",
+    "example": "今日は「野菜」を覚えます。",
+    "exampleMeaning": "今天学习“蔬菜”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja-n5-090",
+    "language": "ja",
+    "level": "N5",
+    "word": "果物",
+    "pronunciation": "くだもの",
+    "meaning": "水果",
+    "example": "今日は「果物」を覚えます。",
+    "exampleMeaning": "今天学习“水果”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja-n5-091",
+    "language": "ja",
+    "level": "N5",
+    "word": "林檎",
+    "pronunciation": "りんご",
+    "meaning": "苹果",
+    "example": "今日は「林檎」を覚えます。",
+    "exampleMeaning": "今天学习“苹果”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja-n5-092",
+    "language": "ja",
+    "level": "N5",
+    "word": "バナナ",
+    "pronunciation": "ばなな",
+    "meaning": "香蕉",
+    "example": "今日は「バナナ」を覚えます。",
+    "exampleMeaning": "今天学习“香蕉”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja-n5-093",
+    "language": "ja",
+    "level": "N5",
+    "word": "蜜柑",
+    "pronunciation": "みかん",
+    "meaning": "橙子",
+    "example": "今日は「蜜柑」を覚えます。",
+    "exampleMeaning": "今天学习“橙子”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja-n5-094",
+    "language": "ja",
+    "level": "N5",
+    "word": "ケーキ",
+    "pronunciation": "けーき",
+    "meaning": "蛋糕",
+    "example": "今日は「ケーキ」を覚えます。",
+    "exampleMeaning": "今天学习“蛋糕”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja-n5-095",
+    "language": "ja",
+    "level": "N5",
+    "word": "味噌汁",
+    "pronunciation": "みそしる",
+    "meaning": "汤",
+    "example": "今日は「味噌汁」を覚えます。",
+    "exampleMeaning": "今天学习“汤”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja-n5-096",
+    "language": "ja",
+    "level": "N5",
+    "word": "朝ご飯",
+    "pronunciation": "あさごはん",
+    "meaning": "早饭",
+    "example": "今日は「朝ご飯」を覚えます。",
+    "exampleMeaning": "今天学习“早饭”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja-n5-097",
+    "language": "ja",
+    "level": "N5",
+    "word": "昼ご飯",
+    "pronunciation": "ひるごはん",
+    "meaning": "午饭",
+    "example": "今日は「昼ご飯」を覚えます。",
+    "exampleMeaning": "今天学习“午饭”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja-n5-098",
+    "language": "ja",
+    "level": "N5",
+    "word": "晩ご飯",
+    "pronunciation": "ばんごはん",
+    "meaning": "晚饭",
+    "example": "今日は「晩ご飯」を覚えます。",
+    "exampleMeaning": "今天学习“晚饭”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ja-n5-099",
+    "language": "ja",
+    "level": "N5",
+    "word": "今日",
+    "pronunciation": "きょう",
+    "meaning": "今天",
+    "example": "今日は「今日」を覚えます。",
+    "exampleMeaning": "今天学习“今天”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-100",
+    "language": "ja",
+    "level": "N5",
+    "word": "明日",
+    "pronunciation": "あした",
+    "meaning": "明天",
+    "example": "今日は「明日」を覚えます。",
+    "exampleMeaning": "今天学习“明天”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-101",
+    "language": "ja",
+    "level": "N5",
+    "word": "昨日",
+    "pronunciation": "きのう",
+    "meaning": "昨天",
+    "example": "今日は「昨日」を覚えます。",
+    "exampleMeaning": "今天学习“昨天”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-102",
+    "language": "ja",
+    "level": "N5",
+    "word": "朝",
+    "pronunciation": "あさ",
+    "meaning": "早晨",
+    "example": "今日は「朝」を覚えます。",
+    "exampleMeaning": "今天学习“早晨”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-103",
+    "language": "ja",
+    "level": "N5",
+    "word": "午後",
+    "pronunciation": "ごご",
+    "meaning": "下午",
+    "example": "今日は「午後」を覚えます。",
+    "exampleMeaning": "今天学习“下午”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-104",
+    "language": "ja",
+    "level": "N5",
+    "word": "夕方",
+    "pronunciation": "ゆうがた",
+    "meaning": "傍晚",
+    "example": "今日は「夕方」を覚えます。",
+    "exampleMeaning": "今天学习“傍晚”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-105",
+    "language": "ja",
+    "level": "N5",
+    "word": "夜",
+    "pronunciation": "よる",
+    "meaning": "夜晚",
+    "example": "今日は「夜」を覚えます。",
+    "exampleMeaning": "今天学习“夜晚”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-106",
+    "language": "ja",
+    "level": "N5",
+    "word": "週",
+    "pronunciation": "しゅう",
+    "meaning": "星期",
+    "example": "今日は「週」を覚えます。",
+    "exampleMeaning": "今天学习“星期”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-107",
+    "language": "ja",
+    "level": "N5",
+    "word": "月",
+    "pronunciation": "つき",
+    "meaning": "月份",
+    "example": "今日は「月」を覚えます。",
+    "exampleMeaning": "今天学习“月份”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-108",
+    "language": "ja",
+    "level": "N5",
+    "word": "時間",
+    "pronunciation": "じかん",
+    "meaning": "时间",
+    "example": "今日は「時間」を覚えます。",
+    "exampleMeaning": "今天学习“时间”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-109",
+    "language": "ja",
+    "level": "N5",
+    "word": "分",
+    "pronunciation": "ふん",
+    "meaning": "分钟",
+    "example": "今日は「分」を覚えます。",
+    "exampleMeaning": "今天学习“分钟”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-110",
+    "language": "ja",
+    "level": "N5",
+    "word": "行く",
+    "pronunciation": "いく",
+    "meaning": "去",
+    "example": "今日は「行く」を覚えます。",
+    "exampleMeaning": "今天学习“去”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-111",
+    "language": "ja",
+    "level": "N5",
+    "word": "来る",
+    "pronunciation": "くる",
+    "meaning": "来",
+    "example": "今日は「来る」を覚えます。",
+    "exampleMeaning": "今天学习“来”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-112",
+    "language": "ja",
+    "level": "N5",
+    "word": "食べる",
+    "pronunciation": "たべる",
+    "meaning": "吃",
+    "example": "今日は「食べる」を覚えます。",
+    "exampleMeaning": "今天学习“吃”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-113",
+    "language": "ja",
+    "level": "N5",
+    "word": "飲む",
+    "pronunciation": "のむ",
+    "meaning": "喝",
+    "example": "今日は「飲む」を覚えます。",
+    "exampleMeaning": "今天学习“喝”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-114",
+    "language": "ja",
+    "level": "N5",
+    "word": "読む",
+    "pronunciation": "よむ",
+    "meaning": "读",
+    "example": "今日は「読む」を覚えます。",
+    "exampleMeaning": "今天学习“读”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-115",
+    "language": "ja",
+    "level": "N5",
+    "word": "書く",
+    "pronunciation": "かく",
+    "meaning": "写",
+    "example": "今日は「書く」を覚えます。",
+    "exampleMeaning": "今天学习“写”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-116",
+    "language": "ja",
+    "level": "N5",
+    "word": "聞く",
+    "pronunciation": "きく",
+    "meaning": "听",
+    "example": "今日は「聞く」を覚えます。",
+    "exampleMeaning": "今天学习“听”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-117",
+    "language": "ja",
+    "level": "N5",
+    "word": "話す",
+    "pronunciation": "はなす",
+    "meaning": "说",
+    "example": "今日は「話す」を覚えます。",
+    "exampleMeaning": "今天学习“说”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-118",
+    "language": "ja",
+    "level": "N5",
+    "word": "見る",
+    "pronunciation": "みる",
+    "meaning": "看见",
+    "example": "今日は「見る」を覚えます。",
+    "exampleMeaning": "今天学习“看见”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-119",
+    "language": "ja",
+    "level": "N5",
+    "word": "会う",
+    "pronunciation": "あう",
+    "meaning": "见面",
+    "example": "今日は「会う」を覚えます。",
+    "exampleMeaning": "今天学习“见面”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-120",
+    "language": "ja",
+    "level": "N5",
+    "word": "買う",
+    "pronunciation": "かう",
+    "meaning": "买",
+    "example": "今日は「買う」を覚えます。",
+    "exampleMeaning": "今天学习“买”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-121",
+    "language": "ja",
+    "level": "N5",
+    "word": "売る",
+    "pronunciation": "うる",
+    "meaning": "卖",
+    "example": "今日は「売る」を覚えます。",
+    "exampleMeaning": "今天学习“卖”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-122",
+    "language": "ja",
+    "level": "N5",
+    "word": "使う",
+    "pronunciation": "つかう",
+    "meaning": "使用",
+    "example": "今日は「使う」を覚えます。",
+    "exampleMeaning": "今天学习“使用”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-123",
+    "language": "ja",
+    "level": "N5",
+    "word": "作る",
+    "pronunciation": "つくる",
+    "meaning": "制作",
+    "example": "今日は「作る」を覚えます。",
+    "exampleMeaning": "今天学习“制作”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-124",
+    "language": "ja",
+    "level": "N5",
+    "word": "する",
+    "pronunciation": "する",
+    "meaning": "做",
+    "example": "今日は「する」を覚えます。",
+    "exampleMeaning": "今天学习“做”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-125",
+    "language": "ja",
+    "level": "N5",
+    "word": "ある",
+    "pronunciation": "ある",
+    "meaning": "有",
+    "example": "今日は「ある」を覚えます。",
+    "exampleMeaning": "今天学习“有”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-126",
+    "language": "ja",
+    "level": "N5",
+    "word": "欲しい",
+    "pronunciation": "ほしい",
+    "meaning": "想要",
+    "example": "今日は「欲しい」を覚えます。",
+    "exampleMeaning": "今天学习“想要”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-127",
+    "language": "ja",
+    "level": "N5",
+    "word": "好き",
+    "pronunciation": "すき",
+    "meaning": "喜欢",
+    "example": "今日は「好き」を覚えます。",
+    "exampleMeaning": "今天学习“喜欢”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-128",
+    "language": "ja",
+    "level": "N5",
+    "word": "知る",
+    "pronunciation": "しる",
+    "meaning": "知道",
+    "example": "今日は「知る」を覚えます。",
+    "exampleMeaning": "今天学习“知道”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-129",
+    "language": "ja",
+    "level": "N5",
+    "word": "思う",
+    "pronunciation": "おもう",
+    "meaning": "想",
+    "example": "今日は「思う」を覚えます。",
+    "exampleMeaning": "今天学习“想”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-130",
+    "language": "ja",
+    "level": "N5",
+    "word": "待つ",
+    "pronunciation": "まつ",
+    "meaning": "等待",
+    "example": "今日は「待つ」を覚えます。",
+    "exampleMeaning": "今天学习“等待”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-131",
+    "language": "ja",
+    "level": "N5",
+    "word": "休む",
+    "pronunciation": "やすむ",
+    "meaning": "休息",
+    "example": "今日は「休む」を覚えます。",
+    "exampleMeaning": "今天学习“休息”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-132",
+    "language": "ja",
+    "level": "N5",
+    "word": "寝る",
+    "pronunciation": "ねる",
+    "meaning": "睡觉",
+    "example": "今日は「寝る」を覚えます。",
+    "exampleMeaning": "今天学习“睡觉”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-133",
+    "language": "ja",
+    "level": "N5",
+    "word": "歩く",
+    "pronunciation": "あるく",
+    "meaning": "走路",
+    "example": "今日は「歩く」を覚えます。",
+    "exampleMeaning": "今天学习“走路”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-134",
+    "language": "ja",
+    "level": "N5",
+    "word": "走る",
+    "pronunciation": "はしる",
+    "meaning": "跑",
+    "example": "今日は「走る」を覚えます。",
+    "exampleMeaning": "今天学习“跑”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-135",
+    "language": "ja",
+    "level": "N5",
+    "word": "座る",
+    "pronunciation": "すわる",
+    "meaning": "坐",
+    "example": "今日は「座る」を覚えます。",
+    "exampleMeaning": "今天学习“坐”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-136",
+    "language": "ja",
+    "level": "N5",
+    "word": "立つ",
+    "pronunciation": "たつ",
+    "meaning": "站",
+    "example": "今日は「立つ」を覚えます。",
+    "exampleMeaning": "今天学习“站”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-137",
+    "language": "ja",
+    "level": "N5",
+    "word": "開ける",
+    "pronunciation": "あける",
+    "meaning": "打开",
+    "example": "今日は「開ける」を覚えます。",
+    "exampleMeaning": "今天学习“打开”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-138",
+    "language": "ja",
+    "level": "N5",
+    "word": "閉める",
+    "pronunciation": "しめる",
+    "meaning": "关闭",
+    "example": "今日は「閉める」を覚えます。",
+    "exampleMeaning": "今天学习“关闭”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-139",
+    "language": "ja",
+    "level": "N5",
+    "word": "勉強する",
+    "pronunciation": "べんきょうする",
+    "meaning": "学习",
+    "example": "今日は「勉強する」を覚えます。",
+    "exampleMeaning": "今天学习“学习”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-140",
+    "language": "ja",
+    "level": "N5",
+    "word": "働く",
+    "pronunciation": "はたらく",
+    "meaning": "工作",
+    "example": "今日は「働く」を覚えます。",
+    "exampleMeaning": "今天学习“工作”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-141",
+    "language": "ja",
+    "level": "N5",
+    "word": "遊ぶ",
+    "pronunciation": "あそぶ",
+    "meaning": "玩",
+    "example": "今日は「遊ぶ」を覚えます。",
+    "exampleMeaning": "今天学习“玩”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-142",
+    "language": "ja",
+    "level": "N5",
+    "word": "洗う",
+    "pronunciation": "あらう",
+    "meaning": "洗",
+    "example": "今日は「洗う」を覚えます。",
+    "exampleMeaning": "今天学习“洗”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-143",
+    "language": "ja",
+    "level": "N5",
+    "word": "掃除する",
+    "pronunciation": "そうじする",
+    "meaning": "打扫",
+    "example": "今日は「掃除する」を覚えます。",
+    "exampleMeaning": "今天学习“打扫”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-144",
+    "language": "ja",
+    "level": "N5",
+    "word": "料理する",
+    "pronunciation": "りょうりする",
+    "meaning": "做饭",
+    "example": "今日は「料理する」を覚えます。",
+    "exampleMeaning": "今天学习“做饭”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ja-n5-145",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい",
+    "pronunciation": "おおきい",
+    "meaning": "大的",
+    "example": "今日は「大きい」を覚えます。",
+    "exampleMeaning": "今天学习“大的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ja-n5-146",
+    "language": "ja",
+    "level": "N5",
+    "word": "小さい",
+    "pronunciation": "ちいさい",
+    "meaning": "小的",
+    "example": "今日は「小さい」を覚えます。",
+    "exampleMeaning": "今天学习“小的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ja-n5-147",
+    "language": "ja",
+    "level": "N5",
+    "word": "良い",
+    "pronunciation": "いい",
+    "meaning": "好的",
+    "example": "今日は「良い」を覚えます。",
+    "exampleMeaning": "今天学习“好的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ja-n5-148",
+    "language": "ja",
+    "level": "N5",
+    "word": "悪い",
+    "pronunciation": "わるい",
+    "meaning": "坏的",
+    "example": "今日は「悪い」を覚えます。",
+    "exampleMeaning": "今天学习“坏的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ja-n5-149",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい",
+    "pronunciation": "あたらしい",
+    "meaning": "新的",
+    "example": "今日は「新しい」を覚えます。",
+    "exampleMeaning": "今天学习“新的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ja-n5-150",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い",
+    "pronunciation": "ふるい",
+    "meaning": "旧的",
+    "example": "今日は「古い」を覚えます。",
+    "exampleMeaning": "今天学习“旧的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ja-n5-151",
+    "language": "ja",
+    "level": "N5",
+    "word": "暑い",
+    "pronunciation": "あつい",
+    "meaning": "热的",
+    "example": "今日は「暑い」を覚えます。",
+    "exampleMeaning": "今天学习“热的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ja-n5-152",
+    "language": "ja",
+    "level": "N5",
+    "word": "寒い",
+    "pronunciation": "さむい",
+    "meaning": "冷的",
+    "example": "今日は「寒い」を覚えます。",
+    "exampleMeaning": "今天学习“冷的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ja-n5-153",
+    "language": "ja",
+    "level": "N5",
+    "word": "嬉しい",
+    "pronunciation": "うれしい",
+    "meaning": "高兴的",
+    "example": "今日は「嬉しい」を覚えます。",
+    "exampleMeaning": "今天学习“高兴的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ja-n5-154",
+    "language": "ja",
+    "level": "N5",
+    "word": "悲しい",
+    "pronunciation": "かなしい",
+    "meaning": "难过的",
+    "example": "今日は「悲しい」を覚えます。",
+    "exampleMeaning": "今天学习“难过的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ja-n5-155",
+    "language": "ja",
+    "level": "N5",
+    "word": "簡単",
+    "pronunciation": "かんたん",
+    "meaning": "简单的",
+    "example": "今日は「簡単」を覚えます。",
+    "exampleMeaning": "今天学习“简单的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ja-n5-156",
+    "language": "ja",
+    "level": "N5",
+    "word": "難しい",
+    "pronunciation": "むずかしい",
+    "meaning": "困难的",
+    "example": "今日は「難しい」を覚えます。",
+    "exampleMeaning": "今天学习“困难的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ja-n5-157",
+    "language": "ja",
+    "level": "N5",
+    "word": "速い",
+    "pronunciation": "はやい",
+    "meaning": "快的",
+    "example": "今日は「速い」を覚えます。",
+    "exampleMeaning": "今天学习“快的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ja-n5-158",
+    "language": "ja",
+    "level": "N5",
+    "word": "遅い",
+    "pronunciation": "おそい",
+    "meaning": "慢的",
+    "example": "今日は「遅い」を覚えます。",
+    "exampleMeaning": "今天学习“慢的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ja-n5-159",
+    "language": "ja",
+    "level": "N5",
+    "word": "長い",
+    "pronunciation": "ながい",
+    "meaning": "长的",
+    "example": "今日は「長い」を覚えます。",
+    "exampleMeaning": "今天学习“长的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ja-n5-160",
+    "language": "ja",
+    "level": "N5",
+    "word": "短い",
+    "pronunciation": "みじかい",
+    "meaning": "短的",
+    "example": "今日は「短い」を覚えます。",
+    "exampleMeaning": "今天学习“短的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ja-n5-161",
+    "language": "ja",
+    "level": "N5",
+    "word": "赤",
+    "pronunciation": "あか",
+    "meaning": "红色",
+    "example": "今日は「赤」を覚えます。",
+    "exampleMeaning": "今天学习“红色”。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "ja-n5-162",
+    "language": "ja",
+    "level": "N5",
+    "word": "青",
+    "pronunciation": "あお",
+    "meaning": "蓝色",
+    "example": "今日は「青」を覚えます。",
+    "exampleMeaning": "今天学习“蓝色”。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "ja-n5-163",
+    "language": "ja",
+    "level": "N5",
+    "word": "緑",
+    "pronunciation": "みどり",
+    "meaning": "绿色",
+    "example": "今日は「緑」を覚えます。",
+    "exampleMeaning": "今天学习“绿色”。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "ja-n5-164",
+    "language": "ja",
+    "level": "N5",
+    "word": "黄色",
+    "pronunciation": "きいろ",
+    "meaning": "黄色",
+    "example": "今日は「黄色」を覚えます。",
+    "exampleMeaning": "今天学习“黄色”。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "ja-n5-165",
+    "language": "ja",
+    "level": "N5",
+    "word": "黒",
+    "pronunciation": "くろ",
+    "meaning": "黑色",
+    "example": "今日は「黒」を覚えます。",
+    "exampleMeaning": "今天学习“黑色”。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "ja-n5-166",
+    "language": "ja",
+    "level": "N5",
+    "word": "白",
+    "pronunciation": "しろ",
+    "meaning": "白色",
+    "example": "今日は「白」を覚えます。",
+    "exampleMeaning": "今天学习“白色”。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "ja-n5-167",
+    "language": "ja",
+    "level": "N5",
+    "word": "頭",
+    "pronunciation": "あたま",
+    "meaning": "头",
+    "example": "今日は「頭」を覚えます。",
+    "exampleMeaning": "今天学习“头”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "ja-n5-168",
+    "language": "ja",
+    "level": "N5",
+    "word": "顔",
+    "pronunciation": "かお",
+    "meaning": "脸",
+    "example": "今日は「顔」を覚えます。",
+    "exampleMeaning": "今天学习“脸”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "ja-n5-169",
+    "language": "ja",
+    "level": "N5",
+    "word": "目",
+    "pronunciation": "め",
+    "meaning": "眼睛",
+    "example": "今日は「目」を覚えます。",
+    "exampleMeaning": "今天学习“眼睛”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "ja-n5-170",
+    "language": "ja",
+    "level": "N5",
+    "word": "耳",
+    "pronunciation": "みみ",
+    "meaning": "耳朵",
+    "example": "今日は「耳」を覚えます。",
+    "exampleMeaning": "今天学习“耳朵”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "ja-n5-171",
+    "language": "ja",
+    "level": "N5",
+    "word": "鼻",
+    "pronunciation": "はな",
+    "meaning": "鼻子",
+    "example": "今日は「鼻」を覚えます。",
+    "exampleMeaning": "今天学习“鼻子”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "ja-n5-172",
+    "language": "ja",
+    "level": "N5",
+    "word": "口",
+    "pronunciation": "くち",
+    "meaning": "嘴",
+    "example": "今日は「口」を覚えます。",
+    "exampleMeaning": "今天学习“嘴”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "ja-n5-173",
+    "language": "ja",
+    "level": "N5",
+    "word": "手",
+    "pronunciation": "て",
+    "meaning": "手",
+    "example": "今日は「手」を覚えます。",
+    "exampleMeaning": "今天学习“手”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "ja-n5-174",
+    "language": "ja",
+    "level": "N5",
+    "word": "足",
+    "pronunciation": "あし",
+    "meaning": "脚",
+    "example": "今日は「足」を覚えます。",
+    "exampleMeaning": "今天学习“脚”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "ja-n5-175",
+    "language": "ja",
+    "level": "N5",
+    "word": "天気",
+    "pronunciation": "てんき",
+    "meaning": "天气",
+    "example": "今日は「天気」を覚えます。",
+    "exampleMeaning": "今天学习“天气”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "ja-n5-176",
+    "language": "ja",
+    "level": "N5",
+    "word": "雨",
+    "pronunciation": "あめ",
+    "meaning": "雨",
+    "example": "今日は「雨」を覚えます。",
+    "exampleMeaning": "今天学习“雨”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "ja-n5-177",
+    "language": "ja",
+    "level": "N5",
+    "word": "雪",
+    "pronunciation": "ゆき",
+    "meaning": "雪",
+    "example": "今日は「雪」を覚えます。",
+    "exampleMeaning": "今天学习“雪”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "ja-n5-178",
+    "language": "ja",
+    "level": "N5",
+    "word": "風",
+    "pronunciation": "かぜ",
+    "meaning": "风",
+    "example": "今日は「風」を覚えます。",
+    "exampleMeaning": "今天学习“风”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "ja-n5-179",
+    "language": "ja",
+    "level": "N5",
+    "word": "空",
+    "pronunciation": "そら",
+    "meaning": "天空",
+    "example": "今日は「空」を覚えます。",
+    "exampleMeaning": "今天学习“天空”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "ja-n5-180",
+    "language": "ja",
+    "level": "N5",
+    "word": "山",
+    "pronunciation": "やま",
+    "meaning": "山",
+    "example": "今日は「山」を覚えます。",
+    "exampleMeaning": "今天学习“山”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "ja-n5-181",
+    "language": "ja",
+    "level": "N5",
+    "word": "川",
+    "pronunciation": "かわ",
+    "meaning": "河",
+    "example": "今日は「川」を覚えます。",
+    "exampleMeaning": "今天学习“河”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "ja-n5-182",
+    "language": "ja",
+    "level": "N5",
+    "word": "海",
+    "pronunciation": "うみ",
+    "meaning": "海",
+    "example": "今日は「海」を覚えます。",
+    "exampleMeaning": "今天学习“海”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "ja-n5-183",
+    "language": "ja",
+    "level": "N5",
+    "word": "木",
+    "pronunciation": "き",
+    "meaning": "树",
+    "example": "今日は「木」を覚えます。",
+    "exampleMeaning": "今天学习“树”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "ja-n5-184",
+    "language": "ja",
+    "level": "N5",
+    "word": "花",
+    "pronunciation": "はな",
+    "meaning": "花",
+    "example": "今日は「花」を覚えます。",
+    "exampleMeaning": "今天学习“花”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "ja-n5-185",
+    "language": "ja",
+    "level": "N5",
+    "word": "犬",
+    "pronunciation": "いぬ",
+    "meaning": "狗",
+    "example": "今日は「犬」を覚えます。",
+    "exampleMeaning": "今天学习“狗”。",
+    "tags": [
+      "animal"
+    ]
+  },
+  {
+    "id": "ja-n5-186",
+    "language": "ja",
+    "level": "N5",
+    "word": "猫",
+    "pronunciation": "ねこ",
+    "meaning": "猫",
+    "example": "今日は「猫」を覚えます。",
+    "exampleMeaning": "今天学习“猫”。",
+    "tags": [
+      "animal"
+    ]
+  },
+  {
+    "id": "ja-n5-187",
+    "language": "ja",
+    "level": "N5",
+    "word": "鳥",
+    "pronunciation": "とり",
+    "meaning": "鸟",
+    "example": "今日は「鳥」を覚えます。",
+    "exampleMeaning": "今天学习“鸟”。",
+    "tags": [
+      "animal"
+    ]
+  },
+  {
+    "id": "ja-n5-188",
+    "language": "ja",
+    "level": "N5",
+    "word": "車",
+    "pronunciation": "くるま",
+    "meaning": "汽车",
+    "example": "今日は「車」を覚えます。",
+    "exampleMeaning": "今天学习“汽车”。",
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ja-n5-189",
+    "language": "ja",
+    "level": "N5",
+    "word": "バス",
+    "pronunciation": "ばす",
+    "meaning": "公交车",
+    "example": "今日は「バス」を覚えます。",
+    "exampleMeaning": "今天学习“公交车”。",
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ja-n5-190",
+    "language": "ja",
+    "level": "N5",
+    "word": "電車",
+    "pronunciation": "でんしゃ",
+    "meaning": "火车",
+    "example": "今日は「電車」を覚えます。",
+    "exampleMeaning": "今天学习“火车”。",
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ja-n5-191",
+    "language": "ja",
+    "level": "N5",
+    "word": "自転車",
+    "pronunciation": "じてんしゃ",
+    "meaning": "自行车",
+    "example": "今日は「自転車」を覚えます。",
+    "exampleMeaning": "今天学习“自行车”。",
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ja-n5-192",
+    "language": "ja",
+    "level": "N5",
+    "word": "飛行機",
+    "pronunciation": "ひこうき",
+    "meaning": "飞机",
+    "example": "今日は「飛行機」を覚えます。",
+    "exampleMeaning": "今天学习“飞机”。",
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ja-n5-193",
+    "language": "ja",
+    "level": "N5",
+    "word": "零",
+    "pronunciation": "れい",
+    "meaning": "零",
+    "example": "今日は「零」を覚えます。",
+    "exampleMeaning": "今天学习“零”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-194",
+    "language": "ja",
+    "level": "N5",
+    "word": "一",
+    "pronunciation": "いち",
+    "meaning": "一",
+    "example": "今日は「一」を覚えます。",
+    "exampleMeaning": "今天学习“一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-195",
+    "language": "ja",
+    "level": "N5",
+    "word": "二",
+    "pronunciation": "に",
+    "meaning": "二",
+    "example": "今日は「二」を覚えます。",
+    "exampleMeaning": "今天学习“二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-196",
+    "language": "ja",
+    "level": "N5",
+    "word": "三",
+    "pronunciation": "さん",
+    "meaning": "三",
+    "example": "今日は「三」を覚えます。",
+    "exampleMeaning": "今天学习“三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-197",
+    "language": "ja",
+    "level": "N5",
+    "word": "四",
+    "pronunciation": "よん",
+    "meaning": "四",
+    "example": "今日は「四」を覚えます。",
+    "exampleMeaning": "今天学习“四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-198",
+    "language": "ja",
+    "level": "N5",
+    "word": "五",
+    "pronunciation": "ご",
+    "meaning": "五",
+    "example": "今日は「五」を覚えます。",
+    "exampleMeaning": "今天学习“五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-199",
+    "language": "ja",
+    "level": "N5",
+    "word": "六",
+    "pronunciation": "ろく",
+    "meaning": "六",
+    "example": "今日は「六」を覚えます。",
+    "exampleMeaning": "今天学习“六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-200",
+    "language": "ja",
+    "level": "N5",
+    "word": "七",
+    "pronunciation": "なな",
+    "meaning": "七",
+    "example": "今日は「七」を覚えます。",
+    "exampleMeaning": "今天学习“七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-201",
+    "language": "ja",
+    "level": "N5",
+    "word": "八",
+    "pronunciation": "はち",
+    "meaning": "八",
+    "example": "今日は「八」を覚えます。",
+    "exampleMeaning": "今天学习“八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-202",
+    "language": "ja",
+    "level": "N5",
+    "word": "九",
+    "pronunciation": "きゅう",
+    "meaning": "九",
+    "example": "今日は「九」を覚えます。",
+    "exampleMeaning": "今天学习“九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-203",
+    "language": "ja",
+    "level": "N5",
+    "word": "十",
+    "pronunciation": "じゅう",
+    "meaning": "十",
+    "example": "今日は「十」を覚えます。",
+    "exampleMeaning": "今天学习“十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-204",
+    "language": "ja",
+    "level": "N5",
+    "word": "十一",
+    "pronunciation": "じゅういち",
+    "meaning": "十一",
+    "example": "今日は「十一」を覚えます。",
+    "exampleMeaning": "今天学习“十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-205",
+    "language": "ja",
+    "level": "N5",
+    "word": "十二",
+    "pronunciation": "じゅうに",
+    "meaning": "十二",
+    "example": "今日は「十二」を覚えます。",
+    "exampleMeaning": "今天学习“十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-206",
+    "language": "ja",
+    "level": "N5",
+    "word": "十三",
+    "pronunciation": "じゅうさん",
+    "meaning": "十三",
+    "example": "今日は「十三」を覚えます。",
+    "exampleMeaning": "今天学习“十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-207",
+    "language": "ja",
+    "level": "N5",
+    "word": "十四",
+    "pronunciation": "じゅうよん",
+    "meaning": "十四",
+    "example": "今日は「十四」を覚えます。",
+    "exampleMeaning": "今天学习“十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-208",
+    "language": "ja",
+    "level": "N5",
+    "word": "十五",
+    "pronunciation": "じゅうご",
+    "meaning": "十五",
+    "example": "今日は「十五」を覚えます。",
+    "exampleMeaning": "今天学习“十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-209",
+    "language": "ja",
+    "level": "N5",
+    "word": "十六",
+    "pronunciation": "じゅうろく",
+    "meaning": "十六",
+    "example": "今日は「十六」を覚えます。",
+    "exampleMeaning": "今天学习“十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-210",
+    "language": "ja",
+    "level": "N5",
+    "word": "十七",
+    "pronunciation": "じゅうなな",
+    "meaning": "十七",
+    "example": "今日は「十七」を覚えます。",
+    "exampleMeaning": "今天学习“十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-211",
+    "language": "ja",
+    "level": "N5",
+    "word": "十八",
+    "pronunciation": "じゅうはち",
+    "meaning": "十八",
+    "example": "今日は「十八」を覚えます。",
+    "exampleMeaning": "今天学习“十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-212",
+    "language": "ja",
+    "level": "N5",
+    "word": "十九",
+    "pronunciation": "じゅうきゅう",
+    "meaning": "十九",
+    "example": "今日は「十九」を覚えます。",
+    "exampleMeaning": "今天学习“十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-213",
+    "language": "ja",
+    "level": "N5",
+    "word": "二十",
+    "pronunciation": "にじゅう",
+    "meaning": "二十",
+    "example": "今日は「二十」を覚えます。",
+    "exampleMeaning": "今天学习“二十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-214",
+    "language": "ja",
+    "level": "N5",
+    "word": "二十一",
+    "pronunciation": "にじゅういち",
+    "meaning": "二十一",
+    "example": "今日は「二十一」を覚えます。",
+    "exampleMeaning": "今天学习“二十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-215",
+    "language": "ja",
+    "level": "N5",
+    "word": "二十二",
+    "pronunciation": "にじゅうに",
+    "meaning": "二十二",
+    "example": "今日は「二十二」を覚えます。",
+    "exampleMeaning": "今天学习“二十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-216",
+    "language": "ja",
+    "level": "N5",
+    "word": "二十三",
+    "pronunciation": "にじゅうさん",
+    "meaning": "二十三",
+    "example": "今日は「二十三」を覚えます。",
+    "exampleMeaning": "今天学习“二十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-217",
+    "language": "ja",
+    "level": "N5",
+    "word": "二十四",
+    "pronunciation": "にじゅうよん",
+    "meaning": "二十四",
+    "example": "今日は「二十四」を覚えます。",
+    "exampleMeaning": "今天学习“二十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-218",
+    "language": "ja",
+    "level": "N5",
+    "word": "二十五",
+    "pronunciation": "にじゅうご",
+    "meaning": "二十五",
+    "example": "今日は「二十五」を覚えます。",
+    "exampleMeaning": "今天学习“二十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-219",
+    "language": "ja",
+    "level": "N5",
+    "word": "二十六",
+    "pronunciation": "にじゅうろく",
+    "meaning": "二十六",
+    "example": "今日は「二十六」を覚えます。",
+    "exampleMeaning": "今天学习“二十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-220",
+    "language": "ja",
+    "level": "N5",
+    "word": "二十七",
+    "pronunciation": "にじゅうなな",
+    "meaning": "二十七",
+    "example": "今日は「二十七」を覚えます。",
+    "exampleMeaning": "今天学习“二十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-221",
+    "language": "ja",
+    "level": "N5",
+    "word": "二十八",
+    "pronunciation": "にじゅうはち",
+    "meaning": "二十八",
+    "example": "今日は「二十八」を覚えます。",
+    "exampleMeaning": "今天学习“二十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-222",
+    "language": "ja",
+    "level": "N5",
+    "word": "二十九",
+    "pronunciation": "にじゅうきゅう",
+    "meaning": "二十九",
+    "example": "今日は「二十九」を覚えます。",
+    "exampleMeaning": "今天学习“二十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-223",
+    "language": "ja",
+    "level": "N5",
+    "word": "三十",
+    "pronunciation": "さんじゅう",
+    "meaning": "三十",
+    "example": "今日は「三十」を覚えます。",
+    "exampleMeaning": "今天学习“三十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-224",
+    "language": "ja",
+    "level": "N5",
+    "word": "三十一",
+    "pronunciation": "さんじゅういち",
+    "meaning": "三十一",
+    "example": "今日は「三十一」を覚えます。",
+    "exampleMeaning": "今天学习“三十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-225",
+    "language": "ja",
+    "level": "N5",
+    "word": "三十二",
+    "pronunciation": "さんじゅうに",
+    "meaning": "三十二",
+    "example": "今日は「三十二」を覚えます。",
+    "exampleMeaning": "今天学习“三十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-226",
+    "language": "ja",
+    "level": "N5",
+    "word": "三十三",
+    "pronunciation": "さんじゅうさん",
+    "meaning": "三十三",
+    "example": "今日は「三十三」を覚えます。",
+    "exampleMeaning": "今天学习“三十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-227",
+    "language": "ja",
+    "level": "N5",
+    "word": "三十四",
+    "pronunciation": "さんじゅうよん",
+    "meaning": "三十四",
+    "example": "今日は「三十四」を覚えます。",
+    "exampleMeaning": "今天学习“三十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-228",
+    "language": "ja",
+    "level": "N5",
+    "word": "三十五",
+    "pronunciation": "さんじゅうご",
+    "meaning": "三十五",
+    "example": "今日は「三十五」を覚えます。",
+    "exampleMeaning": "今天学习“三十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-229",
+    "language": "ja",
+    "level": "N5",
+    "word": "三十六",
+    "pronunciation": "さんじゅうろく",
+    "meaning": "三十六",
+    "example": "今日は「三十六」を覚えます。",
+    "exampleMeaning": "今天学习“三十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-230",
+    "language": "ja",
+    "level": "N5",
+    "word": "三十七",
+    "pronunciation": "さんじゅうなな",
+    "meaning": "三十七",
+    "example": "今日は「三十七」を覚えます。",
+    "exampleMeaning": "今天学习“三十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-231",
+    "language": "ja",
+    "level": "N5",
+    "word": "三十八",
+    "pronunciation": "さんじゅうはち",
+    "meaning": "三十八",
+    "example": "今日は「三十八」を覚えます。",
+    "exampleMeaning": "今天学习“三十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-232",
+    "language": "ja",
+    "level": "N5",
+    "word": "三十九",
+    "pronunciation": "さんじゅうきゅう",
+    "meaning": "三十九",
+    "example": "今日は「三十九」を覚えます。",
+    "exampleMeaning": "今天学习“三十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-233",
+    "language": "ja",
+    "level": "N5",
+    "word": "四十",
+    "pronunciation": "よんじゅう",
+    "meaning": "四十",
+    "example": "今日は「四十」を覚えます。",
+    "exampleMeaning": "今天学习“四十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-234",
+    "language": "ja",
+    "level": "N5",
+    "word": "四十一",
+    "pronunciation": "よんじゅういち",
+    "meaning": "四十一",
+    "example": "今日は「四十一」を覚えます。",
+    "exampleMeaning": "今天学习“四十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-235",
+    "language": "ja",
+    "level": "N5",
+    "word": "四十二",
+    "pronunciation": "よんじゅうに",
+    "meaning": "四十二",
+    "example": "今日は「四十二」を覚えます。",
+    "exampleMeaning": "今天学习“四十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-236",
+    "language": "ja",
+    "level": "N5",
+    "word": "四十三",
+    "pronunciation": "よんじゅうさん",
+    "meaning": "四十三",
+    "example": "今日は「四十三」を覚えます。",
+    "exampleMeaning": "今天学习“四十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-237",
+    "language": "ja",
+    "level": "N5",
+    "word": "四十四",
+    "pronunciation": "よんじゅうよん",
+    "meaning": "四十四",
+    "example": "今日は「四十四」を覚えます。",
+    "exampleMeaning": "今天学习“四十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-238",
+    "language": "ja",
+    "level": "N5",
+    "word": "四十五",
+    "pronunciation": "よんじゅうご",
+    "meaning": "四十五",
+    "example": "今日は「四十五」を覚えます。",
+    "exampleMeaning": "今天学习“四十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-239",
+    "language": "ja",
+    "level": "N5",
+    "word": "四十六",
+    "pronunciation": "よんじゅうろく",
+    "meaning": "四十六",
+    "example": "今日は「四十六」を覚えます。",
+    "exampleMeaning": "今天学习“四十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-240",
+    "language": "ja",
+    "level": "N5",
+    "word": "四十七",
+    "pronunciation": "よんじゅうなな",
+    "meaning": "四十七",
+    "example": "今日は「四十七」を覚えます。",
+    "exampleMeaning": "今天学习“四十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-241",
+    "language": "ja",
+    "level": "N5",
+    "word": "四十八",
+    "pronunciation": "よんじゅうはち",
+    "meaning": "四十八",
+    "example": "今日は「四十八」を覚えます。",
+    "exampleMeaning": "今天学习“四十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-242",
+    "language": "ja",
+    "level": "N5",
+    "word": "四十九",
+    "pronunciation": "よんじゅうきゅう",
+    "meaning": "四十九",
+    "example": "今日は「四十九」を覚えます。",
+    "exampleMeaning": "今天学习“四十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-243",
+    "language": "ja",
+    "level": "N5",
+    "word": "五十",
+    "pronunciation": "ごじゅう",
+    "meaning": "五十",
+    "example": "今日は「五十」を覚えます。",
+    "exampleMeaning": "今天学习“五十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-244",
+    "language": "ja",
+    "level": "N5",
+    "word": "五十一",
+    "pronunciation": "ごじゅういち",
+    "meaning": "五十一",
+    "example": "今日は「五十一」を覚えます。",
+    "exampleMeaning": "今天学习“五十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-245",
+    "language": "ja",
+    "level": "N5",
+    "word": "五十二",
+    "pronunciation": "ごじゅうに",
+    "meaning": "五十二",
+    "example": "今日は「五十二」を覚えます。",
+    "exampleMeaning": "今天学习“五十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-246",
+    "language": "ja",
+    "level": "N5",
+    "word": "五十三",
+    "pronunciation": "ごじゅうさん",
+    "meaning": "五十三",
+    "example": "今日は「五十三」を覚えます。",
+    "exampleMeaning": "今天学习“五十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-247",
+    "language": "ja",
+    "level": "N5",
+    "word": "五十四",
+    "pronunciation": "ごじゅうよん",
+    "meaning": "五十四",
+    "example": "今日は「五十四」を覚えます。",
+    "exampleMeaning": "今天学习“五十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-248",
+    "language": "ja",
+    "level": "N5",
+    "word": "五十五",
+    "pronunciation": "ごじゅうご",
+    "meaning": "五十五",
+    "example": "今日は「五十五」を覚えます。",
+    "exampleMeaning": "今天学习“五十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-249",
+    "language": "ja",
+    "level": "N5",
+    "word": "五十六",
+    "pronunciation": "ごじゅうろく",
+    "meaning": "五十六",
+    "example": "今日は「五十六」を覚えます。",
+    "exampleMeaning": "今天学习“五十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-250",
+    "language": "ja",
+    "level": "N5",
+    "word": "五十七",
+    "pronunciation": "ごじゅうなな",
+    "meaning": "五十七",
+    "example": "今日は「五十七」を覚えます。",
+    "exampleMeaning": "今天学习“五十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-251",
+    "language": "ja",
+    "level": "N5",
+    "word": "五十八",
+    "pronunciation": "ごじゅうはち",
+    "meaning": "五十八",
+    "example": "今日は「五十八」を覚えます。",
+    "exampleMeaning": "今天学习“五十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-252",
+    "language": "ja",
+    "level": "N5",
+    "word": "五十九",
+    "pronunciation": "ごじゅうきゅう",
+    "meaning": "五十九",
+    "example": "今日は「五十九」を覚えます。",
+    "exampleMeaning": "今天学习“五十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-253",
+    "language": "ja",
+    "level": "N5",
+    "word": "六十",
+    "pronunciation": "ろくじゅう",
+    "meaning": "六十",
+    "example": "今日は「六十」を覚えます。",
+    "exampleMeaning": "今天学习“六十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-254",
+    "language": "ja",
+    "level": "N5",
+    "word": "六十一",
+    "pronunciation": "ろくじゅういち",
+    "meaning": "六十一",
+    "example": "今日は「六十一」を覚えます。",
+    "exampleMeaning": "今天学习“六十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-255",
+    "language": "ja",
+    "level": "N5",
+    "word": "六十二",
+    "pronunciation": "ろくじゅうに",
+    "meaning": "六十二",
+    "example": "今日は「六十二」を覚えます。",
+    "exampleMeaning": "今天学习“六十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-256",
+    "language": "ja",
+    "level": "N5",
+    "word": "六十三",
+    "pronunciation": "ろくじゅうさん",
+    "meaning": "六十三",
+    "example": "今日は「六十三」を覚えます。",
+    "exampleMeaning": "今天学习“六十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-257",
+    "language": "ja",
+    "level": "N5",
+    "word": "六十四",
+    "pronunciation": "ろくじゅうよん",
+    "meaning": "六十四",
+    "example": "今日は「六十四」を覚えます。",
+    "exampleMeaning": "今天学习“六十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-258",
+    "language": "ja",
+    "level": "N5",
+    "word": "六十五",
+    "pronunciation": "ろくじゅうご",
+    "meaning": "六十五",
+    "example": "今日は「六十五」を覚えます。",
+    "exampleMeaning": "今天学习“六十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-259",
+    "language": "ja",
+    "level": "N5",
+    "word": "六十六",
+    "pronunciation": "ろくじゅうろく",
+    "meaning": "六十六",
+    "example": "今日は「六十六」を覚えます。",
+    "exampleMeaning": "今天学习“六十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-260",
+    "language": "ja",
+    "level": "N5",
+    "word": "六十七",
+    "pronunciation": "ろくじゅうなな",
+    "meaning": "六十七",
+    "example": "今日は「六十七」を覚えます。",
+    "exampleMeaning": "今天学习“六十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-261",
+    "language": "ja",
+    "level": "N5",
+    "word": "六十八",
+    "pronunciation": "ろくじゅうはち",
+    "meaning": "六十八",
+    "example": "今日は「六十八」を覚えます。",
+    "exampleMeaning": "今天学习“六十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-262",
+    "language": "ja",
+    "level": "N5",
+    "word": "六十九",
+    "pronunciation": "ろくじゅうきゅう",
+    "meaning": "六十九",
+    "example": "今日は「六十九」を覚えます。",
+    "exampleMeaning": "今天学习“六十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-263",
+    "language": "ja",
+    "level": "N5",
+    "word": "七十",
+    "pronunciation": "ななじゅう",
+    "meaning": "七十",
+    "example": "今日は「七十」を覚えます。",
+    "exampleMeaning": "今天学习“七十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-264",
+    "language": "ja",
+    "level": "N5",
+    "word": "七十一",
+    "pronunciation": "ななじゅういち",
+    "meaning": "七十一",
+    "example": "今日は「七十一」を覚えます。",
+    "exampleMeaning": "今天学习“七十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-265",
+    "language": "ja",
+    "level": "N5",
+    "word": "七十二",
+    "pronunciation": "ななじゅうに",
+    "meaning": "七十二",
+    "example": "今日は「七十二」を覚えます。",
+    "exampleMeaning": "今天学习“七十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-266",
+    "language": "ja",
+    "level": "N5",
+    "word": "七十三",
+    "pronunciation": "ななじゅうさん",
+    "meaning": "七十三",
+    "example": "今日は「七十三」を覚えます。",
+    "exampleMeaning": "今天学习“七十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-267",
+    "language": "ja",
+    "level": "N5",
+    "word": "七十四",
+    "pronunciation": "ななじゅうよん",
+    "meaning": "七十四",
+    "example": "今日は「七十四」を覚えます。",
+    "exampleMeaning": "今天学习“七十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-268",
+    "language": "ja",
+    "level": "N5",
+    "word": "七十五",
+    "pronunciation": "ななじゅうご",
+    "meaning": "七十五",
+    "example": "今日は「七十五」を覚えます。",
+    "exampleMeaning": "今天学习“七十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-269",
+    "language": "ja",
+    "level": "N5",
+    "word": "七十六",
+    "pronunciation": "ななじゅうろく",
+    "meaning": "七十六",
+    "example": "今日は「七十六」を覚えます。",
+    "exampleMeaning": "今天学习“七十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-270",
+    "language": "ja",
+    "level": "N5",
+    "word": "七十七",
+    "pronunciation": "ななじゅうなな",
+    "meaning": "七十七",
+    "example": "今日は「七十七」を覚えます。",
+    "exampleMeaning": "今天学习“七十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-271",
+    "language": "ja",
+    "level": "N5",
+    "word": "七十八",
+    "pronunciation": "ななじゅうはち",
+    "meaning": "七十八",
+    "example": "今日は「七十八」を覚えます。",
+    "exampleMeaning": "今天学习“七十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-272",
+    "language": "ja",
+    "level": "N5",
+    "word": "七十九",
+    "pronunciation": "ななじゅうきゅう",
+    "meaning": "七十九",
+    "example": "今日は「七十九」を覚えます。",
+    "exampleMeaning": "今天学习“七十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-273",
+    "language": "ja",
+    "level": "N5",
+    "word": "八十",
+    "pronunciation": "はちじゅう",
+    "meaning": "八十",
+    "example": "今日は「八十」を覚えます。",
+    "exampleMeaning": "今天学习“八十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-274",
+    "language": "ja",
+    "level": "N5",
+    "word": "八十一",
+    "pronunciation": "はちじゅういち",
+    "meaning": "八十一",
+    "example": "今日は「八十一」を覚えます。",
+    "exampleMeaning": "今天学习“八十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-275",
+    "language": "ja",
+    "level": "N5",
+    "word": "八十二",
+    "pronunciation": "はちじゅうに",
+    "meaning": "八十二",
+    "example": "今日は「八十二」を覚えます。",
+    "exampleMeaning": "今天学习“八十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-276",
+    "language": "ja",
+    "level": "N5",
+    "word": "八十三",
+    "pronunciation": "はちじゅうさん",
+    "meaning": "八十三",
+    "example": "今日は「八十三」を覚えます。",
+    "exampleMeaning": "今天学习“八十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-277",
+    "language": "ja",
+    "level": "N5",
+    "word": "八十四",
+    "pronunciation": "はちじゅうよん",
+    "meaning": "八十四",
+    "example": "今日は「八十四」を覚えます。",
+    "exampleMeaning": "今天学习“八十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-278",
+    "language": "ja",
+    "level": "N5",
+    "word": "八十五",
+    "pronunciation": "はちじゅうご",
+    "meaning": "八十五",
+    "example": "今日は「八十五」を覚えます。",
+    "exampleMeaning": "今天学习“八十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-279",
+    "language": "ja",
+    "level": "N5",
+    "word": "八十六",
+    "pronunciation": "はちじゅうろく",
+    "meaning": "八十六",
+    "example": "今日は「八十六」を覚えます。",
+    "exampleMeaning": "今天学习“八十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-280",
+    "language": "ja",
+    "level": "N5",
+    "word": "八十七",
+    "pronunciation": "はちじゅうなな",
+    "meaning": "八十七",
+    "example": "今日は「八十七」を覚えます。",
+    "exampleMeaning": "今天学习“八十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-281",
+    "language": "ja",
+    "level": "N5",
+    "word": "八十八",
+    "pronunciation": "はちじゅうはち",
+    "meaning": "八十八",
+    "example": "今日は「八十八」を覚えます。",
+    "exampleMeaning": "今天学习“八十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-282",
+    "language": "ja",
+    "level": "N5",
+    "word": "八十九",
+    "pronunciation": "はちじゅうきゅう",
+    "meaning": "八十九",
+    "example": "今日は「八十九」を覚えます。",
+    "exampleMeaning": "今天学习“八十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-283",
+    "language": "ja",
+    "level": "N5",
+    "word": "九十",
+    "pronunciation": "きゅうじゅう",
+    "meaning": "九十",
+    "example": "今日は「九十」を覚えます。",
+    "exampleMeaning": "今天学习“九十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-284",
+    "language": "ja",
+    "level": "N5",
+    "word": "九十一",
+    "pronunciation": "きゅうじゅういち",
+    "meaning": "九十一",
+    "example": "今日は「九十一」を覚えます。",
+    "exampleMeaning": "今天学习“九十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-285",
+    "language": "ja",
+    "level": "N5",
+    "word": "九十二",
+    "pronunciation": "きゅうじゅうに",
+    "meaning": "九十二",
+    "example": "今日は「九十二」を覚えます。",
+    "exampleMeaning": "今天学习“九十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-286",
+    "language": "ja",
+    "level": "N5",
+    "word": "九十三",
+    "pronunciation": "きゅうじゅうさん",
+    "meaning": "九十三",
+    "example": "今日は「九十三」を覚えます。",
+    "exampleMeaning": "今天学习“九十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-287",
+    "language": "ja",
+    "level": "N5",
+    "word": "九十四",
+    "pronunciation": "きゅうじゅうよん",
+    "meaning": "九十四",
+    "example": "今日は「九十四」を覚えます。",
+    "exampleMeaning": "今天学习“九十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-288",
+    "language": "ja",
+    "level": "N5",
+    "word": "九十五",
+    "pronunciation": "きゅうじゅうご",
+    "meaning": "九十五",
+    "example": "今日は「九十五」を覚えます。",
+    "exampleMeaning": "今天学习“九十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-289",
+    "language": "ja",
+    "level": "N5",
+    "word": "九十六",
+    "pronunciation": "きゅうじゅうろく",
+    "meaning": "九十六",
+    "example": "今日は「九十六」を覚えます。",
+    "exampleMeaning": "今天学习“九十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-290",
+    "language": "ja",
+    "level": "N5",
+    "word": "九十七",
+    "pronunciation": "きゅうじゅうなな",
+    "meaning": "九十七",
+    "example": "今日は「九十七」を覚えます。",
+    "exampleMeaning": "今天学习“九十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-291",
+    "language": "ja",
+    "level": "N5",
+    "word": "九十八",
+    "pronunciation": "きゅうじゅうはち",
+    "meaning": "九十八",
+    "example": "今日は「九十八」を覚えます。",
+    "exampleMeaning": "今天学习“九十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-292",
+    "language": "ja",
+    "level": "N5",
+    "word": "九十九",
+    "pronunciation": "きゅうじゅうきゅう",
+    "meaning": "九十九",
+    "example": "今日は「九十九」を覚えます。",
+    "exampleMeaning": "今天学习“九十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-293",
+    "language": "ja",
+    "level": "N5",
+    "word": "百",
+    "pronunciation": "ひゃく",
+    "meaning": "一百",
+    "example": "今日は「百」を覚えます。",
+    "exampleMeaning": "今天学习“一百”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ja-n5-294",
+    "language": "ja",
+    "level": "N5",
+    "word": "一月",
+    "pronunciation": "いちがつ",
+    "meaning": "一月",
+    "example": "今日は「一月」を覚えます。",
+    "exampleMeaning": "今天学习“一月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-295",
+    "language": "ja",
+    "level": "N5",
+    "word": "二月",
+    "pronunciation": "にがつ",
+    "meaning": "二月",
+    "example": "今日は「二月」を覚えます。",
+    "exampleMeaning": "今天学习“二月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-296",
+    "language": "ja",
+    "level": "N5",
+    "word": "三月",
+    "pronunciation": "さんがつ",
+    "meaning": "三月",
+    "example": "今日は「三月」を覚えます。",
+    "exampleMeaning": "今天学习“三月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-297",
+    "language": "ja",
+    "level": "N5",
+    "word": "四月",
+    "pronunciation": "よんがつ",
+    "meaning": "四月",
+    "example": "今日は「四月」を覚えます。",
+    "exampleMeaning": "今天学习“四月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-298",
+    "language": "ja",
+    "level": "N5",
+    "word": "五月",
+    "pronunciation": "ごがつ",
+    "meaning": "五月",
+    "example": "今日は「五月」を覚えます。",
+    "exampleMeaning": "今天学习“五月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-299",
+    "language": "ja",
+    "level": "N5",
+    "word": "六月",
+    "pronunciation": "ろくがつ",
+    "meaning": "六月",
+    "example": "今日は「六月」を覚えます。",
+    "exampleMeaning": "今天学习“六月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-300",
+    "language": "ja",
+    "level": "N5",
+    "word": "七月",
+    "pronunciation": "なながつ",
+    "meaning": "七月",
+    "example": "今日は「七月」を覚えます。",
+    "exampleMeaning": "今天学习“七月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-301",
+    "language": "ja",
+    "level": "N5",
+    "word": "八月",
+    "pronunciation": "はちがつ",
+    "meaning": "八月",
+    "example": "今日は「八月」を覚えます。",
+    "exampleMeaning": "今天学习“八月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-302",
+    "language": "ja",
+    "level": "N5",
+    "word": "九月",
+    "pronunciation": "きゅうがつ",
+    "meaning": "九月",
+    "example": "今日は「九月」を覚えます。",
+    "exampleMeaning": "今天学习“九月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-303",
+    "language": "ja",
+    "level": "N5",
+    "word": "十月",
+    "pronunciation": "じゅうがつ",
+    "meaning": "十月",
+    "example": "今日は「十月」を覚えます。",
+    "exampleMeaning": "今天学习“十月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-304",
+    "language": "ja",
+    "level": "N5",
+    "word": "十一月",
+    "pronunciation": "じゅういちがつ",
+    "meaning": "十一月",
+    "example": "今日は「十一月」を覚えます。",
+    "exampleMeaning": "今天学习“十一月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-305",
+    "language": "ja",
+    "level": "N5",
+    "word": "十二月",
+    "pronunciation": "じゅうにがつ",
+    "meaning": "十二月",
+    "example": "今日は「十二月」を覚えます。",
+    "exampleMeaning": "今天学习“十二月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-306",
+    "language": "ja",
+    "level": "N5",
+    "word": "月曜日",
+    "pronunciation": "げつようび",
+    "meaning": "星期一",
+    "example": "今日は「月曜日」を覚えます。",
+    "exampleMeaning": "今天学习“星期一”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-307",
+    "language": "ja",
+    "level": "N5",
+    "word": "火曜日",
+    "pronunciation": "かようび",
+    "meaning": "星期二",
+    "example": "今日は「火曜日」を覚えます。",
+    "exampleMeaning": "今天学习“星期二”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-308",
+    "language": "ja",
+    "level": "N5",
+    "word": "水曜日",
+    "pronunciation": "すいようび",
+    "meaning": "星期三",
+    "example": "今日は「水曜日」を覚えます。",
+    "exampleMeaning": "今天学习“星期三”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-309",
+    "language": "ja",
+    "level": "N5",
+    "word": "木曜日",
+    "pronunciation": "もくようび",
+    "meaning": "星期四",
+    "example": "今日は「木曜日」を覚えます。",
+    "exampleMeaning": "今天学习“星期四”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-310",
+    "language": "ja",
+    "level": "N5",
+    "word": "金曜日",
+    "pronunciation": "きんようび",
+    "meaning": "星期五",
+    "example": "今日は「金曜日」を覚えます。",
+    "exampleMeaning": "今天学习“星期五”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-311",
+    "language": "ja",
+    "level": "N5",
+    "word": "土曜日",
+    "pronunciation": "どようび",
+    "meaning": "星期六",
+    "example": "今日は「土曜日」を覚えます。",
+    "exampleMeaning": "今天学习“星期六”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-312",
+    "language": "ja",
+    "level": "N5",
+    "word": "日曜日",
+    "pronunciation": "にちようび",
+    "meaning": "星期日",
+    "example": "今日は「日曜日」を覚えます。",
+    "exampleMeaning": "今天学习“星期日”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ja-n5-313",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい人",
+    "pronunciation": "あたらしいひと",
+    "meaning": "新的人",
+    "example": "今日は「新しい人」を覚えます。",
+    "exampleMeaning": "今天学习“新的人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-314",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい男",
+    "pronunciation": "あたらしいおとこ",
+    "meaning": "新的男人",
+    "example": "今日は「新しい男」を覚えます。",
+    "exampleMeaning": "今天学习“新的男人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-315",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい女",
+    "pronunciation": "あたらしいおんな",
+    "meaning": "新的女人",
+    "example": "今日は「新しい女」を覚えます。",
+    "exampleMeaning": "今天学习“新的女人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-316",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい子供",
+    "pronunciation": "あたらしいこども",
+    "meaning": "新的孩子",
+    "example": "今日は「新しい子供」を覚えます。",
+    "exampleMeaning": "今天学习“新的孩子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-317",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい男の子",
+    "pronunciation": "あたらしいおとこのこ",
+    "meaning": "新的男孩",
+    "example": "今日は「新しい男の子」を覚えます。",
+    "exampleMeaning": "今天学习“新的男孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-318",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい女の子",
+    "pronunciation": "あたらしいおんなのこ",
+    "meaning": "新的女孩",
+    "example": "今日は「新しい女の子」を覚えます。",
+    "exampleMeaning": "今天学习“新的女孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-319",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい友達",
+    "pronunciation": "あたらしいともだち",
+    "meaning": "新的朋友",
+    "example": "今日は「新しい友達」を覚えます。",
+    "exampleMeaning": "今天学习“新的朋友”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-320",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい先生",
+    "pronunciation": "あたらしいせんせい",
+    "meaning": "新的老师",
+    "example": "今日は「新しい先生」を覚えます。",
+    "exampleMeaning": "今天学习“新的老师”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-321",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい学生",
+    "pronunciation": "あたらしいがくせい",
+    "meaning": "新的学生",
+    "example": "今日は「新しい学生」を覚えます。",
+    "exampleMeaning": "今天学习“新的学生”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-322",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい医者",
+    "pronunciation": "あたらしいいしゃ",
+    "meaning": "新的医生",
+    "example": "今日は「新しい医者」を覚えます。",
+    "exampleMeaning": "今天学习“新的医生”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-323",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい会社員",
+    "pronunciation": "あたらしいかいしゃいん",
+    "meaning": "新的职员",
+    "example": "今日は「新しい会社員」を覚えます。",
+    "exampleMeaning": "今天学习“新的职员”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-324",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい名前",
+    "pronunciation": "あたらしいなまえ",
+    "meaning": "新的名字",
+    "example": "今日は「新しい名前」を覚えます。",
+    "exampleMeaning": "今天学习“新的名字”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-325",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい年",
+    "pronunciation": "あたらしいとし",
+    "meaning": "新的年龄",
+    "example": "今日は「新しい年」を覚えます。",
+    "exampleMeaning": "今天学习“新的年龄”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-326",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい家",
+    "pronunciation": "あたらしいいえ",
+    "meaning": "新的家",
+    "example": "今日は「新しい家」を覚えます。",
+    "exampleMeaning": "今天学习“新的家”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-327",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい家屋",
+    "pronunciation": "あたらしいかおく",
+    "meaning": "新的房子",
+    "example": "今日は「新しい家屋」を覚えます。",
+    "exampleMeaning": "今天学习“新的房子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-328",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい部屋",
+    "pronunciation": "あたらしいへや",
+    "meaning": "新的房间",
+    "example": "今日は「新しい部屋」を覚えます。",
+    "exampleMeaning": "今天学习“新的房间”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-329",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい学校",
+    "pronunciation": "あたらしいがっこう",
+    "meaning": "新的学校",
+    "example": "今日は「新しい学校」を覚えます。",
+    "exampleMeaning": "今天学习“新的学校”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-330",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい教室",
+    "pronunciation": "あたらしいきょうしつ",
+    "meaning": "新的教室",
+    "example": "今日は「新しい教室」を覚えます。",
+    "exampleMeaning": "今天学习“新的教室”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-331",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい事務所",
+    "pronunciation": "あたらしいじむしょ",
+    "meaning": "新的办公室",
+    "example": "今日は「新しい事務所」を覚えます。",
+    "exampleMeaning": "今天学习“新的办公室”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-332",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい店",
+    "pronunciation": "あたらしいみせ",
+    "meaning": "新的商店",
+    "example": "今日は「新しい店」を覚えます。",
+    "exampleMeaning": "今天学习“新的商店”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-333",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい市場",
+    "pronunciation": "あたらしいいちば",
+    "meaning": "新的市场",
+    "example": "今日は「新しい市場」を覚えます。",
+    "exampleMeaning": "今天学习“新的市场”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-334",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい銀行",
+    "pronunciation": "あたらしいぎんこう",
+    "meaning": "新的银行",
+    "example": "今日は「新しい銀行」を覚えます。",
+    "exampleMeaning": "今天学习“新的银行”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-335",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい病院",
+    "pronunciation": "あたらしいびょういん",
+    "meaning": "新的医院",
+    "example": "今日は「新しい病院」を覚えます。",
+    "exampleMeaning": "今天学习“新的医院”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-336",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しいホテル",
+    "pronunciation": "あたらしいほてる",
+    "meaning": "新的酒店",
+    "example": "今日は「新しいホテル」を覚えます。",
+    "exampleMeaning": "今天学习“新的酒店”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-337",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しいレストラン",
+    "pronunciation": "あたらしいれすとらん",
+    "meaning": "新的餐馆",
+    "example": "今日は「新しいレストラン」を覚えます。",
+    "exampleMeaning": "今天学习“新的餐馆”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-338",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい公園",
+    "pronunciation": "あたらしいこうえん",
+    "meaning": "新的公园",
+    "example": "今日は「新しい公園」を覚えます。",
+    "exampleMeaning": "今天学习“新的公园”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-339",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい駅",
+    "pronunciation": "あたらしいえき",
+    "meaning": "新的车站",
+    "example": "今日は「新しい駅」を覚えます。",
+    "exampleMeaning": "今天学习“新的车站”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-340",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい空港",
+    "pronunciation": "あたらしいくうこう",
+    "meaning": "新的机场",
+    "example": "今日は「新しい空港」を覚えます。",
+    "exampleMeaning": "今天学习“新的机场”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-341",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい通り",
+    "pronunciation": "あたらしいとおり",
+    "meaning": "新的街道",
+    "example": "今日は「新しい通り」を覚えます。",
+    "exampleMeaning": "今天学习“新的街道”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-342",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい町",
+    "pronunciation": "あたらしいまち",
+    "meaning": "新的城市",
+    "example": "今日は「新しい町」を覚えます。",
+    "exampleMeaning": "今天学习“新的城市”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-343",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい国",
+    "pronunciation": "あたらしいくに",
+    "meaning": "新的国家",
+    "example": "今日は「新しい国」を覚えます。",
+    "exampleMeaning": "今天学习“新的国家”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-344",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい本",
+    "pronunciation": "あたらしいほん",
+    "meaning": "新的书",
+    "example": "今日は「新しい本」を覚えます。",
+    "exampleMeaning": "今天学习“新的书”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-345",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しいペン",
+    "pronunciation": "あたらしいぺん",
+    "meaning": "新的钢笔",
+    "example": "今日は「新しいペン」を覚えます。",
+    "exampleMeaning": "今天学习“新的钢笔”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-346",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい鉛筆",
+    "pronunciation": "あたらしいえんぴつ",
+    "meaning": "新的铅笔",
+    "example": "今日は「新しい鉛筆」を覚えます。",
+    "exampleMeaning": "今天学习“新的铅笔”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-347",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい紙",
+    "pronunciation": "あたらしいかみ",
+    "meaning": "新的纸",
+    "example": "今日は「新しい紙」を覚えます。",
+    "exampleMeaning": "今天学习“新的纸”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-348",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい鞄",
+    "pronunciation": "あたらしいかばん",
+    "meaning": "新的包",
+    "example": "今日は「新しい鞄」を覚えます。",
+    "exampleMeaning": "今天学习“新的包”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-349",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい箱",
+    "pronunciation": "あたらしいはこ",
+    "meaning": "新的盒子",
+    "example": "今日は「新しい箱」を覚えます。",
+    "exampleMeaning": "今天学习“新的盒子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-350",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい鍵",
+    "pronunciation": "あたらしいかぎ",
+    "meaning": "新的钥匙",
+    "example": "今日は「新しい鍵」を覚えます。",
+    "exampleMeaning": "今天学习“新的钥匙”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-351",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい電話",
+    "pronunciation": "あたらしいでんわ",
+    "meaning": "新的电话",
+    "example": "今日は「新しい電話」を覚えます。",
+    "exampleMeaning": "今天学习“新的电话”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-352",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しいコンピューター",
+    "pronunciation": "あたらしいこんぴゅーたー",
+    "meaning": "新的电脑",
+    "example": "今日は「新しいコンピューター」を覚えます。",
+    "exampleMeaning": "今天学习“新的电脑”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-353",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい机",
+    "pronunciation": "あたらしいつくえ",
+    "meaning": "新的桌子",
+    "example": "今日は「新しい机」を覚えます。",
+    "exampleMeaning": "今天学习“新的桌子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-354",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい椅子",
+    "pronunciation": "あたらしいいす",
+    "meaning": "新的椅子",
+    "example": "今日は「新しい椅子」を覚えます。",
+    "exampleMeaning": "今天学习“新的椅子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-355",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しいドア",
+    "pronunciation": "あたらしいどあ",
+    "meaning": "新的门",
+    "example": "今日は「新しいドア」を覚えます。",
+    "exampleMeaning": "今天学习“新的门”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-356",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい窓",
+    "pronunciation": "あたらしいまど",
+    "meaning": "新的窗户",
+    "example": "今日は「新しい窓」を覚えます。",
+    "exampleMeaning": "今天学习“新的窗户”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-357",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しいベッド",
+    "pronunciation": "あたらしいべっど",
+    "meaning": "新的床",
+    "example": "今日は「新しいベッド」を覚えます。",
+    "exampleMeaning": "今天学习“新的床”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-358",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しいコップ",
+    "pronunciation": "あたらしいこっぷ",
+    "meaning": "新的杯子",
+    "example": "今日は「新しいコップ」を覚えます。",
+    "exampleMeaning": "今天学习“新的杯子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-359",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい皿",
+    "pronunciation": "あたらしいさら",
+    "meaning": "新的盘子",
+    "example": "今日は「新しい皿」を覚えます。",
+    "exampleMeaning": "今天学习“新的盘子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-360",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい時計",
+    "pronunciation": "あたらしいとけい",
+    "meaning": "新的钟表",
+    "example": "今日は「新しい時計」を覚えます。",
+    "exampleMeaning": "今天学习“新的钟表”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-361",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい写真",
+    "pronunciation": "あたらしいしゃしん",
+    "meaning": "新的照片",
+    "example": "今日は「新しい写真」を覚えます。",
+    "exampleMeaning": "今天学习“新的照片”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-362",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい地図",
+    "pronunciation": "あたらしいちず",
+    "meaning": "新的地图",
+    "example": "今日は「新しい地図」を覚えます。",
+    "exampleMeaning": "今天学习“新的地图”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-363",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しいお金",
+    "pronunciation": "あたらしいおかね",
+    "meaning": "新的钱",
+    "example": "今日は「新しいお金」を覚えます。",
+    "exampleMeaning": "今天学习“新的钱”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-364",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい切符",
+    "pronunciation": "あたらしいきっぷ",
+    "meaning": "新的票",
+    "example": "今日は「新しい切符」を覚えます。",
+    "exampleMeaning": "今天学习“新的票”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-365",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい水",
+    "pronunciation": "あたらしいみず",
+    "meaning": "新的水",
+    "example": "今日は「新しい水」を覚えます。",
+    "exampleMeaning": "今天学习“新的水”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-366",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しいお茶",
+    "pronunciation": "あたらしいおちゃ",
+    "meaning": "新的茶",
+    "example": "今日は「新しいお茶」を覚えます。",
+    "exampleMeaning": "今天学习“新的茶”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-367",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しいコーヒー",
+    "pronunciation": "あたらしいこーひー",
+    "meaning": "新的咖啡",
+    "example": "今日は「新しいコーヒー」を覚えます。",
+    "exampleMeaning": "今天学习“新的咖啡”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-368",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい牛乳",
+    "pronunciation": "あたらしいぎゅうにゅう",
+    "meaning": "新的牛奶",
+    "example": "今日は「新しい牛乳」を覚えます。",
+    "exampleMeaning": "今天学习“新的牛奶”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-369",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しいジュース",
+    "pronunciation": "あたらしいじゅーす",
+    "meaning": "新的果汁",
+    "example": "今日は「新しいジュース」を覚えます。",
+    "exampleMeaning": "今天学习“新的果汁”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-370",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しいパン",
+    "pronunciation": "あたらしいぱん",
+    "meaning": "新的面包",
+    "example": "今日は「新しいパン」を覚えます。",
+    "exampleMeaning": "今天学习“新的面包”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-371",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しいご飯",
+    "pronunciation": "あたらしいごはん",
+    "meaning": "新的米饭",
+    "example": "今日は「新しいご飯」を覚えます。",
+    "exampleMeaning": "今天学习“新的米饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-372",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい卵",
+    "pronunciation": "あたらしいたまご",
+    "meaning": "新的鸡蛋",
+    "example": "今日は「新しい卵」を覚えます。",
+    "exampleMeaning": "今天学习“新的鸡蛋”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-373",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい肉",
+    "pronunciation": "あたらしいにく",
+    "meaning": "新的肉",
+    "example": "今日は「新しい肉」を覚えます。",
+    "exampleMeaning": "今天学习“新的肉”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-374",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい魚",
+    "pronunciation": "あたらしいさかな",
+    "meaning": "新的鱼",
+    "example": "今日は「新しい魚」を覚えます。",
+    "exampleMeaning": "今天学习“新的鱼”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-375",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい野菜",
+    "pronunciation": "あたらしいやさい",
+    "meaning": "新的蔬菜",
+    "example": "今日は「新しい野菜」を覚えます。",
+    "exampleMeaning": "今天学习“新的蔬菜”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-376",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい果物",
+    "pronunciation": "あたらしいくだもの",
+    "meaning": "新的水果",
+    "example": "今日は「新しい果物」を覚えます。",
+    "exampleMeaning": "今天学习“新的水果”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-377",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい林檎",
+    "pronunciation": "あたらしいりんご",
+    "meaning": "新的苹果",
+    "example": "今日は「新しい林檎」を覚えます。",
+    "exampleMeaning": "今天学习“新的苹果”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-378",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しいバナナ",
+    "pronunciation": "あたらしいばなな",
+    "meaning": "新的香蕉",
+    "example": "今日は「新しいバナナ」を覚えます。",
+    "exampleMeaning": "今天学习“新的香蕉”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-379",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい蜜柑",
+    "pronunciation": "あたらしいみかん",
+    "meaning": "新的橙子",
+    "example": "今日は「新しい蜜柑」を覚えます。",
+    "exampleMeaning": "今天学习“新的橙子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-380",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しいケーキ",
+    "pronunciation": "あたらしいけーき",
+    "meaning": "新的蛋糕",
+    "example": "今日は「新しいケーキ」を覚えます。",
+    "exampleMeaning": "今天学习“新的蛋糕”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-381",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい味噌汁",
+    "pronunciation": "あたらしいみそしる",
+    "meaning": "新的汤",
+    "example": "今日は「新しい味噌汁」を覚えます。",
+    "exampleMeaning": "今天学习“新的汤”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-382",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい朝ご飯",
+    "pronunciation": "あたらしいあさごはん",
+    "meaning": "新的早饭",
+    "example": "今日は「新しい朝ご飯」を覚えます。",
+    "exampleMeaning": "今天学习“新的早饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-383",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい昼ご飯",
+    "pronunciation": "あたらしいひるごはん",
+    "meaning": "新的午饭",
+    "example": "今日は「新しい昼ご飯」を覚えます。",
+    "exampleMeaning": "今天学习“新的午饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-384",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい晩ご飯",
+    "pronunciation": "あたらしいばんごはん",
+    "meaning": "新的晚饭",
+    "example": "今日は「新しい晩ご飯」を覚えます。",
+    "exampleMeaning": "今天学习“新的晚饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-385",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい今日",
+    "pronunciation": "あたらしいきょう",
+    "meaning": "新的今天",
+    "example": "今日は「新しい今日」を覚えます。",
+    "exampleMeaning": "今天学习“新的今天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-386",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい明日",
+    "pronunciation": "あたらしいあした",
+    "meaning": "新的明天",
+    "example": "今日は「新しい明日」を覚えます。",
+    "exampleMeaning": "今天学习“新的明天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-387",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい昨日",
+    "pronunciation": "あたらしいきのう",
+    "meaning": "新的昨天",
+    "example": "今日は「新しい昨日」を覚えます。",
+    "exampleMeaning": "今天学习“新的昨天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-388",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい朝",
+    "pronunciation": "あたらしいあさ",
+    "meaning": "新的早晨",
+    "example": "今日は「新しい朝」を覚えます。",
+    "exampleMeaning": "今天学习“新的早晨”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-389",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい午後",
+    "pronunciation": "あたらしいごご",
+    "meaning": "新的下午",
+    "example": "今日は「新しい午後」を覚えます。",
+    "exampleMeaning": "今天学习“新的下午”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-390",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい夕方",
+    "pronunciation": "あたらしいゆうがた",
+    "meaning": "新的傍晚",
+    "example": "今日は「新しい夕方」を覚えます。",
+    "exampleMeaning": "今天学习“新的傍晚”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-391",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい夜",
+    "pronunciation": "あたらしいよる",
+    "meaning": "新的夜晚",
+    "example": "今日は「新しい夜」を覚えます。",
+    "exampleMeaning": "今天学习“新的夜晚”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-392",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい週",
+    "pronunciation": "あたらしいしゅう",
+    "meaning": "新的星期",
+    "example": "今日は「新しい週」を覚えます。",
+    "exampleMeaning": "今天学习“新的星期”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-393",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい月",
+    "pronunciation": "あたらしいつき",
+    "meaning": "新的月份",
+    "example": "今日は「新しい月」を覚えます。",
+    "exampleMeaning": "今天学习“新的月份”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-394",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい時間",
+    "pronunciation": "あたらしいじかん",
+    "meaning": "新的时间",
+    "example": "今日は「新しい時間」を覚えます。",
+    "exampleMeaning": "今天学习“新的时间”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-395",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい分",
+    "pronunciation": "あたらしいふん",
+    "meaning": "新的分钟",
+    "example": "今日は「新しい分」を覚えます。",
+    "exampleMeaning": "今天学习“新的分钟”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-396",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい天気",
+    "pronunciation": "あたらしいてんき",
+    "meaning": "新的天气",
+    "example": "今日は「新しい天気」を覚えます。",
+    "exampleMeaning": "今天学习“新的天气”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-397",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい雨",
+    "pronunciation": "あたらしいあめ",
+    "meaning": "新的雨",
+    "example": "今日は「新しい雨」を覚えます。",
+    "exampleMeaning": "今天学习“新的雨”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-398",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい雪",
+    "pronunciation": "あたらしいゆき",
+    "meaning": "新的雪",
+    "example": "今日は「新しい雪」を覚えます。",
+    "exampleMeaning": "今天学习“新的雪”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-399",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい風",
+    "pronunciation": "あたらしいかぜ",
+    "meaning": "新的风",
+    "example": "今日は「新しい風」を覚えます。",
+    "exampleMeaning": "今天学习“新的风”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-400",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい空",
+    "pronunciation": "あたらしいそら",
+    "meaning": "新的天空",
+    "example": "今日は「新しい空」を覚えます。",
+    "exampleMeaning": "今天学习“新的天空”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-401",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい山",
+    "pronunciation": "あたらしいやま",
+    "meaning": "新的山",
+    "example": "今日は「新しい山」を覚えます。",
+    "exampleMeaning": "今天学习“新的山”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-402",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい川",
+    "pronunciation": "あたらしいかわ",
+    "meaning": "新的河",
+    "example": "今日は「新しい川」を覚えます。",
+    "exampleMeaning": "今天学习“新的河”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-403",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい海",
+    "pronunciation": "あたらしいうみ",
+    "meaning": "新的海",
+    "example": "今日は「新しい海」を覚えます。",
+    "exampleMeaning": "今天学习“新的海”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-404",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい木",
+    "pronunciation": "あたらしいき",
+    "meaning": "新的树",
+    "example": "今日は「新しい木」を覚えます。",
+    "exampleMeaning": "今天学习“新的树”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-405",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい花",
+    "pronunciation": "あたらしいはな",
+    "meaning": "新的花",
+    "example": "今日は「新しい花」を覚えます。",
+    "exampleMeaning": "今天学习“新的花”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-406",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい車",
+    "pronunciation": "あたらしいくるま",
+    "meaning": "新的汽车",
+    "example": "今日は「新しい車」を覚えます。",
+    "exampleMeaning": "今天学习“新的汽车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-407",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しいバス",
+    "pronunciation": "あたらしいばす",
+    "meaning": "新的公交车",
+    "example": "今日は「新しいバス」を覚えます。",
+    "exampleMeaning": "今天学习“新的公交车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-408",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい電車",
+    "pronunciation": "あたらしいでんしゃ",
+    "meaning": "新的火车",
+    "example": "今日は「新しい電車」を覚えます。",
+    "exampleMeaning": "今天学习“新的火车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-409",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい自転車",
+    "pronunciation": "あたらしいじてんしゃ",
+    "meaning": "新的自行车",
+    "example": "今日は「新しい自転車」を覚えます。",
+    "exampleMeaning": "今天学习“新的自行车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-410",
+    "language": "ja",
+    "level": "N5",
+    "word": "新しい飛行機",
+    "pronunciation": "あたらしいひこうき",
+    "meaning": "新的飞机",
+    "example": "今日は「新しい飛行機」を覚えます。",
+    "exampleMeaning": "今天学习“新的飞机”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-411",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い人",
+    "pronunciation": "ふるいひと",
+    "meaning": "旧的人",
+    "example": "今日は「古い人」を覚えます。",
+    "exampleMeaning": "今天学习“旧的人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-412",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い男",
+    "pronunciation": "ふるいおとこ",
+    "meaning": "旧的男人",
+    "example": "今日は「古い男」を覚えます。",
+    "exampleMeaning": "今天学习“旧的男人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-413",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い女",
+    "pronunciation": "ふるいおんな",
+    "meaning": "旧的女人",
+    "example": "今日は「古い女」を覚えます。",
+    "exampleMeaning": "今天学习“旧的女人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-414",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い子供",
+    "pronunciation": "ふるいこども",
+    "meaning": "旧的孩子",
+    "example": "今日は「古い子供」を覚えます。",
+    "exampleMeaning": "今天学习“旧的孩子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-415",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い男の子",
+    "pronunciation": "ふるいおとこのこ",
+    "meaning": "旧的男孩",
+    "example": "今日は「古い男の子」を覚えます。",
+    "exampleMeaning": "今天学习“旧的男孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-416",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い女の子",
+    "pronunciation": "ふるいおんなのこ",
+    "meaning": "旧的女孩",
+    "example": "今日は「古い女の子」を覚えます。",
+    "exampleMeaning": "今天学习“旧的女孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-417",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い友達",
+    "pronunciation": "ふるいともだち",
+    "meaning": "旧的朋友",
+    "example": "今日は「古い友達」を覚えます。",
+    "exampleMeaning": "今天学习“旧的朋友”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-418",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い先生",
+    "pronunciation": "ふるいせんせい",
+    "meaning": "旧的老师",
+    "example": "今日は「古い先生」を覚えます。",
+    "exampleMeaning": "今天学习“旧的老师”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-419",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い学生",
+    "pronunciation": "ふるいがくせい",
+    "meaning": "旧的学生",
+    "example": "今日は「古い学生」を覚えます。",
+    "exampleMeaning": "今天学习“旧的学生”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-420",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い医者",
+    "pronunciation": "ふるいいしゃ",
+    "meaning": "旧的医生",
+    "example": "今日は「古い医者」を覚えます。",
+    "exampleMeaning": "今天学习“旧的医生”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-421",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い会社員",
+    "pronunciation": "ふるいかいしゃいん",
+    "meaning": "旧的职员",
+    "example": "今日は「古い会社員」を覚えます。",
+    "exampleMeaning": "今天学习“旧的职员”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-422",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い名前",
+    "pronunciation": "ふるいなまえ",
+    "meaning": "旧的名字",
+    "example": "今日は「古い名前」を覚えます。",
+    "exampleMeaning": "今天学习“旧的名字”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-423",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い年",
+    "pronunciation": "ふるいとし",
+    "meaning": "旧的年龄",
+    "example": "今日は「古い年」を覚えます。",
+    "exampleMeaning": "今天学习“旧的年龄”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-424",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い家",
+    "pronunciation": "ふるいいえ",
+    "meaning": "旧的家",
+    "example": "今日は「古い家」を覚えます。",
+    "exampleMeaning": "今天学习“旧的家”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-425",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い家屋",
+    "pronunciation": "ふるいかおく",
+    "meaning": "旧的房子",
+    "example": "今日は「古い家屋」を覚えます。",
+    "exampleMeaning": "今天学习“旧的房子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-426",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い部屋",
+    "pronunciation": "ふるいへや",
+    "meaning": "旧的房间",
+    "example": "今日は「古い部屋」を覚えます。",
+    "exampleMeaning": "今天学习“旧的房间”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-427",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い学校",
+    "pronunciation": "ふるいがっこう",
+    "meaning": "旧的学校",
+    "example": "今日は「古い学校」を覚えます。",
+    "exampleMeaning": "今天学习“旧的学校”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-428",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い教室",
+    "pronunciation": "ふるいきょうしつ",
+    "meaning": "旧的教室",
+    "example": "今日は「古い教室」を覚えます。",
+    "exampleMeaning": "今天学习“旧的教室”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-429",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い事務所",
+    "pronunciation": "ふるいじむしょ",
+    "meaning": "旧的办公室",
+    "example": "今日は「古い事務所」を覚えます。",
+    "exampleMeaning": "今天学习“旧的办公室”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-430",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い店",
+    "pronunciation": "ふるいみせ",
+    "meaning": "旧的商店",
+    "example": "今日は「古い店」を覚えます。",
+    "exampleMeaning": "今天学习“旧的商店”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-431",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い市場",
+    "pronunciation": "ふるいいちば",
+    "meaning": "旧的市场",
+    "example": "今日は「古い市場」を覚えます。",
+    "exampleMeaning": "今天学习“旧的市场”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-432",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い銀行",
+    "pronunciation": "ふるいぎんこう",
+    "meaning": "旧的银行",
+    "example": "今日は「古い銀行」を覚えます。",
+    "exampleMeaning": "今天学习“旧的银行”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-433",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い病院",
+    "pronunciation": "ふるいびょういん",
+    "meaning": "旧的医院",
+    "example": "今日は「古い病院」を覚えます。",
+    "exampleMeaning": "今天学习“旧的医院”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-434",
+    "language": "ja",
+    "level": "N5",
+    "word": "古いホテル",
+    "pronunciation": "ふるいほてる",
+    "meaning": "旧的酒店",
+    "example": "今日は「古いホテル」を覚えます。",
+    "exampleMeaning": "今天学习“旧的酒店”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-435",
+    "language": "ja",
+    "level": "N5",
+    "word": "古いレストラン",
+    "pronunciation": "ふるいれすとらん",
+    "meaning": "旧的餐馆",
+    "example": "今日は「古いレストラン」を覚えます。",
+    "exampleMeaning": "今天学习“旧的餐馆”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-436",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い公園",
+    "pronunciation": "ふるいこうえん",
+    "meaning": "旧的公园",
+    "example": "今日は「古い公園」を覚えます。",
+    "exampleMeaning": "今天学习“旧的公园”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-437",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い駅",
+    "pronunciation": "ふるいえき",
+    "meaning": "旧的车站",
+    "example": "今日は「古い駅」を覚えます。",
+    "exampleMeaning": "今天学习“旧的车站”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-438",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い空港",
+    "pronunciation": "ふるいくうこう",
+    "meaning": "旧的机场",
+    "example": "今日は「古い空港」を覚えます。",
+    "exampleMeaning": "今天学习“旧的机场”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-439",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い通り",
+    "pronunciation": "ふるいとおり",
+    "meaning": "旧的街道",
+    "example": "今日は「古い通り」を覚えます。",
+    "exampleMeaning": "今天学习“旧的街道”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-440",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い町",
+    "pronunciation": "ふるいまち",
+    "meaning": "旧的城市",
+    "example": "今日は「古い町」を覚えます。",
+    "exampleMeaning": "今天学习“旧的城市”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-441",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い国",
+    "pronunciation": "ふるいくに",
+    "meaning": "旧的国家",
+    "example": "今日は「古い国」を覚えます。",
+    "exampleMeaning": "今天学习“旧的国家”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-442",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い本",
+    "pronunciation": "ふるいほん",
+    "meaning": "旧的书",
+    "example": "今日は「古い本」を覚えます。",
+    "exampleMeaning": "今天学习“旧的书”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-443",
+    "language": "ja",
+    "level": "N5",
+    "word": "古いペン",
+    "pronunciation": "ふるいぺん",
+    "meaning": "旧的钢笔",
+    "example": "今日は「古いペン」を覚えます。",
+    "exampleMeaning": "今天学习“旧的钢笔”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-444",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い鉛筆",
+    "pronunciation": "ふるいえんぴつ",
+    "meaning": "旧的铅笔",
+    "example": "今日は「古い鉛筆」を覚えます。",
+    "exampleMeaning": "今天学习“旧的铅笔”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-445",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い紙",
+    "pronunciation": "ふるいかみ",
+    "meaning": "旧的纸",
+    "example": "今日は「古い紙」を覚えます。",
+    "exampleMeaning": "今天学习“旧的纸”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-446",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い鞄",
+    "pronunciation": "ふるいかばん",
+    "meaning": "旧的包",
+    "example": "今日は「古い鞄」を覚えます。",
+    "exampleMeaning": "今天学习“旧的包”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-447",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い箱",
+    "pronunciation": "ふるいはこ",
+    "meaning": "旧的盒子",
+    "example": "今日は「古い箱」を覚えます。",
+    "exampleMeaning": "今天学习“旧的盒子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-448",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い鍵",
+    "pronunciation": "ふるいかぎ",
+    "meaning": "旧的钥匙",
+    "example": "今日は「古い鍵」を覚えます。",
+    "exampleMeaning": "今天学习“旧的钥匙”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-449",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い電話",
+    "pronunciation": "ふるいでんわ",
+    "meaning": "旧的电话",
+    "example": "今日は「古い電話」を覚えます。",
+    "exampleMeaning": "今天学习“旧的电话”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-450",
+    "language": "ja",
+    "level": "N5",
+    "word": "古いコンピューター",
+    "pronunciation": "ふるいこんぴゅーたー",
+    "meaning": "旧的电脑",
+    "example": "今日は「古いコンピューター」を覚えます。",
+    "exampleMeaning": "今天学习“旧的电脑”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-451",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い机",
+    "pronunciation": "ふるいつくえ",
+    "meaning": "旧的桌子",
+    "example": "今日は「古い机」を覚えます。",
+    "exampleMeaning": "今天学习“旧的桌子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-452",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い椅子",
+    "pronunciation": "ふるいいす",
+    "meaning": "旧的椅子",
+    "example": "今日は「古い椅子」を覚えます。",
+    "exampleMeaning": "今天学习“旧的椅子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-453",
+    "language": "ja",
+    "level": "N5",
+    "word": "古いドア",
+    "pronunciation": "ふるいどあ",
+    "meaning": "旧的门",
+    "example": "今日は「古いドア」を覚えます。",
+    "exampleMeaning": "今天学习“旧的门”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-454",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い窓",
+    "pronunciation": "ふるいまど",
+    "meaning": "旧的窗户",
+    "example": "今日は「古い窓」を覚えます。",
+    "exampleMeaning": "今天学习“旧的窗户”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-455",
+    "language": "ja",
+    "level": "N5",
+    "word": "古いベッド",
+    "pronunciation": "ふるいべっど",
+    "meaning": "旧的床",
+    "example": "今日は「古いベッド」を覚えます。",
+    "exampleMeaning": "今天学习“旧的床”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-456",
+    "language": "ja",
+    "level": "N5",
+    "word": "古いコップ",
+    "pronunciation": "ふるいこっぷ",
+    "meaning": "旧的杯子",
+    "example": "今日は「古いコップ」を覚えます。",
+    "exampleMeaning": "今天学习“旧的杯子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-457",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い皿",
+    "pronunciation": "ふるいさら",
+    "meaning": "旧的盘子",
+    "example": "今日は「古い皿」を覚えます。",
+    "exampleMeaning": "今天学习“旧的盘子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-458",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い時計",
+    "pronunciation": "ふるいとけい",
+    "meaning": "旧的钟表",
+    "example": "今日は「古い時計」を覚えます。",
+    "exampleMeaning": "今天学习“旧的钟表”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-459",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い写真",
+    "pronunciation": "ふるいしゃしん",
+    "meaning": "旧的照片",
+    "example": "今日は「古い写真」を覚えます。",
+    "exampleMeaning": "今天学习“旧的照片”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-460",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い地図",
+    "pronunciation": "ふるいちず",
+    "meaning": "旧的地图",
+    "example": "今日は「古い地図」を覚えます。",
+    "exampleMeaning": "今天学习“旧的地图”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-461",
+    "language": "ja",
+    "level": "N5",
+    "word": "古いお金",
+    "pronunciation": "ふるいおかね",
+    "meaning": "旧的钱",
+    "example": "今日は「古いお金」を覚えます。",
+    "exampleMeaning": "今天学习“旧的钱”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-462",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い切符",
+    "pronunciation": "ふるいきっぷ",
+    "meaning": "旧的票",
+    "example": "今日は「古い切符」を覚えます。",
+    "exampleMeaning": "今天学习“旧的票”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-463",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い水",
+    "pronunciation": "ふるいみず",
+    "meaning": "旧的水",
+    "example": "今日は「古い水」を覚えます。",
+    "exampleMeaning": "今天学习“旧的水”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-464",
+    "language": "ja",
+    "level": "N5",
+    "word": "古いお茶",
+    "pronunciation": "ふるいおちゃ",
+    "meaning": "旧的茶",
+    "example": "今日は「古いお茶」を覚えます。",
+    "exampleMeaning": "今天学习“旧的茶”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-465",
+    "language": "ja",
+    "level": "N5",
+    "word": "古いコーヒー",
+    "pronunciation": "ふるいこーひー",
+    "meaning": "旧的咖啡",
+    "example": "今日は「古いコーヒー」を覚えます。",
+    "exampleMeaning": "今天学习“旧的咖啡”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-466",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い牛乳",
+    "pronunciation": "ふるいぎゅうにゅう",
+    "meaning": "旧的牛奶",
+    "example": "今日は「古い牛乳」を覚えます。",
+    "exampleMeaning": "今天学习“旧的牛奶”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-467",
+    "language": "ja",
+    "level": "N5",
+    "word": "古いジュース",
+    "pronunciation": "ふるいじゅーす",
+    "meaning": "旧的果汁",
+    "example": "今日は「古いジュース」を覚えます。",
+    "exampleMeaning": "今天学习“旧的果汁”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-468",
+    "language": "ja",
+    "level": "N5",
+    "word": "古いパン",
+    "pronunciation": "ふるいぱん",
+    "meaning": "旧的面包",
+    "example": "今日は「古いパン」を覚えます。",
+    "exampleMeaning": "今天学习“旧的面包”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-469",
+    "language": "ja",
+    "level": "N5",
+    "word": "古いご飯",
+    "pronunciation": "ふるいごはん",
+    "meaning": "旧的米饭",
+    "example": "今日は「古いご飯」を覚えます。",
+    "exampleMeaning": "今天学习“旧的米饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-470",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い卵",
+    "pronunciation": "ふるいたまご",
+    "meaning": "旧的鸡蛋",
+    "example": "今日は「古い卵」を覚えます。",
+    "exampleMeaning": "今天学习“旧的鸡蛋”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-471",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い肉",
+    "pronunciation": "ふるいにく",
+    "meaning": "旧的肉",
+    "example": "今日は「古い肉」を覚えます。",
+    "exampleMeaning": "今天学习“旧的肉”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-472",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い魚",
+    "pronunciation": "ふるいさかな",
+    "meaning": "旧的鱼",
+    "example": "今日は「古い魚」を覚えます。",
+    "exampleMeaning": "今天学习“旧的鱼”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-473",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い野菜",
+    "pronunciation": "ふるいやさい",
+    "meaning": "旧的蔬菜",
+    "example": "今日は「古い野菜」を覚えます。",
+    "exampleMeaning": "今天学习“旧的蔬菜”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-474",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い果物",
+    "pronunciation": "ふるいくだもの",
+    "meaning": "旧的水果",
+    "example": "今日は「古い果物」を覚えます。",
+    "exampleMeaning": "今天学习“旧的水果”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-475",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い林檎",
+    "pronunciation": "ふるいりんご",
+    "meaning": "旧的苹果",
+    "example": "今日は「古い林檎」を覚えます。",
+    "exampleMeaning": "今天学习“旧的苹果”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-476",
+    "language": "ja",
+    "level": "N5",
+    "word": "古いバナナ",
+    "pronunciation": "ふるいばなな",
+    "meaning": "旧的香蕉",
+    "example": "今日は「古いバナナ」を覚えます。",
+    "exampleMeaning": "今天学习“旧的香蕉”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-477",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い蜜柑",
+    "pronunciation": "ふるいみかん",
+    "meaning": "旧的橙子",
+    "example": "今日は「古い蜜柑」を覚えます。",
+    "exampleMeaning": "今天学习“旧的橙子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-478",
+    "language": "ja",
+    "level": "N5",
+    "word": "古いケーキ",
+    "pronunciation": "ふるいけーき",
+    "meaning": "旧的蛋糕",
+    "example": "今日は「古いケーキ」を覚えます。",
+    "exampleMeaning": "今天学习“旧的蛋糕”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-479",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い味噌汁",
+    "pronunciation": "ふるいみそしる",
+    "meaning": "旧的汤",
+    "example": "今日は「古い味噌汁」を覚えます。",
+    "exampleMeaning": "今天学习“旧的汤”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-480",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い朝ご飯",
+    "pronunciation": "ふるいあさごはん",
+    "meaning": "旧的早饭",
+    "example": "今日は「古い朝ご飯」を覚えます。",
+    "exampleMeaning": "今天学习“旧的早饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-481",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い昼ご飯",
+    "pronunciation": "ふるいひるごはん",
+    "meaning": "旧的午饭",
+    "example": "今日は「古い昼ご飯」を覚えます。",
+    "exampleMeaning": "今天学习“旧的午饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-482",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い晩ご飯",
+    "pronunciation": "ふるいばんごはん",
+    "meaning": "旧的晚饭",
+    "example": "今日は「古い晩ご飯」を覚えます。",
+    "exampleMeaning": "今天学习“旧的晚饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-483",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い今日",
+    "pronunciation": "ふるいきょう",
+    "meaning": "旧的今天",
+    "example": "今日は「古い今日」を覚えます。",
+    "exampleMeaning": "今天学习“旧的今天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-484",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い明日",
+    "pronunciation": "ふるいあした",
+    "meaning": "旧的明天",
+    "example": "今日は「古い明日」を覚えます。",
+    "exampleMeaning": "今天学习“旧的明天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-485",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い昨日",
+    "pronunciation": "ふるいきのう",
+    "meaning": "旧的昨天",
+    "example": "今日は「古い昨日」を覚えます。",
+    "exampleMeaning": "今天学习“旧的昨天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-486",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い朝",
+    "pronunciation": "ふるいあさ",
+    "meaning": "旧的早晨",
+    "example": "今日は「古い朝」を覚えます。",
+    "exampleMeaning": "今天学习“旧的早晨”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-487",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い午後",
+    "pronunciation": "ふるいごご",
+    "meaning": "旧的下午",
+    "example": "今日は「古い午後」を覚えます。",
+    "exampleMeaning": "今天学习“旧的下午”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-488",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い夕方",
+    "pronunciation": "ふるいゆうがた",
+    "meaning": "旧的傍晚",
+    "example": "今日は「古い夕方」を覚えます。",
+    "exampleMeaning": "今天学习“旧的傍晚”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-489",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い夜",
+    "pronunciation": "ふるいよる",
+    "meaning": "旧的夜晚",
+    "example": "今日は「古い夜」を覚えます。",
+    "exampleMeaning": "今天学习“旧的夜晚”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-490",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い週",
+    "pronunciation": "ふるいしゅう",
+    "meaning": "旧的星期",
+    "example": "今日は「古い週」を覚えます。",
+    "exampleMeaning": "今天学习“旧的星期”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-491",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い月",
+    "pronunciation": "ふるいつき",
+    "meaning": "旧的月份",
+    "example": "今日は「古い月」を覚えます。",
+    "exampleMeaning": "今天学习“旧的月份”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-492",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い時間",
+    "pronunciation": "ふるいじかん",
+    "meaning": "旧的时间",
+    "example": "今日は「古い時間」を覚えます。",
+    "exampleMeaning": "今天学习“旧的时间”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-493",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い分",
+    "pronunciation": "ふるいふん",
+    "meaning": "旧的分钟",
+    "example": "今日は「古い分」を覚えます。",
+    "exampleMeaning": "今天学习“旧的分钟”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-494",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い天気",
+    "pronunciation": "ふるいてんき",
+    "meaning": "旧的天气",
+    "example": "今日は「古い天気」を覚えます。",
+    "exampleMeaning": "今天学习“旧的天气”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-495",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い雨",
+    "pronunciation": "ふるいあめ",
+    "meaning": "旧的雨",
+    "example": "今日は「古い雨」を覚えます。",
+    "exampleMeaning": "今天学习“旧的雨”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-496",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い雪",
+    "pronunciation": "ふるいゆき",
+    "meaning": "旧的雪",
+    "example": "今日は「古い雪」を覚えます。",
+    "exampleMeaning": "今天学习“旧的雪”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-497",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い風",
+    "pronunciation": "ふるいかぜ",
+    "meaning": "旧的风",
+    "example": "今日は「古い風」を覚えます。",
+    "exampleMeaning": "今天学习“旧的风”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-498",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い空",
+    "pronunciation": "ふるいそら",
+    "meaning": "旧的天空",
+    "example": "今日は「古い空」を覚えます。",
+    "exampleMeaning": "今天学习“旧的天空”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-499",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い山",
+    "pronunciation": "ふるいやま",
+    "meaning": "旧的山",
+    "example": "今日は「古い山」を覚えます。",
+    "exampleMeaning": "今天学习“旧的山”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-500",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い川",
+    "pronunciation": "ふるいかわ",
+    "meaning": "旧的河",
+    "example": "今日は「古い川」を覚えます。",
+    "exampleMeaning": "今天学习“旧的河”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-501",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い海",
+    "pronunciation": "ふるいうみ",
+    "meaning": "旧的海",
+    "example": "今日は「古い海」を覚えます。",
+    "exampleMeaning": "今天学习“旧的海”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-502",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い木",
+    "pronunciation": "ふるいき",
+    "meaning": "旧的树",
+    "example": "今日は「古い木」を覚えます。",
+    "exampleMeaning": "今天学习“旧的树”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-503",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い花",
+    "pronunciation": "ふるいはな",
+    "meaning": "旧的花",
+    "example": "今日は「古い花」を覚えます。",
+    "exampleMeaning": "今天学习“旧的花”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-504",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い車",
+    "pronunciation": "ふるいくるま",
+    "meaning": "旧的汽车",
+    "example": "今日は「古い車」を覚えます。",
+    "exampleMeaning": "今天学习“旧的汽车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-505",
+    "language": "ja",
+    "level": "N5",
+    "word": "古いバス",
+    "pronunciation": "ふるいばす",
+    "meaning": "旧的公交车",
+    "example": "今日は「古いバス」を覚えます。",
+    "exampleMeaning": "今天学习“旧的公交车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-506",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い電車",
+    "pronunciation": "ふるいでんしゃ",
+    "meaning": "旧的火车",
+    "example": "今日は「古い電車」を覚えます。",
+    "exampleMeaning": "今天学习“旧的火车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-507",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い自転車",
+    "pronunciation": "ふるいじてんしゃ",
+    "meaning": "旧的自行车",
+    "example": "今日は「古い自転車」を覚えます。",
+    "exampleMeaning": "今天学习“旧的自行车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-508",
+    "language": "ja",
+    "level": "N5",
+    "word": "古い飛行機",
+    "pronunciation": "ふるいひこうき",
+    "meaning": "旧的飞机",
+    "example": "今日は「古い飛行機」を覚えます。",
+    "exampleMeaning": "今天学习“旧的飞机”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-509",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい人",
+    "pronunciation": "おおきいひと",
+    "meaning": "大的人",
+    "example": "今日は「大きい人」を覚えます。",
+    "exampleMeaning": "今天学习“大的人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-510",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい男",
+    "pronunciation": "おおきいおとこ",
+    "meaning": "大的男人",
+    "example": "今日は「大きい男」を覚えます。",
+    "exampleMeaning": "今天学习“大的男人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-511",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい女",
+    "pronunciation": "おおきいおんな",
+    "meaning": "大的女人",
+    "example": "今日は「大きい女」を覚えます。",
+    "exampleMeaning": "今天学习“大的女人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-512",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい子供",
+    "pronunciation": "おおきいこども",
+    "meaning": "大的孩子",
+    "example": "今日は「大きい子供」を覚えます。",
+    "exampleMeaning": "今天学习“大的孩子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-513",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい男の子",
+    "pronunciation": "おおきいおとこのこ",
+    "meaning": "大的男孩",
+    "example": "今日は「大きい男の子」を覚えます。",
+    "exampleMeaning": "今天学习“大的男孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-514",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい女の子",
+    "pronunciation": "おおきいおんなのこ",
+    "meaning": "大的女孩",
+    "example": "今日は「大きい女の子」を覚えます。",
+    "exampleMeaning": "今天学习“大的女孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-515",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい友達",
+    "pronunciation": "おおきいともだち",
+    "meaning": "大的朋友",
+    "example": "今日は「大きい友達」を覚えます。",
+    "exampleMeaning": "今天学习“大的朋友”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-516",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい先生",
+    "pronunciation": "おおきいせんせい",
+    "meaning": "大的老师",
+    "example": "今日は「大きい先生」を覚えます。",
+    "exampleMeaning": "今天学习“大的老师”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-517",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい学生",
+    "pronunciation": "おおきいがくせい",
+    "meaning": "大的学生",
+    "example": "今日は「大きい学生」を覚えます。",
+    "exampleMeaning": "今天学习“大的学生”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-518",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい医者",
+    "pronunciation": "おおきいいしゃ",
+    "meaning": "大的医生",
+    "example": "今日は「大きい医者」を覚えます。",
+    "exampleMeaning": "今天学习“大的医生”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-519",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい会社員",
+    "pronunciation": "おおきいかいしゃいん",
+    "meaning": "大的职员",
+    "example": "今日は「大きい会社員」を覚えます。",
+    "exampleMeaning": "今天学习“大的职员”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-520",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい名前",
+    "pronunciation": "おおきいなまえ",
+    "meaning": "大的名字",
+    "example": "今日は「大きい名前」を覚えます。",
+    "exampleMeaning": "今天学习“大的名字”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-521",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい年",
+    "pronunciation": "おおきいとし",
+    "meaning": "大的年龄",
+    "example": "今日は「大きい年」を覚えます。",
+    "exampleMeaning": "今天学习“大的年龄”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-522",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい家",
+    "pronunciation": "おおきいいえ",
+    "meaning": "大的家",
+    "example": "今日は「大きい家」を覚えます。",
+    "exampleMeaning": "今天学习“大的家”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-523",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい家屋",
+    "pronunciation": "おおきいかおく",
+    "meaning": "大的房子",
+    "example": "今日は「大きい家屋」を覚えます。",
+    "exampleMeaning": "今天学习“大的房子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-524",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい部屋",
+    "pronunciation": "おおきいへや",
+    "meaning": "大的房间",
+    "example": "今日は「大きい部屋」を覚えます。",
+    "exampleMeaning": "今天学习“大的房间”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-525",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい学校",
+    "pronunciation": "おおきいがっこう",
+    "meaning": "大的学校",
+    "example": "今日は「大きい学校」を覚えます。",
+    "exampleMeaning": "今天学习“大的学校”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-526",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい教室",
+    "pronunciation": "おおきいきょうしつ",
+    "meaning": "大的教室",
+    "example": "今日は「大きい教室」を覚えます。",
+    "exampleMeaning": "今天学习“大的教室”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-527",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい事務所",
+    "pronunciation": "おおきいじむしょ",
+    "meaning": "大的办公室",
+    "example": "今日は「大きい事務所」を覚えます。",
+    "exampleMeaning": "今天学习“大的办公室”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-528",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい店",
+    "pronunciation": "おおきいみせ",
+    "meaning": "大的商店",
+    "example": "今日は「大きい店」を覚えます。",
+    "exampleMeaning": "今天学习“大的商店”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-529",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい市場",
+    "pronunciation": "おおきいいちば",
+    "meaning": "大的市场",
+    "example": "今日は「大きい市場」を覚えます。",
+    "exampleMeaning": "今天学习“大的市场”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-530",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい銀行",
+    "pronunciation": "おおきいぎんこう",
+    "meaning": "大的银行",
+    "example": "今日は「大きい銀行」を覚えます。",
+    "exampleMeaning": "今天学习“大的银行”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-531",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい病院",
+    "pronunciation": "おおきいびょういん",
+    "meaning": "大的医院",
+    "example": "今日は「大きい病院」を覚えます。",
+    "exampleMeaning": "今天学习“大的医院”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-532",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きいホテル",
+    "pronunciation": "おおきいほてる",
+    "meaning": "大的酒店",
+    "example": "今日は「大きいホテル」を覚えます。",
+    "exampleMeaning": "今天学习“大的酒店”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-533",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きいレストラン",
+    "pronunciation": "おおきいれすとらん",
+    "meaning": "大的餐馆",
+    "example": "今日は「大きいレストラン」を覚えます。",
+    "exampleMeaning": "今天学习“大的餐馆”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-534",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい公園",
+    "pronunciation": "おおきいこうえん",
+    "meaning": "大的公园",
+    "example": "今日は「大きい公園」を覚えます。",
+    "exampleMeaning": "今天学习“大的公园”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-535",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい駅",
+    "pronunciation": "おおきいえき",
+    "meaning": "大的车站",
+    "example": "今日は「大きい駅」を覚えます。",
+    "exampleMeaning": "今天学习“大的车站”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-536",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい空港",
+    "pronunciation": "おおきいくうこう",
+    "meaning": "大的机场",
+    "example": "今日は「大きい空港」を覚えます。",
+    "exampleMeaning": "今天学习“大的机场”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-537",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい通り",
+    "pronunciation": "おおきいとおり",
+    "meaning": "大的街道",
+    "example": "今日は「大きい通り」を覚えます。",
+    "exampleMeaning": "今天学习“大的街道”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-538",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい町",
+    "pronunciation": "おおきいまち",
+    "meaning": "大的城市",
+    "example": "今日は「大きい町」を覚えます。",
+    "exampleMeaning": "今天学习“大的城市”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-539",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい国",
+    "pronunciation": "おおきいくに",
+    "meaning": "大的国家",
+    "example": "今日は「大きい国」を覚えます。",
+    "exampleMeaning": "今天学习“大的国家”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-540",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい本",
+    "pronunciation": "おおきいほん",
+    "meaning": "大的书",
+    "example": "今日は「大きい本」を覚えます。",
+    "exampleMeaning": "今天学习“大的书”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-541",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きいペン",
+    "pronunciation": "おおきいぺん",
+    "meaning": "大的钢笔",
+    "example": "今日は「大きいペン」を覚えます。",
+    "exampleMeaning": "今天学习“大的钢笔”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-542",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい鉛筆",
+    "pronunciation": "おおきいえんぴつ",
+    "meaning": "大的铅笔",
+    "example": "今日は「大きい鉛筆」を覚えます。",
+    "exampleMeaning": "今天学习“大的铅笔”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-543",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい紙",
+    "pronunciation": "おおきいかみ",
+    "meaning": "大的纸",
+    "example": "今日は「大きい紙」を覚えます。",
+    "exampleMeaning": "今天学习“大的纸”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-544",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい鞄",
+    "pronunciation": "おおきいかばん",
+    "meaning": "大的包",
+    "example": "今日は「大きい鞄」を覚えます。",
+    "exampleMeaning": "今天学习“大的包”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-545",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい箱",
+    "pronunciation": "おおきいはこ",
+    "meaning": "大的盒子",
+    "example": "今日は「大きい箱」を覚えます。",
+    "exampleMeaning": "今天学习“大的盒子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-546",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい鍵",
+    "pronunciation": "おおきいかぎ",
+    "meaning": "大的钥匙",
+    "example": "今日は「大きい鍵」を覚えます。",
+    "exampleMeaning": "今天学习“大的钥匙”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-547",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい電話",
+    "pronunciation": "おおきいでんわ",
+    "meaning": "大的电话",
+    "example": "今日は「大きい電話」を覚えます。",
+    "exampleMeaning": "今天学习“大的电话”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-548",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きいコンピューター",
+    "pronunciation": "おおきいこんぴゅーたー",
+    "meaning": "大的电脑",
+    "example": "今日は「大きいコンピューター」を覚えます。",
+    "exampleMeaning": "今天学习“大的电脑”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-549",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい机",
+    "pronunciation": "おおきいつくえ",
+    "meaning": "大的桌子",
+    "example": "今日は「大きい机」を覚えます。",
+    "exampleMeaning": "今天学习“大的桌子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-550",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい椅子",
+    "pronunciation": "おおきいいす",
+    "meaning": "大的椅子",
+    "example": "今日は「大きい椅子」を覚えます。",
+    "exampleMeaning": "今天学习“大的椅子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-551",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きいドア",
+    "pronunciation": "おおきいどあ",
+    "meaning": "大的门",
+    "example": "今日は「大きいドア」を覚えます。",
+    "exampleMeaning": "今天学习“大的门”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-552",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい窓",
+    "pronunciation": "おおきいまど",
+    "meaning": "大的窗户",
+    "example": "今日は「大きい窓」を覚えます。",
+    "exampleMeaning": "今天学习“大的窗户”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-553",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きいベッド",
+    "pronunciation": "おおきいべっど",
+    "meaning": "大的床",
+    "example": "今日は「大きいベッド」を覚えます。",
+    "exampleMeaning": "今天学习“大的床”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-554",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きいコップ",
+    "pronunciation": "おおきいこっぷ",
+    "meaning": "大的杯子",
+    "example": "今日は「大きいコップ」を覚えます。",
+    "exampleMeaning": "今天学习“大的杯子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-555",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい皿",
+    "pronunciation": "おおきいさら",
+    "meaning": "大的盘子",
+    "example": "今日は「大きい皿」を覚えます。",
+    "exampleMeaning": "今天学习“大的盘子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-556",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい時計",
+    "pronunciation": "おおきいとけい",
+    "meaning": "大的钟表",
+    "example": "今日は「大きい時計」を覚えます。",
+    "exampleMeaning": "今天学习“大的钟表”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-557",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい写真",
+    "pronunciation": "おおきいしゃしん",
+    "meaning": "大的照片",
+    "example": "今日は「大きい写真」を覚えます。",
+    "exampleMeaning": "今天学习“大的照片”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-558",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい地図",
+    "pronunciation": "おおきいちず",
+    "meaning": "大的地图",
+    "example": "今日は「大きい地図」を覚えます。",
+    "exampleMeaning": "今天学习“大的地图”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-559",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きいお金",
+    "pronunciation": "おおきいおかね",
+    "meaning": "大的钱",
+    "example": "今日は「大きいお金」を覚えます。",
+    "exampleMeaning": "今天学习“大的钱”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-560",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい切符",
+    "pronunciation": "おおきいきっぷ",
+    "meaning": "大的票",
+    "example": "今日は「大きい切符」を覚えます。",
+    "exampleMeaning": "今天学习“大的票”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-561",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい水",
+    "pronunciation": "おおきいみず",
+    "meaning": "大的水",
+    "example": "今日は「大きい水」を覚えます。",
+    "exampleMeaning": "今天学习“大的水”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-562",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きいお茶",
+    "pronunciation": "おおきいおちゃ",
+    "meaning": "大的茶",
+    "example": "今日は「大きいお茶」を覚えます。",
+    "exampleMeaning": "今天学习“大的茶”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-563",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きいコーヒー",
+    "pronunciation": "おおきいこーひー",
+    "meaning": "大的咖啡",
+    "example": "今日は「大きいコーヒー」を覚えます。",
+    "exampleMeaning": "今天学习“大的咖啡”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-564",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい牛乳",
+    "pronunciation": "おおきいぎゅうにゅう",
+    "meaning": "大的牛奶",
+    "example": "今日は「大きい牛乳」を覚えます。",
+    "exampleMeaning": "今天学习“大的牛奶”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-565",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きいジュース",
+    "pronunciation": "おおきいじゅーす",
+    "meaning": "大的果汁",
+    "example": "今日は「大きいジュース」を覚えます。",
+    "exampleMeaning": "今天学习“大的果汁”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-566",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きいパン",
+    "pronunciation": "おおきいぱん",
+    "meaning": "大的面包",
+    "example": "今日は「大きいパン」を覚えます。",
+    "exampleMeaning": "今天学习“大的面包”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-567",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きいご飯",
+    "pronunciation": "おおきいごはん",
+    "meaning": "大的米饭",
+    "example": "今日は「大きいご飯」を覚えます。",
+    "exampleMeaning": "今天学习“大的米饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-568",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい卵",
+    "pronunciation": "おおきいたまご",
+    "meaning": "大的鸡蛋",
+    "example": "今日は「大きい卵」を覚えます。",
+    "exampleMeaning": "今天学习“大的鸡蛋”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-569",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい肉",
+    "pronunciation": "おおきいにく",
+    "meaning": "大的肉",
+    "example": "今日は「大きい肉」を覚えます。",
+    "exampleMeaning": "今天学习“大的肉”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-570",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい魚",
+    "pronunciation": "おおきいさかな",
+    "meaning": "大的鱼",
+    "example": "今日は「大きい魚」を覚えます。",
+    "exampleMeaning": "今天学习“大的鱼”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-571",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい野菜",
+    "pronunciation": "おおきいやさい",
+    "meaning": "大的蔬菜",
+    "example": "今日は「大きい野菜」を覚えます。",
+    "exampleMeaning": "今天学习“大的蔬菜”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-572",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい果物",
+    "pronunciation": "おおきいくだもの",
+    "meaning": "大的水果",
+    "example": "今日は「大きい果物」を覚えます。",
+    "exampleMeaning": "今天学习“大的水果”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-573",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい林檎",
+    "pronunciation": "おおきいりんご",
+    "meaning": "大的苹果",
+    "example": "今日は「大きい林檎」を覚えます。",
+    "exampleMeaning": "今天学习“大的苹果”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-574",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きいバナナ",
+    "pronunciation": "おおきいばなな",
+    "meaning": "大的香蕉",
+    "example": "今日は「大きいバナナ」を覚えます。",
+    "exampleMeaning": "今天学习“大的香蕉”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-575",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい蜜柑",
+    "pronunciation": "おおきいみかん",
+    "meaning": "大的橙子",
+    "example": "今日は「大きい蜜柑」を覚えます。",
+    "exampleMeaning": "今天学习“大的橙子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-576",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きいケーキ",
+    "pronunciation": "おおきいけーき",
+    "meaning": "大的蛋糕",
+    "example": "今日は「大きいケーキ」を覚えます。",
+    "exampleMeaning": "今天学习“大的蛋糕”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-577",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい味噌汁",
+    "pronunciation": "おおきいみそしる",
+    "meaning": "大的汤",
+    "example": "今日は「大きい味噌汁」を覚えます。",
+    "exampleMeaning": "今天学习“大的汤”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-578",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい朝ご飯",
+    "pronunciation": "おおきいあさごはん",
+    "meaning": "大的早饭",
+    "example": "今日は「大きい朝ご飯」を覚えます。",
+    "exampleMeaning": "今天学习“大的早饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-579",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい昼ご飯",
+    "pronunciation": "おおきいひるごはん",
+    "meaning": "大的午饭",
+    "example": "今日は「大きい昼ご飯」を覚えます。",
+    "exampleMeaning": "今天学习“大的午饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-580",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい晩ご飯",
+    "pronunciation": "おおきいばんごはん",
+    "meaning": "大的晚饭",
+    "example": "今日は「大きい晩ご飯」を覚えます。",
+    "exampleMeaning": "今天学习“大的晚饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-581",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい今日",
+    "pronunciation": "おおきいきょう",
+    "meaning": "大的今天",
+    "example": "今日は「大きい今日」を覚えます。",
+    "exampleMeaning": "今天学习“大的今天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-582",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい明日",
+    "pronunciation": "おおきいあした",
+    "meaning": "大的明天",
+    "example": "今日は「大きい明日」を覚えます。",
+    "exampleMeaning": "今天学习“大的明天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-583",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい昨日",
+    "pronunciation": "おおきいきのう",
+    "meaning": "大的昨天",
+    "example": "今日は「大きい昨日」を覚えます。",
+    "exampleMeaning": "今天学习“大的昨天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-584",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい朝",
+    "pronunciation": "おおきいあさ",
+    "meaning": "大的早晨",
+    "example": "今日は「大きい朝」を覚えます。",
+    "exampleMeaning": "今天学习“大的早晨”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-585",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい午後",
+    "pronunciation": "おおきいごご",
+    "meaning": "大的下午",
+    "example": "今日は「大きい午後」を覚えます。",
+    "exampleMeaning": "今天学习“大的下午”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-586",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい夕方",
+    "pronunciation": "おおきいゆうがた",
+    "meaning": "大的傍晚",
+    "example": "今日は「大きい夕方」を覚えます。",
+    "exampleMeaning": "今天学习“大的傍晚”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-587",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい夜",
+    "pronunciation": "おおきいよる",
+    "meaning": "大的夜晚",
+    "example": "今日は「大きい夜」を覚えます。",
+    "exampleMeaning": "今天学习“大的夜晚”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-588",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい週",
+    "pronunciation": "おおきいしゅう",
+    "meaning": "大的星期",
+    "example": "今日は「大きい週」を覚えます。",
+    "exampleMeaning": "今天学习“大的星期”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-589",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい月",
+    "pronunciation": "おおきいつき",
+    "meaning": "大的月份",
+    "example": "今日は「大きい月」を覚えます。",
+    "exampleMeaning": "今天学习“大的月份”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-590",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい時間",
+    "pronunciation": "おおきいじかん",
+    "meaning": "大的时间",
+    "example": "今日は「大きい時間」を覚えます。",
+    "exampleMeaning": "今天学习“大的时间”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-591",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい分",
+    "pronunciation": "おおきいふん",
+    "meaning": "大的分钟",
+    "example": "今日は「大きい分」を覚えます。",
+    "exampleMeaning": "今天学习“大的分钟”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-592",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい天気",
+    "pronunciation": "おおきいてんき",
+    "meaning": "大的天气",
+    "example": "今日は「大きい天気」を覚えます。",
+    "exampleMeaning": "今天学习“大的天气”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-593",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい雨",
+    "pronunciation": "おおきいあめ",
+    "meaning": "大的雨",
+    "example": "今日は「大きい雨」を覚えます。",
+    "exampleMeaning": "今天学习“大的雨”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-594",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい雪",
+    "pronunciation": "おおきいゆき",
+    "meaning": "大的雪",
+    "example": "今日は「大きい雪」を覚えます。",
+    "exampleMeaning": "今天学习“大的雪”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-595",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい風",
+    "pronunciation": "おおきいかぜ",
+    "meaning": "大的风",
+    "example": "今日は「大きい風」を覚えます。",
+    "exampleMeaning": "今天学习“大的风”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-596",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい空",
+    "pronunciation": "おおきいそら",
+    "meaning": "大的天空",
+    "example": "今日は「大きい空」を覚えます。",
+    "exampleMeaning": "今天学习“大的天空”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-597",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい山",
+    "pronunciation": "おおきいやま",
+    "meaning": "大的山",
+    "example": "今日は「大きい山」を覚えます。",
+    "exampleMeaning": "今天学习“大的山”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-598",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい川",
+    "pronunciation": "おおきいかわ",
+    "meaning": "大的河",
+    "example": "今日は「大きい川」を覚えます。",
+    "exampleMeaning": "今天学习“大的河”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-599",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい海",
+    "pronunciation": "おおきいうみ",
+    "meaning": "大的海",
+    "example": "今日は「大きい海」を覚えます。",
+    "exampleMeaning": "今天学习“大的海”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-600",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい木",
+    "pronunciation": "おおきいき",
+    "meaning": "大的树",
+    "example": "今日は「大きい木」を覚えます。",
+    "exampleMeaning": "今天学习“大的树”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-601",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい花",
+    "pronunciation": "おおきいはな",
+    "meaning": "大的花",
+    "example": "今日は「大きい花」を覚えます。",
+    "exampleMeaning": "今天学习“大的花”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-602",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい車",
+    "pronunciation": "おおきいくるま",
+    "meaning": "大的汽车",
+    "example": "今日は「大きい車」を覚えます。",
+    "exampleMeaning": "今天学习“大的汽车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-603",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きいバス",
+    "pronunciation": "おおきいばす",
+    "meaning": "大的公交车",
+    "example": "今日は「大きいバス」を覚えます。",
+    "exampleMeaning": "今天学习“大的公交车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-604",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい電車",
+    "pronunciation": "おおきいでんしゃ",
+    "meaning": "大的火车",
+    "example": "今日は「大きい電車」を覚えます。",
+    "exampleMeaning": "今天学习“大的火车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-605",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい自転車",
+    "pronunciation": "おおきいじてんしゃ",
+    "meaning": "大的自行车",
+    "example": "今日は「大きい自転車」を覚えます。",
+    "exampleMeaning": "今天学习“大的自行车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-606",
+    "language": "ja",
+    "level": "N5",
+    "word": "大きい飛行機",
+    "pronunciation": "おおきいひこうき",
+    "meaning": "大的飞机",
+    "example": "今日は「大きい飛行機」を覚えます。",
+    "exampleMeaning": "今天学习“大的飞机”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-607",
+    "language": "ja",
+    "level": "N5",
+    "word": "小さい人",
+    "pronunciation": "ちいさいひと",
+    "meaning": "小的人",
+    "example": "今日は「小さい人」を覚えます。",
+    "exampleMeaning": "今天学习“小的人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-608",
+    "language": "ja",
+    "level": "N5",
+    "word": "小さい男",
+    "pronunciation": "ちいさいおとこ",
+    "meaning": "小的男人",
+    "example": "今日は「小さい男」を覚えます。",
+    "exampleMeaning": "今天学习“小的男人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-609",
+    "language": "ja",
+    "level": "N5",
+    "word": "小さい女",
+    "pronunciation": "ちいさいおんな",
+    "meaning": "小的女人",
+    "example": "今日は「小さい女」を覚えます。",
+    "exampleMeaning": "今天学习“小的女人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-610",
+    "language": "ja",
+    "level": "N5",
+    "word": "小さい子供",
+    "pronunciation": "ちいさいこども",
+    "meaning": "小的孩子",
+    "example": "今日は「小さい子供」を覚えます。",
+    "exampleMeaning": "今天学习“小的孩子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-611",
+    "language": "ja",
+    "level": "N5",
+    "word": "小さい男の子",
+    "pronunciation": "ちいさいおとこのこ",
+    "meaning": "小的男孩",
+    "example": "今日は「小さい男の子」を覚えます。",
+    "exampleMeaning": "今天学习“小的男孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-612",
+    "language": "ja",
+    "level": "N5",
+    "word": "小さい女の子",
+    "pronunciation": "ちいさいおんなのこ",
+    "meaning": "小的女孩",
+    "example": "今日は「小さい女の子」を覚えます。",
+    "exampleMeaning": "今天学习“小的女孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-613",
+    "language": "ja",
+    "level": "N5",
+    "word": "小さい友達",
+    "pronunciation": "ちいさいともだち",
+    "meaning": "小的朋友",
+    "example": "今日は「小さい友達」を覚えます。",
+    "exampleMeaning": "今天学习“小的朋友”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-614",
+    "language": "ja",
+    "level": "N5",
+    "word": "小さい先生",
+    "pronunciation": "ちいさいせんせい",
+    "meaning": "小的老师",
+    "example": "今日は「小さい先生」を覚えます。",
+    "exampleMeaning": "今天学习“小的老师”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-615",
+    "language": "ja",
+    "level": "N5",
+    "word": "小さい学生",
+    "pronunciation": "ちいさいがくせい",
+    "meaning": "小的学生",
+    "example": "今日は「小さい学生」を覚えます。",
+    "exampleMeaning": "今天学习“小的学生”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-616",
+    "language": "ja",
+    "level": "N5",
+    "word": "小さい医者",
+    "pronunciation": "ちいさいいしゃ",
+    "meaning": "小的医生",
+    "example": "今日は「小さい医者」を覚えます。",
+    "exampleMeaning": "今天学习“小的医生”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-617",
+    "language": "ja",
+    "level": "N5",
+    "word": "小さい会社員",
+    "pronunciation": "ちいさいかいしゃいん",
+    "meaning": "小的职员",
+    "example": "今日は「小さい会社員」を覚えます。",
+    "exampleMeaning": "今天学习“小的职员”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-618",
+    "language": "ja",
+    "level": "N5",
+    "word": "小さい名前",
+    "pronunciation": "ちいさいなまえ",
+    "meaning": "小的名字",
+    "example": "今日は「小さい名前」を覚えます。",
+    "exampleMeaning": "今天学习“小的名字”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-619",
+    "language": "ja",
+    "level": "N5",
+    "word": "小さい年",
+    "pronunciation": "ちいさいとし",
+    "meaning": "小的年龄",
+    "example": "今日は「小さい年」を覚えます。",
+    "exampleMeaning": "今天学习“小的年龄”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ja-n5-620",
+    "language": "ja",
+    "level": "N5",
+    "word": "小さい家",
+    "pronunciation": "ちいさいいえ",
+    "meaning": "小的家",
+    "example": "今日は「小さい家」を覚えます。",
+    "exampleMeaning": "今天学习“小的家”。",
+    "tags": [
+      "phrase"
+    ]
+  }
+]

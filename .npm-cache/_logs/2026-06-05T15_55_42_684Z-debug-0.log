@@ -1,0 +1,36 @@
+0 verbose cli D:\nodejs\node.exe D:\nvm\v22.12.0\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.0
+2 info using node@v22.12.0
+3 silly config load:file:D:\nvm\v22.12.0\node_modules\npm\npmrc
+4 silly config load:file:D:\WeChatProjects\MultiLearn\.npmrc
+5 silly config load:file:C:\Users\Dawn\.npmrc
+6 silly config load:file:D:\nvm\node_global\etc\npmrc
+7 verbose title npm exec tsc --noEmit --pretty false
+8 verbose argv "exec" "--cache" ".\\.npm-cache" "--" "tsc" "--noEmit" "--pretty" "false"
+9 verbose logfile logs-max:10 dir:D:\WeChatProjects\MultiLearn\.npm-cache\_logs\2026-06-05T15_55_42_684Z-
+10 verbose logfile D:\WeChatProjects\MultiLearn\.npm-cache\_logs\2026-06-05T15_55_42_684Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+13 http fetch GET 200 https://registry.npmjs.org/tsc 1116ms (cache miss)
+14 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+15 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+16 warn exec The following package was not found and will be installed: tsc@2.0.4
+17 silly idealTree buildDeps
+18 silly fetch manifest tsc@2.0.4
+19 silly packumentCache full:https://registry.npmjs.org/tsc cache-miss
+20 http fetch GET 200 https://registry.npmjs.org/tsc 319ms (cache miss)
+21 silly packumentCache full:https://registry.npmjs.org/tsc set size:undefined disposed:false
+22 silly placeDep ROOT tsc@2.0.4 OK for:  want: 2.0.4
+23 silly reify moves {}
+24 silly audit bulk request { tsc: [ '2.0.4' ] }
+25 silly tarball no local data for tsc@https://registry.npmjs.org/tsc/-/tsc-2.0.4.tgz. Extracting by manifest.
+26 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 434ms
+27 silly audit report {}
+28 http fetch GET 200 https://registry.npmjs.org/tsc/-/tsc-2.0.4.tgz 1142ms (cache miss)
+29 warn deprecated tsc@2.0.4: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
+30 verbose cwd D:\WeChatProjects\MultiLearn
+31 verbose os Windows_NT 10.0.26200
+32 verbose node v22.12.0
+33 verbose npm  v10.9.0
+34 verbose exit 1
+35 verbose code 1

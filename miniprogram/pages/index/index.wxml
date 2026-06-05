@@ -1,0 +1,85 @@
+<navigation-bar title="MultiLearn" back="{{false}}" color="#172033" background="#F7F8FA"></navigation-bar>
+
+<scroll-view class="page-scroll" scroll-y type="list">
+  <view class="page">
+    <view class="hello">
+      <view>
+        <text class="hello-title">Hi, Dawn</text>
+        <text class="hello-subtitle">{{todayText}}，今天继续完成 15 分钟学习</text>
+      </view>
+      <button class="switch-button" bindtap="goLanguage">切换</button>
+    </view>
+
+    <view class="hero-card">
+      <text class="brand">MultiLearn</text>
+      <text class="hero-copy">{{language.name}} {{language.level}} · {{language.nativeName}}</text>
+      <view class="hero-progress-row">
+        <view class="hero-track">
+          <view class="hero-fill" style="width: {{progressPercent}}%;"></view>
+        </view>
+        <text class="hero-percent">{{progressPercent}}%</text>
+      </view>
+    </view>
+
+    <view class="language-grid">
+      <view class="language-quick blue {{language.code === 'en' ? 'active' : ''}}" data-code="en" bindtap="goWords">
+        <text class="quick-title">英语</text>
+        <text class="quick-subtitle">A1 词库</text>
+      </view>
+      <view class="language-quick pink {{language.code === 'ja' ? 'active' : ''}}" data-code="ja" bindtap="goWords">
+        <text class="quick-title">日语</text>
+        <text class="quick-subtitle">N5 入门</text>
+      </view>
+      <view class="language-quick orange {{language.code === 'ko' ? 'active' : ''}}" data-code="ko" bindtap="goWords">
+        <text class="quick-title">韩语</text>
+        <text class="quick-subtitle">Beginner</text>
+      </view>
+    </view>
+
+    <view class="section-head">
+      <text class="section-title">今日任务</text>
+      <text class="section-meta">{{stats.learned}} / {{stats.total}}</text>
+    </view>
+
+    <view class="task-list">
+      <view wx:for="{{tasks}}" wx:key="title" class="task-card {{item.type}}" data-target="{{item.target}}" bindtap="goTask">
+        <view class="task-dot"></view>
+        <text class="task-title">{{item.title}}</text>
+        <text class="task-value">{{item.value}}</text>
+      </view>
+    </view>
+
+    <view class="next-card" bindtap="goNextWord">
+      <view class="section-head compact">
+        <text class="section-title">{{nextWord ? '下一张词卡' : '开始复习'}}</text>
+        <text class="section-meta">{{language.name}}</text>
+      </view>
+      <view wx:if="{{nextWord}}" class="next-content">
+        <view>
+          <text class="word">{{nextWord.word}}</text>
+          <text class="pronunciation">{{nextWord.pronunciation}}</text>
+        </view>
+        <text class="meaning">{{nextWord.meaning}}</text>
+      </view>
+      <view wx:else class="next-content">
+        <text class="word">词库已学完</text>
+        <text class="meaning">去复习</text>
+      </view>
+    </view>
+
+    <view wx:if="{{previewWords.length > 0}}" class="section-head">
+      <text class="section-title">推荐先学</text>
+      <text class="section-meta">{{language.level}}</text>
+    </view>
+
+    <view wx:if="{{previewWords.length > 0}}" class="word-list">
+      <view wx:for="{{previewWords}}" wx:key="id" class="word-card" data-id="{{item.id}}" bindtap="goWordDetail">
+        <view>
+          <text class="word-card-title">{{item.word}}</text>
+          <text class="word-card-subtitle">{{item.pronunciation}}</text>
+        </view>
+        <text class="word-card-meaning">{{item.meaning}}</text>
+      </view>
+    </view>
+  </view>
+</scroll-view>

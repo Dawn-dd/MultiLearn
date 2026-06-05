@@ -1,0 +1,35 @@
+<navigation-bar title="AI 对话" back="{{false}}" color="#172033" background="#F7F8FA"></navigation-bar>
+
+<view class="page">
+  <scroll-view class="message-scroll" scroll-y scroll-into-view="{{scrollTarget}}" type="list">
+    <view class="messages">
+      <view class="tips">
+        <text>{{languageName}} · {{backendReady ? '后端已配置' : '待配置后端'}}</text>
+        <text class="tips-sub">通过后端函数调用 Qwen，前端不保存 API Key。</text>
+      </view>
+
+      <view wx:if="{{messages.length === 0}}" class="empty-chat">
+        <text class="empty-title">选择一个主题开始练习</text>
+        <text class="empty-subtitle">我会给你纠错、补充表达，并生成下一轮问题。</text>
+      </view>
+
+      <view wx:for="{{messages}}" wx:key="id" id="msg-{{item.id}}" class="message {{item.role}}">
+        <text>{{item.content}}</text>
+      </view>
+
+      <view wx:if="{{sending}}" class="message assistant loading-message">
+        <text>正在思考...</text>
+      </view>
+    </view>
+  </scroll-view>
+
+  <view class="prompt-row">
+    <button wx:for="{{prompts}}" wx:key="*this" class="prompt" data-text="{{item}}" bindtap="usePrompt">{{item}}</button>
+    <button class="prompt danger" bindtap="clearMessages">清空</button>
+  </view>
+
+  <view class="composer">
+    <input class="input" value="{{draft}}" placeholder="输入消息..." confirm-type="send" bindinput="onInput" bindconfirm="sendMessage" />
+    <button class="send {{draft ? '' : 'disabled'}}" loading="{{sending}}" bindtap="sendMessage">发送</button>
+  </view>
+</view>

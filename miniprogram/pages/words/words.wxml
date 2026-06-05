@@ -1,0 +1,56 @@
+<navigation-bar title="单词" color="#172033" background="#F7F8FA"></navigation-bar>
+
+<view class="page">
+  <view class="summary-card">
+    <view class="summary-main">
+      <text class="summary-title">{{languageName}} {{languageLevel}} 词库</text>
+      <text class="summary-subtitle">{{summaryText}}</text>
+    </view>
+    <button class="summary-button" bindtap="goLanguage">切换</button>
+  </view>
+
+  <view class="toolbar">
+    <input class="search" placeholder="搜索单词 / 中文释义" value="{{keyword}}" bindinput="onSearch" />
+    <button wx:if="{{keyword}}" class="clear-button" bindtap="clearSearch">清空</button>
+  </view>
+
+  <view class="filter-row">
+    <view wx:for="{{filters}}" wx:key="value" class="filter {{activeFilter === item.value ? 'active' : ''}}" data-value="{{item.value}}" bindtap="changeFilter">
+      {{item.label}} {{item.count}}
+    </view>
+  </view>
+
+  <view wx:if="{{isLoading}}" class="skeleton-list">
+    <view wx:for="{{skeletonRows}}" wx:key="*this" class="skeleton-card">
+      <view>
+        <view class="skeleton-line title-line"></view>
+        <view class="skeleton-line short-line"></view>
+        <view class="skeleton-line medium-line"></view>
+      </view>
+      <view class="skeleton-pill"></view>
+    </view>
+  </view>
+
+  <scroll-view wx:if="{{!isLoading}}" class="word-scroll" scroll-y type="list" lower-threshold="120" bindscrolltolower="loadMore">
+    <view class="word-list">
+      <view wx:for="{{visibleWords}}" wx:key="id" class="word-card" data-id="{{item.id}}" bindtap="goDetail">
+        <view class="word-main">
+          <text class="word">{{item.word}}</text>
+          <text class="pronunciation">{{item.pronunciation}}</text>
+          <text class="meaning">{{item.meaning}}</text>
+        </view>
+        <view class="status-column">
+          <text wx:if="{{item.isFavorite}}" class="tag favorite">生词</text>
+          <text wx:elif="{{item.isLearned}}" class="tag learned">已掌握</text>
+          <text wx:else class="tag">{{item.level}}</text>
+        </view>
+      </view>
+
+      <view wx:if="{{visibleWords.length === 0}}" class="empty">
+        <text class="empty-title">没有找到匹配的单词</text>
+        <text class="empty-subtitle">换个关键词，或者切回“全部”。</text>
+        <button class="empty-button" bindtap="clearSearch">清空搜索</button>
+      </view>
+    </view>
+  </scroll-view>
+</view>

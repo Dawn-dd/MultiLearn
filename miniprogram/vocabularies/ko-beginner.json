@@ -1,0 +1,8062 @@
+[
+  {
+    "id": "ko-beginner-001",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "안녕하세요",
+    "pronunciation": "annyeonghaseyo",
+    "meaning": "你好",
+    "example": "오늘 \"안녕하세요\"를 배워요.",
+    "exampleMeaning": "今天学习“你好”。",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "ko-beginner-002",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "안녕히 가세요",
+    "pronunciation": "annyeonghi gaseyo",
+    "meaning": "再见",
+    "example": "오늘 \"안녕히 가세요\"를 배워요.",
+    "exampleMeaning": "今天学习“再见”。",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "ko-beginner-003",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "부탁합니다",
+    "pronunciation": "butakhamnida",
+    "meaning": "请",
+    "example": "오늘 \"부탁합니다\"를 배워요.",
+    "exampleMeaning": "今天学习“请”。",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "ko-beginner-004",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "감사합니다",
+    "pronunciation": "gamsahamnida",
+    "meaning": "谢谢",
+    "example": "오늘 \"감사합니다\"를 배워요.",
+    "exampleMeaning": "今天学习“谢谢”。",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "ko-beginner-005",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "죄송합니다",
+    "pronunciation": "joesonghamnida",
+    "meaning": "对不起",
+    "example": "오늘 \"죄송합니다\"를 배워요.",
+    "exampleMeaning": "今天学习“对不起”。",
+    "tags": [
+      "greeting"
+    ]
+  },
+  {
+    "id": "ko-beginner-006",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "네",
+    "pronunciation": "ne",
+    "meaning": "是",
+    "example": "오늘 \"네\"를 배워요.",
+    "exampleMeaning": "今天学习“是”。",
+    "tags": [
+      "common"
+    ]
+  },
+  {
+    "id": "ko-beginner-007",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "아니요",
+    "pronunciation": "aniyo",
+    "meaning": "不是",
+    "example": "오늘 \"아니요\"를 배워요.",
+    "exampleMeaning": "今天学习“不是”。",
+    "tags": [
+      "common"
+    ]
+  },
+  {
+    "id": "ko-beginner-008",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "저",
+    "pronunciation": "jeo",
+    "meaning": "我",
+    "example": "오늘 \"저\"를 배워요.",
+    "exampleMeaning": "今天学习“我”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "ko-beginner-009",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "당신",
+    "pronunciation": "dangsin",
+    "meaning": "你",
+    "example": "오늘 \"당신\"를 배워요.",
+    "exampleMeaning": "今天学习“你”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "ko-beginner-010",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "그",
+    "pronunciation": "geu",
+    "meaning": "他",
+    "example": "오늘 \"그\"를 배워요.",
+    "exampleMeaning": "今天学习“他”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "ko-beginner-011",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "그녀",
+    "pronunciation": "geunyeo",
+    "meaning": "她",
+    "example": "오늘 \"그녀\"를 배워요.",
+    "exampleMeaning": "今天学习“她”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "ko-beginner-012",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "우리",
+    "pronunciation": "uri",
+    "meaning": "我们",
+    "example": "오늘 \"우리\"를 배워요.",
+    "exampleMeaning": "今天学习“我们”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "ko-beginner-013",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "그들",
+    "pronunciation": "geudeul",
+    "meaning": "他们",
+    "example": "오늘 \"그들\"를 배워요.",
+    "exampleMeaning": "今天学习“他们”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "ko-beginner-014",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "이것",
+    "pronunciation": "igeot",
+    "meaning": "这个",
+    "example": "오늘 \"이것\"를 배워요.",
+    "exampleMeaning": "今天学习“这个”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "ko-beginner-015",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "그것",
+    "pronunciation": "geugeot",
+    "meaning": "那个",
+    "example": "오늘 \"그것\"를 배워요.",
+    "exampleMeaning": "今天学习“那个”。",
+    "tags": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "ko-beginner-016",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "누구",
+    "pronunciation": "nugu",
+    "meaning": "谁",
+    "example": "오늘 \"누구\"를 배워요.",
+    "exampleMeaning": "今天学习“谁”。",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "ko-beginner-017",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "무엇",
+    "pronunciation": "mueot",
+    "meaning": "什么",
+    "example": "오늘 \"무엇\"를 배워요.",
+    "exampleMeaning": "今天学习“什么”。",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "ko-beginner-018",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "어디",
+    "pronunciation": "eodi",
+    "meaning": "哪里",
+    "example": "오늘 \"어디\"를 배워요.",
+    "exampleMeaning": "今天学习“哪里”。",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "ko-beginner-019",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "언제",
+    "pronunciation": "eonje",
+    "meaning": "什么时候",
+    "example": "오늘 \"언제\"를 배워요.",
+    "exampleMeaning": "今天学习“什么时候”。",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "ko-beginner-020",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "왜",
+    "pronunciation": "wae",
+    "meaning": "为什么",
+    "example": "오늘 \"왜\"를 배워요.",
+    "exampleMeaning": "今天学习“为什么”。",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "ko-beginner-021",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "어떻게",
+    "pronunciation": "eotteoke",
+    "meaning": "怎样",
+    "example": "오늘 \"어떻게\"를 배워요.",
+    "exampleMeaning": "今天学习“怎样”。",
+    "tags": [
+      "question"
+    ]
+  },
+  {
+    "id": "ko-beginner-022",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "사람",
+    "pronunciation": "saram",
+    "meaning": "人",
+    "example": "오늘 \"사람\"를 배워요.",
+    "exampleMeaning": "今天学习“人”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ko-beginner-023",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "남자",
+    "pronunciation": "namja",
+    "meaning": "男人",
+    "example": "오늘 \"남자\"를 배워요.",
+    "exampleMeaning": "今天学习“男人”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ko-beginner-024",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "여자",
+    "pronunciation": "yeoja",
+    "meaning": "女人",
+    "example": "오늘 \"여자\"를 배워요.",
+    "exampleMeaning": "今天学习“女人”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ko-beginner-025",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "아이",
+    "pronunciation": "ai",
+    "meaning": "孩子",
+    "example": "오늘 \"아이\"를 배워요.",
+    "exampleMeaning": "今天学习“孩子”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ko-beginner-026",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "소년",
+    "pronunciation": "sonyeon",
+    "meaning": "男孩",
+    "example": "오늘 \"소년\"를 배워요.",
+    "exampleMeaning": "今天学习“男孩”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ko-beginner-027",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "소녀",
+    "pronunciation": "sonyeo",
+    "meaning": "女孩",
+    "example": "오늘 \"소녀\"를 배워요.",
+    "exampleMeaning": "今天学习“女孩”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ko-beginner-028",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "친구",
+    "pronunciation": "chingu",
+    "meaning": "朋友",
+    "example": "오늘 \"친구\"를 배워요.",
+    "exampleMeaning": "今天学习“朋友”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ko-beginner-029",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "가족",
+    "pronunciation": "gajok",
+    "meaning": "家人",
+    "example": "오늘 \"가족\"를 배워요.",
+    "exampleMeaning": "今天学习“家人”。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "ko-beginner-030",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "아버지",
+    "pronunciation": "abeoji",
+    "meaning": "父亲",
+    "example": "오늘 \"아버지\"를 배워요.",
+    "exampleMeaning": "今天学习“父亲”。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "ko-beginner-031",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "어머니",
+    "pronunciation": "eomeoni",
+    "meaning": "母亲",
+    "example": "오늘 \"어머니\"를 배워요.",
+    "exampleMeaning": "今天学习“母亲”。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "ko-beginner-032",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "형제",
+    "pronunciation": "hyeongje",
+    "meaning": "兄弟",
+    "example": "오늘 \"형제\"를 배워요.",
+    "exampleMeaning": "今天学习“兄弟”。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "ko-beginner-033",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "자매",
+    "pronunciation": "jamae",
+    "meaning": "姐妹",
+    "example": "오늘 \"자매\"를 배워요.",
+    "exampleMeaning": "今天学习“姐妹”。",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": "ko-beginner-034",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "선생님",
+    "pronunciation": "seonsaengnim",
+    "meaning": "老师",
+    "example": "오늘 \"선생님\"를 배워요.",
+    "exampleMeaning": "今天学习“老师”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ko-beginner-035",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "학생",
+    "pronunciation": "haksaeng",
+    "meaning": "学生",
+    "example": "오늘 \"학생\"를 배워요.",
+    "exampleMeaning": "今天学习“学生”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ko-beginner-036",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "의사",
+    "pronunciation": "uisa",
+    "meaning": "医生",
+    "example": "오늘 \"의사\"를 배워요.",
+    "exampleMeaning": "今天学习“医生”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ko-beginner-037",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "회사원",
+    "pronunciation": "hoesawon",
+    "meaning": "职员",
+    "example": "오늘 \"회사원\"를 배워요.",
+    "exampleMeaning": "今天学习“职员”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ko-beginner-038",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "이름",
+    "pronunciation": "ireum",
+    "meaning": "名字",
+    "example": "오늘 \"이름\"를 배워요.",
+    "exampleMeaning": "今天学习“名字”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ko-beginner-039",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "나이",
+    "pronunciation": "nai",
+    "meaning": "年龄",
+    "example": "오늘 \"나이\"를 배워요.",
+    "exampleMeaning": "今天学习“年龄”。",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "id": "ko-beginner-040",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "집",
+    "pronunciation": "jip",
+    "meaning": "家",
+    "example": "오늘 \"집\"를 배워요.",
+    "exampleMeaning": "今天学习“家”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ko-beginner-041",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "주택",
+    "pronunciation": "jutaek",
+    "meaning": "房子",
+    "example": "오늘 \"주택\"를 배워요.",
+    "exampleMeaning": "今天学习“房子”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ko-beginner-042",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "방",
+    "pronunciation": "bang",
+    "meaning": "房间",
+    "example": "오늘 \"방\"를 배워요.",
+    "exampleMeaning": "今天学习“房间”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ko-beginner-043",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "학교",
+    "pronunciation": "hakgyo",
+    "meaning": "学校",
+    "example": "오늘 \"학교\"를 배워요.",
+    "exampleMeaning": "今天学习“学校”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ko-beginner-044",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "교실",
+    "pronunciation": "gyosil",
+    "meaning": "教室",
+    "example": "오늘 \"교실\"를 배워요.",
+    "exampleMeaning": "今天学习“教室”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ko-beginner-045",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "사무실",
+    "pronunciation": "samusil",
+    "meaning": "办公室",
+    "example": "오늘 \"사무실\"를 배워요.",
+    "exampleMeaning": "今天学习“办公室”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ko-beginner-046",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "가게",
+    "pronunciation": "gage",
+    "meaning": "商店",
+    "example": "오늘 \"가게\"를 배워요.",
+    "exampleMeaning": "今天学习“商店”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ko-beginner-047",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "시장",
+    "pronunciation": "sijang",
+    "meaning": "市场",
+    "example": "오늘 \"시장\"를 배워요.",
+    "exampleMeaning": "今天学习“市场”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ko-beginner-048",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "은행",
+    "pronunciation": "eunhaeng",
+    "meaning": "银行",
+    "example": "오늘 \"은행\"를 배워요.",
+    "exampleMeaning": "今天学习“银行”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ko-beginner-049",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "병원",
+    "pronunciation": "byeongwon",
+    "meaning": "医院",
+    "example": "오늘 \"병원\"를 배워요.",
+    "exampleMeaning": "今天学习“医院”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ko-beginner-050",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "호텔",
+    "pronunciation": "hotel",
+    "meaning": "酒店",
+    "example": "오늘 \"호텔\"를 배워요.",
+    "exampleMeaning": "今天学习“酒店”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ko-beginner-051",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "식당",
+    "pronunciation": "sikdang",
+    "meaning": "餐馆",
+    "example": "오늘 \"식당\"를 배워요.",
+    "exampleMeaning": "今天学习“餐馆”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ko-beginner-052",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "공원",
+    "pronunciation": "gongwon",
+    "meaning": "公园",
+    "example": "오늘 \"공원\"를 배워요.",
+    "exampleMeaning": "今天学习“公园”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ko-beginner-053",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "역",
+    "pronunciation": "yeok",
+    "meaning": "车站",
+    "example": "오늘 \"역\"를 배워요.",
+    "exampleMeaning": "今天学习“车站”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ko-beginner-054",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "공항",
+    "pronunciation": "gonghang",
+    "meaning": "机场",
+    "example": "오늘 \"공항\"를 배워요.",
+    "exampleMeaning": "今天学习“机场”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ko-beginner-055",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "거리",
+    "pronunciation": "geori",
+    "meaning": "街道",
+    "example": "오늘 \"거리\"를 배워요.",
+    "exampleMeaning": "今天学习“街道”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ko-beginner-056",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "도시",
+    "pronunciation": "dosi",
+    "meaning": "城市",
+    "example": "오늘 \"도시\"를 배워요.",
+    "exampleMeaning": "今天学习“城市”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ko-beginner-057",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "나라",
+    "pronunciation": "nara",
+    "meaning": "国家",
+    "example": "오늘 \"나라\"를 배워요.",
+    "exampleMeaning": "今天学习“国家”。",
+    "tags": [
+      "place"
+    ]
+  },
+  {
+    "id": "ko-beginner-058",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "책",
+    "pronunciation": "chaek",
+    "meaning": "书",
+    "example": "오늘 \"책\"를 배워요.",
+    "exampleMeaning": "今天学习“书”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ko-beginner-059",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "펜",
+    "pronunciation": "pen",
+    "meaning": "钢笔",
+    "example": "오늘 \"펜\"를 배워요.",
+    "exampleMeaning": "今天学习“钢笔”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ko-beginner-060",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "연필",
+    "pronunciation": "yeonpil",
+    "meaning": "铅笔",
+    "example": "오늘 \"연필\"를 배워요.",
+    "exampleMeaning": "今天学习“铅笔”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ko-beginner-061",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "종이",
+    "pronunciation": "jongi",
+    "meaning": "纸",
+    "example": "오늘 \"종이\"를 배워요.",
+    "exampleMeaning": "今天学习“纸”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ko-beginner-062",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "가방",
+    "pronunciation": "gabang",
+    "meaning": "包",
+    "example": "오늘 \"가방\"를 배워요.",
+    "exampleMeaning": "今天学习“包”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ko-beginner-063",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "상자",
+    "pronunciation": "sangja",
+    "meaning": "盒子",
+    "example": "오늘 \"상자\"를 배워요.",
+    "exampleMeaning": "今天学习“盒子”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ko-beginner-064",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "열쇠",
+    "pronunciation": "yeolsoe",
+    "meaning": "钥匙",
+    "example": "오늘 \"열쇠\"를 배워요.",
+    "exampleMeaning": "今天学习“钥匙”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ko-beginner-065",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "전화",
+    "pronunciation": "jeonhwa",
+    "meaning": "电话",
+    "example": "오늘 \"전화\"를 배워요.",
+    "exampleMeaning": "今天学习“电话”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ko-beginner-066",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "컴퓨터",
+    "pronunciation": "keompyuteo",
+    "meaning": "电脑",
+    "example": "오늘 \"컴퓨터\"를 배워요.",
+    "exampleMeaning": "今天学习“电脑”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ko-beginner-067",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "책상",
+    "pronunciation": "chaeksang",
+    "meaning": "桌子",
+    "example": "오늘 \"책상\"를 배워요.",
+    "exampleMeaning": "今天学习“桌子”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ko-beginner-068",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "의자",
+    "pronunciation": "uija",
+    "meaning": "椅子",
+    "example": "오늘 \"의자\"를 배워요.",
+    "exampleMeaning": "今天学习“椅子”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ko-beginner-069",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "문",
+    "pronunciation": "mun",
+    "meaning": "门",
+    "example": "오늘 \"문\"를 배워요.",
+    "exampleMeaning": "今天学习“门”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ko-beginner-070",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "창문",
+    "pronunciation": "changmun",
+    "meaning": "窗户",
+    "example": "오늘 \"창문\"를 배워요.",
+    "exampleMeaning": "今天学习“窗户”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ko-beginner-071",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "침대",
+    "pronunciation": "chimdae",
+    "meaning": "床",
+    "example": "오늘 \"침대\"를 배워요.",
+    "exampleMeaning": "今天学习“床”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ko-beginner-072",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "컵",
+    "pronunciation": "keop",
+    "meaning": "杯子",
+    "example": "오늘 \"컵\"를 배워요.",
+    "exampleMeaning": "今天学习“杯子”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ko-beginner-073",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "접시",
+    "pronunciation": "jeopsi",
+    "meaning": "盘子",
+    "example": "오늘 \"접시\"를 배워요.",
+    "exampleMeaning": "今天学习“盘子”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ko-beginner-074",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "시계",
+    "pronunciation": "sigye",
+    "meaning": "钟表",
+    "example": "오늘 \"시계\"를 배워요.",
+    "exampleMeaning": "今天学习“钟表”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ko-beginner-075",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "사진",
+    "pronunciation": "sajin",
+    "meaning": "照片",
+    "example": "오늘 \"사진\"를 배워요.",
+    "exampleMeaning": "今天学习“照片”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ko-beginner-076",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "지도",
+    "pronunciation": "jido",
+    "meaning": "地图",
+    "example": "오늘 \"지도\"를 배워요.",
+    "exampleMeaning": "今天学习“地图”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ko-beginner-077",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "돈",
+    "pronunciation": "don",
+    "meaning": "钱",
+    "example": "오늘 \"돈\"를 배워요.",
+    "exampleMeaning": "今天学习“钱”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ko-beginner-078",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "표",
+    "pronunciation": "pyo",
+    "meaning": "票",
+    "example": "오늘 \"표\"를 배워요.",
+    "exampleMeaning": "今天学习“票”。",
+    "tags": [
+      "object"
+    ]
+  },
+  {
+    "id": "ko-beginner-079",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "물",
+    "pronunciation": "mul",
+    "meaning": "水",
+    "example": "오늘 \"물\"를 배워요.",
+    "exampleMeaning": "今天学习“水”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko-beginner-080",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "차",
+    "pronunciation": "cha",
+    "meaning": "茶",
+    "example": "오늘 \"차\"를 배워요.",
+    "exampleMeaning": "今天学习“茶”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko-beginner-081",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "커피",
+    "pronunciation": "keopi",
+    "meaning": "咖啡",
+    "example": "오늘 \"커피\"를 배워요.",
+    "exampleMeaning": "今天学习“咖啡”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko-beginner-082",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "우유",
+    "pronunciation": "uyu",
+    "meaning": "牛奶",
+    "example": "오늘 \"우유\"를 배워요.",
+    "exampleMeaning": "今天学习“牛奶”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko-beginner-083",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "주스",
+    "pronunciation": "juseu",
+    "meaning": "果汁",
+    "example": "오늘 \"주스\"를 배워요.",
+    "exampleMeaning": "今天学习“果汁”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko-beginner-084",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "빵",
+    "pronunciation": "ppang",
+    "meaning": "面包",
+    "example": "오늘 \"빵\"를 배워요.",
+    "exampleMeaning": "今天学习“面包”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko-beginner-085",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "밥",
+    "pronunciation": "bap",
+    "meaning": "米饭",
+    "example": "오늘 \"밥\"를 배워요.",
+    "exampleMeaning": "今天学习“米饭”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko-beginner-086",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "계란",
+    "pronunciation": "gyeran",
+    "meaning": "鸡蛋",
+    "example": "오늘 \"계란\"를 배워요.",
+    "exampleMeaning": "今天学习“鸡蛋”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko-beginner-087",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "고기",
+    "pronunciation": "gogi",
+    "meaning": "肉",
+    "example": "오늘 \"고기\"를 배워요.",
+    "exampleMeaning": "今天学习“肉”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko-beginner-088",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "생선",
+    "pronunciation": "saengseon",
+    "meaning": "鱼",
+    "example": "오늘 \"생선\"를 배워요.",
+    "exampleMeaning": "今天学习“鱼”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko-beginner-089",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "야채",
+    "pronunciation": "yachae",
+    "meaning": "蔬菜",
+    "example": "오늘 \"야채\"를 배워요.",
+    "exampleMeaning": "今天学习“蔬菜”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko-beginner-090",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "과일",
+    "pronunciation": "gwail",
+    "meaning": "水果",
+    "example": "오늘 \"과일\"를 배워요.",
+    "exampleMeaning": "今天学习“水果”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko-beginner-091",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "사과",
+    "pronunciation": "sagwa",
+    "meaning": "苹果",
+    "example": "오늘 \"사과\"를 배워요.",
+    "exampleMeaning": "今天学习“苹果”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko-beginner-092",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "바나나",
+    "pronunciation": "banana",
+    "meaning": "香蕉",
+    "example": "오늘 \"바나나\"를 배워요.",
+    "exampleMeaning": "今天学习“香蕉”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko-beginner-093",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오렌지",
+    "pronunciation": "orenji",
+    "meaning": "橙子",
+    "example": "오늘 \"오렌지\"를 배워요.",
+    "exampleMeaning": "今天学习“橙子”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko-beginner-094",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "케이크",
+    "pronunciation": "keikeu",
+    "meaning": "蛋糕",
+    "example": "오늘 \"케이크\"를 배워요.",
+    "exampleMeaning": "今天学习“蛋糕”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko-beginner-095",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "국",
+    "pronunciation": "guk",
+    "meaning": "汤",
+    "example": "오늘 \"국\"를 배워요.",
+    "exampleMeaning": "今天学习“汤”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko-beginner-096",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "아침밥",
+    "pronunciation": "achimbap",
+    "meaning": "早饭",
+    "example": "오늘 \"아침밥\"를 배워요.",
+    "exampleMeaning": "今天学习“早饭”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko-beginner-097",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "점심",
+    "pronunciation": "jeomsim",
+    "meaning": "午饭",
+    "example": "오늘 \"점심\"를 배워요.",
+    "exampleMeaning": "今天学习“午饭”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko-beginner-098",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "저녁밥",
+    "pronunciation": "jeonyeokbap",
+    "meaning": "晚饭",
+    "example": "오늘 \"저녁밥\"를 배워요.",
+    "exampleMeaning": "今天学习“晚饭”。",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "ko-beginner-099",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오늘",
+    "pronunciation": "oneul",
+    "meaning": "今天",
+    "example": "오늘 \"오늘\"를 배워요.",
+    "exampleMeaning": "今天学习“今天”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-100",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "내일",
+    "pronunciation": "naeil",
+    "meaning": "明天",
+    "example": "오늘 \"내일\"를 배워요.",
+    "exampleMeaning": "今天学习“明天”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-101",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "어제",
+    "pronunciation": "eoje",
+    "meaning": "昨天",
+    "example": "오늘 \"어제\"를 배워요.",
+    "exampleMeaning": "今天学习“昨天”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-102",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "아침",
+    "pronunciation": "achim",
+    "meaning": "早晨",
+    "example": "오늘 \"아침\"를 배워요.",
+    "exampleMeaning": "今天学习“早晨”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-103",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오후",
+    "pronunciation": "ohu",
+    "meaning": "下午",
+    "example": "오늘 \"오후\"를 배워요.",
+    "exampleMeaning": "今天学习“下午”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-104",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "저녁",
+    "pronunciation": "jeonyeok",
+    "meaning": "傍晚",
+    "example": "오늘 \"저녁\"를 배워요.",
+    "exampleMeaning": "今天学习“傍晚”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-105",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "밤",
+    "pronunciation": "bam",
+    "meaning": "夜晚",
+    "example": "오늘 \"밤\"를 배워요.",
+    "exampleMeaning": "今天学习“夜晚”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-106",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "주",
+    "pronunciation": "ju",
+    "meaning": "星期",
+    "example": "오늘 \"주\"를 배워요.",
+    "exampleMeaning": "今天学习“星期”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-107",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "달",
+    "pronunciation": "dal",
+    "meaning": "月份",
+    "example": "오늘 \"달\"를 배워요.",
+    "exampleMeaning": "今天学习“月份”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-108",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "년",
+    "pronunciation": "nyeon",
+    "meaning": "年",
+    "example": "오늘 \"년\"를 배워요.",
+    "exampleMeaning": "今天学习“年”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-109",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "시간",
+    "pronunciation": "sigan",
+    "meaning": "时间",
+    "example": "오늘 \"시간\"를 배워요.",
+    "exampleMeaning": "今天学习“时间”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-110",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "분",
+    "pronunciation": "bun",
+    "meaning": "分钟",
+    "example": "오늘 \"분\"를 배워요.",
+    "exampleMeaning": "今天学习“分钟”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-111",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "가다",
+    "pronunciation": "gada",
+    "meaning": "去",
+    "example": "오늘 \"가다\"를 배워요.",
+    "exampleMeaning": "今天学习“去”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-112",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오다",
+    "pronunciation": "oda",
+    "meaning": "来",
+    "example": "오늘 \"오다\"를 배워요.",
+    "exampleMeaning": "今天学习“来”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-113",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "먹다",
+    "pronunciation": "meokda",
+    "meaning": "吃",
+    "example": "오늘 \"먹다\"를 배워요.",
+    "exampleMeaning": "今天学习“吃”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-114",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "마시다",
+    "pronunciation": "masida",
+    "meaning": "喝",
+    "example": "오늘 \"마시다\"를 배워요.",
+    "exampleMeaning": "今天学习“喝”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-115",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "읽다",
+    "pronunciation": "ikda",
+    "meaning": "读",
+    "example": "오늘 \"읽다\"를 배워요.",
+    "exampleMeaning": "今天学习“读”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-116",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "쓰다",
+    "pronunciation": "sseuda",
+    "meaning": "写",
+    "example": "오늘 \"쓰다\"를 배워요.",
+    "exampleMeaning": "今天学习“写”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-117",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "듣다",
+    "pronunciation": "deutda",
+    "meaning": "听",
+    "example": "오늘 \"듣다\"를 배워요.",
+    "exampleMeaning": "今天学习“听”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-118",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "말하다",
+    "pronunciation": "malhada",
+    "meaning": "说",
+    "example": "오늘 \"말하다\"를 배워요.",
+    "exampleMeaning": "今天学习“说”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-119",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "보다",
+    "pronunciation": "boda",
+    "meaning": "看见",
+    "example": "오늘 \"보다\"를 배워요.",
+    "exampleMeaning": "今天学习“看见”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-120",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "만나다",
+    "pronunciation": "mannada",
+    "meaning": "见面",
+    "example": "오늘 \"만나다\"를 배워요.",
+    "exampleMeaning": "今天学习“见面”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-121",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "사다",
+    "pronunciation": "sada",
+    "meaning": "买",
+    "example": "오늘 \"사다\"를 배워요.",
+    "exampleMeaning": "今天学习“买”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-122",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "팔다",
+    "pronunciation": "palda",
+    "meaning": "卖",
+    "example": "오늘 \"팔다\"를 배워요.",
+    "exampleMeaning": "今天学习“卖”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-123",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "사용하다",
+    "pronunciation": "sayonghada",
+    "meaning": "使用",
+    "example": "오늘 \"사용하다\"를 배워요.",
+    "exampleMeaning": "今天学习“使用”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-124",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "만들다",
+    "pronunciation": "mandeulda",
+    "meaning": "制作",
+    "example": "오늘 \"만들다\"를 배워요.",
+    "exampleMeaning": "今天学习“制作”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-125",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "하다",
+    "pronunciation": "hada",
+    "meaning": "做",
+    "example": "오늘 \"하다\"를 배워요.",
+    "exampleMeaning": "今天学习“做”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-126",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "있다",
+    "pronunciation": "itda",
+    "meaning": "有",
+    "example": "오늘 \"있다\"를 배워요.",
+    "exampleMeaning": "今天学习“有”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-127",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "원하다",
+    "pronunciation": "wonhada",
+    "meaning": "想要",
+    "example": "오늘 \"원하다\"를 배워요.",
+    "exampleMeaning": "今天学习“想要”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-128",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "좋아하다",
+    "pronunciation": "joahada",
+    "meaning": "喜欢",
+    "example": "오늘 \"좋아하다\"를 배워요.",
+    "exampleMeaning": "今天学习“喜欢”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-129",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "알다",
+    "pronunciation": "alda",
+    "meaning": "知道",
+    "example": "오늘 \"알다\"를 배워요.",
+    "exampleMeaning": "今天学习“知道”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-130",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "생각하다",
+    "pronunciation": "saenggakhada",
+    "meaning": "想",
+    "example": "오늘 \"생각하다\"를 배워요.",
+    "exampleMeaning": "今天学习“想”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-131",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "기다리다",
+    "pronunciation": "gidarida",
+    "meaning": "等待",
+    "example": "오늘 \"기다리다\"를 배워요.",
+    "exampleMeaning": "今天学习“等待”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-132",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "쉬다",
+    "pronunciation": "swida",
+    "meaning": "休息",
+    "example": "오늘 \"쉬다\"를 배워요.",
+    "exampleMeaning": "今天学习“休息”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-133",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "자다",
+    "pronunciation": "jada",
+    "meaning": "睡觉",
+    "example": "오늘 \"자다\"를 배워요.",
+    "exampleMeaning": "今天学习“睡觉”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-134",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "걷다",
+    "pronunciation": "geotda",
+    "meaning": "走路",
+    "example": "오늘 \"걷다\"를 배워요.",
+    "exampleMeaning": "今天学习“走路”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-135",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "달리다",
+    "pronunciation": "dallida",
+    "meaning": "跑",
+    "example": "오늘 \"달리다\"를 배워요.",
+    "exampleMeaning": "今天学习“跑”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-136",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "앉다",
+    "pronunciation": "antda",
+    "meaning": "坐",
+    "example": "오늘 \"앉다\"를 배워요.",
+    "exampleMeaning": "今天学习“坐”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-137",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "서다",
+    "pronunciation": "seoda",
+    "meaning": "站",
+    "example": "오늘 \"서다\"를 배워요.",
+    "exampleMeaning": "今天学习“站”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-138",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "열다",
+    "pronunciation": "yeolda",
+    "meaning": "打开",
+    "example": "오늘 \"열다\"를 배워요.",
+    "exampleMeaning": "今天学习“打开”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-139",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "닫다",
+    "pronunciation": "datda",
+    "meaning": "关闭",
+    "example": "오늘 \"닫다\"를 배워요.",
+    "exampleMeaning": "今天学习“关闭”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-140",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "공부하다",
+    "pronunciation": "gongbuhada",
+    "meaning": "学习",
+    "example": "오늘 \"공부하다\"를 배워요.",
+    "exampleMeaning": "今天学习“学习”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-141",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "일하다",
+    "pronunciation": "ilhada",
+    "meaning": "工作",
+    "example": "오늘 \"일하다\"를 배워요.",
+    "exampleMeaning": "今天学习“工作”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-142",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "놀다",
+    "pronunciation": "nolda",
+    "meaning": "玩",
+    "example": "오늘 \"놀다\"를 배워요.",
+    "exampleMeaning": "今天学习“玩”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-143",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "씻다",
+    "pronunciation": "ssitda",
+    "meaning": "洗",
+    "example": "오늘 \"씻다\"를 배워요.",
+    "exampleMeaning": "今天学习“洗”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-144",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "청소하다",
+    "pronunciation": "cheongsohada",
+    "meaning": "打扫",
+    "example": "오늘 \"청소하다\"를 배워요.",
+    "exampleMeaning": "今天学习“打扫”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-145",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "요리하다",
+    "pronunciation": "yorihada",
+    "meaning": "做饭",
+    "example": "오늘 \"요리하다\"를 배워요.",
+    "exampleMeaning": "今天学习“做饭”。",
+    "tags": [
+      "verb"
+    ]
+  },
+  {
+    "id": "ko-beginner-146",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "크다",
+    "pronunciation": "keuda",
+    "meaning": "大的",
+    "example": "오늘 \"크다\"를 배워요.",
+    "exampleMeaning": "今天学习“大的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ko-beginner-147",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "작다",
+    "pronunciation": "jakda",
+    "meaning": "小的",
+    "example": "오늘 \"작다\"를 배워요.",
+    "exampleMeaning": "今天学习“小的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ko-beginner-148",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "좋다",
+    "pronunciation": "jota",
+    "meaning": "好的",
+    "example": "오늘 \"좋다\"를 배워요.",
+    "exampleMeaning": "今天学习“好的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ko-beginner-149",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "나쁘다",
+    "pronunciation": "nappeuda",
+    "meaning": "坏的",
+    "example": "오늘 \"나쁘다\"를 배워요.",
+    "exampleMeaning": "今天学习“坏的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ko-beginner-150",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새롭다",
+    "pronunciation": "saeropda",
+    "meaning": "新的",
+    "example": "오늘 \"새롭다\"를 배워요.",
+    "exampleMeaning": "今天学习“新的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ko-beginner-151",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래되다",
+    "pronunciation": "oraedoeda",
+    "meaning": "旧的",
+    "example": "오늘 \"오래되다\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ko-beginner-152",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "덥다",
+    "pronunciation": "deopda",
+    "meaning": "热的",
+    "example": "오늘 \"덥다\"를 배워요.",
+    "exampleMeaning": "今天学习“热的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ko-beginner-153",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "춥다",
+    "pronunciation": "chupda",
+    "meaning": "冷的",
+    "example": "오늘 \"춥다\"를 배워요.",
+    "exampleMeaning": "今天学习“冷的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ko-beginner-154",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "기쁘다",
+    "pronunciation": "gippeuda",
+    "meaning": "高兴的",
+    "example": "오늘 \"기쁘다\"를 배워요.",
+    "exampleMeaning": "今天学习“高兴的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ko-beginner-155",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "슬프다",
+    "pronunciation": "seulpeuda",
+    "meaning": "难过的",
+    "example": "오늘 \"슬프다\"를 배워요.",
+    "exampleMeaning": "今天学习“难过的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ko-beginner-156",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "쉽다",
+    "pronunciation": "swipda",
+    "meaning": "简单的",
+    "example": "오늘 \"쉽다\"를 배워요.",
+    "exampleMeaning": "今天学习“简单的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ko-beginner-157",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "어렵다",
+    "pronunciation": "eoryeopda",
+    "meaning": "困难的",
+    "example": "오늘 \"어렵다\"를 배워요.",
+    "exampleMeaning": "今天学习“困难的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ko-beginner-158",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "빠르다",
+    "pronunciation": "ppareuda",
+    "meaning": "快的",
+    "example": "오늘 \"빠르다\"를 배워요.",
+    "exampleMeaning": "今天学习“快的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ko-beginner-159",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "느리다",
+    "pronunciation": "neurida",
+    "meaning": "慢的",
+    "example": "오늘 \"느리다\"를 배워요.",
+    "exampleMeaning": "今天学习“慢的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ko-beginner-160",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "길다",
+    "pronunciation": "gilda",
+    "meaning": "长的",
+    "example": "오늘 \"길다\"를 배워요.",
+    "exampleMeaning": "今天学习“长的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ko-beginner-161",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "짧다",
+    "pronunciation": "jjalda",
+    "meaning": "短的",
+    "example": "오늘 \"짧다\"를 배워요.",
+    "exampleMeaning": "今天学习“短的”。",
+    "tags": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "ko-beginner-162",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "빨강",
+    "pronunciation": "ppalgang",
+    "meaning": "红色",
+    "example": "오늘 \"빨강\"를 배워요.",
+    "exampleMeaning": "今天学习“红色”。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "ko-beginner-163",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "파랑",
+    "pronunciation": "parang",
+    "meaning": "蓝色",
+    "example": "오늘 \"파랑\"를 배워요.",
+    "exampleMeaning": "今天学习“蓝色”。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "ko-beginner-164",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "초록",
+    "pronunciation": "chorok",
+    "meaning": "绿色",
+    "example": "오늘 \"초록\"를 배워요.",
+    "exampleMeaning": "今天学习“绿色”。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "ko-beginner-165",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "노랑",
+    "pronunciation": "norang",
+    "meaning": "黄色",
+    "example": "오늘 \"노랑\"를 배워요.",
+    "exampleMeaning": "今天学习“黄色”。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "ko-beginner-166",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "검정",
+    "pronunciation": "geomjeong",
+    "meaning": "黑色",
+    "example": "오늘 \"검정\"를 배워요.",
+    "exampleMeaning": "今天学习“黑色”。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "ko-beginner-167",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "하양",
+    "pronunciation": "hayang",
+    "meaning": "白色",
+    "example": "오늘 \"하양\"를 배워요.",
+    "exampleMeaning": "今天学习“白色”。",
+    "tags": [
+      "color"
+    ]
+  },
+  {
+    "id": "ko-beginner-168",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "머리",
+    "pronunciation": "meori",
+    "meaning": "头",
+    "example": "오늘 \"머리\"를 배워요.",
+    "exampleMeaning": "今天学习“头”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "ko-beginner-169",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "얼굴",
+    "pronunciation": "eolgul",
+    "meaning": "脸",
+    "example": "오늘 \"얼굴\"를 배워요.",
+    "exampleMeaning": "今天学习“脸”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "ko-beginner-170",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "눈",
+    "pronunciation": "nun",
+    "meaning": "眼睛",
+    "example": "오늘 \"눈\"를 배워요.",
+    "exampleMeaning": "今天学习“眼睛”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "ko-beginner-171",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "귀",
+    "pronunciation": "gwi",
+    "meaning": "耳朵",
+    "example": "오늘 \"귀\"를 배워요.",
+    "exampleMeaning": "今天学习“耳朵”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "ko-beginner-172",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "코",
+    "pronunciation": "ko",
+    "meaning": "鼻子",
+    "example": "오늘 \"코\"를 배워요.",
+    "exampleMeaning": "今天学习“鼻子”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "ko-beginner-173",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "입",
+    "pronunciation": "ip",
+    "meaning": "嘴",
+    "example": "오늘 \"입\"를 배워요.",
+    "exampleMeaning": "今天学习“嘴”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "ko-beginner-174",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "손",
+    "pronunciation": "son",
+    "meaning": "手",
+    "example": "오늘 \"손\"를 배워요.",
+    "exampleMeaning": "今天学习“手”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "ko-beginner-175",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "발",
+    "pronunciation": "bal",
+    "meaning": "脚",
+    "example": "오늘 \"발\"를 배워요.",
+    "exampleMeaning": "今天学习“脚”。",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "id": "ko-beginner-176",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "날씨",
+    "pronunciation": "nalssi",
+    "meaning": "天气",
+    "example": "오늘 \"날씨\"를 배워요.",
+    "exampleMeaning": "今天学习“天气”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "ko-beginner-177",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "비",
+    "pronunciation": "bi",
+    "meaning": "雨",
+    "example": "오늘 \"비\"를 배워요.",
+    "exampleMeaning": "今天学习“雨”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "ko-beginner-178",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "눈송이",
+    "pronunciation": "nunsongi",
+    "meaning": "雪",
+    "example": "오늘 \"눈송이\"를 배워요.",
+    "exampleMeaning": "今天学习“雪”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "ko-beginner-179",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "바람",
+    "pronunciation": "baram",
+    "meaning": "风",
+    "example": "오늘 \"바람\"를 배워요.",
+    "exampleMeaning": "今天学习“风”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "ko-beginner-180",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "하늘",
+    "pronunciation": "haneul",
+    "meaning": "天空",
+    "example": "오늘 \"하늘\"를 배워요.",
+    "exampleMeaning": "今天学习“天空”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "ko-beginner-181",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "산",
+    "pronunciation": "san",
+    "meaning": "山",
+    "example": "오늘 \"산\"를 배워요.",
+    "exampleMeaning": "今天学习“山”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "ko-beginner-182",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "강",
+    "pronunciation": "gang",
+    "meaning": "河",
+    "example": "오늘 \"강\"를 배워요.",
+    "exampleMeaning": "今天学习“河”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "ko-beginner-183",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "바다",
+    "pronunciation": "bada",
+    "meaning": "海",
+    "example": "오늘 \"바다\"를 배워요.",
+    "exampleMeaning": "今天学习“海”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "ko-beginner-184",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "나무",
+    "pronunciation": "namu",
+    "meaning": "树",
+    "example": "오늘 \"나무\"를 배워요.",
+    "exampleMeaning": "今天学习“树”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "ko-beginner-185",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "꽃",
+    "pronunciation": "kkot",
+    "meaning": "花",
+    "example": "오늘 \"꽃\"를 배워요.",
+    "exampleMeaning": "今天学习“花”。",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "ko-beginner-186",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "개",
+    "pronunciation": "gae",
+    "meaning": "狗",
+    "example": "오늘 \"개\"를 배워요.",
+    "exampleMeaning": "今天学习“狗”。",
+    "tags": [
+      "animal"
+    ]
+  },
+  {
+    "id": "ko-beginner-187",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "고양이",
+    "pronunciation": "goyangi",
+    "meaning": "猫",
+    "example": "오늘 \"고양이\"를 배워요.",
+    "exampleMeaning": "今天学习“猫”。",
+    "tags": [
+      "animal"
+    ]
+  },
+  {
+    "id": "ko-beginner-188",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새",
+    "pronunciation": "sae",
+    "meaning": "鸟",
+    "example": "오늘 \"새\"를 배워요.",
+    "exampleMeaning": "今天学习“鸟”。",
+    "tags": [
+      "animal"
+    ]
+  },
+  {
+    "id": "ko-beginner-189",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "자동차",
+    "pronunciation": "jadongcha",
+    "meaning": "汽车",
+    "example": "오늘 \"자동차\"를 배워요.",
+    "exampleMeaning": "今天学习“汽车”。",
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ko-beginner-190",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "버스",
+    "pronunciation": "beoseu",
+    "meaning": "公交车",
+    "example": "오늘 \"버스\"를 배워요.",
+    "exampleMeaning": "今天学习“公交车”。",
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ko-beginner-191",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "기차",
+    "pronunciation": "gicha",
+    "meaning": "火车",
+    "example": "오늘 \"기차\"를 배워요.",
+    "exampleMeaning": "今天学习“火车”。",
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ko-beginner-192",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "자전거",
+    "pronunciation": "jajeongeo",
+    "meaning": "自行车",
+    "example": "오늘 \"자전거\"를 배워요.",
+    "exampleMeaning": "今天学习“自行车”。",
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ko-beginner-193",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "비행기",
+    "pronunciation": "bihaenggi",
+    "meaning": "飞机",
+    "example": "오늘 \"비행기\"를 배워요.",
+    "exampleMeaning": "今天学习“飞机”。",
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "id": "ko-beginner-194",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "영",
+    "pronunciation": "yeong",
+    "meaning": "零",
+    "example": "오늘 \"영\"를 배워요.",
+    "exampleMeaning": "今天学习“零”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-195",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "일",
+    "pronunciation": "il",
+    "meaning": "一",
+    "example": "오늘 \"일\"를 배워요.",
+    "exampleMeaning": "今天学习“一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-196",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "이",
+    "pronunciation": "i",
+    "meaning": "二",
+    "example": "오늘 \"이\"를 배워요.",
+    "exampleMeaning": "今天学习“二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-197",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "삼",
+    "pronunciation": "sam",
+    "meaning": "三",
+    "example": "오늘 \"삼\"를 배워요.",
+    "exampleMeaning": "今天学习“三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-198",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "사",
+    "pronunciation": "sa",
+    "meaning": "四",
+    "example": "오늘 \"사\"를 배워요.",
+    "exampleMeaning": "今天学习“四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-199",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오",
+    "pronunciation": "o",
+    "meaning": "五",
+    "example": "오늘 \"오\"를 배워요.",
+    "exampleMeaning": "今天学习“五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-200",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "육",
+    "pronunciation": "yuk",
+    "meaning": "六",
+    "example": "오늘 \"육\"를 배워요.",
+    "exampleMeaning": "今天学习“六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-201",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "칠",
+    "pronunciation": "chil",
+    "meaning": "七",
+    "example": "오늘 \"칠\"를 배워요.",
+    "exampleMeaning": "今天学习“七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-202",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "팔",
+    "pronunciation": "pal",
+    "meaning": "八",
+    "example": "오늘 \"팔\"를 배워요.",
+    "exampleMeaning": "今天学习“八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-203",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "구",
+    "pronunciation": "gu",
+    "meaning": "九",
+    "example": "오늘 \"구\"를 배워요.",
+    "exampleMeaning": "今天学习“九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-204",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "십",
+    "pronunciation": "sip",
+    "meaning": "十",
+    "example": "오늘 \"십\"를 배워요.",
+    "exampleMeaning": "今天学习“十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-205",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "십일",
+    "pronunciation": "sip il",
+    "meaning": "十一",
+    "example": "오늘 \"십일\"를 배워요.",
+    "exampleMeaning": "今天学习“十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-206",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "십이",
+    "pronunciation": "sip i",
+    "meaning": "十二",
+    "example": "오늘 \"십이\"를 배워요.",
+    "exampleMeaning": "今天学习“十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-207",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "십삼",
+    "pronunciation": "sip sam",
+    "meaning": "十三",
+    "example": "오늘 \"십삼\"를 배워요.",
+    "exampleMeaning": "今天学习“十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-208",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "십사",
+    "pronunciation": "sip sa",
+    "meaning": "十四",
+    "example": "오늘 \"십사\"를 배워요.",
+    "exampleMeaning": "今天学习“十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-209",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "십오",
+    "pronunciation": "sip o",
+    "meaning": "十五",
+    "example": "오늘 \"십오\"를 배워요.",
+    "exampleMeaning": "今天学习“十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-210",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "십육",
+    "pronunciation": "sip yuk",
+    "meaning": "十六",
+    "example": "오늘 \"십육\"를 배워요.",
+    "exampleMeaning": "今天学习“十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-211",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "십칠",
+    "pronunciation": "sip chil",
+    "meaning": "十七",
+    "example": "오늘 \"십칠\"를 배워요.",
+    "exampleMeaning": "今天学习“十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-212",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "십팔",
+    "pronunciation": "sip pal",
+    "meaning": "十八",
+    "example": "오늘 \"십팔\"를 배워요.",
+    "exampleMeaning": "今天学习“十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-213",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "십구",
+    "pronunciation": "sip gu",
+    "meaning": "十九",
+    "example": "오늘 \"십구\"를 배워요.",
+    "exampleMeaning": "今天学习“十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-214",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "이십",
+    "pronunciation": "isip",
+    "meaning": "二十",
+    "example": "오늘 \"이십\"를 배워요.",
+    "exampleMeaning": "今天学习“二十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-215",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "이십일",
+    "pronunciation": "isip il",
+    "meaning": "二十一",
+    "example": "오늘 \"이십일\"를 배워요.",
+    "exampleMeaning": "今天学习“二十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-216",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "이십이",
+    "pronunciation": "isip i",
+    "meaning": "二十二",
+    "example": "오늘 \"이십이\"를 배워요.",
+    "exampleMeaning": "今天学习“二十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-217",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "이십삼",
+    "pronunciation": "isip sam",
+    "meaning": "二十三",
+    "example": "오늘 \"이십삼\"를 배워요.",
+    "exampleMeaning": "今天学习“二十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-218",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "이십사",
+    "pronunciation": "isip sa",
+    "meaning": "二十四",
+    "example": "오늘 \"이십사\"를 배워요.",
+    "exampleMeaning": "今天学习“二十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-219",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "이십오",
+    "pronunciation": "isip o",
+    "meaning": "二十五",
+    "example": "오늘 \"이십오\"를 배워요.",
+    "exampleMeaning": "今天学习“二十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-220",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "이십육",
+    "pronunciation": "isip yuk",
+    "meaning": "二十六",
+    "example": "오늘 \"이십육\"를 배워요.",
+    "exampleMeaning": "今天学习“二十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-221",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "이십칠",
+    "pronunciation": "isip chil",
+    "meaning": "二十七",
+    "example": "오늘 \"이십칠\"를 배워요.",
+    "exampleMeaning": "今天学习“二十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-222",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "이십팔",
+    "pronunciation": "isip pal",
+    "meaning": "二十八",
+    "example": "오늘 \"이십팔\"를 배워요.",
+    "exampleMeaning": "今天学习“二十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-223",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "이십구",
+    "pronunciation": "isip gu",
+    "meaning": "二十九",
+    "example": "오늘 \"이십구\"를 배워요.",
+    "exampleMeaning": "今天学习“二十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-224",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "삼십",
+    "pronunciation": "samsip",
+    "meaning": "三十",
+    "example": "오늘 \"삼십\"를 배워요.",
+    "exampleMeaning": "今天学习“三十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-225",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "삼십일",
+    "pronunciation": "samsip il",
+    "meaning": "三十一",
+    "example": "오늘 \"삼십일\"를 배워요.",
+    "exampleMeaning": "今天学习“三十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-226",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "삼십이",
+    "pronunciation": "samsip i",
+    "meaning": "三十二",
+    "example": "오늘 \"삼십이\"를 배워요.",
+    "exampleMeaning": "今天学习“三十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-227",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "삼십삼",
+    "pronunciation": "samsip sam",
+    "meaning": "三十三",
+    "example": "오늘 \"삼십삼\"를 배워요.",
+    "exampleMeaning": "今天学习“三十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-228",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "삼십사",
+    "pronunciation": "samsip sa",
+    "meaning": "三十四",
+    "example": "오늘 \"삼십사\"를 배워요.",
+    "exampleMeaning": "今天学习“三十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-229",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "삼십오",
+    "pronunciation": "samsip o",
+    "meaning": "三十五",
+    "example": "오늘 \"삼십오\"를 배워요.",
+    "exampleMeaning": "今天学习“三十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-230",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "삼십육",
+    "pronunciation": "samsip yuk",
+    "meaning": "三十六",
+    "example": "오늘 \"삼십육\"를 배워요.",
+    "exampleMeaning": "今天学习“三十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-231",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "삼십칠",
+    "pronunciation": "samsip chil",
+    "meaning": "三十七",
+    "example": "오늘 \"삼십칠\"를 배워요.",
+    "exampleMeaning": "今天学习“三十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-232",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "삼십팔",
+    "pronunciation": "samsip pal",
+    "meaning": "三十八",
+    "example": "오늘 \"삼십팔\"를 배워요.",
+    "exampleMeaning": "今天学习“三十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-233",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "삼십구",
+    "pronunciation": "samsip gu",
+    "meaning": "三十九",
+    "example": "오늘 \"삼십구\"를 배워요.",
+    "exampleMeaning": "今天学习“三十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-234",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "사십",
+    "pronunciation": "sasip",
+    "meaning": "四十",
+    "example": "오늘 \"사십\"를 배워요.",
+    "exampleMeaning": "今天学习“四十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-235",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "사십일",
+    "pronunciation": "sasip il",
+    "meaning": "四十一",
+    "example": "오늘 \"사십일\"를 배워요.",
+    "exampleMeaning": "今天学习“四十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-236",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "사십이",
+    "pronunciation": "sasip i",
+    "meaning": "四十二",
+    "example": "오늘 \"사십이\"를 배워요.",
+    "exampleMeaning": "今天学习“四十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-237",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "사십삼",
+    "pronunciation": "sasip sam",
+    "meaning": "四十三",
+    "example": "오늘 \"사십삼\"를 배워요.",
+    "exampleMeaning": "今天学习“四十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-238",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "사십사",
+    "pronunciation": "sasip sa",
+    "meaning": "四十四",
+    "example": "오늘 \"사십사\"를 배워요.",
+    "exampleMeaning": "今天学习“四十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-239",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "사십오",
+    "pronunciation": "sasip o",
+    "meaning": "四十五",
+    "example": "오늘 \"사십오\"를 배워요.",
+    "exampleMeaning": "今天学习“四十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-240",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "사십육",
+    "pronunciation": "sasip yuk",
+    "meaning": "四十六",
+    "example": "오늘 \"사십육\"를 배워요.",
+    "exampleMeaning": "今天学习“四十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-241",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "사십칠",
+    "pronunciation": "sasip chil",
+    "meaning": "四十七",
+    "example": "오늘 \"사십칠\"를 배워요.",
+    "exampleMeaning": "今天学习“四十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-242",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "사십팔",
+    "pronunciation": "sasip pal",
+    "meaning": "四十八",
+    "example": "오늘 \"사십팔\"를 배워요.",
+    "exampleMeaning": "今天学习“四十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-243",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "사십구",
+    "pronunciation": "sasip gu",
+    "meaning": "四十九",
+    "example": "오늘 \"사십구\"를 배워요.",
+    "exampleMeaning": "今天学习“四十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-244",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오십",
+    "pronunciation": "osip",
+    "meaning": "五十",
+    "example": "오늘 \"오십\"를 배워요.",
+    "exampleMeaning": "今天学习“五十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-245",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오십일",
+    "pronunciation": "osip il",
+    "meaning": "五十一",
+    "example": "오늘 \"오십일\"를 배워요.",
+    "exampleMeaning": "今天学习“五十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-246",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오십이",
+    "pronunciation": "osip i",
+    "meaning": "五十二",
+    "example": "오늘 \"오십이\"를 배워요.",
+    "exampleMeaning": "今天学习“五十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-247",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오십삼",
+    "pronunciation": "osip sam",
+    "meaning": "五十三",
+    "example": "오늘 \"오십삼\"를 배워요.",
+    "exampleMeaning": "今天学习“五十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-248",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오십사",
+    "pronunciation": "osip sa",
+    "meaning": "五十四",
+    "example": "오늘 \"오십사\"를 배워요.",
+    "exampleMeaning": "今天学习“五十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-249",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오십오",
+    "pronunciation": "osip o",
+    "meaning": "五十五",
+    "example": "오늘 \"오십오\"를 배워요.",
+    "exampleMeaning": "今天学习“五十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-250",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오십육",
+    "pronunciation": "osip yuk",
+    "meaning": "五十六",
+    "example": "오늘 \"오십육\"를 배워요.",
+    "exampleMeaning": "今天学习“五十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-251",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오십칠",
+    "pronunciation": "osip chil",
+    "meaning": "五十七",
+    "example": "오늘 \"오십칠\"를 배워요.",
+    "exampleMeaning": "今天学习“五十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-252",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오십팔",
+    "pronunciation": "osip pal",
+    "meaning": "五十八",
+    "example": "오늘 \"오십팔\"를 배워요.",
+    "exampleMeaning": "今天学习“五十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-253",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오십구",
+    "pronunciation": "osip gu",
+    "meaning": "五十九",
+    "example": "오늘 \"오십구\"를 배워요.",
+    "exampleMeaning": "今天学习“五十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-254",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "육십",
+    "pronunciation": "yuksip",
+    "meaning": "六十",
+    "example": "오늘 \"육십\"를 배워요.",
+    "exampleMeaning": "今天学习“六十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-255",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "육십일",
+    "pronunciation": "yuksip il",
+    "meaning": "六十一",
+    "example": "오늘 \"육십일\"를 배워요.",
+    "exampleMeaning": "今天学习“六十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-256",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "육십이",
+    "pronunciation": "yuksip i",
+    "meaning": "六十二",
+    "example": "오늘 \"육십이\"를 배워요.",
+    "exampleMeaning": "今天学习“六十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-257",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "육십삼",
+    "pronunciation": "yuksip sam",
+    "meaning": "六十三",
+    "example": "오늘 \"육십삼\"를 배워요.",
+    "exampleMeaning": "今天学习“六十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-258",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "육십사",
+    "pronunciation": "yuksip sa",
+    "meaning": "六十四",
+    "example": "오늘 \"육십사\"를 배워요.",
+    "exampleMeaning": "今天学习“六十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-259",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "육십오",
+    "pronunciation": "yuksip o",
+    "meaning": "六十五",
+    "example": "오늘 \"육십오\"를 배워요.",
+    "exampleMeaning": "今天学习“六十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-260",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "육십육",
+    "pronunciation": "yuksip yuk",
+    "meaning": "六十六",
+    "example": "오늘 \"육십육\"를 배워요.",
+    "exampleMeaning": "今天学习“六十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-261",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "육십칠",
+    "pronunciation": "yuksip chil",
+    "meaning": "六十七",
+    "example": "오늘 \"육십칠\"를 배워요.",
+    "exampleMeaning": "今天学习“六十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-262",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "육십팔",
+    "pronunciation": "yuksip pal",
+    "meaning": "六十八",
+    "example": "오늘 \"육십팔\"를 배워요.",
+    "exampleMeaning": "今天学习“六十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-263",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "육십구",
+    "pronunciation": "yuksip gu",
+    "meaning": "六十九",
+    "example": "오늘 \"육십구\"를 배워요.",
+    "exampleMeaning": "今天学习“六十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-264",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "칠십",
+    "pronunciation": "chilsip",
+    "meaning": "七十",
+    "example": "오늘 \"칠십\"를 배워요.",
+    "exampleMeaning": "今天学习“七十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-265",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "칠십일",
+    "pronunciation": "chilsip il",
+    "meaning": "七十一",
+    "example": "오늘 \"칠십일\"를 배워요.",
+    "exampleMeaning": "今天学习“七十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-266",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "칠십이",
+    "pronunciation": "chilsip i",
+    "meaning": "七十二",
+    "example": "오늘 \"칠십이\"를 배워요.",
+    "exampleMeaning": "今天学习“七十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-267",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "칠십삼",
+    "pronunciation": "chilsip sam",
+    "meaning": "七十三",
+    "example": "오늘 \"칠십삼\"를 배워요.",
+    "exampleMeaning": "今天学习“七十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-268",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "칠십사",
+    "pronunciation": "chilsip sa",
+    "meaning": "七十四",
+    "example": "오늘 \"칠십사\"를 배워요.",
+    "exampleMeaning": "今天学习“七十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-269",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "칠십오",
+    "pronunciation": "chilsip o",
+    "meaning": "七十五",
+    "example": "오늘 \"칠십오\"를 배워요.",
+    "exampleMeaning": "今天学习“七十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-270",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "칠십육",
+    "pronunciation": "chilsip yuk",
+    "meaning": "七十六",
+    "example": "오늘 \"칠십육\"를 배워요.",
+    "exampleMeaning": "今天学习“七十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-271",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "칠십칠",
+    "pronunciation": "chilsip chil",
+    "meaning": "七十七",
+    "example": "오늘 \"칠십칠\"를 배워요.",
+    "exampleMeaning": "今天学习“七十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-272",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "칠십팔",
+    "pronunciation": "chilsip pal",
+    "meaning": "七十八",
+    "example": "오늘 \"칠십팔\"를 배워요.",
+    "exampleMeaning": "今天学习“七十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-273",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "칠십구",
+    "pronunciation": "chilsip gu",
+    "meaning": "七十九",
+    "example": "오늘 \"칠십구\"를 배워요.",
+    "exampleMeaning": "今天学习“七十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-274",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "팔십",
+    "pronunciation": "palsip",
+    "meaning": "八十",
+    "example": "오늘 \"팔십\"를 배워요.",
+    "exampleMeaning": "今天学习“八十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-275",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "팔십일",
+    "pronunciation": "palsip il",
+    "meaning": "八十一",
+    "example": "오늘 \"팔십일\"를 배워요.",
+    "exampleMeaning": "今天学习“八十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-276",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "팔십이",
+    "pronunciation": "palsip i",
+    "meaning": "八十二",
+    "example": "오늘 \"팔십이\"를 배워요.",
+    "exampleMeaning": "今天学习“八十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-277",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "팔십삼",
+    "pronunciation": "palsip sam",
+    "meaning": "八十三",
+    "example": "오늘 \"팔십삼\"를 배워요.",
+    "exampleMeaning": "今天学习“八十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-278",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "팔십사",
+    "pronunciation": "palsip sa",
+    "meaning": "八十四",
+    "example": "오늘 \"팔십사\"를 배워요.",
+    "exampleMeaning": "今天学习“八十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-279",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "팔십오",
+    "pronunciation": "palsip o",
+    "meaning": "八十五",
+    "example": "오늘 \"팔십오\"를 배워요.",
+    "exampleMeaning": "今天学习“八十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-280",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "팔십육",
+    "pronunciation": "palsip yuk",
+    "meaning": "八十六",
+    "example": "오늘 \"팔십육\"를 배워요.",
+    "exampleMeaning": "今天学习“八十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-281",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "팔십칠",
+    "pronunciation": "palsip chil",
+    "meaning": "八十七",
+    "example": "오늘 \"팔십칠\"를 배워요.",
+    "exampleMeaning": "今天学习“八十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-282",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "팔십팔",
+    "pronunciation": "palsip pal",
+    "meaning": "八十八",
+    "example": "오늘 \"팔십팔\"를 배워요.",
+    "exampleMeaning": "今天学习“八十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-283",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "팔십구",
+    "pronunciation": "palsip gu",
+    "meaning": "八十九",
+    "example": "오늘 \"팔십구\"를 배워요.",
+    "exampleMeaning": "今天学习“八十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-284",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "구십",
+    "pronunciation": "gusip",
+    "meaning": "九十",
+    "example": "오늘 \"구십\"를 배워요.",
+    "exampleMeaning": "今天学习“九十”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-285",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "구십일",
+    "pronunciation": "gusip il",
+    "meaning": "九十一",
+    "example": "오늘 \"구십일\"를 배워요.",
+    "exampleMeaning": "今天学习“九十一”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-286",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "구십이",
+    "pronunciation": "gusip i",
+    "meaning": "九十二",
+    "example": "오늘 \"구십이\"를 배워요.",
+    "exampleMeaning": "今天学习“九十二”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-287",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "구십삼",
+    "pronunciation": "gusip sam",
+    "meaning": "九十三",
+    "example": "오늘 \"구십삼\"를 배워요.",
+    "exampleMeaning": "今天学习“九十三”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-288",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "구십사",
+    "pronunciation": "gusip sa",
+    "meaning": "九十四",
+    "example": "오늘 \"구십사\"를 배워요.",
+    "exampleMeaning": "今天学习“九十四”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-289",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "구십오",
+    "pronunciation": "gusip o",
+    "meaning": "九十五",
+    "example": "오늘 \"구십오\"를 배워요.",
+    "exampleMeaning": "今天学习“九十五”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-290",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "구십육",
+    "pronunciation": "gusip yuk",
+    "meaning": "九十六",
+    "example": "오늘 \"구십육\"를 배워요.",
+    "exampleMeaning": "今天学习“九十六”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-291",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "구십칠",
+    "pronunciation": "gusip chil",
+    "meaning": "九十七",
+    "example": "오늘 \"구십칠\"를 배워요.",
+    "exampleMeaning": "今天学习“九十七”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-292",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "구십팔",
+    "pronunciation": "gusip pal",
+    "meaning": "九十八",
+    "example": "오늘 \"구십팔\"를 배워요.",
+    "exampleMeaning": "今天学习“九十八”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-293",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "구십구",
+    "pronunciation": "gusip gu",
+    "meaning": "九十九",
+    "example": "오늘 \"구십구\"를 배워요.",
+    "exampleMeaning": "今天学习“九十九”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-294",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "백",
+    "pronunciation": "baek",
+    "meaning": "一百",
+    "example": "오늘 \"백\"를 배워요.",
+    "exampleMeaning": "今天学习“一百”。",
+    "tags": [
+      "number"
+    ]
+  },
+  {
+    "id": "ko-beginner-295",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "일월",
+    "pronunciation": "il wol",
+    "meaning": "一月",
+    "example": "오늘 \"일월\"를 배워요.",
+    "exampleMeaning": "今天学习“一月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-296",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "이월",
+    "pronunciation": "i wol",
+    "meaning": "二月",
+    "example": "오늘 \"이월\"를 배워요.",
+    "exampleMeaning": "今天学习“二月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-297",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "삼월",
+    "pronunciation": "sam wol",
+    "meaning": "三月",
+    "example": "오늘 \"삼월\"를 배워요.",
+    "exampleMeaning": "今天学习“三月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-298",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "사월",
+    "pronunciation": "sa wol",
+    "meaning": "四月",
+    "example": "오늘 \"사월\"를 배워요.",
+    "exampleMeaning": "今天学习“四月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-299",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오월",
+    "pronunciation": "o wol",
+    "meaning": "五月",
+    "example": "오늘 \"오월\"를 배워요.",
+    "exampleMeaning": "今天学习“五月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-300",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "육월",
+    "pronunciation": "yuk wol",
+    "meaning": "六月",
+    "example": "오늘 \"육월\"를 배워요.",
+    "exampleMeaning": "今天学习“六月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-301",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "칠월",
+    "pronunciation": "chil wol",
+    "meaning": "七月",
+    "example": "오늘 \"칠월\"를 배워요.",
+    "exampleMeaning": "今天学习“七月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-302",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "팔월",
+    "pronunciation": "pal wol",
+    "meaning": "八月",
+    "example": "오늘 \"팔월\"를 배워요.",
+    "exampleMeaning": "今天学习“八月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-303",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "구월",
+    "pronunciation": "gu wol",
+    "meaning": "九月",
+    "example": "오늘 \"구월\"를 배워요.",
+    "exampleMeaning": "今天学习“九月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-304",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "십월",
+    "pronunciation": "sip wol",
+    "meaning": "十月",
+    "example": "오늘 \"십월\"를 배워요.",
+    "exampleMeaning": "今天学习“十月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-305",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "십일월",
+    "pronunciation": "sip il wol",
+    "meaning": "十一月",
+    "example": "오늘 \"십일월\"를 배워요.",
+    "exampleMeaning": "今天学习“十一月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-306",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "십이월",
+    "pronunciation": "sip i wol",
+    "meaning": "十二月",
+    "example": "오늘 \"십이월\"를 배워요.",
+    "exampleMeaning": "今天学习“十二月”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-307",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "월요일",
+    "pronunciation": "woryoil",
+    "meaning": "星期一",
+    "example": "오늘 \"월요일\"를 배워요.",
+    "exampleMeaning": "今天学习“星期一”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-308",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "화요일",
+    "pronunciation": "hwayoil",
+    "meaning": "星期二",
+    "example": "오늘 \"화요일\"를 배워요.",
+    "exampleMeaning": "今天学习“星期二”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-309",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "수요일",
+    "pronunciation": "suyoil",
+    "meaning": "星期三",
+    "example": "오늘 \"수요일\"를 배워요.",
+    "exampleMeaning": "今天学习“星期三”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-310",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "목요일",
+    "pronunciation": "mogyoil",
+    "meaning": "星期四",
+    "example": "오늘 \"목요일\"를 배워요.",
+    "exampleMeaning": "今天学习“星期四”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-311",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "금요일",
+    "pronunciation": "geumyoil",
+    "meaning": "星期五",
+    "example": "오늘 \"금요일\"를 배워요.",
+    "exampleMeaning": "今天学习“星期五”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-312",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "토요일",
+    "pronunciation": "toyoil",
+    "meaning": "星期六",
+    "example": "오늘 \"토요일\"를 배워요.",
+    "exampleMeaning": "今天学习“星期六”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-313",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "일요일",
+    "pronunciation": "iryoil",
+    "meaning": "星期日",
+    "example": "오늘 \"일요일\"를 배워요.",
+    "exampleMeaning": "今天学习“星期日”。",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "ko-beginner-314",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 사람",
+    "pronunciation": "sae saram",
+    "meaning": "新的人",
+    "example": "오늘 \"새 사람\"를 배워요.",
+    "exampleMeaning": "今天学习“新的人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-315",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 남자",
+    "pronunciation": "sae namja",
+    "meaning": "新的男人",
+    "example": "오늘 \"새 남자\"를 배워요.",
+    "exampleMeaning": "今天学习“新的男人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-316",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 여자",
+    "pronunciation": "sae yeoja",
+    "meaning": "新的女人",
+    "example": "오늘 \"새 여자\"를 배워요.",
+    "exampleMeaning": "今天学习“新的女人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-317",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 아이",
+    "pronunciation": "sae ai",
+    "meaning": "新的孩子",
+    "example": "오늘 \"새 아이\"를 배워요.",
+    "exampleMeaning": "今天学习“新的孩子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-318",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 소년",
+    "pronunciation": "sae sonyeon",
+    "meaning": "新的男孩",
+    "example": "오늘 \"새 소년\"를 배워요.",
+    "exampleMeaning": "今天学习“新的男孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-319",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 소녀",
+    "pronunciation": "sae sonyeo",
+    "meaning": "新的女孩",
+    "example": "오늘 \"새 소녀\"를 배워요.",
+    "exampleMeaning": "今天学习“新的女孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-320",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 친구",
+    "pronunciation": "sae chingu",
+    "meaning": "新的朋友",
+    "example": "오늘 \"새 친구\"를 배워요.",
+    "exampleMeaning": "今天学习“新的朋友”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-321",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 선생님",
+    "pronunciation": "sae seonsaengnim",
+    "meaning": "新的老师",
+    "example": "오늘 \"새 선생님\"를 배워요.",
+    "exampleMeaning": "今天学习“新的老师”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-322",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 학생",
+    "pronunciation": "sae haksaeng",
+    "meaning": "新的学生",
+    "example": "오늘 \"새 학생\"를 배워요.",
+    "exampleMeaning": "今天学习“新的学生”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-323",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 의사",
+    "pronunciation": "sae uisa",
+    "meaning": "新的医生",
+    "example": "오늘 \"새 의사\"를 배워요.",
+    "exampleMeaning": "今天学习“新的医生”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-324",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 회사원",
+    "pronunciation": "sae hoesawon",
+    "meaning": "新的职员",
+    "example": "오늘 \"새 회사원\"를 배워요.",
+    "exampleMeaning": "今天学习“新的职员”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-325",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 이름",
+    "pronunciation": "sae ireum",
+    "meaning": "新的名字",
+    "example": "오늘 \"새 이름\"를 배워요.",
+    "exampleMeaning": "今天学习“新的名字”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-326",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 나이",
+    "pronunciation": "sae nai",
+    "meaning": "新的年龄",
+    "example": "오늘 \"새 나이\"를 배워요.",
+    "exampleMeaning": "今天学习“新的年龄”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-327",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 집",
+    "pronunciation": "sae jip",
+    "meaning": "新的家",
+    "example": "오늘 \"새 집\"를 배워요.",
+    "exampleMeaning": "今天学习“新的家”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-328",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 주택",
+    "pronunciation": "sae jutaek",
+    "meaning": "新的房子",
+    "example": "오늘 \"새 주택\"를 배워요.",
+    "exampleMeaning": "今天学习“新的房子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-329",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 방",
+    "pronunciation": "sae bang",
+    "meaning": "新的房间",
+    "example": "오늘 \"새 방\"를 배워요.",
+    "exampleMeaning": "今天学习“新的房间”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-330",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 학교",
+    "pronunciation": "sae hakgyo",
+    "meaning": "新的学校",
+    "example": "오늘 \"새 학교\"를 배워요.",
+    "exampleMeaning": "今天学习“新的学校”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-331",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 교실",
+    "pronunciation": "sae gyosil",
+    "meaning": "新的教室",
+    "example": "오늘 \"새 교실\"를 배워요.",
+    "exampleMeaning": "今天学习“新的教室”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-332",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 사무실",
+    "pronunciation": "sae samusil",
+    "meaning": "新的办公室",
+    "example": "오늘 \"새 사무실\"를 배워요.",
+    "exampleMeaning": "今天学习“新的办公室”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-333",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 가게",
+    "pronunciation": "sae gage",
+    "meaning": "新的商店",
+    "example": "오늘 \"새 가게\"를 배워요.",
+    "exampleMeaning": "今天学习“新的商店”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-334",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 시장",
+    "pronunciation": "sae sijang",
+    "meaning": "新的市场",
+    "example": "오늘 \"새 시장\"를 배워요.",
+    "exampleMeaning": "今天学习“新的市场”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-335",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 은행",
+    "pronunciation": "sae eunhaeng",
+    "meaning": "新的银行",
+    "example": "오늘 \"새 은행\"를 배워요.",
+    "exampleMeaning": "今天学习“新的银行”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-336",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 병원",
+    "pronunciation": "sae byeongwon",
+    "meaning": "新的医院",
+    "example": "오늘 \"새 병원\"를 배워요.",
+    "exampleMeaning": "今天学习“新的医院”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-337",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 호텔",
+    "pronunciation": "sae hotel",
+    "meaning": "新的酒店",
+    "example": "오늘 \"새 호텔\"를 배워요.",
+    "exampleMeaning": "今天学习“新的酒店”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-338",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 식당",
+    "pronunciation": "sae sikdang",
+    "meaning": "新的餐馆",
+    "example": "오늘 \"새 식당\"를 배워요.",
+    "exampleMeaning": "今天学习“新的餐馆”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-339",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 공원",
+    "pronunciation": "sae gongwon",
+    "meaning": "新的公园",
+    "example": "오늘 \"새 공원\"를 배워요.",
+    "exampleMeaning": "今天学习“新的公园”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-340",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 역",
+    "pronunciation": "sae yeok",
+    "meaning": "新的车站",
+    "example": "오늘 \"새 역\"를 배워요.",
+    "exampleMeaning": "今天学习“新的车站”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-341",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 공항",
+    "pronunciation": "sae gonghang",
+    "meaning": "新的机场",
+    "example": "오늘 \"새 공항\"를 배워요.",
+    "exampleMeaning": "今天学习“新的机场”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-342",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 거리",
+    "pronunciation": "sae geori",
+    "meaning": "新的街道",
+    "example": "오늘 \"새 거리\"를 배워요.",
+    "exampleMeaning": "今天学习“新的街道”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-343",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 도시",
+    "pronunciation": "sae dosi",
+    "meaning": "新的城市",
+    "example": "오늘 \"새 도시\"를 배워요.",
+    "exampleMeaning": "今天学习“新的城市”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-344",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 나라",
+    "pronunciation": "sae nara",
+    "meaning": "新的国家",
+    "example": "오늘 \"새 나라\"를 배워요.",
+    "exampleMeaning": "今天学习“新的国家”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-345",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 책",
+    "pronunciation": "sae chaek",
+    "meaning": "新的书",
+    "example": "오늘 \"새 책\"를 배워요.",
+    "exampleMeaning": "今天学习“新的书”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-346",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 펜",
+    "pronunciation": "sae pen",
+    "meaning": "新的钢笔",
+    "example": "오늘 \"새 펜\"를 배워요.",
+    "exampleMeaning": "今天学习“新的钢笔”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-347",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 연필",
+    "pronunciation": "sae yeonpil",
+    "meaning": "新的铅笔",
+    "example": "오늘 \"새 연필\"를 배워요.",
+    "exampleMeaning": "今天学习“新的铅笔”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-348",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 종이",
+    "pronunciation": "sae jongi",
+    "meaning": "新的纸",
+    "example": "오늘 \"새 종이\"를 배워요.",
+    "exampleMeaning": "今天学习“新的纸”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-349",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 가방",
+    "pronunciation": "sae gabang",
+    "meaning": "新的包",
+    "example": "오늘 \"새 가방\"를 배워요.",
+    "exampleMeaning": "今天学习“新的包”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-350",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 상자",
+    "pronunciation": "sae sangja",
+    "meaning": "新的盒子",
+    "example": "오늘 \"새 상자\"를 배워요.",
+    "exampleMeaning": "今天学习“新的盒子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-351",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 열쇠",
+    "pronunciation": "sae yeolsoe",
+    "meaning": "新的钥匙",
+    "example": "오늘 \"새 열쇠\"를 배워요.",
+    "exampleMeaning": "今天学习“新的钥匙”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-352",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 전화",
+    "pronunciation": "sae jeonhwa",
+    "meaning": "新的电话",
+    "example": "오늘 \"새 전화\"를 배워요.",
+    "exampleMeaning": "今天学习“新的电话”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-353",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 컴퓨터",
+    "pronunciation": "sae keompyuteo",
+    "meaning": "新的电脑",
+    "example": "오늘 \"새 컴퓨터\"를 배워요.",
+    "exampleMeaning": "今天学习“新的电脑”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-354",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 책상",
+    "pronunciation": "sae chaeksang",
+    "meaning": "新的桌子",
+    "example": "오늘 \"새 책상\"를 배워요.",
+    "exampleMeaning": "今天学习“新的桌子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-355",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 의자",
+    "pronunciation": "sae uija",
+    "meaning": "新的椅子",
+    "example": "오늘 \"새 의자\"를 배워요.",
+    "exampleMeaning": "今天学习“新的椅子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-356",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 문",
+    "pronunciation": "sae mun",
+    "meaning": "新的门",
+    "example": "오늘 \"새 문\"를 배워요.",
+    "exampleMeaning": "今天学习“新的门”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-357",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 창문",
+    "pronunciation": "sae changmun",
+    "meaning": "新的窗户",
+    "example": "오늘 \"새 창문\"를 배워요.",
+    "exampleMeaning": "今天学习“新的窗户”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-358",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 침대",
+    "pronunciation": "sae chimdae",
+    "meaning": "新的床",
+    "example": "오늘 \"새 침대\"를 배워요.",
+    "exampleMeaning": "今天学习“新的床”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-359",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 컵",
+    "pronunciation": "sae keop",
+    "meaning": "新的杯子",
+    "example": "오늘 \"새 컵\"를 배워요.",
+    "exampleMeaning": "今天学习“新的杯子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-360",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 접시",
+    "pronunciation": "sae jeopsi",
+    "meaning": "新的盘子",
+    "example": "오늘 \"새 접시\"를 배워요.",
+    "exampleMeaning": "今天学习“新的盘子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-361",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 시계",
+    "pronunciation": "sae sigye",
+    "meaning": "新的钟表",
+    "example": "오늘 \"새 시계\"를 배워요.",
+    "exampleMeaning": "今天学习“新的钟表”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-362",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 사진",
+    "pronunciation": "sae sajin",
+    "meaning": "新的照片",
+    "example": "오늘 \"새 사진\"를 배워요.",
+    "exampleMeaning": "今天学习“新的照片”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-363",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 지도",
+    "pronunciation": "sae jido",
+    "meaning": "新的地图",
+    "example": "오늘 \"새 지도\"를 배워요.",
+    "exampleMeaning": "今天学习“新的地图”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-364",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 돈",
+    "pronunciation": "sae don",
+    "meaning": "新的钱",
+    "example": "오늘 \"새 돈\"를 배워요.",
+    "exampleMeaning": "今天学习“新的钱”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-365",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 표",
+    "pronunciation": "sae pyo",
+    "meaning": "新的票",
+    "example": "오늘 \"새 표\"를 배워요.",
+    "exampleMeaning": "今天学习“新的票”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-366",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 물",
+    "pronunciation": "sae mul",
+    "meaning": "新的水",
+    "example": "오늘 \"새 물\"를 배워요.",
+    "exampleMeaning": "今天学习“新的水”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-367",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 차",
+    "pronunciation": "sae cha",
+    "meaning": "新的茶",
+    "example": "오늘 \"새 차\"를 배워요.",
+    "exampleMeaning": "今天学习“新的茶”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-368",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 커피",
+    "pronunciation": "sae keopi",
+    "meaning": "新的咖啡",
+    "example": "오늘 \"새 커피\"를 배워요.",
+    "exampleMeaning": "今天学习“新的咖啡”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-369",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 우유",
+    "pronunciation": "sae uyu",
+    "meaning": "新的牛奶",
+    "example": "오늘 \"새 우유\"를 배워요.",
+    "exampleMeaning": "今天学习“新的牛奶”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-370",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 주스",
+    "pronunciation": "sae juseu",
+    "meaning": "新的果汁",
+    "example": "오늘 \"새 주스\"를 배워요.",
+    "exampleMeaning": "今天学习“新的果汁”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-371",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 빵",
+    "pronunciation": "sae ppang",
+    "meaning": "新的面包",
+    "example": "오늘 \"새 빵\"를 배워요.",
+    "exampleMeaning": "今天学习“新的面包”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-372",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 밥",
+    "pronunciation": "sae bap",
+    "meaning": "新的米饭",
+    "example": "오늘 \"새 밥\"를 배워요.",
+    "exampleMeaning": "今天学习“新的米饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-373",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 계란",
+    "pronunciation": "sae gyeran",
+    "meaning": "新的鸡蛋",
+    "example": "오늘 \"새 계란\"를 배워요.",
+    "exampleMeaning": "今天学习“新的鸡蛋”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-374",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 고기",
+    "pronunciation": "sae gogi",
+    "meaning": "新的肉",
+    "example": "오늘 \"새 고기\"를 배워요.",
+    "exampleMeaning": "今天学习“新的肉”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-375",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 생선",
+    "pronunciation": "sae saengseon",
+    "meaning": "新的鱼",
+    "example": "오늘 \"새 생선\"를 배워요.",
+    "exampleMeaning": "今天学习“新的鱼”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-376",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 야채",
+    "pronunciation": "sae yachae",
+    "meaning": "新的蔬菜",
+    "example": "오늘 \"새 야채\"를 배워요.",
+    "exampleMeaning": "今天学习“新的蔬菜”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-377",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 과일",
+    "pronunciation": "sae gwail",
+    "meaning": "新的水果",
+    "example": "오늘 \"새 과일\"를 배워요.",
+    "exampleMeaning": "今天学习“新的水果”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-378",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 사과",
+    "pronunciation": "sae sagwa",
+    "meaning": "新的苹果",
+    "example": "오늘 \"새 사과\"를 배워요.",
+    "exampleMeaning": "今天学习“新的苹果”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-379",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 바나나",
+    "pronunciation": "sae banana",
+    "meaning": "新的香蕉",
+    "example": "오늘 \"새 바나나\"를 배워요.",
+    "exampleMeaning": "今天学习“新的香蕉”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-380",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 오렌지",
+    "pronunciation": "sae orenji",
+    "meaning": "新的橙子",
+    "example": "오늘 \"새 오렌지\"를 배워요.",
+    "exampleMeaning": "今天学习“新的橙子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-381",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 케이크",
+    "pronunciation": "sae keikeu",
+    "meaning": "新的蛋糕",
+    "example": "오늘 \"새 케이크\"를 배워요.",
+    "exampleMeaning": "今天学习“新的蛋糕”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-382",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 국",
+    "pronunciation": "sae guk",
+    "meaning": "新的汤",
+    "example": "오늘 \"새 국\"를 배워요.",
+    "exampleMeaning": "今天学习“新的汤”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-383",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 아침밥",
+    "pronunciation": "sae achimbap",
+    "meaning": "新的早饭",
+    "example": "오늘 \"새 아침밥\"를 배워요.",
+    "exampleMeaning": "今天学习“新的早饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-384",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 점심",
+    "pronunciation": "sae jeomsim",
+    "meaning": "新的午饭",
+    "example": "오늘 \"새 점심\"를 배워요.",
+    "exampleMeaning": "今天学习“新的午饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-385",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 저녁밥",
+    "pronunciation": "sae jeonyeokbap",
+    "meaning": "新的晚饭",
+    "example": "오늘 \"새 저녁밥\"를 배워요.",
+    "exampleMeaning": "今天学习“新的晚饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-386",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 오늘",
+    "pronunciation": "sae oneul",
+    "meaning": "新的今天",
+    "example": "오늘 \"새 오늘\"를 배워요.",
+    "exampleMeaning": "今天学习“新的今天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-387",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 내일",
+    "pronunciation": "sae naeil",
+    "meaning": "新的明天",
+    "example": "오늘 \"새 내일\"를 배워요.",
+    "exampleMeaning": "今天学习“新的明天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-388",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 어제",
+    "pronunciation": "sae eoje",
+    "meaning": "新的昨天",
+    "example": "오늘 \"새 어제\"를 배워요.",
+    "exampleMeaning": "今天学习“新的昨天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-389",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 아침",
+    "pronunciation": "sae achim",
+    "meaning": "新的早晨",
+    "example": "오늘 \"새 아침\"를 배워요.",
+    "exampleMeaning": "今天学习“新的早晨”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-390",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 오후",
+    "pronunciation": "sae ohu",
+    "meaning": "新的下午",
+    "example": "오늘 \"새 오후\"를 배워요.",
+    "exampleMeaning": "今天学习“新的下午”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-391",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 저녁",
+    "pronunciation": "sae jeonyeok",
+    "meaning": "新的傍晚",
+    "example": "오늘 \"새 저녁\"를 배워요.",
+    "exampleMeaning": "今天学习“新的傍晚”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-392",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 밤",
+    "pronunciation": "sae bam",
+    "meaning": "新的夜晚",
+    "example": "오늘 \"새 밤\"를 배워요.",
+    "exampleMeaning": "今天学习“新的夜晚”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-393",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 주",
+    "pronunciation": "sae ju",
+    "meaning": "新的星期",
+    "example": "오늘 \"새 주\"를 배워요.",
+    "exampleMeaning": "今天学习“新的星期”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-394",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 달",
+    "pronunciation": "sae dal",
+    "meaning": "新的月份",
+    "example": "오늘 \"새 달\"를 배워요.",
+    "exampleMeaning": "今天学习“新的月份”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-395",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 년",
+    "pronunciation": "sae nyeon",
+    "meaning": "新的年",
+    "example": "오늘 \"새 년\"를 배워요.",
+    "exampleMeaning": "今天学习“新的年”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-396",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 시간",
+    "pronunciation": "sae sigan",
+    "meaning": "新的时间",
+    "example": "오늘 \"새 시간\"를 배워요.",
+    "exampleMeaning": "今天学习“新的时间”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-397",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 분",
+    "pronunciation": "sae bun",
+    "meaning": "新的分钟",
+    "example": "오늘 \"새 분\"를 배워요.",
+    "exampleMeaning": "今天学习“新的分钟”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-398",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 날씨",
+    "pronunciation": "sae nalssi",
+    "meaning": "新的天气",
+    "example": "오늘 \"새 날씨\"를 배워요.",
+    "exampleMeaning": "今天学习“新的天气”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-399",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 비",
+    "pronunciation": "sae bi",
+    "meaning": "新的雨",
+    "example": "오늘 \"새 비\"를 배워요.",
+    "exampleMeaning": "今天学习“新的雨”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-400",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 눈송이",
+    "pronunciation": "sae nunsongi",
+    "meaning": "新的雪",
+    "example": "오늘 \"새 눈송이\"를 배워요.",
+    "exampleMeaning": "今天学习“新的雪”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-401",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 바람",
+    "pronunciation": "sae baram",
+    "meaning": "新的风",
+    "example": "오늘 \"새 바람\"를 배워요.",
+    "exampleMeaning": "今天学习“新的风”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-402",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 하늘",
+    "pronunciation": "sae haneul",
+    "meaning": "新的天空",
+    "example": "오늘 \"새 하늘\"를 배워요.",
+    "exampleMeaning": "今天学习“新的天空”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-403",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 산",
+    "pronunciation": "sae san",
+    "meaning": "新的山",
+    "example": "오늘 \"새 산\"를 배워요.",
+    "exampleMeaning": "今天学习“新的山”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-404",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 강",
+    "pronunciation": "sae gang",
+    "meaning": "新的河",
+    "example": "오늘 \"새 강\"를 배워요.",
+    "exampleMeaning": "今天学习“新的河”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-405",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 바다",
+    "pronunciation": "sae bada",
+    "meaning": "新的海",
+    "example": "오늘 \"새 바다\"를 배워요.",
+    "exampleMeaning": "今天学习“新的海”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-406",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 나무",
+    "pronunciation": "sae namu",
+    "meaning": "新的树",
+    "example": "오늘 \"새 나무\"를 배워요.",
+    "exampleMeaning": "今天学习“新的树”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-407",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 꽃",
+    "pronunciation": "sae kkot",
+    "meaning": "新的花",
+    "example": "오늘 \"새 꽃\"를 배워요.",
+    "exampleMeaning": "今天学习“新的花”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-408",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 자동차",
+    "pronunciation": "sae jadongcha",
+    "meaning": "新的汽车",
+    "example": "오늘 \"새 자동차\"를 배워요.",
+    "exampleMeaning": "今天学习“新的汽车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-409",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 버스",
+    "pronunciation": "sae beoseu",
+    "meaning": "新的公交车",
+    "example": "오늘 \"새 버스\"를 배워요.",
+    "exampleMeaning": "今天学习“新的公交车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-410",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 기차",
+    "pronunciation": "sae gicha",
+    "meaning": "新的火车",
+    "example": "오늘 \"새 기차\"를 배워요.",
+    "exampleMeaning": "今天学习“新的火车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-411",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 자전거",
+    "pronunciation": "sae jajeongeo",
+    "meaning": "新的自行车",
+    "example": "오늘 \"새 자전거\"를 배워요.",
+    "exampleMeaning": "今天学习“新的自行车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-412",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "새 비행기",
+    "pronunciation": "sae bihaenggi",
+    "meaning": "新的飞机",
+    "example": "오늘 \"새 비행기\"를 배워요.",
+    "exampleMeaning": "今天学习“新的飞机”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-413",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 사람",
+    "pronunciation": "oraedoen saram",
+    "meaning": "旧的人",
+    "example": "오늘 \"오래된 사람\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-414",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 남자",
+    "pronunciation": "oraedoen namja",
+    "meaning": "旧的男人",
+    "example": "오늘 \"오래된 남자\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的男人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-415",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 여자",
+    "pronunciation": "oraedoen yeoja",
+    "meaning": "旧的女人",
+    "example": "오늘 \"오래된 여자\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的女人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-416",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 아이",
+    "pronunciation": "oraedoen ai",
+    "meaning": "旧的孩子",
+    "example": "오늘 \"오래된 아이\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的孩子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-417",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 소년",
+    "pronunciation": "oraedoen sonyeon",
+    "meaning": "旧的男孩",
+    "example": "오늘 \"오래된 소년\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的男孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-418",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 소녀",
+    "pronunciation": "oraedoen sonyeo",
+    "meaning": "旧的女孩",
+    "example": "오늘 \"오래된 소녀\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的女孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-419",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 친구",
+    "pronunciation": "oraedoen chingu",
+    "meaning": "旧的朋友",
+    "example": "오늘 \"오래된 친구\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的朋友”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-420",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 선생님",
+    "pronunciation": "oraedoen seonsaengnim",
+    "meaning": "旧的老师",
+    "example": "오늘 \"오래된 선생님\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的老师”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-421",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 학생",
+    "pronunciation": "oraedoen haksaeng",
+    "meaning": "旧的学生",
+    "example": "오늘 \"오래된 학생\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的学生”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-422",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 의사",
+    "pronunciation": "oraedoen uisa",
+    "meaning": "旧的医生",
+    "example": "오늘 \"오래된 의사\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的医生”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-423",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 회사원",
+    "pronunciation": "oraedoen hoesawon",
+    "meaning": "旧的职员",
+    "example": "오늘 \"오래된 회사원\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的职员”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-424",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 이름",
+    "pronunciation": "oraedoen ireum",
+    "meaning": "旧的名字",
+    "example": "오늘 \"오래된 이름\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的名字”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-425",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 나이",
+    "pronunciation": "oraedoen nai",
+    "meaning": "旧的年龄",
+    "example": "오늘 \"오래된 나이\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的年龄”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-426",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 집",
+    "pronunciation": "oraedoen jip",
+    "meaning": "旧的家",
+    "example": "오늘 \"오래된 집\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的家”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-427",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 주택",
+    "pronunciation": "oraedoen jutaek",
+    "meaning": "旧的房子",
+    "example": "오늘 \"오래된 주택\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的房子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-428",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 방",
+    "pronunciation": "oraedoen bang",
+    "meaning": "旧的房间",
+    "example": "오늘 \"오래된 방\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的房间”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-429",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 학교",
+    "pronunciation": "oraedoen hakgyo",
+    "meaning": "旧的学校",
+    "example": "오늘 \"오래된 학교\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的学校”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-430",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 교실",
+    "pronunciation": "oraedoen gyosil",
+    "meaning": "旧的教室",
+    "example": "오늘 \"오래된 교실\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的教室”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-431",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 사무실",
+    "pronunciation": "oraedoen samusil",
+    "meaning": "旧的办公室",
+    "example": "오늘 \"오래된 사무실\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的办公室”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-432",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 가게",
+    "pronunciation": "oraedoen gage",
+    "meaning": "旧的商店",
+    "example": "오늘 \"오래된 가게\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的商店”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-433",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 시장",
+    "pronunciation": "oraedoen sijang",
+    "meaning": "旧的市场",
+    "example": "오늘 \"오래된 시장\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的市场”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-434",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 은행",
+    "pronunciation": "oraedoen eunhaeng",
+    "meaning": "旧的银行",
+    "example": "오늘 \"오래된 은행\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的银行”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-435",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 병원",
+    "pronunciation": "oraedoen byeongwon",
+    "meaning": "旧的医院",
+    "example": "오늘 \"오래된 병원\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的医院”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-436",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 호텔",
+    "pronunciation": "oraedoen hotel",
+    "meaning": "旧的酒店",
+    "example": "오늘 \"오래된 호텔\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的酒店”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-437",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 식당",
+    "pronunciation": "oraedoen sikdang",
+    "meaning": "旧的餐馆",
+    "example": "오늘 \"오래된 식당\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的餐馆”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-438",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 공원",
+    "pronunciation": "oraedoen gongwon",
+    "meaning": "旧的公园",
+    "example": "오늘 \"오래된 공원\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的公园”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-439",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 역",
+    "pronunciation": "oraedoen yeok",
+    "meaning": "旧的车站",
+    "example": "오늘 \"오래된 역\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的车站”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-440",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 공항",
+    "pronunciation": "oraedoen gonghang",
+    "meaning": "旧的机场",
+    "example": "오늘 \"오래된 공항\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的机场”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-441",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 거리",
+    "pronunciation": "oraedoen geori",
+    "meaning": "旧的街道",
+    "example": "오늘 \"오래된 거리\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的街道”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-442",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 도시",
+    "pronunciation": "oraedoen dosi",
+    "meaning": "旧的城市",
+    "example": "오늘 \"오래된 도시\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的城市”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-443",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 나라",
+    "pronunciation": "oraedoen nara",
+    "meaning": "旧的国家",
+    "example": "오늘 \"오래된 나라\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的国家”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-444",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 책",
+    "pronunciation": "oraedoen chaek",
+    "meaning": "旧的书",
+    "example": "오늘 \"오래된 책\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的书”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-445",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 펜",
+    "pronunciation": "oraedoen pen",
+    "meaning": "旧的钢笔",
+    "example": "오늘 \"오래된 펜\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的钢笔”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-446",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 연필",
+    "pronunciation": "oraedoen yeonpil",
+    "meaning": "旧的铅笔",
+    "example": "오늘 \"오래된 연필\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的铅笔”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-447",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 종이",
+    "pronunciation": "oraedoen jongi",
+    "meaning": "旧的纸",
+    "example": "오늘 \"오래된 종이\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的纸”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-448",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 가방",
+    "pronunciation": "oraedoen gabang",
+    "meaning": "旧的包",
+    "example": "오늘 \"오래된 가방\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的包”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-449",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 상자",
+    "pronunciation": "oraedoen sangja",
+    "meaning": "旧的盒子",
+    "example": "오늘 \"오래된 상자\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的盒子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-450",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 열쇠",
+    "pronunciation": "oraedoen yeolsoe",
+    "meaning": "旧的钥匙",
+    "example": "오늘 \"오래된 열쇠\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的钥匙”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-451",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 전화",
+    "pronunciation": "oraedoen jeonhwa",
+    "meaning": "旧的电话",
+    "example": "오늘 \"오래된 전화\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的电话”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-452",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 컴퓨터",
+    "pronunciation": "oraedoen keompyuteo",
+    "meaning": "旧的电脑",
+    "example": "오늘 \"오래된 컴퓨터\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的电脑”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-453",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 책상",
+    "pronunciation": "oraedoen chaeksang",
+    "meaning": "旧的桌子",
+    "example": "오늘 \"오래된 책상\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的桌子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-454",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 의자",
+    "pronunciation": "oraedoen uija",
+    "meaning": "旧的椅子",
+    "example": "오늘 \"오래된 의자\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的椅子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-455",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 문",
+    "pronunciation": "oraedoen mun",
+    "meaning": "旧的门",
+    "example": "오늘 \"오래된 문\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的门”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-456",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 창문",
+    "pronunciation": "oraedoen changmun",
+    "meaning": "旧的窗户",
+    "example": "오늘 \"오래된 창문\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的窗户”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-457",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 침대",
+    "pronunciation": "oraedoen chimdae",
+    "meaning": "旧的床",
+    "example": "오늘 \"오래된 침대\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的床”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-458",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 컵",
+    "pronunciation": "oraedoen keop",
+    "meaning": "旧的杯子",
+    "example": "오늘 \"오래된 컵\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的杯子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-459",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 접시",
+    "pronunciation": "oraedoen jeopsi",
+    "meaning": "旧的盘子",
+    "example": "오늘 \"오래된 접시\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的盘子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-460",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 시계",
+    "pronunciation": "oraedoen sigye",
+    "meaning": "旧的钟表",
+    "example": "오늘 \"오래된 시계\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的钟表”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-461",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 사진",
+    "pronunciation": "oraedoen sajin",
+    "meaning": "旧的照片",
+    "example": "오늘 \"오래된 사진\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的照片”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-462",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 지도",
+    "pronunciation": "oraedoen jido",
+    "meaning": "旧的地图",
+    "example": "오늘 \"오래된 지도\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的地图”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-463",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 돈",
+    "pronunciation": "oraedoen don",
+    "meaning": "旧的钱",
+    "example": "오늘 \"오래된 돈\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的钱”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-464",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 표",
+    "pronunciation": "oraedoen pyo",
+    "meaning": "旧的票",
+    "example": "오늘 \"오래된 표\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的票”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-465",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 물",
+    "pronunciation": "oraedoen mul",
+    "meaning": "旧的水",
+    "example": "오늘 \"오래된 물\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的水”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-466",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 차",
+    "pronunciation": "oraedoen cha",
+    "meaning": "旧的茶",
+    "example": "오늘 \"오래된 차\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的茶”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-467",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 커피",
+    "pronunciation": "oraedoen keopi",
+    "meaning": "旧的咖啡",
+    "example": "오늘 \"오래된 커피\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的咖啡”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-468",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 우유",
+    "pronunciation": "oraedoen uyu",
+    "meaning": "旧的牛奶",
+    "example": "오늘 \"오래된 우유\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的牛奶”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-469",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 주스",
+    "pronunciation": "oraedoen juseu",
+    "meaning": "旧的果汁",
+    "example": "오늘 \"오래된 주스\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的果汁”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-470",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 빵",
+    "pronunciation": "oraedoen ppang",
+    "meaning": "旧的面包",
+    "example": "오늘 \"오래된 빵\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的面包”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-471",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 밥",
+    "pronunciation": "oraedoen bap",
+    "meaning": "旧的米饭",
+    "example": "오늘 \"오래된 밥\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的米饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-472",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 계란",
+    "pronunciation": "oraedoen gyeran",
+    "meaning": "旧的鸡蛋",
+    "example": "오늘 \"오래된 계란\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的鸡蛋”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-473",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 고기",
+    "pronunciation": "oraedoen gogi",
+    "meaning": "旧的肉",
+    "example": "오늘 \"오래된 고기\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的肉”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-474",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 생선",
+    "pronunciation": "oraedoen saengseon",
+    "meaning": "旧的鱼",
+    "example": "오늘 \"오래된 생선\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的鱼”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-475",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 야채",
+    "pronunciation": "oraedoen yachae",
+    "meaning": "旧的蔬菜",
+    "example": "오늘 \"오래된 야채\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的蔬菜”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-476",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 과일",
+    "pronunciation": "oraedoen gwail",
+    "meaning": "旧的水果",
+    "example": "오늘 \"오래된 과일\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的水果”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-477",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 사과",
+    "pronunciation": "oraedoen sagwa",
+    "meaning": "旧的苹果",
+    "example": "오늘 \"오래된 사과\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的苹果”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-478",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 바나나",
+    "pronunciation": "oraedoen banana",
+    "meaning": "旧的香蕉",
+    "example": "오늘 \"오래된 바나나\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的香蕉”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-479",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 오렌지",
+    "pronunciation": "oraedoen orenji",
+    "meaning": "旧的橙子",
+    "example": "오늘 \"오래된 오렌지\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的橙子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-480",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 케이크",
+    "pronunciation": "oraedoen keikeu",
+    "meaning": "旧的蛋糕",
+    "example": "오늘 \"오래된 케이크\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的蛋糕”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-481",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 국",
+    "pronunciation": "oraedoen guk",
+    "meaning": "旧的汤",
+    "example": "오늘 \"오래된 국\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的汤”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-482",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 아침밥",
+    "pronunciation": "oraedoen achimbap",
+    "meaning": "旧的早饭",
+    "example": "오늘 \"오래된 아침밥\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的早饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-483",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 점심",
+    "pronunciation": "oraedoen jeomsim",
+    "meaning": "旧的午饭",
+    "example": "오늘 \"오래된 점심\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的午饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-484",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 저녁밥",
+    "pronunciation": "oraedoen jeonyeokbap",
+    "meaning": "旧的晚饭",
+    "example": "오늘 \"오래된 저녁밥\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的晚饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-485",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 오늘",
+    "pronunciation": "oraedoen oneul",
+    "meaning": "旧的今天",
+    "example": "오늘 \"오래된 오늘\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的今天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-486",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 내일",
+    "pronunciation": "oraedoen naeil",
+    "meaning": "旧的明天",
+    "example": "오늘 \"오래된 내일\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的明天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-487",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 어제",
+    "pronunciation": "oraedoen eoje",
+    "meaning": "旧的昨天",
+    "example": "오늘 \"오래된 어제\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的昨天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-488",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 아침",
+    "pronunciation": "oraedoen achim",
+    "meaning": "旧的早晨",
+    "example": "오늘 \"오래된 아침\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的早晨”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-489",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 오후",
+    "pronunciation": "oraedoen ohu",
+    "meaning": "旧的下午",
+    "example": "오늘 \"오래된 오후\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的下午”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-490",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 저녁",
+    "pronunciation": "oraedoen jeonyeok",
+    "meaning": "旧的傍晚",
+    "example": "오늘 \"오래된 저녁\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的傍晚”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-491",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 밤",
+    "pronunciation": "oraedoen bam",
+    "meaning": "旧的夜晚",
+    "example": "오늘 \"오래된 밤\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的夜晚”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-492",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 주",
+    "pronunciation": "oraedoen ju",
+    "meaning": "旧的星期",
+    "example": "오늘 \"오래된 주\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的星期”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-493",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 달",
+    "pronunciation": "oraedoen dal",
+    "meaning": "旧的月份",
+    "example": "오늘 \"오래된 달\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的月份”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-494",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 년",
+    "pronunciation": "oraedoen nyeon",
+    "meaning": "旧的年",
+    "example": "오늘 \"오래된 년\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的年”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-495",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 시간",
+    "pronunciation": "oraedoen sigan",
+    "meaning": "旧的时间",
+    "example": "오늘 \"오래된 시간\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的时间”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-496",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 분",
+    "pronunciation": "oraedoen bun",
+    "meaning": "旧的分钟",
+    "example": "오늘 \"오래된 분\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的分钟”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-497",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 날씨",
+    "pronunciation": "oraedoen nalssi",
+    "meaning": "旧的天气",
+    "example": "오늘 \"오래된 날씨\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的天气”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-498",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 비",
+    "pronunciation": "oraedoen bi",
+    "meaning": "旧的雨",
+    "example": "오늘 \"오래된 비\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的雨”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-499",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 눈송이",
+    "pronunciation": "oraedoen nunsongi",
+    "meaning": "旧的雪",
+    "example": "오늘 \"오래된 눈송이\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的雪”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-500",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 바람",
+    "pronunciation": "oraedoen baram",
+    "meaning": "旧的风",
+    "example": "오늘 \"오래된 바람\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的风”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-501",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 하늘",
+    "pronunciation": "oraedoen haneul",
+    "meaning": "旧的天空",
+    "example": "오늘 \"오래된 하늘\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的天空”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-502",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 산",
+    "pronunciation": "oraedoen san",
+    "meaning": "旧的山",
+    "example": "오늘 \"오래된 산\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的山”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-503",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 강",
+    "pronunciation": "oraedoen gang",
+    "meaning": "旧的河",
+    "example": "오늘 \"오래된 강\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的河”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-504",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 바다",
+    "pronunciation": "oraedoen bada",
+    "meaning": "旧的海",
+    "example": "오늘 \"오래된 바다\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的海”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-505",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 나무",
+    "pronunciation": "oraedoen namu",
+    "meaning": "旧的树",
+    "example": "오늘 \"오래된 나무\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的树”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-506",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 꽃",
+    "pronunciation": "oraedoen kkot",
+    "meaning": "旧的花",
+    "example": "오늘 \"오래된 꽃\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的花”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-507",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 자동차",
+    "pronunciation": "oraedoen jadongcha",
+    "meaning": "旧的汽车",
+    "example": "오늘 \"오래된 자동차\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的汽车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-508",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 버스",
+    "pronunciation": "oraedoen beoseu",
+    "meaning": "旧的公交车",
+    "example": "오늘 \"오래된 버스\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的公交车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-509",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 기차",
+    "pronunciation": "oraedoen gicha",
+    "meaning": "旧的火车",
+    "example": "오늘 \"오래된 기차\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的火车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-510",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 자전거",
+    "pronunciation": "oraedoen jajeongeo",
+    "meaning": "旧的自行车",
+    "example": "오늘 \"오래된 자전거\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的自行车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-511",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "오래된 비행기",
+    "pronunciation": "oraedoen bihaenggi",
+    "meaning": "旧的飞机",
+    "example": "오늘 \"오래된 비행기\"를 배워요.",
+    "exampleMeaning": "今天学习“旧的飞机”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-512",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 사람",
+    "pronunciation": "keun saram",
+    "meaning": "大的人",
+    "example": "오늘 \"큰 사람\"를 배워요.",
+    "exampleMeaning": "今天学习“大的人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-513",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 남자",
+    "pronunciation": "keun namja",
+    "meaning": "大的男人",
+    "example": "오늘 \"큰 남자\"를 배워요.",
+    "exampleMeaning": "今天学习“大的男人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-514",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 여자",
+    "pronunciation": "keun yeoja",
+    "meaning": "大的女人",
+    "example": "오늘 \"큰 여자\"를 배워요.",
+    "exampleMeaning": "今天学习“大的女人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-515",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 아이",
+    "pronunciation": "keun ai",
+    "meaning": "大的孩子",
+    "example": "오늘 \"큰 아이\"를 배워요.",
+    "exampleMeaning": "今天学习“大的孩子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-516",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 소년",
+    "pronunciation": "keun sonyeon",
+    "meaning": "大的男孩",
+    "example": "오늘 \"큰 소년\"를 배워요.",
+    "exampleMeaning": "今天学习“大的男孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-517",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 소녀",
+    "pronunciation": "keun sonyeo",
+    "meaning": "大的女孩",
+    "example": "오늘 \"큰 소녀\"를 배워요.",
+    "exampleMeaning": "今天学习“大的女孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-518",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 친구",
+    "pronunciation": "keun chingu",
+    "meaning": "大的朋友",
+    "example": "오늘 \"큰 친구\"를 배워요.",
+    "exampleMeaning": "今天学习“大的朋友”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-519",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 선생님",
+    "pronunciation": "keun seonsaengnim",
+    "meaning": "大的老师",
+    "example": "오늘 \"큰 선생님\"를 배워요.",
+    "exampleMeaning": "今天学习“大的老师”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-520",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 학생",
+    "pronunciation": "keun haksaeng",
+    "meaning": "大的学生",
+    "example": "오늘 \"큰 학생\"를 배워요.",
+    "exampleMeaning": "今天学习“大的学生”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-521",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 의사",
+    "pronunciation": "keun uisa",
+    "meaning": "大的医生",
+    "example": "오늘 \"큰 의사\"를 배워요.",
+    "exampleMeaning": "今天学习“大的医生”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-522",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 회사원",
+    "pronunciation": "keun hoesawon",
+    "meaning": "大的职员",
+    "example": "오늘 \"큰 회사원\"를 배워요.",
+    "exampleMeaning": "今天学习“大的职员”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-523",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 이름",
+    "pronunciation": "keun ireum",
+    "meaning": "大的名字",
+    "example": "오늘 \"큰 이름\"를 배워요.",
+    "exampleMeaning": "今天学习“大的名字”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-524",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 나이",
+    "pronunciation": "keun nai",
+    "meaning": "大的年龄",
+    "example": "오늘 \"큰 나이\"를 배워요.",
+    "exampleMeaning": "今天学习“大的年龄”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-525",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 집",
+    "pronunciation": "keun jip",
+    "meaning": "大的家",
+    "example": "오늘 \"큰 집\"를 배워요.",
+    "exampleMeaning": "今天学习“大的家”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-526",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 주택",
+    "pronunciation": "keun jutaek",
+    "meaning": "大的房子",
+    "example": "오늘 \"큰 주택\"를 배워요.",
+    "exampleMeaning": "今天学习“大的房子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-527",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 방",
+    "pronunciation": "keun bang",
+    "meaning": "大的房间",
+    "example": "오늘 \"큰 방\"를 배워요.",
+    "exampleMeaning": "今天学习“大的房间”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-528",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 학교",
+    "pronunciation": "keun hakgyo",
+    "meaning": "大的学校",
+    "example": "오늘 \"큰 학교\"를 배워요.",
+    "exampleMeaning": "今天学习“大的学校”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-529",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 교실",
+    "pronunciation": "keun gyosil",
+    "meaning": "大的教室",
+    "example": "오늘 \"큰 교실\"를 배워요.",
+    "exampleMeaning": "今天学习“大的教室”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-530",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 사무실",
+    "pronunciation": "keun samusil",
+    "meaning": "大的办公室",
+    "example": "오늘 \"큰 사무실\"를 배워요.",
+    "exampleMeaning": "今天学习“大的办公室”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-531",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 가게",
+    "pronunciation": "keun gage",
+    "meaning": "大的商店",
+    "example": "오늘 \"큰 가게\"를 배워요.",
+    "exampleMeaning": "今天学习“大的商店”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-532",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 시장",
+    "pronunciation": "keun sijang",
+    "meaning": "大的市场",
+    "example": "오늘 \"큰 시장\"를 배워요.",
+    "exampleMeaning": "今天学习“大的市场”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-533",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 은행",
+    "pronunciation": "keun eunhaeng",
+    "meaning": "大的银行",
+    "example": "오늘 \"큰 은행\"를 배워요.",
+    "exampleMeaning": "今天学习“大的银行”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-534",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 병원",
+    "pronunciation": "keun byeongwon",
+    "meaning": "大的医院",
+    "example": "오늘 \"큰 병원\"를 배워요.",
+    "exampleMeaning": "今天学习“大的医院”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-535",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 호텔",
+    "pronunciation": "keun hotel",
+    "meaning": "大的酒店",
+    "example": "오늘 \"큰 호텔\"를 배워요.",
+    "exampleMeaning": "今天学习“大的酒店”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-536",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 식당",
+    "pronunciation": "keun sikdang",
+    "meaning": "大的餐馆",
+    "example": "오늘 \"큰 식당\"를 배워요.",
+    "exampleMeaning": "今天学习“大的餐馆”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-537",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 공원",
+    "pronunciation": "keun gongwon",
+    "meaning": "大的公园",
+    "example": "오늘 \"큰 공원\"를 배워요.",
+    "exampleMeaning": "今天学习“大的公园”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-538",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 역",
+    "pronunciation": "keun yeok",
+    "meaning": "大的车站",
+    "example": "오늘 \"큰 역\"를 배워요.",
+    "exampleMeaning": "今天学习“大的车站”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-539",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 공항",
+    "pronunciation": "keun gonghang",
+    "meaning": "大的机场",
+    "example": "오늘 \"큰 공항\"를 배워요.",
+    "exampleMeaning": "今天学习“大的机场”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-540",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 거리",
+    "pronunciation": "keun geori",
+    "meaning": "大的街道",
+    "example": "오늘 \"큰 거리\"를 배워요.",
+    "exampleMeaning": "今天学习“大的街道”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-541",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 도시",
+    "pronunciation": "keun dosi",
+    "meaning": "大的城市",
+    "example": "오늘 \"큰 도시\"를 배워요.",
+    "exampleMeaning": "今天学习“大的城市”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-542",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 나라",
+    "pronunciation": "keun nara",
+    "meaning": "大的国家",
+    "example": "오늘 \"큰 나라\"를 배워요.",
+    "exampleMeaning": "今天学习“大的国家”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-543",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 책",
+    "pronunciation": "keun chaek",
+    "meaning": "大的书",
+    "example": "오늘 \"큰 책\"를 배워요.",
+    "exampleMeaning": "今天学习“大的书”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-544",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 펜",
+    "pronunciation": "keun pen",
+    "meaning": "大的钢笔",
+    "example": "오늘 \"큰 펜\"를 배워요.",
+    "exampleMeaning": "今天学习“大的钢笔”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-545",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 연필",
+    "pronunciation": "keun yeonpil",
+    "meaning": "大的铅笔",
+    "example": "오늘 \"큰 연필\"를 배워요.",
+    "exampleMeaning": "今天学习“大的铅笔”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-546",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 종이",
+    "pronunciation": "keun jongi",
+    "meaning": "大的纸",
+    "example": "오늘 \"큰 종이\"를 배워요.",
+    "exampleMeaning": "今天学习“大的纸”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-547",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 가방",
+    "pronunciation": "keun gabang",
+    "meaning": "大的包",
+    "example": "오늘 \"큰 가방\"를 배워요.",
+    "exampleMeaning": "今天学习“大的包”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-548",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 상자",
+    "pronunciation": "keun sangja",
+    "meaning": "大的盒子",
+    "example": "오늘 \"큰 상자\"를 배워요.",
+    "exampleMeaning": "今天学习“大的盒子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-549",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 열쇠",
+    "pronunciation": "keun yeolsoe",
+    "meaning": "大的钥匙",
+    "example": "오늘 \"큰 열쇠\"를 배워요.",
+    "exampleMeaning": "今天学习“大的钥匙”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-550",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 전화",
+    "pronunciation": "keun jeonhwa",
+    "meaning": "大的电话",
+    "example": "오늘 \"큰 전화\"를 배워요.",
+    "exampleMeaning": "今天学习“大的电话”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-551",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 컴퓨터",
+    "pronunciation": "keun keompyuteo",
+    "meaning": "大的电脑",
+    "example": "오늘 \"큰 컴퓨터\"를 배워요.",
+    "exampleMeaning": "今天学习“大的电脑”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-552",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 책상",
+    "pronunciation": "keun chaeksang",
+    "meaning": "大的桌子",
+    "example": "오늘 \"큰 책상\"를 배워요.",
+    "exampleMeaning": "今天学习“大的桌子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-553",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 의자",
+    "pronunciation": "keun uija",
+    "meaning": "大的椅子",
+    "example": "오늘 \"큰 의자\"를 배워요.",
+    "exampleMeaning": "今天学习“大的椅子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-554",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 문",
+    "pronunciation": "keun mun",
+    "meaning": "大的门",
+    "example": "오늘 \"큰 문\"를 배워요.",
+    "exampleMeaning": "今天学习“大的门”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-555",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 창문",
+    "pronunciation": "keun changmun",
+    "meaning": "大的窗户",
+    "example": "오늘 \"큰 창문\"를 배워요.",
+    "exampleMeaning": "今天学习“大的窗户”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-556",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 침대",
+    "pronunciation": "keun chimdae",
+    "meaning": "大的床",
+    "example": "오늘 \"큰 침대\"를 배워요.",
+    "exampleMeaning": "今天学习“大的床”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-557",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 컵",
+    "pronunciation": "keun keop",
+    "meaning": "大的杯子",
+    "example": "오늘 \"큰 컵\"를 배워요.",
+    "exampleMeaning": "今天学习“大的杯子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-558",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 접시",
+    "pronunciation": "keun jeopsi",
+    "meaning": "大的盘子",
+    "example": "오늘 \"큰 접시\"를 배워요.",
+    "exampleMeaning": "今天学习“大的盘子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-559",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 시계",
+    "pronunciation": "keun sigye",
+    "meaning": "大的钟表",
+    "example": "오늘 \"큰 시계\"를 배워요.",
+    "exampleMeaning": "今天学习“大的钟表”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-560",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 사진",
+    "pronunciation": "keun sajin",
+    "meaning": "大的照片",
+    "example": "오늘 \"큰 사진\"를 배워요.",
+    "exampleMeaning": "今天学习“大的照片”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-561",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 지도",
+    "pronunciation": "keun jido",
+    "meaning": "大的地图",
+    "example": "오늘 \"큰 지도\"를 배워요.",
+    "exampleMeaning": "今天学习“大的地图”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-562",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 돈",
+    "pronunciation": "keun don",
+    "meaning": "大的钱",
+    "example": "오늘 \"큰 돈\"를 배워요.",
+    "exampleMeaning": "今天学习“大的钱”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-563",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 표",
+    "pronunciation": "keun pyo",
+    "meaning": "大的票",
+    "example": "오늘 \"큰 표\"를 배워요.",
+    "exampleMeaning": "今天学习“大的票”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-564",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 물",
+    "pronunciation": "keun mul",
+    "meaning": "大的水",
+    "example": "오늘 \"큰 물\"를 배워요.",
+    "exampleMeaning": "今天学习“大的水”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-565",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 차",
+    "pronunciation": "keun cha",
+    "meaning": "大的茶",
+    "example": "오늘 \"큰 차\"를 배워요.",
+    "exampleMeaning": "今天学习“大的茶”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-566",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 커피",
+    "pronunciation": "keun keopi",
+    "meaning": "大的咖啡",
+    "example": "오늘 \"큰 커피\"를 배워요.",
+    "exampleMeaning": "今天学习“大的咖啡”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-567",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 우유",
+    "pronunciation": "keun uyu",
+    "meaning": "大的牛奶",
+    "example": "오늘 \"큰 우유\"를 배워요.",
+    "exampleMeaning": "今天学习“大的牛奶”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-568",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 주스",
+    "pronunciation": "keun juseu",
+    "meaning": "大的果汁",
+    "example": "오늘 \"큰 주스\"를 배워요.",
+    "exampleMeaning": "今天学习“大的果汁”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-569",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 빵",
+    "pronunciation": "keun ppang",
+    "meaning": "大的面包",
+    "example": "오늘 \"큰 빵\"를 배워요.",
+    "exampleMeaning": "今天学习“大的面包”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-570",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 밥",
+    "pronunciation": "keun bap",
+    "meaning": "大的米饭",
+    "example": "오늘 \"큰 밥\"를 배워요.",
+    "exampleMeaning": "今天学习“大的米饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-571",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 계란",
+    "pronunciation": "keun gyeran",
+    "meaning": "大的鸡蛋",
+    "example": "오늘 \"큰 계란\"를 배워요.",
+    "exampleMeaning": "今天学习“大的鸡蛋”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-572",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 고기",
+    "pronunciation": "keun gogi",
+    "meaning": "大的肉",
+    "example": "오늘 \"큰 고기\"를 배워요.",
+    "exampleMeaning": "今天学习“大的肉”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-573",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 생선",
+    "pronunciation": "keun saengseon",
+    "meaning": "大的鱼",
+    "example": "오늘 \"큰 생선\"를 배워요.",
+    "exampleMeaning": "今天学习“大的鱼”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-574",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 야채",
+    "pronunciation": "keun yachae",
+    "meaning": "大的蔬菜",
+    "example": "오늘 \"큰 야채\"를 배워요.",
+    "exampleMeaning": "今天学习“大的蔬菜”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-575",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 과일",
+    "pronunciation": "keun gwail",
+    "meaning": "大的水果",
+    "example": "오늘 \"큰 과일\"를 배워요.",
+    "exampleMeaning": "今天学习“大的水果”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-576",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 사과",
+    "pronunciation": "keun sagwa",
+    "meaning": "大的苹果",
+    "example": "오늘 \"큰 사과\"를 배워요.",
+    "exampleMeaning": "今天学习“大的苹果”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-577",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 바나나",
+    "pronunciation": "keun banana",
+    "meaning": "大的香蕉",
+    "example": "오늘 \"큰 바나나\"를 배워요.",
+    "exampleMeaning": "今天学习“大的香蕉”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-578",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 오렌지",
+    "pronunciation": "keun orenji",
+    "meaning": "大的橙子",
+    "example": "오늘 \"큰 오렌지\"를 배워요.",
+    "exampleMeaning": "今天学习“大的橙子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-579",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 케이크",
+    "pronunciation": "keun keikeu",
+    "meaning": "大的蛋糕",
+    "example": "오늘 \"큰 케이크\"를 배워요.",
+    "exampleMeaning": "今天学习“大的蛋糕”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-580",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 국",
+    "pronunciation": "keun guk",
+    "meaning": "大的汤",
+    "example": "오늘 \"큰 국\"를 배워요.",
+    "exampleMeaning": "今天学习“大的汤”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-581",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 아침밥",
+    "pronunciation": "keun achimbap",
+    "meaning": "大的早饭",
+    "example": "오늘 \"큰 아침밥\"를 배워요.",
+    "exampleMeaning": "今天学习“大的早饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-582",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 점심",
+    "pronunciation": "keun jeomsim",
+    "meaning": "大的午饭",
+    "example": "오늘 \"큰 점심\"를 배워요.",
+    "exampleMeaning": "今天学习“大的午饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-583",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 저녁밥",
+    "pronunciation": "keun jeonyeokbap",
+    "meaning": "大的晚饭",
+    "example": "오늘 \"큰 저녁밥\"를 배워요.",
+    "exampleMeaning": "今天学习“大的晚饭”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-584",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 오늘",
+    "pronunciation": "keun oneul",
+    "meaning": "大的今天",
+    "example": "오늘 \"큰 오늘\"를 배워요.",
+    "exampleMeaning": "今天学习“大的今天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-585",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 내일",
+    "pronunciation": "keun naeil",
+    "meaning": "大的明天",
+    "example": "오늘 \"큰 내일\"를 배워요.",
+    "exampleMeaning": "今天学习“大的明天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-586",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 어제",
+    "pronunciation": "keun eoje",
+    "meaning": "大的昨天",
+    "example": "오늘 \"큰 어제\"를 배워요.",
+    "exampleMeaning": "今天学习“大的昨天”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-587",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 아침",
+    "pronunciation": "keun achim",
+    "meaning": "大的早晨",
+    "example": "오늘 \"큰 아침\"를 배워요.",
+    "exampleMeaning": "今天学习“大的早晨”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-588",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 오후",
+    "pronunciation": "keun ohu",
+    "meaning": "大的下午",
+    "example": "오늘 \"큰 오후\"를 배워요.",
+    "exampleMeaning": "今天学习“大的下午”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-589",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 저녁",
+    "pronunciation": "keun jeonyeok",
+    "meaning": "大的傍晚",
+    "example": "오늘 \"큰 저녁\"를 배워요.",
+    "exampleMeaning": "今天学习“大的傍晚”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-590",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 밤",
+    "pronunciation": "keun bam",
+    "meaning": "大的夜晚",
+    "example": "오늘 \"큰 밤\"를 배워요.",
+    "exampleMeaning": "今天学习“大的夜晚”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-591",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 주",
+    "pronunciation": "keun ju",
+    "meaning": "大的星期",
+    "example": "오늘 \"큰 주\"를 배워요.",
+    "exampleMeaning": "今天学习“大的星期”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-592",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 달",
+    "pronunciation": "keun dal",
+    "meaning": "大的月份",
+    "example": "오늘 \"큰 달\"를 배워요.",
+    "exampleMeaning": "今天学习“大的月份”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-593",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 년",
+    "pronunciation": "keun nyeon",
+    "meaning": "大的年",
+    "example": "오늘 \"큰 년\"를 배워요.",
+    "exampleMeaning": "今天学习“大的年”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-594",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 시간",
+    "pronunciation": "keun sigan",
+    "meaning": "大的时间",
+    "example": "오늘 \"큰 시간\"를 배워요.",
+    "exampleMeaning": "今天学习“大的时间”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-595",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 분",
+    "pronunciation": "keun bun",
+    "meaning": "大的分钟",
+    "example": "오늘 \"큰 분\"를 배워요.",
+    "exampleMeaning": "今天学习“大的分钟”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-596",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 날씨",
+    "pronunciation": "keun nalssi",
+    "meaning": "大的天气",
+    "example": "오늘 \"큰 날씨\"를 배워요.",
+    "exampleMeaning": "今天学习“大的天气”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-597",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 비",
+    "pronunciation": "keun bi",
+    "meaning": "大的雨",
+    "example": "오늘 \"큰 비\"를 배워요.",
+    "exampleMeaning": "今天学习“大的雨”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-598",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 눈송이",
+    "pronunciation": "keun nunsongi",
+    "meaning": "大的雪",
+    "example": "오늘 \"큰 눈송이\"를 배워요.",
+    "exampleMeaning": "今天学习“大的雪”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-599",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 바람",
+    "pronunciation": "keun baram",
+    "meaning": "大的风",
+    "example": "오늘 \"큰 바람\"를 배워요.",
+    "exampleMeaning": "今天学习“大的风”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-600",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 하늘",
+    "pronunciation": "keun haneul",
+    "meaning": "大的天空",
+    "example": "오늘 \"큰 하늘\"를 배워요.",
+    "exampleMeaning": "今天学习“大的天空”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-601",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 산",
+    "pronunciation": "keun san",
+    "meaning": "大的山",
+    "example": "오늘 \"큰 산\"를 배워요.",
+    "exampleMeaning": "今天学习“大的山”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-602",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 강",
+    "pronunciation": "keun gang",
+    "meaning": "大的河",
+    "example": "오늘 \"큰 강\"를 배워요.",
+    "exampleMeaning": "今天学习“大的河”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-603",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 바다",
+    "pronunciation": "keun bada",
+    "meaning": "大的海",
+    "example": "오늘 \"큰 바다\"를 배워요.",
+    "exampleMeaning": "今天学习“大的海”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-604",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 나무",
+    "pronunciation": "keun namu",
+    "meaning": "大的树",
+    "example": "오늘 \"큰 나무\"를 배워요.",
+    "exampleMeaning": "今天学习“大的树”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-605",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 꽃",
+    "pronunciation": "keun kkot",
+    "meaning": "大的花",
+    "example": "오늘 \"큰 꽃\"를 배워요.",
+    "exampleMeaning": "今天学习“大的花”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-606",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 자동차",
+    "pronunciation": "keun jadongcha",
+    "meaning": "大的汽车",
+    "example": "오늘 \"큰 자동차\"를 배워요.",
+    "exampleMeaning": "今天学习“大的汽车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-607",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 버스",
+    "pronunciation": "keun beoseu",
+    "meaning": "大的公交车",
+    "example": "오늘 \"큰 버스\"를 배워요.",
+    "exampleMeaning": "今天学习“大的公交车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-608",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 기차",
+    "pronunciation": "keun gicha",
+    "meaning": "大的火车",
+    "example": "오늘 \"큰 기차\"를 배워요.",
+    "exampleMeaning": "今天学习“大的火车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-609",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 자전거",
+    "pronunciation": "keun jajeongeo",
+    "meaning": "大的自行车",
+    "example": "오늘 \"큰 자전거\"를 배워요.",
+    "exampleMeaning": "今天学习“大的自行车”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-610",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "큰 비행기",
+    "pronunciation": "keun bihaenggi",
+    "meaning": "大的飞机",
+    "example": "오늘 \"큰 비행기\"를 배워요.",
+    "exampleMeaning": "今天学习“大的飞机”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-611",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "작은 사람",
+    "pronunciation": "jageun saram",
+    "meaning": "小的人",
+    "example": "오늘 \"작은 사람\"를 배워요.",
+    "exampleMeaning": "今天学习“小的人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-612",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "작은 남자",
+    "pronunciation": "jageun namja",
+    "meaning": "小的男人",
+    "example": "오늘 \"작은 남자\"를 배워요.",
+    "exampleMeaning": "今天学习“小的男人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-613",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "작은 여자",
+    "pronunciation": "jageun yeoja",
+    "meaning": "小的女人",
+    "example": "오늘 \"작은 여자\"를 배워요.",
+    "exampleMeaning": "今天学习“小的女人”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-614",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "작은 아이",
+    "pronunciation": "jageun ai",
+    "meaning": "小的孩子",
+    "example": "오늘 \"작은 아이\"를 배워요.",
+    "exampleMeaning": "今天学习“小的孩子”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-615",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "작은 소년",
+    "pronunciation": "jageun sonyeon",
+    "meaning": "小的男孩",
+    "example": "오늘 \"작은 소년\"를 배워요.",
+    "exampleMeaning": "今天学习“小的男孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-616",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "작은 소녀",
+    "pronunciation": "jageun sonyeo",
+    "meaning": "小的女孩",
+    "example": "오늘 \"작은 소녀\"를 배워요.",
+    "exampleMeaning": "今天学习“小的女孩”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-617",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "작은 친구",
+    "pronunciation": "jageun chingu",
+    "meaning": "小的朋友",
+    "example": "오늘 \"작은 친구\"를 배워요.",
+    "exampleMeaning": "今天学习“小的朋友”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-618",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "작은 선생님",
+    "pronunciation": "jageun seonsaengnim",
+    "meaning": "小的老师",
+    "example": "오늘 \"작은 선생님\"를 배워요.",
+    "exampleMeaning": "今天学习“小的老师”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-619",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "작은 학생",
+    "pronunciation": "jageun haksaeng",
+    "meaning": "小的学生",
+    "example": "오늘 \"작은 학생\"를 배워요.",
+    "exampleMeaning": "今天学习“小的学生”。",
+    "tags": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "ko-beginner-620",
+    "language": "ko",
+    "level": "Beginner",
+    "word": "작은 의사",
+    "pronunciation": "jageun uisa",
+    "meaning": "小的医生",
+    "example": "오늘 \"작은 의사\"를 배워요.",
+    "exampleMeaning": "今天学习“小的医生”。",
+    "tags": [
+      "phrase"
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/vocab/vocab",
+    "pages/words/words",
+    "pages/review/review",
+    "pages/chat/chat",
+    "pages/profile/profile",
+    "pages/language/language",
+    "pages/word-detail/word-detail"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationStyle": "custom",
+    "backgroundColor": "#F7F8FA"
+  },
+  "tabBar": {
+    "color": "#98A2B3",
+    "selectedColor": "#2563EB",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/vocab/vocab",
+        "text": "生词"
+      },
+      {
+        "pagePath": "pages/review/review",
+        "text": "复习"
+      },
+      {
+        "pagePath": "pages/chat/chat",
+        "text": "AI"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "text": "我的"
+      }
+    ]
+  },
+  "style": "v2",
+  "rendererOptions": {
+    "skyline": {
+      "defaultDisplayBlock": true,
+      "disableABTest": true,
+      "sdkVersionBegin": "3.0.0",
+      "sdkVersionEnd": "15.255.255"
+    }
+  },
+  "componentFramework": "glass-easel",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}
