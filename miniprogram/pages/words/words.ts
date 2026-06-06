@@ -5,6 +5,10 @@ import { getCurrentLanguage, setCurrentLanguage } from '../../utils/storage'
 
 type WordFilter = 'all' | 'unlearned' | 'learned' | 'favorite'
 
+type DisplayWord = WordWithState & {
+  iconAsset?: string
+}
+
 interface FilterOption {
   label: string
   value: WordFilter
@@ -12,9 +16,9 @@ interface FilterOption {
 }
 
 interface WordsData {
-  words: WordWithState[]
-  filteredWords: WordWithState[]
-  visibleWords: WordWithState[]
+  words: DisplayWord[]
+  filteredWords: DisplayWord[]
+  visibleWords: DisplayWord[]
   skeletonRows: number[]
   isLoading: boolean
   keyword: string
@@ -35,7 +39,22 @@ const defaultFilters: FilterOption[] = [
   { label: '收藏', value: 'favorite', count: 0 },
 ]
 
-function filterWords(words: WordWithState[], keyword: string, activeFilter: WordFilter) {
+const wordIconAssets: Record<string, string> = {
+  apple: '/assets/candy/apple.png',
+  book: '/assets/candy/book.png',
+  cat: '/assets/candy/cat.png',
+  dog: '/assets/candy/dog.png',
+  egg: '/assets/candy/egg.png',
+}
+
+function decorateWords(words: WordWithState[]): DisplayWord[] {
+  return words.map((word) => ({
+    ...word,
+    iconAsset: wordIconAssets[word.word.toLowerCase()],
+  }))
+}
+
+function filterWords(words: DisplayWord[], keyword: string, activeFilter: WordFilter) {
   const text = keyword.trim().toLowerCase()
   return words.filter((word) => {
     const matchedKeyword = !text
@@ -51,7 +70,7 @@ function filterWords(words: WordWithState[], keyword: string, activeFilter: Word
   })
 }
 
-function buildFilters(words: WordWithState[]): FilterOption[] {
+function buildFilters(words: DisplayWord[]): FilterOption[] {
   return defaultFilters.map((filter) => {
     if (filter.value === 'learned') return { ...filter, count: words.filter((word) => word.isLearned).length }
     if (filter.value === 'unlearned') return { ...filter, count: words.filter((word) => !word.isLearned).length }
@@ -60,7 +79,7 @@ function buildFilters(words: WordWithState[]): FilterOption[] {
   })
 }
 
-function getSummaryText(words: WordWithState[]) {
+function getSummaryText(words: DisplayWord[]) {
   const learned = words.filter((word) => word.isLearned).length
   const favorite = words.filter((word) => word.isFavorite).length
   return `共 ${words.length} 个词，已掌握 ${learned} 个，收藏 ${favorite} 个`
@@ -127,7 +146,7 @@ Component({
 
       const language = getCurrentLanguage()
       const option = getLanguageOption(language)
-      const words = getWords(language)
+      const words = decorateWords(getWords(language))
       const filteredWords = filterWords(words, this.data.keyword, this.data.activeFilter)
       this.setData({
         words,

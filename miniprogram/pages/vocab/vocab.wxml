@@ -6,7 +6,9 @@
       <text class="title">待复习</text>
       <text class="subtitle">{{languageName}} · 本地保存 {{words.length}} 个生词</text>
     </view>
-    <view class="book-icon">★</view>
+    <view class="book-icon">
+      <image class="book-image" src="/assets/candy/book.png" mode="aspectFit"></image>
+    </view>
   </view>
 
   <view class="stats-panel">

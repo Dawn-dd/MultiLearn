@@ -35,7 +35,10 @@
   <scroll-view wx:if="{{!isLoading}}" class="word-scroll" scroll-y type="list" lower-threshold="120" bindscrolltolower="loadMore">
     <view class="word-list">
       <view wx:for="{{visibleWords}}" wx:key="id" class="word-card" data-id="{{item.id}}" bindtap="goDetail">
-        <view class="word-icon">{{index + 1}}</view>
+        <view class="word-icon">
+          <image wx:if="{{item.iconAsset}}" class="word-icon-image" src="{{item.iconAsset}}" mode="aspectFit"></image>
+          <text wx:else>{{index + 1}}</text>
+        </view>
         <view class="word-main">
           <text class="word">{{item.word}}</text>
           <text class="pronunciation">{{item.pronunciation}}</text>

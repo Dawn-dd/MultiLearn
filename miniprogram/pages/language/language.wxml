@@ -21,7 +21,7 @@
     <view wx:for="{{languages}}" wx:key="code" class="language-card {{item.tone}} {{item.code === selectedLanguage ? 'active' : ''}}" data-code="{{item.code}}" bindtap="selectLanguage">
       <view class="card-bg-letter">{{item.code}}</view>
       <view class="mark">
-        <text>{{item.code}}</text>
+        <image class="language-art" src="{{item.asset}}" mode="aspectFit"></image>
       </view>
       <view class="language-main">
         <view class="language-title-row">

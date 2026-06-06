@@ -3,7 +3,7 @@
 <view class="page candy-page">
   <view class="chat-hero">
     <view class="bot-face">
-      <text>AI</text>
+      <image class="bot-image" src="/assets/candy/robot.png" mode="aspectFit"></image>
     </view>
     <view>
       <text class="hero-title">AI 对话</text>

@@ -8,6 +8,7 @@ interface LanguageCard extends LanguageOption {
   learned: number
   progressPercent: number
   sample: string
+  asset: string
   tone: string
   label: string
 }
@@ -32,6 +33,12 @@ const tones: Record<LanguageCode, string> = {
   ko: 'orange',
 }
 
+const assets: Record<LanguageCode, string> = {
+  en: '/assets/candy/book.png',
+  ja: '/assets/candy/torii.png',
+  ko: '/assets/candy/korean-blocks.png',
+}
+
 function buildLanguageCards(): LanguageCard[] {
   return LANGUAGE_OPTIONS.map((language) => {
     const summary = getVocabularySummary(language.code)
@@ -42,6 +49,7 @@ function buildLanguageCards(): LanguageCard[] {
       learned: stats.learned,
       progressPercent: stats.total === 0 ? 0 : Math.round((stats.learned / stats.total) * 100),
       sample: samples[language.code],
+      asset: assets[language.code],
       tone: tones[language.code],
       label: `${language.code.toUpperCase()} · ${language.level}`,
     }

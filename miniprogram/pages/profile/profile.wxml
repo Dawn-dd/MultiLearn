@@ -4,7 +4,7 @@
   <view class="page candy-page">
     <view class="profile-head">
       <view class="avatar-wrap">
-        <text class="avatar">{{avatarText}}</text>
+        <image class="avatar-image" src="/assets/candy/avatar-girl.png" mode="aspectFit"></image>
       </view>
       <view class="profile-main">
         <text class="title">Dawn</text>
