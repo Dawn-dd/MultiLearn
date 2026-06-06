@@ -1,6 +1,10 @@
 page {
-  background: #f6f8fb;
-  color: #111827;
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at 10% 8%, rgba(255, 192, 213, 0.62) 0, rgba(255, 192, 213, 0) 210rpx),
+    radial-gradient(circle at 92% 18%, rgba(190, 232, 255, 0.72) 0, rgba(190, 232, 255, 0) 230rpx),
+    linear-gradient(180deg, #fff4fa 0%, #f3fbff 56%, #fff7f0 100%);
+  color: #30233d;
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -10,4 +14,67 @@ button::after {
 
 button {
   box-sizing: border-box;
+  border-radius: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+}
+
+input {
+  box-sizing: border-box;
+}
+
+.candy-page {
+  position: relative;
+  min-height: 100vh;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.candy-page::before,
+.candy-page::after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  border-radius: 999rpx;
+  filter: blur(1rpx);
+  opacity: 0.8;
+}
+
+.candy-page::before {
+  width: 180rpx;
+  height: 180rpx;
+  right: -72rpx;
+  top: 138rpx;
+  background: linear-gradient(135deg, rgba(255, 120, 169, 0.24), rgba(255, 238, 129, 0.22));
+}
+
+.candy-page::after {
+  width: 220rpx;
+  height: 220rpx;
+  left: -104rpx;
+  bottom: 140rpx;
+  background: linear-gradient(135deg, rgba(159, 221, 255, 0.28), rgba(200, 175, 255, 0.24));
+}
+
+.candy-bg-image {
+  position: absolute;
+  z-index: -1;
+  pointer-events: none;
+}
+
+.bg-lollipop {
+  right: -48rpx;
+  top: 420rpx;
+  width: 160rpx;
+  height: 190rpx;
+  opacity: 0.56;
+}
+
+.bg-ball {
+  left: -36rpx;
+  bottom: 210rpx;
+  width: 100rpx;
+  height: 100rpx;
+  opacity: 0.48;
 }

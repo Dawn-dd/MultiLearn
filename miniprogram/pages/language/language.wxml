@@ -1,6 +1,6 @@
-<navigation-bar title="语言选择" color="#172033" background="#F7F8FA"></navigation-bar>
+<navigation-bar title="语言选择" color="#30233D" background="#FFF9FC"></navigation-bar>
 
-<view class="page">
+<view class="page candy-page">
   <view class="intro">
     <text class="title">选择你今天要学习的语言</text>
     <text class="subtitle">每种语言先从入门词库开始，进度保存在本地。</text>
@@ -8,25 +8,28 @@
 
   <view wx:if="{{isLoading}}" class="language-list">
     <view wx:for="{{skeletonRows}}" wx:key="*this" class="language-card skeleton-card">
-      <view class="skeleton-avatar"></view>
+      <view class="skeleton-mark"></view>
       <view class="language-main">
         <view class="skeleton-line title-line"></view>
         <view class="skeleton-line desc-line"></view>
         <view class="skeleton-line progress-line"></view>
       </view>
-      <view class="skeleton-sample"></view>
     </view>
   </view>
 
   <view wx:if="{{!isLoading}}" class="language-list">
     <view wx:for="{{languages}}" wx:key="code" class="language-card {{item.tone}} {{item.code === selectedLanguage ? 'active' : ''}}" data-code="{{item.code}}" bindtap="selectLanguage">
+      <view class="card-bg-letter">{{item.code}}</view>
       <view class="mark">
         <text>{{item.code}}</text>
       </view>
       <view class="language-main">
         <view class="language-title-row">
-          <text class="name">{{item.name}}</text>
-          <text class="level">{{item.label}}</text>
+          <view>
+            <text class="name">{{item.name}}</text>
+            <text class="level">{{item.label}}</text>
+          </view>
+          <text class="check">{{item.code === selectedLanguage ? '✓' : ''}}</text>
         </view>
         <text class="description">{{item.description}}</text>
         <view class="progress-row">

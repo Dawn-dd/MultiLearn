@@ -1,6 +1,6 @@
-<navigation-bar title="复习" back="{{false}}" color="#172033" background="#F7F8FA"></navigation-bar>
+<navigation-bar title="复习" back="{{false}}" color="#30233D" background="#FFF9FC"></navigation-bar>
 
-<view class="page">
+<view class="page candy-page">
   <view class="top-line">
     <view>
       <text class="title">复习卡片</text>
@@ -14,6 +14,8 @@
   </view>
 
   <view wx:if="{{currentWord && !completed}}" class="card" bindtap="toggleAnswer">
+    <view class="stripe"></view>
+    <view class="star">★</view>
     <view class="card-head">
       <text class="hint">{{showAnswer ? '释义与例句' : '点击卡片查看答案'}}</text>
       <text class="tag">{{currentWord.isFavorite ? '生词' : currentWord.level}}</text>
@@ -37,6 +39,7 @@
   <button wx:if="{{currentWord && !completed}}" class="detail-button" bindtap="goDetail">查看详情</button>
 
   <view wx:if="{{completed && !isEmpty}}" class="done">
+    <text class="done-icon">✓</text>
     <text class="done-title">这一轮复习完成</text>
     <text class="done-subtitle">认识 {{rememberedCount}} 个，不认识 {{difficultCount}} 个。</text>
     <view class="done-actions">
@@ -46,6 +49,7 @@
   </view>
 
   <view wx:if="{{isEmpty}}" class="done">
+    <text class="done-icon">?</text>
     <text class="done-title">还没有可复习的单词</text>
     <text class="done-subtitle">先去单词列表学习，或者把难词加入生词本。</text>
     <view class="done-actions">

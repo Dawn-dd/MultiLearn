@@ -1,57 +1,60 @@
-<navigation-bar title="MultiLearn" back="{{false}}" color="#172033" background="#F7F8FA"></navigation-bar>
+<navigation-bar title="" back="{{false}}" color="#30233D" background="#FFF9FC"></navigation-bar>
 
 <scroll-view class="page-scroll" scroll-y type="list">
-  <view class="page">
-    <view class="hello">
-      <view>
-        <text class="hello-title">Hi, Dawn</text>
-        <text class="hello-subtitle">{{todayText}}，今天继续完成 15 分钟学习</text>
-      </view>
+  <view class="page candy-page">
+    <image class="candy-bg-image bg-lollipop" src="/assets/candy/lollipop.png" mode="aspectFit"></image>
+    <image class="candy-bg-image bg-ball" src="/assets/candy/candy-ball.png" mode="aspectFit"></image>
+
+    <view class="home-head">
+      <text class="logo-text">MultiLearn</text>
       <button class="switch-button" bindtap="goLanguage">切换</button>
     </view>
 
     <view class="hero-card">
-      <text class="brand">MultiLearn</text>
-      <text class="hero-copy">{{language.name}} {{language.level}} · {{language.nativeName}}</text>
-      <view class="hero-progress-row">
-        <view class="hero-track">
-          <view class="hero-fill" style="width: {{progressPercent}}%;"></view>
-        </view>
-        <text class="hero-percent">{{progressPercent}}%</text>
+      <view class="hero-copy">
+        <text class="brand">MultiLearn</text>
+        <text class="hero-title">今天也要加油学习呀！</text>
+        <text class="hero-subtitle">{{todayText}} · {{language.name}} {{language.level}} · {{language.nativeName}}</text>
       </view>
+      <image class="hero-mascot" src="/assets/candy/hero-mascot.png" mode="aspectFit"></image>
+      <view class="candy-dot dot-one"></view>
+      <view class="candy-dot dot-two"></view>
     </view>
 
-    <view class="language-grid">
-      <view class="language-quick blue {{language.code === 'en' ? 'active' : ''}}" data-code="en" bindtap="goWords">
-        <text class="quick-title">英语</text>
-        <text class="quick-subtitle">A1 词库</text>
+    <view class="progress-card">
+      <view class="progress-head">
+        <view class="progress-badge">
+          <text class="progress-number">{{progressPercent}}%</text>
+          <text class="progress-label">已完成</text>
+        </view>
+        <view>
+          <text class="card-title">今日学习进度</text>
+          <text class="card-subtitle">学习单词 {{stats.learned}} / {{stats.total}}</text>
+          <text class="card-subtitle">学习时长 15 分钟</text>
+        </view>
       </view>
-      <view class="language-quick pink {{language.code === 'ja' ? 'active' : ''}}" data-code="ja" bindtap="goWords">
-        <text class="quick-title">日语</text>
-        <text class="quick-subtitle">N5 入门</text>
-      </view>
-      <view class="language-quick orange {{language.code === 'ko' ? 'active' : ''}}" data-code="ko" bindtap="goWords">
-        <text class="quick-title">韩语</text>
-        <text class="quick-subtitle">Beginner</text>
-      </view>
+      <button class="primary-button" bindtap="goWords">开始学习</button>
     </view>
 
     <view class="section-head">
       <text class="section-title">今日任务</text>
-      <text class="section-meta">{{stats.learned}} / {{stats.total}}</text>
+      <text class="section-meta">糖果清单</text>
     </view>
 
     <view class="task-list">
       <view wx:for="{{tasks}}" wx:key="title" class="task-card {{item.type}}" data-target="{{item.target}}" bindtap="goTask">
-        <view class="task-dot"></view>
-        <text class="task-title">{{item.title}}</text>
-        <text class="task-value">{{item.value}}</text>
+        <view class="task-icon"></view>
+        <view class="task-main">
+          <text class="task-title">{{item.title}}</text>
+          <text class="task-value">{{item.value}}</text>
+        </view>
+        <text class="task-arrow">›</text>
       </view>
     </view>
 
     <view class="next-card" bindtap="goNextWord">
-      <view class="section-head compact">
-        <text class="section-title">{{nextWord ? '下一张词卡' : '开始复习'}}</text>
+      <view class="next-header">
+        <text class="section-title">{{nextWord ? '下一颗单词糖' : '开始复习'}}</text>
         <text class="section-meta">{{language.name}}</text>
       </view>
       <view wx:if="{{nextWord}}" class="next-content">
@@ -74,7 +77,8 @@
 
     <view wx:if="{{previewWords.length > 0}}" class="word-list">
       <view wx:for="{{previewWords}}" wx:key="id" class="word-card" data-id="{{item.id}}" bindtap="goWordDetail">
-        <view>
+        <view class="word-avatar">{{index + 1}}</view>
+        <view class="word-card-main">
           <text class="word-card-title">{{item.word}}</text>
           <text class="word-card-subtitle">{{item.pronunciation}}</text>
         </view>

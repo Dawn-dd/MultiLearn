@@ -1,10 +1,12 @@
-<navigation-bar title="我的" back="{{false}}" color="#172033" background="#F7F8FA"></navigation-bar>
+<navigation-bar title="我的" back="{{false}}" color="#30233D" background="#FFF9FC"></navigation-bar>
 
 <scroll-view class="page-scroll" scroll-y type="list">
-  <view class="page">
+  <view class="page candy-page">
     <view class="profile-head">
-      <text class="avatar">{{avatarText}}</text>
-      <view>
+      <view class="avatar-wrap">
+        <text class="avatar">{{avatarText}}</text>
+      </view>
+      <view class="profile-main">
         <text class="title">Dawn</text>
         <text class="subtitle">本地学习数据 · 自用版</text>
         <text class="subtitle">{{language.name}} {{language.level}} · AI 后端{{backendStatus}}</text>
@@ -15,15 +17,15 @@
       <text class="section-title">本周学习</text>
       <view class="stats-grid">
         <view class="stat">
-          <text class="number blue">{{stats.learned}}</text>
+          <text class="number pink">{{stats.learned}}</text>
           <text class="label">已学</text>
         </view>
         <view class="stat">
-          <text class="number green">{{stats.favorites}}</text>
+          <text class="number purple">{{stats.favorites}}</text>
           <text class="label">生词</text>
         </view>
         <view class="stat">
-          <text class="number orange">{{stats.reviewed}}</text>
+          <text class="number green">{{stats.reviewed}}</text>
           <text class="label">复习</text>
         </view>
       </view>
@@ -42,19 +44,23 @@
 
     <view class="menu">
       <view class="menu-item" bindtap="goLanguage">
-        <text>学习进度</text>
+        <text class="menu-icon pink">▣</text>
+        <text class="menu-text">学习进度</text>
         <text class="value">{{language.name}} {{language.level}}</text>
       </view>
       <view class="menu-item" bindtap="exportData">
-        <text>导出学习数据</text>
+        <text class="menu-icon yellow">⇩</text>
+        <text class="menu-text">导出学习数据</text>
         <text class="value">复制 JSON</text>
       </view>
       <view class="menu-item" bindtap="confirmClearChat">
-        <text>清空 AI 对话</text>
+        <text class="menu-icon purple">AI</text>
+        <text class="menu-text">清空 AI 对话</text>
         <text class="value">{{chatCount}} 条</text>
       </view>
       <view class="menu-item danger" bindtap="confirmClear">
-        <text>清空本地学习数据</text>
+        <text class="menu-icon red">!</text>
+        <text class="menu-text">清空本地学习数据</text>
         <text class="value">谨慎操作</text>
       </view>
     </view>

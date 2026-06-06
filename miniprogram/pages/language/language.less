@@ -1,203 +1,248 @@
 page {
-  background: #f7f8fa;
+  background: #fff3f8;
 }
 
 .page {
-  min-height: calc(100vh - 50px);
-  padding: 36rpx 28rpx 56rpx;
+  min-height: 100vh;
+  padding: 30rpx 28rpx 56rpx;
   box-sizing: border-box;
 }
 
-.title {
+.intro {
+  padding: 12rpx 6rpx 8rpx;
+}
+
+.eyebrow,
+.title,
+.subtitle,
+.name,
+.native,
+.description,
+.sample,
+.progress-text {
   display: block;
-  color: #172033;
-  font-size: 44rpx;
-  font-weight: 700;
+}
+
+.eyebrow {
+  color: #ff5f9e;
+  font-size: 22rpx;
+  font-weight: 800;
+  letter-spacing: 0;
+}
+
+.title {
+  width: 560rpx;
+  margin-top: 12rpx;
+  color: #30233d;
+  font-size: 42rpx;
+  font-weight: 800;
+  line-height: 1.22;
 }
 
 .subtitle {
-  display: block;
   margin-top: 16rpx;
-  color: #667085;
+  color: #8d829c;
   font-size: 26rpx;
-  line-height: 1.5;
+  line-height: 1.55;
 }
 
 .language-list {
   display: flex;
   flex-direction: column;
   gap: 22rpx;
-  margin-top: 40rpx;
+  margin-top: 28rpx;
 }
 
 .language-card {
+  position: relative;
   display: flex;
-  align-items: center;
   gap: 22rpx;
-  min-height: 196rpx;
-  padding: 26rpx;
-  border: 2rpx solid #e5e7eb;
-  border-radius: 32rpx;
-  background: #ffffff;
+  min-height: 184rpx;
+  padding: 28rpx 26rpx;
+  overflow: hidden;
+  border: 4rpx solid rgba(255, 255, 255, 0.9);
+  border-radius: 34rpx;
+  box-shadow: 0 20rpx 42rpx rgba(111, 86, 127, 0.12);
   box-sizing: border-box;
 }
 
+.language-card.blue {
+  background: linear-gradient(135deg, #ffddea 0%, #fff7fb 58%, #ffeef6 100%);
+}
+
+.language-card.pink {
+  background: linear-gradient(135deg, #e1f9df 0%, #f9fff7 62%, #eafbe9 100%);
+}
+
+.language-card.orange {
+  background: linear-gradient(135deg, #d9efff 0%, #f8fcff 62%, #e8f6ff 100%);
+}
+
 .language-card.active {
-  border-color: #2563eb;
+  border-color: #ff8dbc;
+  transform: translateY(-2rpx);
+  box-shadow: 0 24rpx 48rpx rgba(255, 95, 158, 0.22);
 }
 
-.skeleton-card {
-  border-color: #e5e7eb;
-}
-
-.skeleton-avatar,
-.skeleton-line,
-.skeleton-sample {
-  border-radius: 99rpx;
-  background: #eef2f7;
-}
-
-.skeleton-avatar {
-  flex: none;
-  width: 92rpx;
-  height: 92rpx;
-  border-radius: 50%;
-}
-
-.skeleton-line.title-line {
-  width: 260rpx;
-  height: 34rpx;
-}
-
-.skeleton-line.desc-line {
-  width: 360rpx;
-  max-width: 100%;
-  height: 26rpx;
-  margin-top: 18rpx;
-}
-
-.skeleton-line.progress-line {
-  width: 300rpx;
-  max-width: 90%;
-  height: 18rpx;
-  margin-top: 24rpx;
-}
-
-.skeleton-sample {
-  flex: none;
-  width: 120rpx;
-  height: 30rpx;
-}
-
-.mark {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex: none;
-  width: 92rpx;
-  height: 92rpx;
-  border-radius: 50%;
-  color: #2563eb;
-  background: #dbeafe;
-  font-size: 24rpx;
-  font-weight: 700;
+.card-bg-letter {
+  position: absolute;
+  right: 36rpx;
+  top: 24rpx;
+  color: rgba(255, 95, 158, 0.15);
+  font-size: 118rpx;
+  font-weight: 900;
   text-transform: uppercase;
 }
 
-.language-card.pink .mark {
-  color: #ec4899;
-  background: #fce7f3;
+.mark {
+  position: relative;
+  z-index: 1;
+  flex: none;
+  width: 96rpx;
+  height: 96rpx;
+  border-radius: 32rpx;
+  background: rgba(255, 255, 255, 0.76);
+  box-shadow: inset 0 -8rpx 0 rgba(255, 95, 158, 0.08);
 }
 
-.language-card.orange .mark {
-  color: #f59e0b;
-  background: #fef3c7;
+.mark text {
+  display: block;
+  line-height: 96rpx;
+  color: #ff5f9e;
+  font-size: 28rpx;
+  font-weight: 900;
+  text-align: center;
+  text-transform: uppercase;
 }
 
 .language-main {
+  position: relative;
+  z-index: 1;
   flex: 1;
-  min-width: 0;
 }
 
 .language-title-row {
   display: flex;
-  align-items: center;
-  gap: 14rpx;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 18rpx;
 }
 
 .name {
-  color: #172033;
-  font-size: 36rpx;
-  font-weight: 700;
+  color: #30233d;
+  font-size: 34rpx;
+  font-weight: 800;
 }
 
-.level {
-  padding: 6rpx 14rpx;
-  border-radius: 99rpx;
-  background: #eef2ff;
-  color: #2563eb;
+.native {
+  margin-top: 4rpx;
+  color: #8d829c;
   font-size: 22rpx;
-  font-weight: 600;
+}
+
+.check {
+  flex: none;
+  width: 44rpx;
+  height: 44rpx;
+  line-height: 44rpx;
+  border-radius: 50%;
+  background: #ff5f9e;
+  color: #ffffff;
+  font-size: 28rpx;
+  font-weight: 800;
+  text-align: center;
 }
 
 .description {
-  display: block;
-  margin-top: 12rpx;
-  color: #667085;
-  font-size: 25rpx;
-}
-
-.sample {
-  flex: none;
-  max-width: 170rpx;
-  color: #2563eb;
-  text-align: right;
-  font-size: 28rpx;
-  font-weight: 700;
-}
-
-.language-card.pink .sample {
-  color: #ec4899;
-}
-
-.language-card.orange .sample {
-  color: #f59e0b;
+  width: 360rpx;
+  margin-top: 14rpx;
+  color: #756a83;
+  font-size: 24rpx;
+  line-height: 1.45;
 }
 
 .progress-row {
   display: flex;
   align-items: center;
   gap: 16rpx;
-  margin-top: 20rpx;
+  margin-top: 18rpx;
 }
 
 .progress-track {
   flex: 1;
   height: 12rpx;
   overflow: hidden;
-  border-radius: 99rpx;
-  background: #e5e7eb;
+  border-radius: 999rpx;
+  background: rgba(255, 255, 255, 0.78);
 }
 
 .progress-fill {
   height: 100%;
-  border-radius: 99rpx;
-  background: #10b981;
+  border-radius: 999rpx;
+  background: linear-gradient(90deg, #ff6fa8, #ffcf5a);
 }
 
 .progress-text {
   flex: none;
-  color: #667085;
-  font-size: 23rpx;
+  color: #8d829c;
+  font-size: 22rpx;
+  font-weight: 700;
+}
+
+.sample {
+  position: absolute;
+  right: 28rpx;
+  bottom: 22rpx;
+  color: rgba(48, 35, 61, 0.38);
+  font-size: 22rpx;
+  font-weight: 700;
 }
 
 .start-button {
-  height: 88rpx;
-  line-height: 88rpx;
-  margin: 48rpx 0 0;
-  border-radius: 20rpx;
-  background: #2563eb;
+  position: fixed;
+  left: 28rpx;
+  right: 28rpx;
+  bottom: calc(36rpx + env(safe-area-inset-bottom));
+  height: 90rpx;
+  line-height: 90rpx;
+  border-radius: 999rpx;
+  background: linear-gradient(90deg, #ff78ad, #ff4f90);
   color: #ffffff;
   font-size: 30rpx;
-  font-weight: 700;
+  font-weight: 800;
+  box-shadow: 0 18rpx 34rpx rgba(255, 79, 144, 0.28);
+}
+
+.skeleton-card {
+  background: rgba(255, 255, 255, 0.88);
+}
+
+.skeleton-mark,
+.skeleton-line {
+  border-radius: 999rpx;
+  background: linear-gradient(90deg, #fff0f7, #ffffff, #fff0f7);
+}
+
+.skeleton-mark {
+  width: 96rpx;
+  height: 96rpx;
+  border-radius: 32rpx;
+}
+
+.skeleton-line {
+  height: 22rpx;
+  margin-top: 16rpx;
+}
+
+.title-line {
+  width: 230rpx;
+  margin-top: 8rpx;
+}
+
+.desc-line {
+  width: 330rpx;
+}
+
+.progress-line {
+  width: 260rpx;
 }

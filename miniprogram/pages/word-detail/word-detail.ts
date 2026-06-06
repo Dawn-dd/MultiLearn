@@ -15,6 +15,7 @@ Component({
     statusText: '未掌握',
     favoriteText: '加入生词本',
     reviewText: '还没有复习',
+    detailInitial: '',
   },
 
   methods: {
@@ -30,6 +31,7 @@ Component({
         statusText: word?.isLearned ? '已掌握' : '未掌握',
         favoriteText: word?.isFavorite ? '移出生词本' : '加入生词本',
         reviewText: word ? formatTime(word.lastReviewedAt) : '还没有复习',
+        detailInitial: word?.word.slice(0, 1).toUpperCase() || '',
       })
     },
     markLearned() {

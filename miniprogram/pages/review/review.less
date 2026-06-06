@@ -1,10 +1,10 @@
 page {
-  background: #f7f8fa;
+  background: #fff3f8;
 }
 
 .page {
-  min-height: calc(100vh - 50px);
-  padding: 28rpx;
+  min-height: 100vh;
+  padding: 26rpx 28rpx 140rpx;
   box-sizing: border-box;
 }
 
@@ -17,123 +17,179 @@ page {
   justify-content: space-between;
 }
 
+.eyebrow,
 .title,
+.source,
+.counter,
+.hint,
+.tag,
 .word,
-.done-title {
+.pronunciation,
+.meaning,
+.example,
+.example-meaning,
+.tap-hint,
+.done-icon,
+.done-title,
+.done-subtitle {
   display: block;
-  color: #172033;
-  font-weight: 700;
+}
+
+.eyebrow {
+  color: #ff5f9e;
+  font-size: 22rpx;
+  font-weight: 900;
 }
 
 .title {
-  font-size: 44rpx;
-}
-
-.source,
-.hint,
-.pronunciation,
-.tap-hint,
-.example-meaning,
-.done-subtitle {
-  display: block;
-  color: #667085;
+  margin-top: 8rpx;
+  color: #30233d;
+  font-size: 42rpx;
+  font-weight: 900;
 }
 
 .source {
-  margin-top: 10rpx;
-  font-size: 26rpx;
+  margin-top: 8rpx;
+  color: #8d829c;
+  font-size: 24rpx;
 }
 
 .counter {
-  color: #2563eb;
-  font-size: 28rpx;
-  font-weight: 700;
+  height: 56rpx;
+  line-height: 56rpx;
+  padding: 0 22rpx;
+  border-radius: 999rpx;
+  background: rgba(255, 255, 255, 0.9);
+  color: #8d829c;
+  font-size: 24rpx;
+  font-weight: 800;
+  box-shadow: 0 12rpx 24rpx rgba(111, 86, 127, 0.08);
 }
 
 .progress-track {
-  height: 16rpx;
-  margin-top: 28rpx;
+  height: 14rpx;
+  margin-top: 24rpx;
   overflow: hidden;
-  border-radius: 99rpx;
-  background: #e5e7eb;
+  border-radius: 999rpx;
+  background: rgba(255, 255, 255, 0.84);
 }
 
 .progress-fill {
   height: 100%;
-  border-radius: 99rpx;
-  background: #2563eb;
+  border-radius: 999rpx;
+  background: linear-gradient(90deg, #70d66e, #b4f074);
 }
 
 .card {
-  min-height: 520rpx;
-  margin-top: 42rpx;
-  padding: 36rpx;
-  border: 1rpx solid #e5e7eb;
-  border-radius: 40rpx;
-  background: #ffffff;
+  position: relative;
+  min-height: 560rpx;
+  margin-top: 34rpx;
+  padding: 34rpx;
+  overflow: hidden;
+  border: 10rpx solid #ffc5dc;
+  border-radius: 44rpx;
+  background:
+    radial-gradient(circle at 82% 18%, rgba(255, 255, 255, 0.9) 0, rgba(255, 255, 255, 0) 112rpx),
+    linear-gradient(180deg, #fffdfd 0%, #fff8fb 100%);
+  box-shadow: 0 24rpx 54rpx rgba(255, 95, 158, 0.22);
   box-sizing: border-box;
 }
 
+.stripe {
+  position: absolute;
+  left: -20rpx;
+  right: -20rpx;
+  top: 0;
+  height: 72rpx;
+  background: repeating-linear-gradient(135deg, #ffc1d8 0, #ffc1d8 22rpx, #fff1f7 22rpx, #fff1f7 44rpx);
+}
+
+.star {
+  position: absolute;
+  right: 28rpx;
+  top: 56rpx;
+  width: 74rpx;
+  height: 74rpx;
+  line-height: 74rpx;
+  border-radius: 24rpx;
+  background: #ffe875;
+  color: #ffffff;
+  font-size: 36rpx;
+  text-align: center;
+  box-shadow: 0 14rpx 26rpx rgba(255, 205, 79, 0.28);
+}
+
+.card-head {
+  position: relative;
+  z-index: 1;
+  margin-top: 54rpx;
+}
+
 .hint {
-  font-size: 25rpx;
+  color: #b09cae;
+  font-size: 23rpx;
+  font-weight: 800;
 }
 
 .tag {
-  padding: 8rpx 18rpx;
-  border-radius: 99rpx;
-  color: #2563eb;
-  background: #dbeafe;
-  font-size: 23rpx;
-  font-weight: 600;
+  height: 46rpx;
+  line-height: 46rpx;
+  padding: 0 18rpx;
+  border-radius: 999rpx;
+  background: #fff0f7;
+  color: #ff5f9e;
+  font-size: 22rpx;
+  font-weight: 900;
 }
 
 .word {
-  margin-top: 76rpx;
+  margin-top: 116rpx;
+  color: #241a31;
+  font-size: 58rpx;
+  font-weight: 900;
   text-align: center;
-  font-size: 78rpx;
-  line-height: 1.1;
 }
 
 .pronunciation {
-  margin-top: 18rpx;
-  text-align: center;
-  color: #2563eb;
-  font-size: 30rpx;
-  font-weight: 600;
-}
-
-.tap-hint {
-  margin-top: 80rpx;
-  text-align: center;
+  margin-top: 12rpx;
+  color: #9b8eaa;
   font-size: 28rpx;
+  text-align: center;
 }
 
 .answer {
-  margin-top: 46rpx;
-  padding-top: 34rpx;
-  border-top: 1rpx solid #e5e7eb;
+  margin-top: 42rpx;
+  padding: 28rpx;
+  border-radius: 28rpx;
+  background: #fff6fa;
 }
 
 .meaning {
-  display: block;
-  color: #172033;
-  text-align: center;
+  color: #30233d;
   font-size: 34rpx;
-  font-weight: 700;
+  font-weight: 800;
+  text-align: center;
 }
 
 .example {
-  display: block;
-  margin-top: 30rpx;
-  color: #172033;
-  font-size: 28rpx;
-  line-height: 1.5;
+  margin-top: 22rpx;
+  color: #675c73;
+  font-size: 26rpx;
+  line-height: 1.55;
 }
 
 .example-meaning {
-  margin-top: 12rpx;
-  font-size: 26rpx;
+  margin-top: 10rpx;
+  color: #9b8eaa;
+  font-size: 24rpx;
   line-height: 1.5;
+}
+
+.tap-hint {
+  margin-top: 86rpx;
+  color: #c0b4c8;
+  font-size: 24rpx;
+  text-align: center;
 }
 
 .actions {
@@ -141,59 +197,69 @@ page {
   margin-top: 34rpx;
 }
 
-.action,
-.detail-button,
-.restart,
-.secondary {
-  margin: 0;
-  padding: 0;
-  border-radius: 22rpx;
-  font-size: 30rpx;
-  font-weight: 700;
-}
-
 .action {
   flex: 1;
-  height: 92rpx;
-  line-height: 92rpx;
+  height: 86rpx;
+  line-height: 86rpx;
+  margin: 0;
+  border-radius: 999rpx;
+  color: #ffffff;
+  font-size: 30rpx;
+  font-weight: 900;
 }
 
 .action.weak {
-  color: #ffffff;
-  background: #ef4444;
+  background: linear-gradient(90deg, #ff7f8f, #ff5a7d);
+  box-shadow: 0 16rpx 30rpx rgba(255, 90, 125, 0.23);
 }
 
-.action.strong,
-.restart {
-  color: #ffffff;
-  background: #10b981;
+.action.strong {
+  background: linear-gradient(90deg, #8bdc65, #58c94f);
+  box-shadow: 0 16rpx 30rpx rgba(88, 201, 79, 0.23);
 }
 
 .detail-button {
-  height: 84rpx;
-  line-height: 84rpx;
-  margin-top: 18rpx;
-  color: #172033;
-  background: #ffffff;
-  border: 1rpx solid #e5e7eb;
+  height: 66rpx;
+  line-height: 66rpx;
+  margin: 24rpx auto 0;
+  border-radius: 999rpx;
+  background: rgba(255, 255, 255, 0.9);
+  color: #8d829c;
+  font-size: 25rpx;
 }
 
 .done {
-  margin-top: 70rpx;
-  padding: 46rpx 30rpx;
-  border: 1rpx solid #e5e7eb;
-  border-radius: 32rpx;
-  background: #ffffff;
+  margin-top: 80rpx;
+  padding: 54rpx 34rpx;
+  border-radius: 36rpx;
+  background: rgba(255, 255, 255, 0.94);
   text-align: center;
+  box-shadow: 0 18rpx 40rpx rgba(111, 86, 127, 0.1);
+}
+
+.done-icon {
+  width: 106rpx;
+  height: 106rpx;
+  line-height: 106rpx;
+  margin: 0 auto 22rpx;
+  border-radius: 34rpx;
+  background: linear-gradient(145deg, #ff78ad, #ff4f90);
+  color: #ffffff;
+  font-size: 52rpx;
+  font-weight: 900;
 }
 
 .done-title {
-  font-size: 38rpx;
+  color: #30233d;
+  font-size: 34rpx;
+  font-weight: 900;
 }
 
 .done-subtitle {
   margin-top: 14rpx;
-  font-size: 27rpx;
+  color: #8d829c;
+  font-size: 25rpx;
+  line-height: 1.5;
 }
 
 .done-actions {
@@ -204,12 +270,20 @@ page {
 .restart,
 .secondary {
   flex: 1;
-  height: 84rpx;
-  line-height: 84rpx;
+  height: 78rpx;
+  line-height: 78rpx;
+  margin: 0;
+  border-radius: 999rpx;
+  font-size: 27rpx;
+  font-weight: 800;
+}
+
+.restart {
+  background: #ff5f9e;
+  color: #ffffff;
 }
 
 .secondary {
-  color: #172033;
-  background: #ffffff;
-  border: 1rpx solid #e5e7eb;
+  background: #f1e8ff;
+  color: #8a62e8;
 }

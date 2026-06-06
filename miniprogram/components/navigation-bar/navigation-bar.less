@@ -1,5 +1,5 @@
 .weui-navigation-bar {
-  --weui-FG-0:rgba(0,0,0,.9);
+  --weui-FG-0: #30233d;
   --height: 44px;
   --left: 16px;
 }
@@ -11,6 +11,8 @@
   overflow: hidden;
   color: var(--weui-FG-0);
   flex: none;
+  background: linear-gradient(180deg, rgba(255, 249, 252, 0.98), rgba(255, 249, 252, 0.88));
+  box-shadow: 0 10rpx 28rpx rgba(255, 127, 173, 0.08);
 }
 
 .weui-navigation-bar__inner {
@@ -25,6 +27,7 @@
   padding-top: env(safe-area-inset-top);
   width: 100%;
   box-sizing: border-box;
+  backdrop-filter: blur(12rpx);
 }
 
 .weui-navigation-bar__left {
@@ -40,6 +43,7 @@
 .weui-navigation-bar__btn_goback_wrapper {
   padding: 11px 18px 11px 16px;
   margin: -11px -18px -11px -16px;
+  border-radius: 999rpx;
 }
 
 .weui-navigation-bar__btn_goback_wrapper.weui-active {
@@ -68,6 +72,8 @@
   font-weight: bold;
   flex: 1;
   height: 100%;
+  letter-spacing: 0;
+  color: #30233d;
 }
 
 .weui-navigation-bar__loading {

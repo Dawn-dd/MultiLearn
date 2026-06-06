@@ -12,33 +12,43 @@
   "window": {
     "navigationBarTextStyle": "black",
     "navigationStyle": "custom",
-    "backgroundColor": "#F7F8FA"
+    "backgroundColor": "#FFF3F8"
   },
   "tabBar": {
-    "color": "#98A2B3",
-    "selectedColor": "#2563EB",
-    "backgroundColor": "#FFFFFF",
-    "borderStyle": "black",
+    "color": "#A8A2B6",
+    "selectedColor": "#FF5F9E",
+    "backgroundColor": "#FFF9FC",
+    "borderStyle": "white",
     "list": [
       {
         "pagePath": "pages/index/index",
-        "text": "首页"
+        "text": "首页",
+        "iconPath": "assets/tabbar/home.png",
+        "selectedIconPath": "assets/tabbar/home-active.png"
       },
       {
         "pagePath": "pages/vocab/vocab",
-        "text": "生词"
+        "text": "生词",
+        "iconPath": "assets/tabbar/vocab.png",
+        "selectedIconPath": "assets/tabbar/vocab-active.png"
       },
       {
         "pagePath": "pages/review/review",
-        "text": "复习"
+        "text": "复习",
+        "iconPath": "assets/tabbar/review.png",
+        "selectedIconPath": "assets/tabbar/review-active.png"
       },
       {
         "pagePath": "pages/chat/chat",
-        "text": "AI"
+        "text": "AI",
+        "iconPath": "assets/tabbar/chat.png",
+        "selectedIconPath": "assets/tabbar/chat-active.png"
       },
       {
         "pagePath": "pages/profile/profile",
-        "text": "我的"
+        "text": "我的",
+        "iconPath": "assets/tabbar/profile.png",
+        "selectedIconPath": "assets/tabbar/profile-active.png"
       }
     ]
   },

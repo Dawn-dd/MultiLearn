@@ -1,6 +1,6 @@
-<navigation-bar title="单词" color="#172033" background="#F7F8FA"></navigation-bar>
+<navigation-bar title="单词" color="#30233D" background="#FFF9FC"></navigation-bar>
 
-<view class="page">
+<view class="page candy-page">
   <view class="summary-card">
     <view class="summary-main">
       <text class="summary-title">{{languageName}} {{languageLevel}} 词库</text>
@@ -10,6 +10,7 @@
   </view>
 
   <view class="toolbar">
+    <text class="search-icon">⌕</text>
     <input class="search" placeholder="搜索单词 / 中文释义" value="{{keyword}}" bindinput="onSearch" />
     <button wx:if="{{keyword}}" class="clear-button" bindtap="clearSearch">清空</button>
   </view>
@@ -22,10 +23,10 @@
 
   <view wx:if="{{isLoading}}" class="skeleton-list">
     <view wx:for="{{skeletonRows}}" wx:key="*this" class="skeleton-card">
-      <view>
+      <view class="skeleton-candy"></view>
+      <view class="skeleton-main">
         <view class="skeleton-line title-line"></view>
         <view class="skeleton-line short-line"></view>
-        <view class="skeleton-line medium-line"></view>
       </view>
       <view class="skeleton-pill"></view>
     </view>
@@ -34,6 +35,7 @@
   <scroll-view wx:if="{{!isLoading}}" class="word-scroll" scroll-y type="list" lower-threshold="120" bindscrolltolower="loadMore">
     <view class="word-list">
       <view wx:for="{{visibleWords}}" wx:key="id" class="word-card" data-id="{{item.id}}" bindtap="goDetail">
+        <view class="word-icon">{{index + 1}}</view>
         <view class="word-main">
           <text class="word">{{item.word}}</text>
           <text class="pronunciation">{{item.pronunciation}}</text>
@@ -43,6 +45,7 @@
           <text wx:if="{{item.isFavorite}}" class="tag favorite">生词</text>
           <text wx:elif="{{item.isLearned}}" class="tag learned">已掌握</text>
           <text wx:else class="tag">{{item.level}}</text>
+          <text class="card-arrow">›</text>
         </view>
       </view>
 
