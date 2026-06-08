@@ -10,9 +10,10 @@
         <text class="level">{{word.level}}</text>
         <text class="state {{word.isLearned ? 'learned' : ''}}">{{statusText}}</text>
       </view>
-      <view class="apple-badge">
+      <view class="apple-badge {{detailAsset ? 'with-asset' : ''}}">
         <image class="badge-gloss" src="/assets/candy/candy-ball.png" mode="aspectFit"></image>
-        <text>{{detailInitial}}</text>
+        <image wx:if="{{detailAsset}}" class="detail-asset" src="{{detailAsset}}" mode="aspectFit"></image>
+        <text wx:else>{{detailInitial}}</text>
       </view>
       <text class="word" bindtap="copyWord">{{word.word}}</text>
       <text class="pronunciation">{{word.pronunciation}}</text>

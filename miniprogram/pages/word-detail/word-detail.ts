@@ -2,6 +2,14 @@ import { getNextUnlearnedWord, getWordById } from '../../services/word'
 import { WordWithState } from '../../types/word'
 import { markWordLearned, setPendingChatDraft, toggleFavoriteWord } from '../../utils/storage'
 
+const wordAssetMap: Record<string, string> = {
+  apple: '/assets/candy/apple.png',
+  book: '/assets/candy/book.png',
+  cat: '/assets/candy/cat.png',
+  dog: '/assets/candy/dog.png',
+  egg: '/assets/candy/egg.png',
+}
+
 function formatTime(timestamp?: number) {
   if (!timestamp) return '还没有复习'
   const date = new Date(timestamp)
@@ -16,6 +24,7 @@ Component({
     favoriteText: '加入生词本',
     reviewText: '还没有复习',
     detailInitial: '',
+    detailAsset: '',
   },
 
   methods: {
@@ -32,6 +41,7 @@ Component({
         favoriteText: word?.isFavorite ? '移出生词本' : '加入生词本',
         reviewText: word ? formatTime(word.lastReviewedAt) : '还没有复习',
         detailInitial: word?.word.slice(0, 1).toUpperCase() || '',
+        detailAsset: word ? wordAssetMap[word.word.toLowerCase()] || '' : '',
       })
     },
     markLearned() {

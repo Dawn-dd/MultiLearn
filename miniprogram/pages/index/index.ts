@@ -15,6 +15,7 @@ interface IndexData {
   language: LanguageOption
   stats: StudyStats
   progressPercent: number
+  progressDegree: number
   todayText: string
   nextWord: WordWithState | null
   previewWords: WordWithState[]
@@ -45,6 +46,7 @@ Component({
       reviewed: 0,
     },
     progressPercent: 0,
+    progressDegree: 0,
     todayText: '',
     nextWord: null,
     previewWords: [],
@@ -63,12 +65,14 @@ Component({
       const words = getWords(language.code)
       const stats = getStudyStats(words.length, words.map((word) => word.id))
       const progressPercent = stats.total === 0 ? 0 : Math.round((stats.learned / stats.total) * 100)
+      const progressDegree = Math.round(progressPercent * 3.6)
       const unlearnedWords = words.filter((word) => !word.isLearned)
 
       this.setData({
         language,
         stats,
         progressPercent,
+        progressDegree,
         todayText: getTodayText(),
         nextWord: unlearnedWords[0] || null,
         previewWords: unlearnedWords.slice(0, 3),

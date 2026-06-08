@@ -6,7 +6,9 @@
     <image class="candy-bg-image bg-ball" src="/assets/candy/candy-ball.png" mode="aspectFit"></image>
 
     <view class="home-head">
-      <text class="logo-text">MultiLearn</text>
+      <view class="logo-text" aria-label="MultiLearn">
+        <text class="logo-pink">Multi</text><text class="logo-blue">Learn</text>
+      </view>
       <button class="switch-button" bindtap="goLanguage">切换</button>
     </view>
 
@@ -21,19 +23,21 @@
       <view class="candy-dot dot-two"></view>
     </view>
 
-    <view class="progress-card">
-      <view class="progress-head">
-        <view class="progress-badge">
-          <text class="progress-number">{{progressPercent}}%</text>
-          <text class="progress-label">已完成</text>
+    <view class="progress-frame">
+      <view class="progress-card">
+        <text class="card-title">今日学习进度</text>
+        <view class="progress-body">
+          <view class="progress-badge" style="background: conic-gradient(#ff5f9e 0deg, #ff8dbc {{progressDegree}}deg, #f4eef7 {{progressDegree}}deg);">
+            <text class="progress-number">{{progressPercent}}%</text>
+            <text class="progress-label">已完成</text>
+          </view>
+          <view class="progress-stats">
+            <text class="card-subtitle">学习单词 {{stats.learned}} / {{stats.total}}</text>
+            <text class="card-subtitle">学习时长 15 分钟</text>
+          </view>
         </view>
-        <view>
-          <text class="card-title">今日学习进度</text>
-          <text class="card-subtitle">学习单词 {{stats.learned}} / {{stats.total}}</text>
-          <text class="card-subtitle">学习时长 15 分钟</text>
-        </view>
+        <button class="primary-button" bindtap="goWords">开始学习</button>
       </view>
-      <button class="primary-button" bindtap="goWords">开始学习</button>
     </view>
 
     <view class="section-head">
