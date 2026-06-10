@@ -38,5 +38,8 @@ export const LANGUAGE_OPTIONS: LanguageOption[] = [
   },
 ]
 
-// 替换为阿里云函数计算 HTTP 触发器地址。Qwen API Key 只放后端环境变量。
+// AI 请求走 CloudBase 云函数，混元 API Key 只放云函数环境变量。
 export const API_BASE_URL = ''
+
+// 可填入 CloudBase 环境 ID；留空时使用微信开发者工具当前默认云环境。
+export const CLOUDBASE_ENV_ID = ''

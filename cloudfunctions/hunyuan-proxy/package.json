@@ -1,0 +1,10 @@
+{
+  "name": "hunyuan-proxy",
+  "version": "1.0.0",
+  "description": "CloudBase proxy for Tencent Hunyuan AI requests.",
+  "main": "index.js",
+  "dependencies": {
+    "openai": "^4.104.0",
+    "wx-server-sdk": "^3.0.1"
+  }
+}

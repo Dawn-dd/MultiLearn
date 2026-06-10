@@ -1,10 +1,9 @@
 import { ChatRequest, ChatResponse } from '../types/api'
-import { request } from './request'
+import { chatWithAi } from '../utils/ai'
 
-export function sendChatMessage(data: ChatRequest): Promise<ChatResponse> {
-  return request<ChatResponse, ChatRequest>({
-    url: '/chat',
-    method: 'POST',
-    data,
-  })
+export async function sendChatMessage(data: ChatRequest): Promise<ChatResponse> {
+  const response = await chatWithAi(data.language, data.message, data.history)
+  return {
+    reply: response.data,
+  }
 }

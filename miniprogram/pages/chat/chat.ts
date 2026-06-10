@@ -1,6 +1,6 @@
 import { sendChatMessage } from '../../services/ai'
 import { ChatMessage } from '../../types/storage'
-import { API_BASE_URL, LANGUAGE_OPTIONS } from '../../utils/constants'
+import { LANGUAGE_OPTIONS } from '../../utils/constants'
 import {
   clearChatHistory,
   getChatHistory,
@@ -47,7 +47,7 @@ Component({
       this.setData({
         messages: getChatHistory(),
         languageName: option.name,
-        backendReady: Boolean(API_BASE_URL),
+        backendReady: Boolean(wx.cloud),
         draft: pendingDraft || this.data.draft,
       })
       this.scrollToBottom()
@@ -87,7 +87,7 @@ Component({
         this.appendAssistantMessage(response.reply)
       } catch (error) {
         const message = error instanceof Error ? error.message : '请求失败'
-        this.appendAssistantMessage(`暂时没有连上 AI 后端：${message}。请确认阿里云函数计算 HTTP 地址已配置。`)
+        this.appendAssistantMessage(`暂时没有连上 AI 后端：${message}。请确认 CloudBase 云函数和 HUNYUAN_API_KEY 已配置。`)
       }
     },
     appendAssistantMessage(content: string) {
