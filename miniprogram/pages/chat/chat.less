@@ -5,6 +5,8 @@ page {
 .page {
   height: calc(100vh - 50px);
   padding: 24rpx 24rpx 0;
+  display: flex;
+  flex-direction: column;
   box-sizing: border-box;
   background:
     radial-gradient(circle at 16% 10%, rgba(205, 186, 255, 0.48) 0, rgba(205, 186, 255, 0) 210rpx),
@@ -60,7 +62,8 @@ page {
 }
 
 .message-scroll {
-  height: calc(100vh - 330rpx);
+  flex: 1;
+  min-height: 0;
   margin-top: 20rpx;
 }
 
@@ -68,7 +71,7 @@ page {
   display: flex;
   flex-direction: column;
   gap: 18rpx;
-  padding-bottom: 24rpx;
+  padding-bottom: calc(208rpx + env(safe-area-inset-bottom));
 }
 
 .tips,
@@ -131,6 +134,7 @@ page {
   left: 0;
   right: 0;
   bottom: 0;
+  z-index: 10;
   padding: 18rpx 24rpx calc(18rpx + env(safe-area-inset-bottom));
   background: linear-gradient(180deg, rgba(255, 243, 248, 0), #fff7fb 20%);
   box-sizing: border-box;

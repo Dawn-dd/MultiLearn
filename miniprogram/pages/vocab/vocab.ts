@@ -1,4 +1,4 @@
-import { getFavoriteWords } from '../../services/word'
+import { getFavoriteWords, getTodayReviewWords } from '../../utils/vocab'
 import { WordWithState } from '../../types/word'
 import { LANGUAGE_OPTIONS } from '../../utils/constants'
 import { getCurrentLanguage, toggleFavoriteWord } from '../../utils/storage'
@@ -9,6 +9,7 @@ interface VocabData {
   keyword: string
   languageName: string
   learnedCount: number
+  todayReviewCount: number
 }
 
 function filterWords(words: WordWithState[], keyword: string) {
@@ -28,6 +29,7 @@ Component({
     keyword: '',
     languageName: '英语',
     learnedCount: 0,
+    todayReviewCount: 0,
   } as VocabData,
 
   pageLifetimes: {
@@ -41,11 +43,13 @@ Component({
       const currentLanguage = getCurrentLanguage()
       const language = LANGUAGE_OPTIONS.find((item) => item.code === currentLanguage) || LANGUAGE_OPTIONS[0]
       const words = getFavoriteWords()
+      const todayReviewCount = getTodayReviewWords().filter((word) => word.isFavorite).length
       this.setData({
         words,
         visibleWords: filterWords(words, this.data.keyword),
         languageName: language.name,
         learnedCount: words.filter((word) => word.isLearned).length,
+        todayReviewCount,
       })
     },
     onSearch(event: WechatMiniprogram.CustomEvent<{ value: string }>) {

@@ -1,4 +1,4 @@
-import { getVocabularySummary } from '../../services/word'
+import { getVocabularySummary } from '../../utils/vocab'
 import { LanguageCode, LanguageOption } from '../../types/word'
 import { LANGUAGE_OPTIONS } from '../../utils/constants'
 import { getCurrentLanguage, getStudyStats, setCurrentLanguage } from '../../utils/storage'

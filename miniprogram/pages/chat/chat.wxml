@@ -7,15 +7,15 @@
     </view>
     <view>
       <text class="hero-title">AI 对话</text>
-      <text class="hero-subtitle">{{languageName}} · {{backendReady ? '后端已配置' : '待配置后端'}}</text>
+      <text class="hero-subtitle">{{languageName}}练习助手</text>
     </view>
   </view>
 
   <scroll-view class="message-scroll" scroll-y scroll-into-view="{{scrollTarget}}" type="list">
     <view class="messages">
       <view class="tips">
-        <text class="tips-title">{{languageName}} · {{backendReady ? '后端已配置' : '待配置后端'}}</text>
-        <text class="tips-sub">通过后端函数调用 Qwen，前端不保存 API Key。</text>
+        <text class="tips-title">今天想练什么？</text>
+        <text class="tips-sub">可以练习对话、修改句子、生成例句，或让 AI 帮你复习基础词汇。</text>
       </view>
 
       <view wx:if="{{messages.length === 0}}" class="empty-chat">

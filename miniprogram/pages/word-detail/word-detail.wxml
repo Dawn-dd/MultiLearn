@@ -17,8 +17,26 @@
       </view>
       <text class="word" bindtap="copyWord">{{word.word}}</text>
       <text class="pronunciation">{{word.pronunciation}}</text>
-      <button class="sound-button" bindtap="playAudio">♪</button>
+      <button class="sound-button" bindtap="playAudio">发音</button>
       <text class="meaning-main">{{word.meaning}}</text>
+    </view>
+
+    <view class="section">
+      <text class="section-title">词卡信息</text>
+      <view class="info-grid">
+        <view class="info-item">
+          <text class="info-label">词性</text>
+          <text class="info-value">{{partOfSpeechText}}</text>
+        </view>
+        <view class="info-item">
+          <text class="info-label">上次复习</text>
+          <text class="info-value">{{reviewText}}</text>
+        </view>
+        <view class="info-item wide">
+          <text class="info-label">下次复习</text>
+          <text class="info-value">{{nextReviewText}}</text>
+        </view>
+      </view>
     </view>
 
     <view class="section">
@@ -26,7 +44,7 @@
       <view class="card">
         <view class="card-head">
           <text class="card-label">Example</text>
-          <button class="mini-sound" bindtap="playAudio">♪</button>
+          <button class="mini-sound" bindtap="playAudio">发音</button>
         </view>
         <text class="example">{{word.example}}</text>
         <text class="example-meaning">{{word.exampleMeaning}}</text>
@@ -34,34 +52,22 @@
     </view>
 
     <view class="section">
-      <text class="section-title">词卡记录</text>
-      <view class="status-panel">
-        <view class="status-item">
-          <text class="status-label">生词本</text>
-          <text class="status-value">{{word.isFavorite ? '已加入' : '未加入'}}</text>
-        </view>
-        <view class="status-item">
-          <text class="status-label">复习次数</text>
-          <text class="status-value">{{word.reviewCount}}</text>
-        </view>
-        <view class="status-item">
-          <text class="status-label">上次复习</text>
-          <text class="status-value">{{reviewText}}</text>
-        </view>
+      <text class="section-title">标签</text>
+      <view class="tag-row">
+        <text wx:for="{{word.tags}}" wx:key="*this" class="tag">{{item}}</text>
       </view>
     </view>
 
-    <view class="ai-card" bindtap="askAi">
-      <view>
-        <text class="ai-title">让 AI 继续举例</text>
-        <text class="ai-subtitle">生成更多例句和对话练习</text>
-      </view>
-      <text class="ai-arrow">›</text>
+    <view wx:if="{{aiAnswer}}" class="ai-result">
+      <text class="section-title">AI 解释</text>
+      <text class="ai-answer">{{aiAnswer}}</text>
     </view>
 
     <view class="actions">
       <button class="action vocab {{word.isFavorite ? 'active' : ''}}" bindtap="toggleFavorite">{{favoriteText}}</button>
-      <button class="action primary {{word.isLearned ? 'done' : ''}}" bindtap="markLearned">{{word.isLearned ? '已掌握' : '开始复习'}}</button>
+      <button class="action known" bindtap="markKnown">认识</button>
+      <button class="action unknown" bindtap="markUnknown">不认识</button>
+      <button class="action ai" loading="{{aiLoading}}" bindtap="askAi">AI 解释</button>
     </view>
 
     <button class="next-button" bindtap="goNextWord">下一个单词</button>
@@ -70,6 +76,6 @@
 
 <view wx:else class="empty candy-page">
   <text class="empty-title">没有找到这个单词</text>
-  <text class="empty-subtitle">可能是切换了语言，或者词库数据被调整。</text>
+  <text class="empty-subtitle">可能是切换了语言，或词库数据被调整。</text>
   <button class="empty-button" bindtap="goWords">回单词列表</button>
 </view>

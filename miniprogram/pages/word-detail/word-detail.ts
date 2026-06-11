@@ -1,6 +1,7 @@
-import { getNextUnlearnedWord, getWordById } from '../../services/word'
+import { explainWord } from '../../utils/ai'
+import { getNextUnlearnedWord, getWordById } from '../../utils/vocab'
 import { WordWithState } from '../../types/word'
-import { markWordLearned, setPendingChatDraft, toggleFavoriteWord } from '../../utils/storage'
+import { getCurrentLanguage, recordInitialStudy, toggleFavoriteWord } from '../../utils/storage'
 
 const wordAssetMap: Record<string, string> = {
   apple: '/assets/candy/apple.png',
@@ -10,22 +11,45 @@ const wordAssetMap: Record<string, string> = {
   egg: '/assets/candy/egg.png',
 }
 
-function formatTime(timestamp?: number) {
-  if (!timestamp) return '还没有复习'
+interface WordDetailData {
+  wordId: string
+  word: WordWithState | null
+  statusText: string
+  favoriteText: string
+  reviewText: string
+  nextReviewText: string
+  partOfSpeechText: string
+  detailInitial: string
+  detailAsset: string
+  aiAnswer: string
+  aiLoading: boolean
+}
+
+function formatDate(timestamp?: number) {
+  if (!timestamp) return '暂无记录'
   const date = new Date(timestamp)
   return `${date.getMonth() + 1}月${date.getDate()}日`
+}
+
+function getPartOfSpeechText(word?: WordWithState | null) {
+  if (!word) return '未标注'
+  return word.partOfSpeech || word.tags[0] || '未标注'
 }
 
 Component({
   data: {
     wordId: '',
-    word: null as WordWithState | null,
+    word: null,
     statusText: '未掌握',
     favoriteText: '加入生词本',
-    reviewText: '还没有复习',
+    reviewText: '暂无记录',
+    nextReviewText: '点击认识或不认识后生成',
+    partOfSpeechText: '未标注',
     detailInitial: '',
     detailAsset: '',
-  },
+    aiAnswer: '',
+    aiLoading: false,
+  } as WordDetailData,
 
   methods: {
     onLoad(options: Record<string, string | undefined>) {
@@ -39,16 +63,24 @@ Component({
         word,
         statusText: word?.isLearned ? '已掌握' : '未掌握',
         favoriteText: word?.isFavorite ? '移出生词本' : '加入生词本',
-        reviewText: word ? formatTime(word.lastReviewedAt) : '还没有复习',
+        reviewText: word ? formatDate(word.lastReviewedAt) : '暂无记录',
+        nextReviewText: word?.nextReviewAt ? formatDate(word.nextReviewAt) : '点击认识或不认识后生成',
+        partOfSpeechText: getPartOfSpeechText(word),
         detailInitial: word?.word.slice(0, 1).toUpperCase() || '',
         detailAsset: word ? wordAssetMap[word.word.toLowerCase()] || '' : '',
       })
     },
-    markLearned() {
+    markKnown() {
       if (!this.data.wordId) return
-      markWordLearned(this.data.wordId)
+      recordInitialStudy(this.data.wordId, true)
       this.refreshWord(this.data.wordId)
-      wx.showToast({ title: '已标记掌握', icon: 'success' })
+      wx.showToast({ title: '明天复习', icon: 'success' })
+    },
+    markUnknown() {
+      if (!this.data.wordId) return
+      recordInitialStudy(this.data.wordId, false)
+      this.refreshWord(this.data.wordId)
+      wx.showToast({ title: '已加入生词本', icon: 'success' })
     },
     copyWord() {
       if (!this.data.word) return
@@ -61,15 +93,24 @@ Component({
       if (!this.data.wordId) return
       const isFavorite = toggleFavoriteWord(this.data.wordId)
       this.refreshWord(this.data.wordId)
-      wx.showToast({ title: isFavorite ? '已加入生词本' : '已移出生词本', icon: 'success' })
+      wx.showToast({ title: isFavorite ? '已加入生词本' : '已移出', icon: 'success' })
     },
-    askAi() {
-      if (!this.data.word) return
-      setPendingChatDraft(`请用中文解释 ${this.data.word.word}，并给我 2 个适合初学者的例句。`)
-      wx.switchTab({ url: '/pages/chat/chat' })
+    async askAi() {
+      if (!this.data.word || this.data.aiLoading) return
+      this.setData({ aiLoading: true, aiAnswer: '' })
+
+      try {
+        const response = await explainWord(getCurrentLanguage(), this.data.word.word)
+        this.setData({ aiAnswer: response.data })
+      } catch (error) {
+        const message = error instanceof Error ? error.message : 'AI 解释失败'
+        wx.showToast({ title: message, icon: 'none' })
+      } finally {
+        this.setData({ aiLoading: false })
+      }
     },
     playAudio() {
-      wx.showToast({ title: '首版暂未接入发音', icon: 'none' })
+      wx.showToast({ title: '第一版暂未接入发音', icon: 'none' })
     },
     goNextWord() {
       const nextWord = getNextUnlearnedWord(this.data.wordId)
@@ -77,7 +118,7 @@ Component({
         wx.showToast({ title: '没有未学单词了', icon: 'none' })
         return
       }
-      this.setData({ wordId: nextWord.id })
+      this.setData({ wordId: nextWord.id, aiAnswer: '' })
       this.refreshWord(nextWord.id)
     },
     goWords() {

@@ -1,4 +1,4 @@
-import { getReviewWords } from '../../services/word'
+import { getTodayReviewWords } from '../../utils/vocab'
 import { WordWithState } from '../../types/word'
 import { recordReview } from '../../utils/storage'
 
@@ -16,8 +16,11 @@ interface ReviewData {
 }
 
 function getSourceText(words: WordWithState[]) {
+  if (words.length === 0) return '今天没有到期单词'
   const favoriteCount = words.filter((word) => word.isFavorite).length
-  return favoriteCount > 0 ? `优先复习 ${favoriteCount} 个生词` : '暂无生词，先复习未掌握单词'
+  return favoriteCount > 0
+    ? `今日到期 ${words.length} 个，其中生词 ${favoriteCount} 个`
+    : `今日到期 ${words.length} 个`
 }
 
 Component({
@@ -42,7 +45,7 @@ Component({
 
   methods: {
     loadReview() {
-      const reviewWords = getReviewWords()
+      const reviewWords = getTodayReviewWords()
       this.setData({
         reviewWords,
         currentWord: reviewWords[0] || null,

@@ -17,6 +17,7 @@ export interface VocabularyWord {
   level: WordLevel
   word: string
   pronunciation: string
+  partOfSpeech?: string
   meaning: string
   example: string
   exampleMeaning: string
@@ -27,5 +28,8 @@ export interface WordWithState extends VocabularyWord {
   isLearned: boolean
   isFavorite: boolean
   reviewCount: number
+  difficultCount: number
   lastReviewedAt?: number
+  nextReviewAt?: number
+  isReviewDue: boolean
 }

@@ -17,7 +17,7 @@
       <text class="label">生词</text>
     </view>
     <view class="stat">
-      <text class="number orange">{{words.length - learnedCount}}</text>
+      <text class="number orange">{{todayReviewCount}}</text>
       <text class="label">今日复习</text>
     </view>
     <view class="stat">

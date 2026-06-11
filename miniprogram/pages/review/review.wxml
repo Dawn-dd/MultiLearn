@@ -1,4 +1,4 @@
-<navigation-bar title="复习" back="{{false}}" color="#30233D" background="#FFF9FC"></navigation-bar>
+<navigation-bar title="今日复习" back="{{false}}" color="#30233D" background="#FFF9FC"></navigation-bar>
 
 <view class="page candy-page">
   <view class="top-line">
@@ -15,7 +15,7 @@
 
   <view wx:if="{{currentWord && !completed}}" class="card" bindtap="toggleAnswer">
     <view class="stripe"></view>
-    <view class="star">★</view>
+    <view class="star">复</view>
     <view class="card-head">
       <text class="hint">{{showAnswer ? '释义与例句' : '点击卡片查看答案'}}</text>
       <text class="tag">{{currentWord.isFavorite ? '生词' : currentWord.level}}</text>
@@ -28,7 +28,7 @@
       <text class="example">{{currentWord.example}}</text>
       <text class="example-meaning">{{currentWord.exampleMeaning}}</text>
     </view>
-    <text wx:else class="tap-hint">点击查看释义</text>
+    <text wx:else class="tap-hint">点一下再确认是否认识</text>
   </view>
 
   <view wx:if="{{currentWord && !completed}}" class="actions">
@@ -39,19 +39,19 @@
   <button wx:if="{{currentWord && !completed}}" class="detail-button" bindtap="goDetail">查看详情</button>
 
   <view wx:if="{{completed && !isEmpty}}" class="done">
-    <text class="done-icon">✓</text>
-    <text class="done-title">这一轮复习完成</text>
-    <text class="done-subtitle">认识 {{rememberedCount}} 个，不认识 {{difficultCount}} 个。</text>
+    <text class="done-icon">好</text>
+    <text class="done-title">今天的复习完成</text>
+    <text class="done-subtitle">认识 {{rememberedCount}} 个，不认识 {{difficultCount}} 个。不认识的单词已自动加入生词本，明天继续出现。</text>
     <view class="done-actions">
-      <button class="restart" bindtap="restart">再复习一轮</button>
+      <button class="restart" bindtap="restart">刷新今日复习</button>
       <button class="secondary" bindtap="goWords">继续学习</button>
     </view>
   </view>
 
   <view wx:if="{{isEmpty}}" class="done">
-    <text class="done-icon">?</text>
-    <text class="done-title">还没有可复习的单词</text>
-    <text class="done-subtitle">先去单词列表学习，或者把难词加入生词本。</text>
+    <text class="done-icon">空</text>
+    <text class="done-title">今天没有到期复习</text>
+    <text class="done-subtitle">在单词详情页点击认识或不认识后，系统会生成明天的复习记录。</text>
     <view class="done-actions">
       <button class="restart" bindtap="goWords">去学习</button>
       <button class="secondary" bindtap="goVocab">看生词本</button>

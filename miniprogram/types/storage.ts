@@ -5,7 +5,16 @@ export interface WordProgress {
   learnedAt?: number
   reviewCount: number
   lastReviewedAt?: number
+  nextReviewAt?: number
   difficultCount: number
+  lastResult?: 'known' | 'unknown'
+  reviewHistory?: ReviewHistoryItem[]
+}
+
+export interface ReviewHistoryItem {
+  reviewedAt: number
+  remembered: boolean
+  nextReviewAt: number
 }
 
 export interface StudyStorage {

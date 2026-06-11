@@ -9,7 +9,7 @@
       <view class="profile-main">
         <text class="title">Dawn</text>
         <text class="subtitle">本地学习数据 · 自用版</text>
-        <text class="subtitle">{{language.name}} {{language.level}} · AI 后端{{backendStatus}}</text>
+        <text class="subtitle">{{language.name}} {{language.level}} · AI 练习助手</text>
       </view>
     </view>
 
@@ -50,8 +50,8 @@
       </view>
       <view class="menu-item" bindtap="exportData">
         <text class="menu-icon yellow">⇩</text>
-        <text class="menu-text">导出学习数据</text>
-        <text class="value">复制 JSON</text>
+        <text class="menu-text">备份学习数据</text>
+        <text class="value">复制备份</text>
       </view>
       <view class="menu-item" bindtap="confirmClearChat">
         <text class="menu-icon purple">AI</text>

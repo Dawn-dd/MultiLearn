@@ -15,7 +15,6 @@ interface ChatData {
   sending: boolean
   scrollTarget: string
   languageName: string
-  backendReady: boolean
   prompts: string[]
 }
 
@@ -35,7 +34,6 @@ Component({
     sending: false,
     scrollTarget: '',
     languageName: '英语',
-    backendReady: false,
     prompts: ['点餐', '旅行', '自我介绍', '帮我复习'],
   } as ChatData,
 
@@ -47,7 +45,6 @@ Component({
       this.setData({
         messages: getChatHistory(),
         languageName: option.name,
-        backendReady: Boolean(wx.cloud),
         draft: pendingDraft || this.data.draft,
       })
       this.scrollToBottom()
@@ -85,9 +82,8 @@ Component({
           history: messages,
         })
         this.appendAssistantMessage(response.reply)
-      } catch (error) {
-        const message = error instanceof Error ? error.message : '请求失败'
-        this.appendAssistantMessage(`暂时没有连上 AI 后端：${message}。请确认 CloudBase 云函数和 HUNYUAN_API_KEY 已配置。`)
+      } catch {
+        this.appendAssistantMessage('AI 暂时没有回复。你可以稍后再试，或换个问题继续练习。')
       }
     },
     appendAssistantMessage(content: string) {

@@ -1,4 +1,4 @@
-import { getWords } from '../../services/word'
+import { getWords } from '../../utils/vocab'
 import { LanguageCode, LanguageOption, WordWithState } from '../../types/word'
 import { StudyStats } from '../../types/storage'
 import { LANGUAGE_OPTIONS } from '../../utils/constants'

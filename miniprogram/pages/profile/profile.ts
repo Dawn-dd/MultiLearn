@@ -1,7 +1,7 @@
 import { getWords } from '../../services/word'
 import { StudyStats } from '../../types/storage'
 import { LanguageOption } from '../../types/word'
-import { API_BASE_URL, LANGUAGE_OPTIONS } from '../../utils/constants'
+import { LANGUAGE_OPTIONS } from '../../utils/constants'
 import {
   clearChatHistory,
   clearStudyStorage,
@@ -19,7 +19,6 @@ interface ProfileData {
   stats: StudyStats
   progressPercent: number
   chatCount: number
-  backendStatus: string
 }
 
 Component({
@@ -34,7 +33,6 @@ Component({
     },
     progressPercent: 0,
     chatCount: 0,
-    backendStatus: '待配置',
   } as ProfileData,
 
   pageLifetimes: {
@@ -55,7 +53,6 @@ Component({
         stats,
         progressPercent: stats.total === 0 ? 0 : Math.round((stats.learned / stats.total) * 100),
         chatCount: getChatHistory().length,
-        backendStatus: API_BASE_URL ? '已配置' : '待配置',
       })
     },
     goLanguage() {
@@ -84,7 +81,7 @@ Component({
 
       wx.setClipboardData({
         data,
-        success: () => wx.showToast({ title: '已复制学习数据', icon: 'success' }),
+        success: () => wx.showToast({ title: '已复制备份', icon: 'success' }),
       })
     },
     confirmClearChat() {
